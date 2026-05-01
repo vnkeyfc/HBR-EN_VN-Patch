@@ -1,0 +1,8 @@
+記憶の修復=KHÔI PHỤC KÝ ỨC
+力を注ぐ=Tình bạn
+ストーリー=Ký ức
+確認=Xác nhận
+解放=Mức độ phục hồi
+報酬=Phần thưởng
+発生条件=Điều kiện:
+報酬は取得済みです=Đã nhận phần thưởng

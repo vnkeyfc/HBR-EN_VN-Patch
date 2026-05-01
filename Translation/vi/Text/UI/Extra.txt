@@ -1,0 +1,6 @@
+話しかける=Tương tác
+移動=<size\=30><line-height\=-15>CHUYỂN DỊCH</line-height></size>
+FastTravel=Di chuyển nhanh
+AUTO OFF=<size\=13>TỰ ĐỘNG TẮT</size>
+R=R
+AUTO ON=<size\=13>TỰ ĐỘNG BẬT</size>
