@@ -1,0 +1,1159 @@
+﻿分割DL=分割DL
+INFORMATION=THÔNG TIN
+F=F
+まとめてDL=まとめてDL
+O K=ĐƯỢC RỒI
+AUDIO DOWNLOAD PROMPT=NHẮC NHẬN TẢI XUỐNG ÂM THANH
+DOWNLOAD ADVICE=TẢI VỀ TƯ VẤN
+DO NOT DOWNLOAD=KHÔNG TẢI XUỐNG
+AUTO SAVING=TỰ ĐỘNG LƯU
+Synchronizing data 0 / 1=Đồng bộ dữ liệu 0/1
+CV: Maaya Torigoe =CV: Maaya Torigoe 
+ Utterly faultless lady's maid of many talents.= Cô hầu gái hoàn toàn không có lỗi của nhiều tài năng.
+0 Day(s) Left=Còn lại 0 ngày
+Lady Ruka, I offer you my servitude... Wherever you go, I shall follow, even to the depths of Hell...=Tiểu thư Ruka, tôi xin dâng cho cô sự phục vụ của mình... Dù cô đi đâu, tôi sẽ theo đó, thậm chí đến tận địa ngục...
+0 Hour(s) Left=Còn lại 0 giờ
+E=E
+Q=Q
+<style\=RubyPrefixTag></style>\nMion<space\=-83.995px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=83.98499px><style\=RubySuffixTag></style> Yanagi<space\=-116.695px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=116.685px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMion<space\=-83.995px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=83.98499px><style\=RubySuffixTag></style> Yanagi<space\=-116.695px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=116.685px><style\=RubySuffixTag></style>
+Miyagi=Miyagi
+Apr 13=ngày 13 tháng 4
+31-F=31-F
+DOWNLOAD=TẢI XUỐNG
+CV:  =CV:  
+ / Vo.:  = / Võ.:  
+TIPS=MẸO
+100MB/100MB=100MB/100MB
+NOW LOADING=ĐANG TẢI
+I=TÔI
+Performing setup (660 / 660)=Thực hiện thiết lập (660/660)
+
+
+
+
+
+61F=61F
+
+Welcome, Quon!=Chào mừng Quon!
+CONNECTING=KẾT NỐI
+
+3 Day(s) Left=Còn lại 3 ngày
+Selection Ticket Set=Bộ vé tuyển chọn
+Chapter 5—Part 2=Chương 5—Phần 2
+Yuki Izumi=Yuki Izumi
+Weekly Missions 2/6=Nhiệm vụ hàng tuần 2/6
+Day=Ngày
+Prologue=Phần mở đầu
+<pos\=15%>Day\n<size\=40>12</size>=<pos\=15%>Ngày\n<size\=40>12</size>
+I used to be a hacker of the Orchids. Honestly, I'm still pretty proud to have been a member.=Tôi từng là hacker của Orchids.\nThành thật mà nói, tôi vẫn khá tự hào khi được là thành viên.
+<size\=22>Unison Recruitment Now ON</size>=<size\=22>Chiêu mộ Style Unison đang diễn ra!</size>
+Lady Ruka, you would treat me to royal tea, mouth-to-mouth? S-Surely you jest...=Tiểu thư Ruka, cô sẽ đãi tôi trà hoàng gia, truyền miệng à?\nĐ-Chắc chắn là cậu đùa...
+Ruka Kayamori=Ruka Kayamori
+I'm no good in social situations. Knight Yukkie, let's sneak off somewhere and make out.=Tôi không giỏi trong các tình huống xã hội.\nHiệp sĩ Yukkie, chúng ta hãy lẻn đi đâu đó và làm lành nhé.
+(God, she looks so erotic when she tucks her hair behind her ear like that... Dammit, my heart's gonna jump out of my chest...)=(Chúa ơi, cô ấy trông thật gợi tình khi vén tóc ra sau tai như thế... Chết tiệt, tim tôi sắp nhảy ra khỏi lồng ngực mất...)
+ASS is acting up... shit, that came out wrong. My actual ass is fine. Wait, no, that also sounds wrong.=ASS đang hoạt động... chết tiệt, điều đó xảy ra sai lầm.\nMông thật của tôi vẫn ổn.\nĐợi đã, không, điều đó nghe cũng có vẻ sai.
+Gift Box=
+Item(s) acquired from Premium Token Exchange =(Các) vật phẩm có được từ Trao đổi mã thông báo cao cấp 
+Until 06/03/2026 01:16(UTC-7)=Cho đến ngày 03/06/2026 01:16(UTC-7)
+Golden Week Special Login Bonus: Day 4 =Phần thưởng đăng nhập đặc biệt Tuần lễ vàng: Ngày 4 
+Until 06/03/2026 01:14(UTC-7)=Cho đến ngày 03/06/2026 01:14(UTC-7)
+Daily Login Bonus: Day 1 =Phần thưởng đăng nhập hàng ngày: Ngày 1 
+Time  Selection=Lựa chọn thời gian
+Chapter 2=Chương 2
+Chapter 1=Chương 1
+Story Select=Chọn câu chuyện
+Chapter 3=Chương 3
+Chapter 4—Part 1=Chương 4—Phần 1
+Chapter 4—Part 2=Chương 4—Phần 2
+Chapter 5—Part 1=Chương 5—Phần 1
+Hello World=Xin chào thế giới
+During the entrance ceremony, the enemy of mankind—the Cancer—attacks.\nThus begins the young women's fight to save the world.=<size\=32>Trong lễ khai giảng, Cancer - Kẻ thù của nhân loại, bắt đầu tấn công. Từ đó bắt đầu cuộc chiến của các thiếu nữ trẻ để cứu thế giới.</size>
+(Sun)=(CN)
+Day<size\=78>00</size><color\=#F6E5E5FF>(Sun)</color>=<size\=28>  Ngày</size><size\=81>00</size><size\=25><color\=#F6E5E5FF>(Chủ Nhật)</color></size>
+(Thur)=(Thứ năm)
+(Wed)=(Thứ Tư)
+(Tue)=(Thứ ba)
+(Mon)=(Thứ Hai)
+(Fri)=(Thứ sáu)
+Day<size\=78>12</size><color\=#F6E5E5FF>(Fri)</color>=Ngày<size\=78>12</size><color\=#F6E5E5FF>(Thứ sáu)</color>
+Out of nowhere, a swarm of Cancers crosses the second line of defense, and 31-A and 31-C are called to action.\n* Boss: Death Slug=Không biết từ đâu, một đàn Cancers vượt qua tuyến phòng thủ thứ hai, và 31-A và 31-C được kêu gọi hành động.\n* Boss: Sên tử thần
+31-A continues battling through the dungeon but trails behind 31-C. Which squad will rank supreme?=31-A tiếp tục chiến đấu xuyên qua ngục tối nhưng tụt lại phía sau 31-C.\nĐội hình nào sẽ xếp hạng tối cao?
+Ikebukuro Underground Reservoir=Hồ chứa ngầm Ikebukuro
+31-A continues to explore the dungeon. Though they worry about 31-C, the true reality of combat leaves the squad more tired than usual.=31-A tiếp tục khám phá ngục tối.\nMặc dù họ lo lắng về nhiệt độ 31-C, nhưng thực tế chiến đấu thực sự khiến cả đội mệt mỏi hơn bình thường.
+31-A continues to explore the dungeon.\nMeanwhile, 31-C already seems ready to start exploring Level 3...=31-A tiếp tục khám phá ngục tối.\nTrong khi đó, 31-C dường như đã sẵn sàng bắt đầu khám phá Cấp 3...
+(Sat)=(Đã ngồi)
+The members of 31-A experience their first taste of dormitory life, undergo combat training at the arena, and learn about Seraph Weapons.=Các thành viên của 31-A trải nghiệm hương vị đầu tiên của cuộc sống ký túc xá, trải qua huấn luyện chiến đấu tại đấu trường và tìm hiểu về Vũ khí Seraph.
+Aaaghh, I'm gonna hack it!=Aaaghh, tôi sẽ hack nó!
+ver: 3.0.1(61)=phiên bản: 3.0.1(61)
+User Interface=Giao diện người dùng
+Z=Z
+タップしてIDを表示=タップしてIDを表示
+Enter SDKID=Nhập SDKID
+<style\=RubyPrefixTag></style>\nMari<space\=-79.07999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=79.06999px><style\=RubySuffixTag></style> Satsuki<space\=-130.42px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=130.41px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMari<space\=-79.07999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=79.06999px><style\=RubySuffixTag></style> Satsuki<space\=-130.42px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=130.41px><style\=RubySuffixTag></style>
+Mie=Mie
+Feb 7=7 tháng 2
+31-C=31-C
+ Ultimate shopkeeper, fighting on the frontlines.= Người chủ cửa hàng tối thượng, chiến đấu ở tiền tuyến.
+Menu=Thực đơn
+CV: Yuyu Shoji =CV: Yuyu Shoji 
+ Cold assassin who talks like a cat.= Sát thủ lạnh lùng nói như mèo.
+<style\=RubyPrefixTag></style>\nSumomo<space\=-140.92px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=140.91px><style\=RubySuffixTag></style> Minase<space\=-121.155px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=121.145px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nsumomo<space\=-140.92px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=140.91px><style\=RubySuffixTag></style> Minase<space\=-121.155px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=121.145px><style\=RubySuffixTag></style>
+Aichi=Tỉnh Aichi
+Sep 6=ngày 6 tháng 9
+31-B=31-B
+2 Day(s) Left=Còn lại 2 ngày
+ATTACKER=kẻ tấn công
+<size\=32>Squad</size> <size\=48>10</size>=<size\=32>Đội hình</size> <size\=48>10</size>
+Sortie=xuất kích
+Reorder=Sắp xếp lại
+SLv.=SLv.
+CLv.=CLv.
+Lv.=Lv.
+Unit=Đơn vị
+BLASTER=
+Karen Asakura=Karen Asakura
+DEBUFFER=GỠ LỖI
+Megumi Aikawa=Megumi Aikawa
+ADMIRAL=đô đốc
+Erika Aoi=Erika Aoi
+BUFFER=ĐỆM
+Iroha Ishii=Iroha Ishii
+BREAKER=máy cắt
+アクセサリLv.=アクセサリLv.
+Score Attack=Điểm tấn công
+Style List=Danh sách phong cách
+Filter On=Bật bộ lọc
+Skill=Kỹ năng
+Limit Break Lv. 3=Phá vỡ giới hạn Lv.\n3
+Unit Max Lv. (143→<color\=#91EAF2>145</color>)=Cấp độ tối đa của đơn vị.\n(143→<color\=#91EAF2>145</color>)
+10 will be consumed through Limit Break level 5, and 20 will be consumed from Limit Break level 6 to 8.\n30 will be consumed from Limit Break level 9 onwards.=10 sẽ được tiêu thụ qua Limit Break cấp 5, và 20 sẽ được tiêu thụ từ Limit Break cấp 6 đến 8. 30 sẽ được tiêu thụ từ Limit Break cấp 9 trở đi.
+CLv.上限=CLv.上限
+Wings of Imagination=Đôi cánh tưởng tượng
+31B=31B
+31A=31A
+ALL=TẤT CẢ
+Character List=Danh sách nhân vật
+SP=SP
+A Breaker who can attack all enemies and lower their DP defense.=Một Breaker có thể tấn công tất cả kẻ thù và giảm khả năng phòng thủ DP của chúng.
+P=P
+Memoria Leveling Primer II=Kem lót san lấp mặt bằng Memoria II
+Memoria Leveling Primer=Kem lót san lấp mặt bằng Memoria
+DP=DP
+絆 Lv.=絆 Lv.
+ / Vo: Konomi Suzuki = / Võ: Konomi Suzuki 
+CV: Yu Serizawa =CV: Yu Serizawa 
+Lv.10=Cấp 10
+絆Lv.=絆Lv.
+絆Lv.\nUP\n=絆Lv.\n\nHƯỚNG LÊN\n
+CLv.\nUP\n=CLv.\n\nHƯỚNG LÊN\n
+Character Detail=Chi tiết nhân vật
+Battle Report V=Báo cáo trận chiến V
+Battle Report IV=Báo cáo trận chiến IV
+Battle Report III=Báo cáo trận chiến III
+Battle Report II=Báo cáo trận chiến II
+Battle Report I=Báo cáo trận đánh I
+SLv.\nUP\n=SLv.\n\nHƯỚNG LÊN\n
+* Stats shown are for Memoria at max Limit Break and enhancement levels, without Eternal Daphne.\n* Skill uses displayed are for the skill at max level.=* Số liệu thống kê hiển thị dành cho Memoria ở mức Limit Break và cường hóa tối đa, không có Eternal Daphne.\n* Việc sử dụng kỹ năng được hiển thị là dành cho kỹ năng ở cấp độ tối đa.
+Karrie Strikes Again=Karrie tấn công lần nữa
+Chapter 4—Part 2 Day 12 19 : 00=Chương 4—Phần 2 Ngày 12 19 : 00
+Flirting With Danger=Tán tỉnh nguy hiểm
+Chapter 3 Day 13 10 : 30=Chương 3 Ngày 13 10 : 30
+Karrie's Stress Relief=Giảm căng thẳng của Karrie
+Chapter 1 Day 3 19 : 00=Chương 1 Ngày 3 19 : 00
+Tochigi=Tochigi
+158 cm=158 cm
+Jul 11=ngày 11 tháng 7
+Play=Chơi
+Victory (Karen Asakura)=Chiến thắng (Karen Asakura)
+Squad=Đội hình
+Memoria Details=Chi tiết kỷ niệm
+Profile=Hồ sơ
+Seraph Code (Karrie)=Mã Seraph (Karrie)
+Seraph Code (Karen Asakura)=Mã Seraph (Karen Asakura)
+DP Damage (Karrie)=Sát thương DP (Karrie)
+DP Damage (Karen Asakura)=Sát thương DP (Karen Asakura)
+HP Damage (Karrie)=Sát thương HP (Karrie)
+HP Damage (Karen Asakura)=Sát thương HP (Karen Asakura)
+Victory (Karrie)=Chiến thắng (Karrie)
+Steadfast Determination：When in frontline at action start with SP ≧ 15:\nIncreases this unit's Skill ATK by 30%.=Quyết tâm kiên định: Khi ở tuyến đầu khi hành động, bắt đầu với SP ≧ 15: Tăng ATK kỹ năng của đơn vị này thêm 30%.
+Limit Break Lv. 10=Phá vỡ giới hạn Lv.\n10
+Communication=Giao tiếp
+All Stats +27%=Tất cả số liệu thống kê +27%
+All Stats +30%=Tất cả số liệu thống kê +30%
+OK=Xác nhận
+Shards required: 30=Số mảnh yêu cầu: 30
+Limit Breaks: (9→<color\=#91EAF2>10</color>)=Phá vỡ giới hạn: (9→<color\=#91EAF2>10</color>)
+All Attributes <color\=#91EAF2>+3%</color>=Tất cả thuộc tính <color\=#91EAF2>+3%</color>
+・Pierce Dynamism：When in frontline at the start of action:\nIncreases frontline units' Pierce Crit DMG by 8%.=・Động lực xuyên phá: Khi ở tiền tuyến khi bắt đầu hành động: Tăng 8% DMG xuyên thủng của các đơn vị tiền tuyến thêm 8%.
+Yukkie's Programming=Lập trình của Yukkie
+Chapter 1 Day 2 19 : 00=Chương 1 Ngày 2 19 : 00
+Yukkie's ASS=Mông của Yukkie
+Chapter 2 Day 7 16 : 30=Chương 2 Ngày 7 16 : 30
+Yukkie Down-the-Steps=Yukkie bước xuống
+Chapter 4—Part 1 Day 2 19 : 00=Chương 4—Phần 1 Ngày 2 19 : 00
+Chapter 5—Part 1 Day 12 19 : 00=Chương 5—Phần 1 Ngày 12 19 : 00
+9 Day(s) Left=Còn lại 9 ngày
+Invite Friend=Mời bạn bè
+Invite new friends to play Heaven Burns Red\nand they'll receive 1,000 quartz!\nEarn up to 7500 quartz as your friends progress!=Mời bạn bè mới chơi Heaven Burns Red và họ sẽ nhận được 1.000 thạch anh!\nKiếm tới 7500 thạch anh khi bạn bè của bạn tiến bộ!
+<size\=34>5</size><size\=30>/</size><size\=24>5 people</size>=<size\=34>5</size><size\=30>/</size><size\=24>5 người</size>
+A friend clears Main Scenario: Chapter 1=Một người bạn hoàn thành Kịch bản chính: Chương 1
+Rewards will be sent to your Gift Box. You may receive rewards for up to five friends.=Phần thưởng sẽ được gửi vào Hộp quà của bạn.\nBạn có thể nhận được phần thưởng cho tối đa năm người bạn.
+A friend clears Main Scenario: Chapter 1, Day 7=Một người bạn hoàn thành Kịch bản chính: Chương 1, Ngày 7
+A friend clears Main Scenario: Chapter 2, Day 10=Một người bạn hoàn thành Kịch bản chính: Chương 2, Ngày 10
+shqzhyhr7x7jbfkt=shqzhyhr7x7jbfkt
+・You are able to change to the outfits of other Memorias.=・Bạn có thể thay đổi trang phục của các Memoria khác.
+Limit Break successful! 9 → 10=Phá vỡ giới hạn thành công!\n9 → 10
+31C=31C
+31D=31D
+31E=31E
+31F=31F
+31X=31X
+Lady Ruka, I am but a humble knight... Even these hands are stained with infamy.=Tiểu thư Ruka, tôi chỉ là một hiệp sĩ khiêm tốn... Ngay cả đôi bàn tay này cũng nhuốm đầy ô nhục.
+30G=30G
+Angel Beats!=Nhịp đập thiên thần!
+Filter Off=Tắt bộ lọc
+31-E=31-E
+31-X=31-X
+30-G=30-G
+HQ=trụ sở chính
+Bond Lv.=Trái phiếu Lv.
+Revert=Hoàn nguyên
+Tsukasa Tojo=Tsukasa Tojo
+Aina Mizuhara=Aina Mizuhara
+Yuina Shirakawa=Yuina Shirakawa
+Tama Kunimi=Tama Kunimi
+Miyuki Irie=Miyuki Irie
+Yuri Nakamura=yuri Nakamura
+Kanade Tachibana=Kanade Tachibana
+Nanami Nanase=Nanami Nanase
+Isuzu Ohshima=Isuzu Ohshima
+Shiki Hanamura=Shiki Hanamura
+
+Inori Natsume=Inori-Natsume
+Maki Kurosawa=Kurosawa Maki
+Carole Reaper=Máy gặt Carole
+Yingxia Li=Yingxia Li
+Irene Redmayne=Irene Redmayne
+Miya Kiryu=Miya Kiryu
+Hisame Ogasahara=Hisame Ogasahara
+A powerful enemy from the event story has appeared in the Score Challenge!\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Một kẻ thù mạnh mẽ từ câu chuyện sự kiện đã xuất hiện trong Thử thách tính điểm!\nHoàn thành các nhiệm vụ và mức độ khó cao để nhận được vé tuyển dụng được đảm bảo S-trở lên và tài liệu giới thiệu!
+Before 05/14/2026 23:59(UTC-7):=Trước ngày 14/05/2026 23:59(UTC-7):
+HighScore=Điểm cao
+ScoreAttack=ĐiểmTấn công
+Satomi Kura=Satomi Kura
+Yotsuha Ohshima=Yotsuha Ohshima
+Ichiko Ohshima=Ichiko Ohshima
+Akari Date=Ngày Akari
+Fubuki Mikoto=Fubuki Mikoto
+Misato Nikaido=Misato Nikaido
+Mari Satsuki=Mari Satsuki
+Adelheid Kanzaki=Adelheid Kanzaki
+Yayoi Bungo=Yayoi Bungo
+Knight Yukkie, I wanna sweep you off your feet and whisk you far, far away. Yeah, something like that.=Hiệp sĩ Yukkie, tôi muốn cuốn bạn đi thật xa, thật xa.\nVâng, một cái gì đó như thế.
+Miko Tenne=Miko Tenne
+Seira Sakuraba=Seira Sakuraba
+Flat Hand=Bàn tay phẳng
+Chapter 3Day21=Chương 3Ngày 21
+Dendron=Dendron
+Chapter 3Day14=Chương 3Ngày 14
+Vertex Crimson=Đỉnh đỏ thẫm
+Chapter 2Day25=Chương 2Ngày 25
+Medusa=Medusa
+Chapter 2Day19=Chương 2Ngày19
+Death Slug=Sên Tử Thần
+Seika Higuchi=Seika Higuchi
+Kozue Hiiragi=Kozue Hiiragi
+Byakko=Byakko
+Bon Ivar Yamawaki=Bon Ivar Yamawaki
+Divergence=sự khác biệt
+x 0=x 0
+Dendron Terminus=Trạm cuối Dendron
+Chapter 4—Part 1Day12=Chương 4—Phần 1Ngày12
+Apophis=Apophis
+2nd=thứ 2
+1st=thứ nhất
+Skullplume Final Form=Dạng cuối cùng của Skullplume
+Skullplume First Form=Skullplume Dạng Đầu tiên
+Chapter 4—Part 2Day14=Chương 4—Phần 2Ngày14
+Chapter 4—Part 2Day7=Chương 4—Phần 2Ngày7
+Badge Exchange=Trao đổi huy hiệu
+SS Memoria Exchange=Trao đổi ký ức SS
+Refresh: 26 Day(s) Left=Làm mới: Còn lại 26 ngày
+Reset: 26 Day(s) Left=Đặt lại: Còn lại 26 ngày
+Maria de Angelis=Maria de Angelis
+Charlotta Skopovskaya=Charlotte Skopovskaya
+Monaka Tsukishiro=Monaka Tsukishiro
+Chie Sugawara=Chie SUGAwara
+Hisako Fuchita=Hisako Fuchita
+Ichigo Minase=Ichigo Minase
+Sumomo Minase=Sumomo Minase
+Chapter 1Day12=Chương 1Ngày 12
+x 1=x 1
+x 300=x 300
+Vritika Balakrishnan=Vritika Balakrishnan
+Chiroru Matsuoka=Chiroru Matsuoka
+Kanata Maruyama=Kanata Maruyama
+Mion Yanagi=Mion Yanagi
+Muua Ohshima=Muua Ohshima
+Minori Ohshima=Minori Ohshima
+Niina Ohshima=Niina Ohshima
+Risa Murofushi=Risa Murofushi
+All=Tất cả
+31-A=31-A
+31-D=31-D
+HP=HP
+<style\=RubyPrefixTag></style>\nKaren<space\=-66.5px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=66.49px><style\=RubySuffixTag></style> Asakura<space\=-93.13499px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=93.12499px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKaren<space\=-66.5px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=66.49px><style\=RubySuffixTag></style> Asakura<space\=-93.13499px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=93.12499px><style\=RubySuffixTag></style>
+<style\=RubyPrefixTag></style>\nKaren<space\=-76.73px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=76.71999px><style\=RubySuffixTag></style> Asakura<space\=-107.465px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=107.455px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKaren<space\=-76.73px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=76.71999px><style\=RubySuffixTag></style> Asakura<space\=-107.465px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=107.455px><style\=RubySuffixTag></style>
+5 D 23 H remaining=5 D 23 H còn lại
+Use 20 life points.=Sử dụng 20 điểm sinh mệnh.
+Clear 30 battles. (Hyperbolic Time Arena excluded.)=Hoàn thành 30 trận chiến.\n(Không bao gồm Đấu trường thời gian Hyperbolic.)
+Advance the main story by 1 day (only unread).=Đưa câu chuyện chính lên trước 1 ngày (chỉ chưa đọc).
+Advance the event story by 1 day (only unread).=Đưa câu chuyện sự kiện lên trước 1 ngày (chỉ chưa đọc).
+Clear the Score Challenge or Seraph Encounter Drill 1 time.=Hoàn thành Thử thách ghi điểm hoặc Bài tập chạm trán Seraph 1 lần.
+Clear 500 Hyperbolic Time Arenas.=Xóa 500 đấu trường thời gian Hyperbolic.
+Clear 1 anachrony.=Xóa 1 lỗi thời.
+Log in for 5 days.=Đăng nhập trong 5 ngày.
+Perform crafting on an accessory.=Thực hiện chế tạo trên một phụ kiện.
+Monthly Missions=Nhiệm vụ hàng tháng
+Resets at 12 AM (UTC-7) on the first of each month.=Đặt lại vào lúc 12 giờ sáng (UTC-7) vào ngày đầu tiên mỗi tháng.
+26 D 23 H remaining=26 D 23 H còn lại
+Light Pass=Ánh sáng vượt qua
+Premium Pass=Thẻ cao cấp
+Log in for 6 days.=Đăng nhập trong 6 ngày.
+Clear 100 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 100 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 90 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 90 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 80 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 80 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 15 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 15 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 35 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 35 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 40 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 40 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 60 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 60 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Log in for 22 days.=Đăng nhập trong 22 ngày.
+Log in for 24 days.=Đăng nhập trong 24 ngày.
+Clear 5 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 5 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 10 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 10 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 20 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 20 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 25 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 25 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 30 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 30 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 45 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 45 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Log in for 2 days.=Đăng nhập trong 2 ngày.
+Log in for 4 days.=Đăng nhập trong 4 ngày.
+Log in for 20 days.=Đăng nhập trong 20 ngày.
+Log in for 8 days.=Đăng nhập trong 8 ngày.
+Log in for 18 days.=Đăng nhập trong 18 ngày.
+Log in for 16 days.=Đăng nhập trong 16 ngày.
+Log in for 12 days.=Đăng nhập trong 12 ngày.
+Log in for 10 days.=Đăng nhập trong 10 ngày.
+Log in for 14 days.=Đăng nhập trong 14 ngày.
+Clear 70 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 70 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 45 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 45 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Clear 50 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 50 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+Use 3 life points.=Sử dụng 3 điểm sinh mệnh.
+Use 2 life points.=Sử dụng 2 điểm sinh mệnh.
+Use 1 life point.=Sử dụng 1 điểm sinh mệnh.
+23 Hour(s) Left=Còn 23 giờ
+Clear all daily missions.=Xóa tất cả các nhiệm vụ hàng ngày.
+Collect 250 Memorias.=Thu thập 250 Kỷ niệm.
+Upgrade Memorias 11,600 times.=Nâng cấp Memorias 11.600 lần.
+0 Minute(s) Left=Còn lại 0 phút
+Reach bond level (♡ Lv.) 4 with 47 characters.=Đạt cấp độ liên kết (♡ Lv.) 4 với 47 ký tự.
+Attempt 460 dungeon courses.=Hãy thử 460 khóa học trong ngục tối.
+Carry out 170 socializations.=Thực hiện 170 hoạt động xã hội hóa.
+[GW Campaign] Use 2 life points.=[Chiến dịch GW] Sử dụng 2 điểm sinh mệnh.
+[GW Campaign] Use 1 life point.=[Chiến dịch GW] Sử dụng 1 điểm sinh mệnh.
+[GW Campaign] Clear 3 anachronies.=[Chiến dịch GW] Xóa 3 lỗi thời.
+[GW Campaign] Clear 2 anachronies.=[Chiến dịch GW] Xóa 2 lỗi thời.
+23 D 23 H remaining=23 D 23 H còn lại
+[GW Campaign] Clear 1 anachrony.=[Chiến dịch GW] Xóa 1 lỗi thời.
+[Chapter 5—Part 2] Raise Karen Asakura's Title Rank to 4.=[Chương 5—Phần 2] Nâng Hạng Danh hiệu của Karen Asakura lên 4.
+[Chapter 5—Part 2] Raise Karen Asakura's ULv. to 150.=[Chương 5—Phần 2] Nâng cao ULv của Karen Asakura.\nđến 150.
+[Chapter 5—Part 2] Raise Karen Asakura's ULv. to 140.=[Chương 5—Phần 2] Nâng cao ULv của Karen Asakura.\nđến 140.
+Earn tokens in Missions, Event Flashback Battles, Score Challenge, and Seraph Encounter Drills to exchange for items!=Kiếm mã thông báo trong Nhiệm vụ, Trận chiến hồi tưởng sự kiện, Thử thách điểm số và Cuộc tập trận chạm trán Seraph để đổi lấy vật phẩm!
+Before 05/28/2026 23:59(UTC-7):=Trước ngày 28/05/2026 23:59(UTC-7):
+Exchanged=trao đổi
+[Flowers of Remembrance & A Cage of Oblivion] Brew two kinds of magic potions.=[Hoa tưởng nhớ & Chiếc lồng lãng quên] Pha hai loại thuốc ma thuật.
+Clear the "Flowers of Remembrance & A Cage of Oblivion" event.=Hoàn thành sự kiện "Những bông hoa tưởng nhớ & Chiếc lồng lãng quên".
+Complete master missions to get 1,000 quartz!=Hoàn thành nhiệm vụ chính để nhận 1.000 thạch anh!
+Mission=
+[Chapter 5—Part 2] Raise Karen Asakura's Title Rank to 5.=[Chương 5—Phần 2] Nâng Hạng Danh hiệu của Karen Asakura lên 5.
+ウィークリーPt=ウィークリーPt
+[Diamond Dust] Positronium=[Bụi kim cương] Positronium
+Remaining: 1/1=Còn lại: 1/1
+Tokens Needed: 300=Token cần thiết: 300
+Memento Fragment=Mảnh vật lưu niệm
+Remaining: 5/5=Còn lại: 5/5
+Tokens Needed: 250=Token cần thiết: 250
+Polar Pollucite (Me and My Merry Friends)=Polar Pollucite (Tôi và những người bạn vui vẻ của tôi)
+Tokens Needed: 120=Mã thông báo cần thiết: 120
+Tear of Slashing=Nước mắt chém
+Tear of Piercing=Nước mắt xuyên thấu
+Tokens Needed: 1,000=Token cần thiết: 1.000
+Tokens Needed: 0=Mã thông báo cần thiết: 0
+Already Held=Đã được giữ
+所持交換Pt=所持交換Pt
+Confirm=Xác nhận
+<style\=RubyPrefixTag></style>\nNot currently available.=<style\=RubyPrefixTag></style>\nHiện tại không có sẵn.
+If my past self heard that I'd be a bandleader one day, she'd probably flip 1,080 degrees. That's three whole spins.=Nếu quá khứ của tôi biết được rằng một ngày nào đó tôi sẽ trở thành người chỉ huy ban nhạc, có lẽ cô ấy sẽ quay ngoắt 1.080 độ.\nĐó là toàn bộ ba vòng quay.
+<size\=24>Recruit</size> <size\=28>x 0</size>=<size\=24>Chiêu mộ</size> <size\=28>x 0</size>
+SKIP=NHẢY
+Lottery=
+交換Pt=交換Pt
+23 Day(s) Left=Còn lại 23 ngày
+Available until 05/28/2026 23:59(UTC-7)=Diễn ra cho đến ngày 28/05/2026 - 14:00 (Theo giờ VN)
+Use Selection Ticket=Sử dụng vé lựa chọn
+Purchase Set(s)=Mua bộ
+Limited-Time Unison Recruitment is Now Available!\nGrab this limited-release Karen Asakura Memoria before she's gone!\nFor a limited time, the featured Memoria has an increased drop rate!=Hiện đã có tuyển dụng Unison trong thời gian có hạn!\nSở hữu Style Asakura Karen phiên bản giới hạn này trước khi kết thúc!\nTrong thời gian có hạn, tăng tỷ lệ trúng Style!
+One S or above guaranteed!=Đảm bảo nhận 1 style S trở lên!
+<size\=24>Recruit</size> <size\=28>x 10</size>=<size\=24>Chiêu mộ</size> <size\=28>x 10</size>
+CODE: Virtual Killer=MÃ: Kẻ giết người ảo
+Unable to use. Already at maximum Memoria level.=Không thể sử dụng.\nĐã ở cấp độ Memoria tối đa.
+Unable to use. Already at MLv.10 or higher.=Không thể sử dụng.\nĐã ở MLv.10 hoặc cao hơn.
+共鳴アビリティは、SS<レゾナンス>スタイルのサポート枠に\r\nこのスタイルを編成したとき、効果を発揮します。\r\nメイン枠にこのスタイルを編成した場合は発揮されません。=共鳴アビリティは、SS<レゾナンス>スタイルのサポート枠に\nこのスタイルを編成したとき、効果を発揮します。\nBạn có thể tìm thấy nó ở đây.
+Mission accomplishment reward(s) for Clear 60 battles. (Arena/Hyperbolic Time Arena excluded.)=Phần thưởng hoàn thành nhiệm vụ khi hoàn thành 60 trận chiến.\n(Không bao gồm Đấu trường/Đấu trường thời gian Hyperbolic.)
+EX Skill (Exclusive)=Kỹ năng EX (Độc quyền)
+Symmetry Liberation=Giải phóng đối xứng
+Support Unit Details=Chi tiết đơn vị hỗ trợ
+Support Detail=Chi tiết hỗ trợ
+unsupported windows platform=nền tảng windows không được hỗ trợ
+利用日時(JST)=利用日時(JST)
+Mission accomplishment reward(s) for Clear all daily missions.=(Các) phần thưởng hoàn thành nhiệm vụ khi hoàn thành tất cả nhiệm vụ hàng ngày.
+Daily Login Bonus: Day 2=Phần thưởng đăng nhập hàng ngày: Ngày 2
+Mission accomplishment reward(s) for Use 3 life points.=(Các) phần thưởng hoàn thành nhiệm vụ khi sử dụng 3 điểm sinh mệnh.
+Mission accomplishment reward(s) for Use 2 life points.=(Các) phần thưởng hoàn thành nhiệm vụ khi sử dụng 2 điểm sinh mệnh.
+Drop of Aqua-Amber=Giọt Aqua-Amber
+Drop of Sunshine=Giọt nắng
+Diamond=Kim cương
+(Player Rank: 150)=(Xếp hạng người chơi: 150)
+22 Hour(s) Left=Còn 22 giờ
+Clear Main Scenario: Chapter 1, Day 1.=Xóa kịch bản chính: Chương 1, Ngày 1.
+Revert units 200 times.=Hoàn nguyên đơn vị 200 lần.
+Log in for a total of 550 days.=Đăng nhập tổng cộng 550 ngày.
+Perform 1,900 Limit Breaks.=Thực hiện 1.900 lần phá vỡ giới hạn.
+23 D 22 H remaining=23 D 22 H còn lại
+5 D 22 H remaining=5 D 22 H còn lại
+Shadowslayer Edge=Shadowslayer Edge
+Twinkling Eclosion=Vụ nổ lấp lánh
+Heart-Stirring Flame=Ngọn lửa khuấy động trái tim
+Twilight Maturation=Chạng vạng trưởng thành
+Neverending Summer=Mùa hè bất tận
+Memento Mori Beauty=Người đẹp Memento Mori
+Midsummer Prayer=Cầu nguyện giữa hè
+Secret Service's Silencer=Bộ giảm thanh của Sở Mật vụ
+Lachrymose Lament=Lời than thở Lachrymose
+Crimson Moonlight Razor's Edge=Lưỡi dao cạo ánh trăng đỏ thẫm
+Little Red Rebel Hood=Mũ trùm đầu nổi loạn nhỏ màu đỏ
+Secret Service's Demolisher=Máy phá hủy của Sở Mật vụ
+Ikki Burst Strike=Cú đánh bùng nổ của Ikki
+Princess By Your Side=Công chúa bên cạnh bạn
+Anticipant Ruby=Ruby dự đoán
+Dancing Reincarnation=Nhảy múa tái sinh
+Acquired=Đã mua
+ノイズ解放Lv.=ノイズ解放Lv.
+キャラLv.=キャラLv.
+DEFENDER=HẬU VỆ
+HEALER=NGƯỜI CHỮA LÀNH
+Stewartia, Dazzling Noctilucent Star=Stewartia, Ngôi sao dạ quang rực rỡ
+Illustration=Hình minh họa
+Memorias=Kỷ niệm
+Category=Loại
+Cataclysmic Spitfire=Trận đại hồng thủy
+Luminous Songstress=Nữ ca sĩ phát sáng
+The Feel of the Throne=Cảm giác của ngai vàng
+Night Cruise Chaperone=Người đi kèm du thuyền đêm
+Cardinal Reverberations=Tiếng vang hồng y
+Daybreak Impassioned Soul=Tâm hồn say mê bình minh
+Shining Circuit Burst=Mạch điện tỏa sáng
+Default=Mặc định
+
+Mayhem=tình trạng lộn xộn
+Skills (Exclusive)=Kỹ năng (Độc quyền)
+Chapter 5—Part 2 Day 2=Chương 5—Phần 2 Ngày 2
+CLEAR=THÔNG THOÁNG
+Chapter 5—Part 2 Day 1=Chương 5—Phần 2 Ngày 1
+Required Duelo Rank: 1=Xếp hạng Duelo bắt buộc: 1
+Even-My-Coldest-Takes-Become-Hot Duelist=Đấu sĩ ngay cả-lạnh lùng nhất của tôi cũng trở thành người nóng bỏng nhất
+Required Duelo Rank: 0=Xếp hạng Duelo bắt buộc: 0
+Chapter 5—Part 2 Day 6=Chương 5—Phần 2 Ngày 6
+Chapter 5—Part 2 Day 7=Chương 5—Phần 2 Ngày 7
+Chapter 5—Part 2 Day 3=Chương 5—Phần 2 Ngày 3
+Chapter 5—Part 2 Day 8=Chương 5—Phần 2 Ngày 8
+RANK=THỨ HẠNG
+Duelo=đấu tay đôi
+Chapter 5—Part 2 Day 9=Chương 5—Phần 2 Ngày 9
+Rewards=Phần thưởng
+Defeat 1 person in Duelo.=Đánh bại 1 người trong Duelo.
+Defeat 3 people in Duelo.=Đánh bại 3 người trong Duelo.
+Defeat 5 people in Duelo.=Đánh bại 5 người trong Duelo.
+Defeat 7 people in Duelo.=Đánh bại 7 người trong Duelo.
+Defeat 9 people in Duelo.=Đánh bại 9 người trong Duelo.
+Defeat 12 people in Duelo.=Đánh bại 12 người trong Duelo.
+Defeat 20 people in Duelo.=Đánh bại 20 người trong Duelo.
+Defeat 18 people in Duelo.=Đánh bại 18 người trong Duelo.
+Defeat 16 people in Duelo.=Đánh bại 16 người trong Duelo.
+Defeat 14 people in Duelo.=Đánh bại 14 người trong Duelo.
+Collection=Bộ sưu tập
+Relive Memories=Hồi tưởng
+Late Night=Đêm muộn
+Night 2=Đêm 2
+Early Morning=Sáng sớm
+Morning=Buổi sáng
+Period 1=Giai đoạn 1
+Period 2=Giai đoạn 2
+Lunch=Bữa trưa
+Period 3=Giai đoạn 3
+Period 4=Kỳ 4
+Evening=Buổi tối
+Period 1=Giai đoạn 1
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 1"?=<style\=RubyPrefixTag></style>\nChơi Ngày này bắt đầu từ "Giai đoạn 1"?
+Morning=Buổi sáng
+Night 1=Đêm 1
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 2"?=<style\=RubyPrefixTag></style>\nChơi Ngày này bắt đầu từ "Giai đoạn 2"?
+Hey, you.=Này, bạn.
+BACK LOG=NHẬT KÝ TRỞ LẠI
+<style\=RubyPrefixTag></style>\nReturn to the Home screen?=<style\=RubyPrefixTag></style>\nQuay lại Màn hình chính?
+Cancel=Hủy bỏ
+
+1 Day(s) Left=Còn lại 1 ngày
+EliminateTarget=
+Recover Life Point(s)=Phục hồi điểm sinh mệnh
+Life Points to Restore=Điểm cuộc sống để khôi phục
+8 Day(s) Left=Còn lại 8 ngày
+Event=
+誕生日=sinh nhật
+所属部隊=Đơn vị trực thuộc
+出身地=Nơi sinh
+お知らせ一覧=Danh sách thông báo
+画像やボイスなどのデータをダウンロードします。\r\n通信環境の良い場所で行ってください。=Tải xuống dữ liệu như hình ảnh và giọng nói.\nHãy thực hiện việc này ở nơi có môi trường giao tiếp tốt.
+アセットのダウンロード=Tải nội dung xuống
+
+お問い合わせ=Liên hệ với chúng tôi
+キャッシュクリア=xóa bộ nhớ đệm
+アセット再取得=Mua lại tài sản
+セーブデータ修復=Lưu sửa chữa dữ liệu
+一括ダウンロード=Tải xuống hàng loạt
+利用規約等=Điều khoản sử dụng, v.v.
+ライセンス=giấy phép
+応援レビュー=Hỗ trợ đánh giá
+友達招待=Mời bạn bè
+報酬を選択して敵の推奨戦力を確定してください=Chọn phần thưởng của bạn và xác nhận sức mạnh đề xuất của kẻ thù
+
+交換一覧=Danh sách trao đổi
+有償=Đã trả tiền
+おまけ付き=Có thưởng
+ボーナスゲージ=thước đo tiền thưởng
+無償=Miễn phí
+通常ガチャ=gacha bình thường
+チケットガチャ=gacha vé
+特商法/資金決済法=Luật giao dịch thương mại cụ thể/Luật thanh toán quỹ
+利用履歴=Lịch sử sử dụng
+詳細/提供割合=Tỷ lệ chi tiết/dự phòng
+スタイル詳細=chi tiết phong cách
+スタイル選択=lựa chọn phong cách
+選択中=Đã chọn
+または=hoặc
+クォーツ\n=thạch anh\n
+予備ライフ/ライフストーン=Dự trữ sự sống/đá sống
+現在のクォーツ所持数=Số lượng sở hữu thạch anh hiện tại
+現在の予備ライフ所持数=Số mạng dự phòng hiện tại
+現在のライフストーン所持数=Số lượng lifestone hiện đang sở hữu
+※クォーツは無償分から消費されます。=* Thạch anh sẽ được tiêu thụ từ phần miễn phí.
+クォーツを消費=tiêu thụ thạch anh
+予備ライフを消費=Tiêu thụ cuộc sống dự trữ
+ライフストーンを消費=Tiêu thụ đá sự sống
+消費アイテム\n=mặt hàng tiêu hao\n
+設定中=Đang thiết lập
+
+
+
+クリスタル交換所=trao đổi tinh thể
+プレミアメダル交換所=Trao đổi huy chương hàng đầu
+アクセサリ錬成=đào tạo phụ kiện
+あと 0分=còn 0 phút
+あと 0日=0 ngày còn lại
+あと 11897分=Còn 11897 phút
+あと 8日=còn 8 ngày
+あと198時間=Còn 198 giờ
+あと534時間=còn 534 giờ
+あと30時間=còn 30 giờ
+あと0時間=còn 0 giờ
+あと606時間=Còn 606 giờ
+あと366時間=còn 366 giờ
+チケット使用期限 : =Ngày hết hạn vé: 
+アイテム購入\n（GP）=Mua mặt hàng\n(GP)
+アイテム購入\n（GGP）=Mua mặt hàng\n(GGP)
+開始する=bắt đầu
+ボーナス=tiền thưởng
+報酬=phần thưởng
+スコアアタック=tấn công ghi điểm
+期間外=Ngoài thời kỳ
+※複数の条件を満たす場合、最も高い数値のみが適用されます=*Nếu đáp ứng nhiều điều kiện, chỉ áp dụng giá trị cao nhất.
+ボーナススタイル=phong cách thưởng
+あと10枚で交換可能！=Chỉ còn 10 miếng để trao đổi!
+あと0枚で交換可能！=Bạn có thể đổi lấy 0 miếng còn lại!
+ループ報酬=phần thưởng vòng lặp
+達成=thành tích
+スコア：=Điểm:
+ハイスコア=điểm cao
+ミッション報酬=phần thưởng nhiệm vụ
+累計報酬=Phần thưởng tích lũy
+ハイスコア報酬=Phần thưởng điểm cao
+累計スコア=Điểm tích lũy
+最速クリアターン=rẽ rõ ràng nhanh nhất
+初回報酬=Phần thưởng đầu tiên
+毎週月曜4:00更新で取得=Truy cập vào thứ Hai hàng tuần lúc 4 giờ sáng
+メダル所持数=Số huy chương đã nắm giữ
+異時層=lớp liên thời gian
+
+最大到達階=Tầng đạt tối đa
+踏破率=Tỷ lệ hoàn thành
+ダンジョン選択=lựa chọn ngục tối
+挑戦する=thử thách
+次回ハイスコア報酬=Phần thưởng điểm cao tiếp theo
+報酬一覧=Danh sách phần thưởng
+エリア別スコア=Điểm theo khu vực
+HELL攻略エリア=Khu vực chiến lược HELL
+NORMAL攻略エリア=Khu vực chiến lược BÌNH THƯỜNG
+最高到達階=đạt đến tầng cao nhất
+進捗報酬=phần thưởng tiến bộ
+ギフトボックス=hộp quà
+※受信日時から30日経過すると自動で消去されます。\n　一括受け取りは有効期間が短い順から受け取ります。\n　一度に受け取れるギフトは最大100件までです。=*Nó sẽ tự động bị xóa sau 30 ngày kể từ ngày và giờ nhận.\nBiên lai số lượng lớn được nhận theo thứ tự hợp lệ.\nBạn có thể nhận tới 100 quà tặng cùng một lúc.
+受け取り履歴=Lịch sử nhận
+受け取り可能なものはありません=Không có mặt hàng nào có sẵn để nhận.
+イベントミッション=nhiệm vụ sự kiện
+討伐ターゲット=mục tiêu chinh phục
+報酬は獲得済です=Phần thưởng đã kiếm được
+イベントをプレイ=chơi sự kiện
+推奨属性=Thuộc tính được đề xuất
+推奨戦力=Lực lượng khuyến nghị
+イベントプリズム=lăng kính biến cố
+シェア=chia sẻ
+振り返り=nhìn lại
+前回プレイ=Lần chơi cuối cùng
+獲得GP=GP kiếm được
+交換所ラインナップ=Trao đổi đội hình
+交換する=trao đổi
+現在、交換できる商品がありません。=Hiện tại không có vật phẩm nào có thể trao đổi.
+※すでに所持しているスタイルを交換するとピースに変換されます。=*Nếu bạn trao đổi một phong cách bạn đã sở hữu, nó sẽ được chuyển đổi thành một mảnh.
+制圧戦=Trận chiến thống trị
+フロートバイク=xe đạp phao
+作戦開始=Hoạt động bắt đầu
+戦力=sức mạnh quân sự
+重量=cân nặng
+パーツ重量=trọng lượng bộ phận
+エリア選択へ=Đi tới lựa chọn khu vực
+達成数=Số thành tựu
+プロローグ=Lời mở đầu
+ミッション達成数=Số nhiệm vụ đã hoàn thành
+エリア一覧=Danh sách khu vực
+エリア選択=Lựa chọn khu vực
+難易度=Mức độ khó
+シナリオスキップ=Bỏ qua kịch bản
+プレイ=chơi
+ミッション一覧=Danh sách nhiệm vụ
+売却=bán
+入手方法=Làm thế nào để có được nó
+ピース=hòa bình
+成長素材=vật liệu trồng trọt
+チップ=chip
+ブースター=tăng cường
+アクセサリ=phụ kiện
+変換=chuyển đổi
+あり=Có
+共鳴アビリティ=khả năng cộng hưởng
+武器属性=Thuộc tính vũ khí
+元素属性=thuộc tính nguyên tố
+効果アップ=Tăng hiệu quả
+専用ピースのみ=Hàng độc quyền duy nhất
+限界突破=Phá vỡ giới hạn
+ロール=cuộn
+レアリティ=hiếm có
+並べ替え=sắp xếp
+絞り込み=Thu hẹp
+デフォルトに戻す=Khôi phục mặc định
+キャンセル=Hủy bỏ
+なし=không có
+上限到達済み=Đã đạt đến giới hạn trên
+上限未到達=Chưa đạt đến giới hạn trên
+装飾部位=phần trang trí
+力=quyền lực
+器用さ=sự khéo léo
+体力=sức mạnh thể chất
+精神=tinh thần
+知性=trí thông minh
+運=may mắn
+ロック=khóa
+ロック中=Đã khóa
+非ロック中=Đã mở khóa
+所持状況=Tình trạng sở hữu
+所持済=Đã sở hữu
+未所持=Không sở hữu
+開花済=nở hoa
+未開花=chưa ra hoa
+
+未習得=Chưa học
+転生=tái sinh
+所持GP=GP sở hữu
+売却価格=giá bán
+装備中=Được trang bị
+アイテム=mục
+決定=quyết định
+自動選択設定=Cài đặt lựa chọn tự động
+選択クリア=lựa chọn rõ ràng
+合成=tổng hợp
+ドゥエロ=Duero
+続きから=Từ phần tiếp theo
+過去をたどる=theo dõi quá khứ
+交流/メモリーストーリー=Câu chuyện trao đổi/bộ nhớ
+最新のショップ=cửa hàng mới nhất
+最新のフリータイムへ=Đến thời gian rảnh mới nhất
+特殊効果：=Hiệu ứng đặc biệt:
+時間帯選択=Lựa chọn múi giờ
+本編=Câu chuyện chính
+ストーリー選択=Lựa chọn câu chuyện
+はじめから=ngay từ đầu
+途中から=từ giữa
+討伐任務=nhiệm vụ chinh phục
+ドーム交流=trao đổi mái vòm
+交流=trao đổi
+第五章 中編=Chương 5 Phần 5
+プレイガイド=hướng dẫn chơi
+コレクション\n=bộ sưu tập\n
+・部隊画面のサムネイル=・Hình thu nhỏ của màn hình đơn vị
+衣装着せ替え=Mặc trang phục
+・ダンジョン内の移動速度をアップする=・Tăng tốc độ di chuyển trong ngục tối
+・ダンジョンでバトル終了時に部隊の並び順を保存する=・ Lưu lại thứ tự quân đội khi kết thúc trận chiến trong ngục tối
+非表示=ẩn giấu
+表示=trưng bày
+※編成がストーリーと乖離する場合お知らせします=*Chúng tôi sẽ thông báo cho bạn nếu bố cục sai lệch với câu chuyện.
+・編成制限ダイアログ=・Hộp thoại hạn chế tổ chức
+オート詳細設定=Cài đặt chi tiết tự động
+・オート詳細設定=・Cài đặt chi tiết tự động
+・オート=・Tự động
+2倍速=tốc độ gấp 2 lần
+通常=Bình thường
+・速度=・Tốc độ
+バトル=trận chiến
+標準=tiêu chuẩn
+・ノベル解像度=・Độ phân giải mới lạ
+高=cao
+中=Trung bình
+低=thấp
+・シャドウ品質=・Chất lượng bóng
+・アンチエイリアス=・Khử răng cưa
+・垂直同期=・Đồng bộ hóa theo chiều dọc
+・解像度=・Độ phân giải
+ウィンドウ=cửa sổ
+・表示モード=・Chế độ hiển thị
+高画質=chất lượng cao
+標準画質=Độ nét tiêu chuẩn
+低画質=Chất lượng thấp
+※高画質はGPU負荷が高くなります=*Chất lượng hình ảnh cao sẽ tăng tải GPU.
+・画質=・Chất lượng hình ảnh
+グラフィック=đồ họa
+ゲーム設定=cài đặt trò chơi
+サウンド設定=cài đặt âm thanh
+オリジナル=nguyên bản
+選択中の衣装=Trang phục được chọn
+・バトル中のスキル選択画面のイラスト=・Minh họa màn hình lựa chọn kỹ năng trong trận chiến
+・バトル中のアイコン=・Biểu tượng trận chiến
+・探検・アーツバトル中のアイコン=・Biểu tượng trong trận chiến khám phá/nghệ thuật
+カメラ=máy ảnh
+・カメラ操作 上下=・Thao tác camera lên xuống
+ノーマル=Bình thường
+リバース=đảo ngược
+・カメラ操作 左右=・Camera hoạt động trái và phải
+・カメラ操作の感度=・Độ nhạy vận hành của máy ảnh
+キーボード＆マウス=bàn phím và chuột
+・キーコンフィグ=・Cấu hình khóa
+キーボード操作時のキーの設定を行います=Cấu hình các phím cho thao tác bàn phím
+設定する=đặt
+・マウスカーソルサイズ=・Kích thước con trỏ chuột
+小=nhỏ bé
+大=lớn
+・マウススクロールの感度=・Độ nhạy cuộn chuột
+コントローラ=bộ điều khiển
+・コントローラを使用する=・Sử dụng bộ điều khiển
+※ONの場合、接続されたコントローラでゲームをプレイできます=*Nếu BẬT, bạn có thể chơi trò chơi bằng bộ điều khiển được kết nối.
+・コントローラの決定ボタンを入れ替える=・Thay thế nút quyết định của bộ điều khiển
+※コントローラの決定ボタンとキャンセルボタンを入れ替えます=*Chuyển đổi nút OK và nút Hủy của bộ điều khiển.
+・十字キーでカーソルを移動する=・Di chuyển con trỏ bằng phím chéo
+※OFFの場合、ショートカットキーを割り当てます=*Nếu TẮT, hãy gán phím tắt
+・バトル中の操作を以前の操作に戻す=・Trả lại các hoạt động trong trận chiến về các hoạt động trước đó
+※スキル選択や敵の照準の操作を以前のバージョン互換に戻します=* Lựa chọn kỹ năng và hoạt động nhắm vào kẻ thù sẽ được đưa trở lại khả năng tương thích với các phiên bản trước.
+・ジオラマ編集中のポインター速度=・Tốc độ con trỏ trong khi chỉnh sửa ảnh tầm sâu
+連続入力の速度設定=Cài đặt tốc độ đầu vào liên tục
+・連続入力開始までの長押し時間=・Thời gian nhấn lâu cho đến khi bắt đầu nhập liên tục
+・連続入力の間隔=・ Khoảng thời gian đầu vào liên tục
+※カーソル移動や個数選択の速度が変わります=*Tốc độ di chuyển con trỏ và lựa chọn số sẽ thay đổi.
+その他=Khác
+・ボイスの継続再生=・Phát lại giọng nói liên tục
+※ONの場合、音声の再生中に次の文章に進んでも再生を続けます=*Nếu BẬT, âm thanh sẽ tiếp tục phát ngay cả khi bạn chuyển sang câu tiếp theo trong khi phát.
+・未読テキストもスキップする=・Bỏ qua văn bản chưa đọc
+・使いすぎアラート=・Cảnh báo sử dụng quá mức
+※1か月の購入額が10万円を超える場合アラートを表示します=*Cảnh báo sẽ được hiển thị nếu số tiền mua hàng tháng vượt quá 100.000 yên.
+・初期設定=・Cài đặt ban đầu
+初期設定に戻す=Khôi phục cài đặt mặc định
+タイトル画面に戻る=Quay lại màn hình tiêu đề
+・タイトル画面=・Màn hình tiêu đề
+・ライセンス=・Giấy phép
+・お問い合わせ=・Liên hệ với chúng tôi
+・応援レビュー=・Hỗ trợ đánh giá
+・利用規約等=・Điều khoản sử dụng, v.v.
+全体音量設定=Cài đặt âm lượng tổng thể
+<size\=40>MASTER</size>（マスターボリューム）=<size\=40>MASTER</size>(âm lượng chính)
+個別音量設定=Cài đặt âm lượng riêng
+<size\=40>BGM</size>（バックミュージック）=<size\=40>BGM</size>(Nhạc nền)
+<size\=40>SE</size>（効果音）=<size\=40>SE</size>(hiệu ứng âm thanh)
+<size\=40>SYSTEM</size>（システム音）=<size\=40>SYSTEM</size>(âm thanh hệ thống)
+<size\=40>VOICE</size>（キャラクターボイス）=<size\=40>VOICE</size>(giọng nhân vật)
+<size\=40>ENV</size>（環境音）=<size\=40>ENV</size>(âm thanh môi trường)
+リセット対象=Đặt lại mục tiêu
+毎月1日4時リセット=Reset vào lúc 4h ngày mùng 1 hàng tháng
+で商品を更新=Cập nhật sản phẩm của bạn với
+あと 11893分=Còn 11893 phút
+残り 0 Minute(s) Left=Còn lại 0 phút
+まで=ĐẾN
+03/08/2022 01:59(UTC-7)まで開催=Được tổ chức đến ngày 08/03/2022 01:59 (UTC-7)
+05/28/2026 23:59(UTC-7)まで開催=Được tổ chức đến ngày 28/05/2026 23:59 (UTC-7)
+交換期間： まで=Thời gian trao đổi: tối đa
+推奨戦力：20,000=Sức mạnh đề xuất: 20.000
+達成率\n<size\=90>0</size>%=Tỷ lệ thành tích\n<size\=90>0</size>%
+達成率<size\=78>0</size>%=Tỷ lệ thành tích<size\=78>0</size>%
+Day<size\=78>00</size><color\=#F6E5E5FF>(月)</color>=Ngày <size\=78>00</size><color\=#F6E5E5FF>(tháng)</color>
+0月0日まで！=Cho đến 0/0!
+あと 0時間=còn 0 giờ
+長押しでスタイル性能詳細を確認できます。=Nhấn và giữ để kiểm tra chi tiết hiệu suất kiểu.
+SSスタイル交換所=Trao đổi phong cách SS
+フォト=bức ảnh
+サウンド=âm thanh
+メモリーストーリー=câu chuyện ký ức
+ストーリー=câu chuyện
+ムービー=phim
+イメージ=hình ảnh
+部隊戦力=Sức mạnh quân đội
+名簿=danh sách
+移動=di chuyển
+マップ=bản đồ
+話しかける=nói chuyện với
+インフォメーション=Thông tin
+メッセージ=tin nhắn
+ホーム=Trang chủ
+次の時間へ=Lần sau
+調べる=khảo sát
+拾う=nhặt lên
+画面タップで次へ=Tiếp theo bằng cách chạm vào màn hình
+修復=phục hồi
+解放=phát hành
+確認=xác nhận
+力を注ぐ=nỗ lực vào
+記憶の修復=phục hồi trí nhớ
+はじめる=Bắt đầu
+発生条件=Điều kiện xảy ra
+報酬は取得済みです=Phần thưởng đã nhận được
+選択済=đã chọn
+スタイル総合戦力=Sức mạnh phong cách tổng thể
+該当するスタイルがありません=Không có phong cách phù hợp
+編成中=Đang xây dựng
+強化=tăng cường
+スタイル一覧=Danh sách phong cách
+CV: Aguri Onishi =CV: Aguri Onishi 
+ Archer with an extreme devotion to traditional Japanese culture.= Archer với lòng sùng mộ sâu sắc đối với văn hóa truyền thống Nhật Bản.
+<style\=RubyPrefixTag></style>\nMiya<space\=-81.18px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=81.17px><style\=RubySuffixTag></style> Kiryu<space\=-91.23px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=91.21999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMiya<space\=-81.18px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=81.17px><style\=RubySuffixTag></style> Kiryu<space\=-91.23px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=91.21999px><style\=RubySuffixTag></style>
+Kyoto=Kyoto
+Jan 5=ngày 5 tháng 1
+CV: Akane Katsuki =CV: Akane Katsuki 
+ Loyal lackey to a certain mad scientist.= Tay sai trung thành của một nhà khoa học điên nào đó.
+<style\=RubyPrefixTag></style>\nYayoi<space\=-94.25999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=94.24999px><style\=RubySuffixTag></style> Bungo<space\=-106.31px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=106.3px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nYayoi<space\=-94.25999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=94.24999px><style\=RubySuffixTag></style> Bungo<space\=-106.31px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=106.3px><style\=RubySuffixTag></style>
+Kumamoto=Kumamoto
+Apr 1=ngày 1 tháng 4
+Event=Sự kiện
+Main Scenario: Interlude=Kịch bản chính: Interlude
+Upon Clearing Chapter 3=Sau khi hoàn thành chương 3
+Upon Clearing Chapter 2=Sau khi hoàn thành chương 2
+-UNLOCK-=-MỞ KHÓA-
+COMPLETE=HOÀN THÀNH
+Upon Clearing Chapter 1=Sau khi hoàn thành Chương 1
+Archived=Đã lưu trữ
+Runs until 03/08/2022 01:59(UTC-7).=Kéo dài đến ngày 08/03/2022 01:59(UTC-7).
+An earnest feeling that remains in fleeting memories...\n\nDespite it being their long-awaited day off, 31-C is ordered to explore underground Ikebukuro, but when they step foot inside...=Một cảm giác tha thiết còn sót lại trong ký ức thoáng qua...\n\n\nMặc dù đây là ngày nghỉ được chờ đợi từ lâu của họ, 31-C được lệnh khám phá Ikebukuro dưới lòng đất, nhưng khi họ bước chân vào bên trong...
+Runs until 04/29/2022 01:59(UTC-7).=Kéo dài đến 29/04/2022 01:59(UTC-7).
+Runs until 06/30/2022 01:59(UTC-7).=Kéo dài đến 30/06/2022 01:59(UTC-7).
+<style\=RubyPrefixTag></style>\nEnd the game?=<style\=RubyPrefixTag></style>\nKết thúc trò chơi?
+ Squad 30-G\nA reliable team made up of senior cadets. Backed by experience, their ability is immeasurable.= Biệt đội 30-G Một đội đáng tin cậy gồm các học viên cao cấp.\nĐược hỗ trợ bởi kinh nghiệm, khả năng của họ là vô lượng.
+ Strategic Go prodigy with a mastery of the game board.= Thần đồng cờ vây chiến lược với khả năng thông thạo bàn cờ.
+<style\=RubyPrefixTag></style>\nMisato<space\=-119.87px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=119.86px><style\=RubySuffixTag></style> Nikaido<space\=-131.16px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=131.15px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMisato<space\=-119.87px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=119.86px><style\=RubySuffixTag></style> Nikaido<space\=-131.16px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=131.15px><style\=RubySuffixTag></style>
+Nara=Nara
+Jun 6=ngày 6 tháng 6
+Synchronizing data 1 / 2=Đồng bộ dữ liệu 1/2
+CV: Karin Nanami =CV: Karin Nanami 
+From the Beginning=Từ đầu
+Runs until 05/28/2026 23:59(UTC-7).=Kéo dài đến 28/05/2026 23:59(UTC-7).
+Runs until 07/29/2022 01:59(UTC-7).=Kéo dài đến 29/07/2022 01:59(UTC-7).
+The one who always wiped away their tears...\n\nAfter sustaining an injury from a sudden attack while on a mission, Ichiko loses her memories, and even forgets all her sisters.=Người luôn lau nước mắt cho họ...\n\n\nSau khi bị thương do một cuộc tấn công bất ngờ khi đang làm nhiệm vụ, Ichiko mất đi ký ức và thậm chí quên mất tất cả các chị gái của mình.
+Runs until 09/30/2022 01:59(UTC-7).=Kéo dài đến 30/09/2022 01:59(UTC-7).
+Lights... Camera... Action!!!\n\nCarole assembles a team to film a totally awesome, action-packed superhero film to encourage the dome dwellers!\nBut will her directing skills make the cut?=Đèn... Camera... Hành động!!!\n\n\nCarole tập hợp một nhóm để quay một bộ phim siêu anh hùng đầy hành động, hoàn toàn tuyệt vời để khuyến khích cư dân mái vòm!\nNhưng liệu kỹ năng chỉ đạo của cô ấy có thành công?
+Plerion Plasma (Crush)=Huyết tương Pleriion (Crush)
+Plerion Plasma (Pierce)=Huyết tương Pleriion (Pierce)
+Plerion Plasma (Slash)=Huyết tương Pleriion (Slash)
+
+Hyperbolic Time Arena: Rewards Selection=Đấu trường thời gian Hyperbolic: Lựa chọn phần thưởng
+
+Reward Pts. have surpassed the max limit.=Phần thưởng Pt.\nđã vượt quá giới hạn tối đa.
+Chitin Chunk=mảnh Chitin
+
+Numbers shown are expected for 100 battles.=Những con số được hiển thị là dự kiến ​​cho 100 trận chiến.
+Side: Ruka=Bên: Ruka
+<style\=RubyPrefixTag></style>\nIs everyone accounted for?=<style\=RubyPrefixTag></style>\nMọi người đã có mặt đầy đủ chứ?
+Saki Tezuka=Saki Tezuka
+Is everyone accounted for?=Mọi người có được tính đến không?
+<style\=RubyPrefixTag></style>\nNo casualties to report.=<style\=RubyPrefixTag></style>\nKhông có thương vong để báo cáo.
+No casualties to report.=Không có thương vong để báo cáo.
+<style\=RubyPrefixTag></style>\nI am pleased to hear that.=<style\=RubyPrefixTag></style>\nTôi rất vui khi nghe điều đó.
+I am pleased to hear that.=Tôi rất vui khi nghe điều đó.
+<style\=RubyPrefixTag></style>\nI've gotta say, that was pretty metal...=<style\=RubyPrefixTag></style>\nTôi phải nói rằng, đó là kim loại khá đẹp...
+I've gotta say, that was pretty metal...=Tôi phải nói rằng, đó là kim loại khá đẹp...
+<style\=RubyPrefixTag></style>\nAre you kidding me?!=<style\=RubyPrefixTag></style>\nBạn đang đùa tôi à?!
+<style\=RubyPrefixTag></style>\nWe just risked our lives out there!=<style\=RubyPrefixTag></style>\nChúng ta vừa mạo hiểm mạng sống của mình ngoài đó!
+We just risked our lives out there!=Chúng ta vừa mạo hiểm mạng sống của mình ngoài đó!
+<style\=RubyPrefixTag></style>\nAh! That's why you're so good at real-world combat too, then?=<style\=RubyPrefixTag></style><br>À! Đó là lý do tại sao bạn cũng giỏi chiến đấu trong thế giới thực \nphải không?
+<style\=RubyPrefixTag></style>\nNo way! She's like a completely different person. Why do I have a bad feeling about this?=<style\=RubyPrefixTag></style>\nKhông đời nào!\nCô ấy giống như một người hoàn toàn khác.\nTại sao tôi có linh cảm xấu về điều này?
+<style\=RubyPrefixTag></style>\nKaren Asakura. I'm just a former high-school girl who happens to have a knack for shooter games.=<style\=RubyPrefixTag></style><br>Karen Asakura. \nTôi chỉ là một cựu nữ sinh trung học có sở trường về game bắn súng.
+<style\=RubyPrefixTag></style>\nHumble, too? What's not to like?=<style\=RubyPrefixTag></style>\nCũng khiêm tốn nhỉ?\nCó gì không thích?
+<style\=RubyPrefixTag></style>\nI pale in comparison to you two.=<style\=RubyPrefixTag></style>\nTôi nhạt so với hai bạn.
+<style\=RubyPrefixTag></style>\nBlack-haired Girl=<style\=RubyPrefixTag></style>\nCô gái tóc đen
+<style\=RubyPrefixTag></style>\nYou're really loud, you know that?=<style\=RubyPrefixTag></style>\nCậu ồn ào lắm đấy, cậu biết không?
+You're really loud, you know that?=Cậu ồn ào lắm đấy, cậu biết không?
+<style\=RubyPrefixTag></style>\nRuka...even if humanity wins and the battle ends, I...no, never mind.=<style\=RubyPrefixTag></style><br>Ruka...ngay cả khi nhân loại chiến thắng và trận chiến <br>kết thúc, tôi...không, đừng bận tâm.
+<style\=RubyPrefixTag></style>\nOh, shush! You normally blast your music louder than\nthat!=<style\=RubyPrefixTag></style>\nỒ, im lặng!\nBạn thường bật nhạc to hơn thế!
+Oh, shush! You normally blast your music louder than that!=Ồ, im lặng!\nBạn thường bật nhạc to hơn thế!
+<style\=RubyPrefixTag></style>\nAnd strangely calm about the weirdest things.=<style\=RubyPrefixTag></style>\nVà bình tĩnh đến lạ lùng trước những điều kỳ lạ nhất.
+And strangely calm about the weirdest things.=Và bình tĩnh đến lạ lùng trước những điều kỳ lạ nhất.
+<style\=RubyPrefixTag></style>\nI didn't ask for your admiration!!=<style\=RubyPrefixTag></style>\nTôi không yêu cầu sự ngưỡng mộ của bạn!!
+I didn't ask for your admiration!!=Tôi không yêu cầu sự ngưỡng mộ của bạn!!
+<style\=RubyPrefixTag></style>\nPhew... I didn't expect to get thrown into something that\nintense.=<style\=RubyPrefixTag></style><br>Phù... Tôi không ngờ mình lại bị ném vào thứ gì đó mãnh liệt đến thế.
+Black-haired Girl=Cô gái tóc đen
+Phew... I didn't expect to get thrown into something that intense.=Phù... Tôi không ngờ mình lại bị ném vào thứ gì đó mãnh liệt đến thế.
+You... Weren't you the one who leapt wildly into the fray? The one with bloodlust in her eyes...=Bạn... Không phải bạn là người đã lao vào đánh nhau một cách điên cuồng sao?\nNgười có đôi mắt khát máu...
+<style\=RubyPrefixTag></style>\nYou... Weren't you the one who leapt wildly into the fray?\nThe one with bloodlust in her eyes...=<style\=RubyPrefixTag></style><br>Bạn... Không phải bạn là người đã lao vào đánh nhau một cách điên cuồng sao?\nNgười có đôi mắt khát máu...
+<style\=RubyPrefixTag></style>\nYeah. But, seeing you now...=<style\=RubyPrefixTag></style>\nVâng.\nNhưng giờ gặp lại em...
+Yeah. But, seeing you now...=Vâng.\nNhưng giờ gặp lại em...
+<style\=RubyPrefixTag></style>\nYou're so dainty!=<style\=RubyPrefixTag></style>\nBạn thật xinh xắn!
+<style\=RubyPrefixTag></style>\nYou're gorgeous!=<style\=RubyPrefixTag></style>\nBạn thật tuyệt vời!
+<style\=RubyPrefixTag></style>\nYou're freakin' cute!=<style\=RubyPrefixTag></style>\nBạn thật dễ thương!
+You're gorgeous!=Bạn thật tuyệt vời!
+<style\=RubyPrefixTag></style>\nSeeing you now...=<style\=RubyPrefixTag></style>\nNhìn thấy bạn bây giờ...
+I pale in comparison to you two.=Tôi nhạt so với hai bạn.
+Humble, too? What's not to like?=Cũng khiêm tốn nhỉ?\nCó gì không thích?
+No way! She's like a completely different person. Why do I have a bad feeling about this?=Không đời nào!\nCô ấy giống như một người hoàn toàn khác.\nTại sao tôi có linh cảm xấu về điều này?
+Karen Asakura. I'm just a former high-school girl who happens to have a knack for shooter games.=\nKaren Asakura.\nTôi chỉ là một cựu nữ sinh trung học có sở trường về game bắn súng.
+<style\=RubyPrefixTag></style>\nAn ordinary high school gamer girl...\nat first glance.=<style\=RubyPrefixTag></style>\nMột nữ sinh trung học bình thường... thoạt nhìn.
+Ah! That's why you're so good at real-world combat too, then?=À!\nĐó là lý do tại sao bạn cũng giỏi chiến đấu trong thế giới thực phải không?
+<style\=RubyPrefixTag></style>\nPerhaps.=<style\=RubyPrefixTag></style>\nCó lẽ.
+Perhaps.=Có lẽ.
+<style\=RubyPrefixTag></style>\nSo... That was our enemy, huh?=<style\=RubyPrefixTag></style>\nVậy... Đó là kẻ thù của chúng ta à?
+So... That was our enemy, huh?=Vậy... Đó là kẻ thù của chúng ta à?
+<style\=RubyPrefixTag></style>\nCorrect. According to the data gathered by my fellow\nOrchids, they're the extraterrestrial beings that swarmed\nout of the 14 UFOs NASA confirmed as having appeared\naround the globe.=<style\=RubyPrefixTag></style>\nChính xác.\nTheo dữ liệu được thu thập bởi những người bạn Orchids của tôi, họ là những sinh vật ngoài Trái đất tràn ra từ 14 UFO mà NASA xác nhận là đã xuất hiện trên toàn cầu.
+Correct. According to the data gathered by my fellow Orchids, they're the extraterrestrial beings that swarmed out of the 14 UFOs NASA confirmed as having appeared around the globe.=Chính xác.\nTheo dữ liệu được thu thập bởi những người bạn Orchids của tôi, họ là những sinh vật ngoài Trái đất tràn ra từ 14 UFO mà NASA xác nhận là đã xuất hiện trên toàn cầu.
+Wow. Your Orckids is a pretty crazy bunch too!=Ồ.\nOrckids của bạn cũng là một nhóm khá điên rồ!
+<style\=RubyPrefixTag></style>\nWow. Your Orckids is a pretty crazy bunch too!=<style\=RubyPrefixTag></style>\nỒ.\nOrckids của bạn cũng là một nhóm khá điên rồ!
+<style\=RubyPrefixTag></style>\nNo, you're just too damn loud to pay attention!=<style\=RubyPrefixTag></style>\nKhông, bạn ồn ào quá nên không thể chú ý được!
+No, you're just too damn loud to pay attention!=Không, bạn ồn ào quá nên không thể chú ý được!
+<style\=RubyPrefixTag></style>\nIf that's what you call intel, you're already as good as dead.=<style\=RubyPrefixTag></style>\nNếu đó là thứ mà bạn gọi là thông tin thì bạn coi như đã chết rồi.
+<style\=RubyPrefixTag></style>\nAnd you are?=<style\=RubyPrefixTag></style>\nCòn bạn thì sao?
+And you are?=Còn bạn thì sao?
+<style\=RubyPrefixTag></style>\nMy name? As if I would reveal such details. I am an intel\nagent, you know.=<style\=RubyPrefixTag></style>\nTên tôi?\nNhư thể tôi sẽ tiết lộ chi tiết như vậy.\nTôi là đặc vụ tình báo, bạn biết đấy.
+Arrogant Girl=Cô gái kiêu ngạo
+My name? As if I would reveal such details. I am an intel agent, you know.=Tên tôi?\nNhư thể tôi sẽ tiết lộ chi tiết như vậy.\nTôi là đặc vụ tình báo, bạn biết đấy.
+<style\=RubyPrefixTag></style>\nTojo, right?=<style\=RubyPrefixTag></style>\nTojo phải không?
+Tojo, right?=Tojo phải không?
+<style\=RubyPrefixTag></style>\n...Wait, how did you—?=<style\=RubyPrefixTag></style>\n...Đợi đã, sao cậu lại—?
+...Wait, how did you—?=...Đợi đã, sao cậu lại—?
+<style\=RubyPrefixTag></style>\nAn intel agent.\nAnd otherwise mysterious beauty.=<style\=RubyPrefixTag></style>\nMột đặc vụ tình báo.\nVà vẻ đẹp bí ẩn khác.
+<style\=RubyPrefixTag></style>\nThe commander called you that, and you responded.=<style\=RubyPrefixTag></style>\nNgười chỉ huy đã gọi bạn như vậy và bạn đã trả lời.
+The commander called you that, and you responded.=Người chỉ huy đã gọi bạn như vậy và bạn đã trả lời.
+<style\=RubyPrefixTag></style>\nOh, you're good.=<style\=RubyPrefixTag></style>\nỒ, bạn ổn.
+Oh, you're good.=Ồ, bạn ổn.
+<style\=RubyPrefixTag></style>\nNo, that one's definitely on you.=<style\=RubyPrefixTag></style>\nKhông, cái đó chắc chắn thuộc về bạn.
+No, that one's definitely on you.=Không, cái đó chắc chắn thuộc về bạn.
+<style\=RubyPrefixTag></style>\nIf you're an intel agent, you must know more about what\nwe're up against, right? Tell us, what do you really know?=<style\=RubyPrefixTag></style>\nNếu bạn là đặc vụ tình báo, bạn phải biết nhiều hơn về những gì chúng tôi đang chống lại, phải không?\nHãy cho chúng tôi biết, bạn thực sự biết gì?
+If you're an intel agent, you must know more about what we're up against, right? Tell us, what do you really know?=Nếu bạn là đặc vụ tình báo, bạn phải biết nhiều hơn về những gì chúng tôi đang chống lại, phải không?\nHãy cho chúng tôi biết, bạn thực sự biết gì?
+<style\=RubyPrefixTag></style>\nOur enemy is the Cancer—an infectious entity that has\npropagated within the "body" of space.=<style\=RubyPrefixTag></style>\nKẻ thù của chúng ta là Cự Giải—một thực thể truyền nhiễm đã lan truyền trong "cơ thể" không gian.
+Our enemy is the Cancer—an infectious entity that has propagated within the "body" of space.=Kẻ thù của chúng ta là Cự Giải—một thực thể truyền nhiễm đã lan truyền trong "cơ thể" không gian.
+<style\=RubyPrefixTag></style>\nCancer, as in...=<style\=RubyPrefixTag></style>\nUng thư, như trong...
+<style\=RubyPrefixTag></style>\nNo way, crab hotpot's the way to go=<style\=RubyPrefixTag></style>\nKhông thể nào, Lẩu cua là lựa chọn tốt nhất
+<style\=RubyPrefixTag></style>\nThen again, crab cakes sound good too=<style\=RubyPrefixTag></style>\nLại nữa, bánh cua nghe cũng ngon nữa
+<style\=RubyPrefixTag></style>\nYeah, I could go for some crab right now=<style\=RubyPrefixTag></style>\nVâng, tôi có thể đi ăn cua ngay bây giờ
+Yeah, I could go for some crab right now.=Vâng, tôi có thể đi ăn cua ngay bây giờ.
+<style\=RubyPrefixTag></style>\nYeah, I could go for some crab right now.=<style\=RubyPrefixTag></style>\nVâng, tôi có thể đi ăn cua ngay bây giờ.
+Silliness +1!=Sự ngu ngốc +1!
+<style\=RubyPrefixTag></style>\nUnfortunately, the Cancers are inedible.=<style\=RubyPrefixTag></style>\nThật không may, Cancers không ăn được.
+Unfortunately, the Cancers are inedible.=Thật không may, Cancers không ăn được.
+<style\=RubyPrefixTag></style>\nDon't take her seriously. She's just trying to get a rise out\nof you.=<style\=RubyPrefixTag></style>\nĐừng coi trọng cô ấy.\nCô ấy chỉ đang cố gắng chọc tức bạn thôi.
+Don't take her seriously. She's just trying to get a rise out of you.=Đừng coi trọng cô ấy.\nCô ấy chỉ đang cố gắng chọc tức bạn thôi.
+<style\=RubyPrefixTag></style>\nUntil recently, the Cancers were completely immune to\nevery weapon humanity threw at them.=<style\=RubyPrefixTag></style>\nCho đến gần đây, Người hủy diệt hoàn toàn miễn nhiễm với mọi loại vũ khí mà con người ném vào họ.
+Until recently, the Cancers were completely immune to every weapon humanity threw at them.=Cho đến gần đây, Người hủy diệt hoàn toàn miễn nhiễm với mọi loại vũ khí mà con người ném vào họ.
+<style\=RubyPrefixTag></style>\nMankind suffered defeat after defeat, until the Earth's\nlandmass was lost to the Cancer.=<style\=RubyPrefixTag></style>\nNhân loại phải chịu hết thất bại này đến thất bại khác, cho đến khi vùng đất rộng lớn trên Trái đất bị mất vào tay Cự Giải.
+Mankind suffered defeat after defeat, until the Earth's landmass was lost to the Cancer.=Nhân loại phải chịu hết thất bại này đến thất bại khác, cho đến khi vùng đất rộng lớn trên Trái đất bị mất vào tay Cự Giải.
+<style\=RubyPrefixTag></style>\nAnd Japan was no exception. Kyushu and Hokkaido were\nobliterated, and the remaining islands were one step away\nfrom the same fate...=<style\=RubyPrefixTag></style>\nVà Nhật Bản cũng không ngoại lệ.\nKyushu và Hokkaido đã bị xóa sổ, những hòn đảo còn lại chỉ cách số phận tương tự một bước...
+And Japan was no exception. Kyushu and Hokkaido were obliterated, and the remaining islands were one step away from the same fate...=Và Nhật Bản cũng không ngoại lệ.\nKyushu và Hokkaido đã bị xóa sổ, những hòn đảo còn lại chỉ cách số phận tương tự một bước...
+<style\=RubyPrefixTag></style>\nBut, on the brink of ruin, a new weapon was developed: the\nSeraph.=<style\=RubyPrefixTag></style>\nTuy nhiên, trên bờ vực diệt vong, một loại vũ khí mới đã được phát triển: Seraph.
+But, on the brink of ruin, a new weapon was developed: the Seraph.=Tuy nhiên, trên bờ vực diệt vong, một loại vũ khí mới đã được phát triển: Seraph.
+<style\=RubyPrefixTag></style>\nWith Seraphim in hand, humanity managed to hold off the\nCancer's advances on our coastlines. Now, it's our turn to\nfight back.=<style\=RubyPrefixTag></style>\nVới Seraphim trong tay, nhân loại đã ngăn chặn được bước tiến của Cự Giải trên bờ biển của chúng ta.\nBây giờ đến lượt chúng ta phản công.
+With Seraphim in hand, humanity managed to hold off the Cancer's advances on our coastlines. Now, it's our turn to fight back.=Với Seraphim trong tay, nhân loại đã ngăn chặn được bước tiến của Cự Giải trên bờ biển của chúng ta.\nBây giờ đến lượt chúng ta phản công.
+<style\=RubyPrefixTag></style>\nThe symbol of our resistance? The Population Tracker.=<style\=RubyPrefixTag></style>\nBiểu tượng kháng cự của chúng ta?\nCông cụ theo dõi dân số.
+The symbol of our resistance? The Population Tracker.=Biểu tượng kháng cự của chúng ta?\nCông cụ theo dõi dân số.
+<style\=RubyPrefixTag></style>\nIt tracks the total remaining population of Japan, and is\nproudly displayed on our base's clock tower.=<style\=RubyPrefixTag></style>\nNó theo dõi tổng dân số còn lại của Nhật Bản và được trưng bày một cách đầy tự hào trên tháp đồng hồ của căn cứ chúng tôi.
+It tracks the total remaining population of Japan, and is proudly displayed on our base's clock tower.=Nó theo dõi tổng dân số còn lại của Nhật Bản và được trưng bày một cách đầy tự hào trên tháp đồng hồ của căn cứ chúng tôi.
+Though originally 120 million, we now stand at a mere 8 million.=Mặc dù ban đầu là 120 triệu nhưng hiện tại chúng tôi chỉ ở mức 8 triệu.
+<style\=RubyPrefixTag></style>\nThough originally 120 million, we now stand at a mere 8\nmillion.=<style\=RubyPrefixTag></style>\nMặc dù ban đầu là 120 triệu nhưng hiện tại chúng tôi chỉ ở mức 8 triệu.
+<style\=RubyPrefixTag></style>\nShould that number ever reach zero, it will mark the end of\nhumanity's struggle.=<style\=RubyPrefixTag></style>\nNếu con số đó đạt tới số 0, nó sẽ đánh dấu sự kết thúc cuộc đấu tranh của nhân loại.
+Should that number ever reach zero, it will mark the end of humanity's struggle.=Nếu con số đó đạt tới số 0, nó sẽ đánh dấu sự kết thúc cuộc đấu tranh của nhân loại.
+<style\=RubyPrefixTag></style>\nConversely, should that number increase, it will mark a\nturning point.=<style\=RubyPrefixTag></style>\nNgược lại, nếu con số đó tăng lên thì sẽ đánh dấu một bước ngoặt.
+Conversely, should that number increase, it will mark a turning point.=Ngược lại, nếu con số đó tăng lên thì sẽ đánh dấu một bước ngoặt.
+<style\=RubyPrefixTag></style>\nAs such, our end goal at the academy is to eradicate the\nCancer, and return the Population Tracker back to its\noriginal 120 million.=<style\=RubyPrefixTag></style>\nVì vậy, mục tiêu cuối cùng của chúng tôi tại học viện là tiêu diệt Ung thư và đưa Máy theo dõi dân số trở lại 120 triệu ban đầu.
+As such, our end goal at the academy is to eradicate the Cancer, and return the Population Tracker back to its original 120 million.=Vì vậy, mục tiêu cuối cùng của chúng tôi tại học viện là tiêu diệt Ung thư và đưa Máy theo dõi dân số trở lại 120 triệu ban đầu.
+<style\=RubyPrefixTag></style>\nWow, you really know your stuff.=<style\=RubyPrefixTag></style>\nWow, bạn thực sự biết công việc của bạn.
+Wow, you really know your stuff.=Wow, bạn thực sự biết công việc của bạn.
+<style\=RubyPrefixTag></style>\nI'm merely repeating the commander's speech from\nearlier. It was news to me, too. I was quite shocked.\nDumbfounded, really. Astounded.=<style\=RubyPrefixTag></style>\nTôi chỉ đang lặp lại bài phát biểu của người chỉ huy lúc trước.\nĐó cũng là tin tức đối với tôi.\nTôi khá sốc.\nChết lặng, thực sự.\nKinh ngạc.
+I'm merely repeating the commander's speech from earlier. It was news to me, too. I was quite shocked. Dumbfounded, really. Astounded.=Tôi chỉ đang lặp lại bài phát biểu của người chỉ huy lúc trước.\nĐó cũng là tin tức đối với tôi.\nTôi khá sốc.\nChết lặng, thực sự.\nKinh ngạc.
+<style\=RubyPrefixTag></style>\nThe Dunning-Kruger effect right before my eyes!=<style\=RubyPrefixTag></style>\nHiệu ứng Dunning-Kruger ngay trước mắt tôi!
+<style\=RubyPrefixTag></style>\nWhy is it that we recruits are able to wield\nSeraphim―humanity's latest and greatest\nweapons―without any expertise?=<style\=RubyPrefixTag></style>\nTại sao những tân binh của chúng tôi lại có thể sử dụng Seraphim―vũ khí mới nhất và vĩ đại nhất của nhân loại―mà không cần bất kỳ chuyên môn nào?
+Why is it that we recruits are able to wield Seraphim―humanity's latest and greatest weapons―without any expertise?=Tại sao những tân binh của chúng tôi lại có thể sử dụng Seraphim―vũ khí mới nhất và vĩ đại nhất của nhân loại―mà không cần bất kỳ chuyên môn nào?
+<style\=RubyPrefixTag></style>\nThere are too many unanswered questions... All I know is\nthat I must investigate further.=<style\=RubyPrefixTag></style>\nCó quá nhiều câu hỏi chưa được giải đáp... Tất cả những gì tôi biết là tôi phải điều tra thêm.
+There are too many unanswered questions... All I know is that I must investigate further.=Có quá nhiều câu hỏi chưa được giải đáp... Tất cả những gì tôi biết là tôi phải điều tra thêm.
+<style\=RubyPrefixTag></style>\nJust admit you know nothing.=<style\=RubyPrefixTag></style>\nHãy thừa nhận rằng bạn không biết gì cả.
+Just admit you know nothing.=Hãy thừa nhận rằng bạn không biết gì cả.
+So, are you the new recruits?=Vậy bạn có phải là tân binh không?
+<style\=RubyPrefixTag></style>\nSo, are you the new recruits?=<style\=RubyPrefixTag></style>\nVậy bạn có phải là tân binh không?
+<style\=RubyPrefixTag></style>\nWoah, new challengers have appeared! They look all\nhigh-and-mighty too!=<style\=RubyPrefixTag></style>\nWoah, những kẻ thách thức mới đã xuất hiện!\nHọ trông cũng rất cao và hùng mạnh!
+Woah, new challengers have appeared! They look all high-and-mighty too!=Woah, những kẻ thách thức mới đã xuất hiện!\nHọ trông cũng rất cao và hùng mạnh!
+<style\=RubyPrefixTag></style>\nThey must've come back from the front lines.=<style\=RubyPrefixTag></style>\nChắc họ đã trở về từ tiền tuyến.
+They must've come back from the front lines.=Chắc họ đã trở về từ tiền tuyến.
+<style\=RubyPrefixTag></style>\nAnd you must have been the ones supporting us from\nbehind?=<style\=RubyPrefixTag></style>\nVà chắc hẳn các bạn chính là người ủng hộ chúng tôi từ phía sau?
+Aristocratic Girl=Cô gái quý tộc
+And you must have been the ones supporting us from behind?=Và chắc hẳn các bạn chính là người ủng hộ chúng tôi từ phía sau?
+<style\=RubyPrefixTag></style>\nWere we supporting them?=<style\=RubyPrefixTag></style>\nChúng ta có ủng hộ họ không?
+<style\=RubyPrefixTag></style>\nNo=<style\=RubyPrefixTag></style>\nKHÔNG
+<style\=RubyPrefixTag></style>\nIndeed=<style\=RubyPrefixTag></style>\nThực vậy
+<style\=RubyPrefixTag></style>\nIndeed.=<style\=RubyPrefixTag></style>\nThực vậy.
+Indeed.=Thực vậy.
+<style\=RubyPrefixTag></style>\nWhy so polite?=<style\=RubyPrefixTag></style>\nTại sao lại lịch sự như vậy?
+Why so polite?=Tại sao lại lịch sự như vậy?
+<style\=RubyPrefixTag></style>\nI dunno. Don't ask me.=<style\=RubyPrefixTag></style>\nTôi không biết.\nĐừng hỏi tôi.
+I dunno. Don't ask me.=Tôi không biết.\nĐừng hỏi tôi.
+<style\=RubyPrefixTag></style>\nYou're the one who said it!=<style\=RubyPrefixTag></style>\nChính bạn là người đã nói điều đó!
+You're the one who said it!=Chính bạn là người đã nói điều đó!
+<style\=RubyPrefixTag></style>\nOh? This batch of new recruits seems quite capable.=<style\=RubyPrefixTag></style>\nỒ?\nĐợt tân binh này có vẻ khá có năng lực.
+Oh? This batch of new recruits seems quite capable.=Ồ?\nĐợt tân binh này có vẻ khá có năng lực.
+<style\=RubyPrefixTag></style>\nLet's go.=<style\=RubyPrefixTag></style>\nĐi thôi.
+Let's go.=Đi thôi.
+<style\=RubyPrefixTag></style>\nMm.=<style\=RubyPrefixTag></style>\nỪm.
+Samurai-like Girl=Cô gái giống samurai
+Mm.=Ừm.
+<style\=RubyPrefixTag></style>\nNot bad, rookies.=<style\=RubyPrefixTag></style>\nKhông tệ đâu, tân binh.
+Charming Girl=Cô gái quyến rũ
+<style\=RubyPrefixTag></style>\nThey have potential.=<style\=RubyPrefixTag></style>\nHọ có tiềm năng.
+They have potential.=Họ có tiềm năng.
+Not bad, rookies.=Không tệ đâu, tân binh.
+Masked Girl=Cô gái đeo mặt nạ
+<style\=RubyPrefixTag></style>\nWoah, what a colorful cast of characters. Any idea who\nthey are?=<style\=RubyPrefixTag></style>\nWow, thật là một dàn nhân vật đầy màu sắc.\nCó biết họ là ai không?
+Woah, what a colorful cast of characters. Any idea who they are?=Wow, thật là một dàn nhân vật đầy màu sắc.\nCó biết họ là ai không?
+<style\=RubyPrefixTag></style>\nSenior cadets, I bet.=<style\=RubyPrefixTag></style>\nTôi cá là học viên cao cấp.
+Senior cadets, I bet.=Tôi cá là học viên cao cấp.
+<style\=RubyPrefixTag></style>\nSo if we stick around long enough, we'll become like\nthem?=<style\=RubyPrefixTag></style>\nVậy nếu chúng ta ở đây đủ lâu, chúng ta sẽ trở nên giống họ?
+So if we stick around long enough, we'll become like them?=Vậy nếu chúng ta ở đây đủ lâu, chúng ta sẽ trở nên giống họ?
+What a formidable presence...=Thật là một sự hiện diện đáng gờm...
+<style\=RubyPrefixTag></style>\nWhat a formidable presence...=<style\=RubyPrefixTag></style>\nThật là một sự hiện diện đáng gờm...
+<style\=RubyPrefixTag></style>\nAnd their leader was so refined.=<style\=RubyPrefixTag></style>\nVà người lãnh đạo của họ rất tinh tế.
+And their leader was so refined.=Và người lãnh đạo của họ rất tinh tế.
+<style\=RubyPrefixTag></style>\nLadies, line up.=<style\=RubyPrefixTag></style>\nCác cô, xếp hàng đi.
+Ladies, line up.=Các cô, xếp hàng đi.
+<style\=RubyPrefixTag></style>\nWho, us?=<style\=RubyPrefixTag></style>\nAi, chúng ta?
+Who, us?=Ai, chúng ta?
+<style\=RubyPrefixTag></style>\nYou did well out there today.=<style\=RubyPrefixTag></style>\nHôm nay bạn đã làm rất tốt ở đó.
+You did well out there today.=Hôm nay bạn đã làm rất tốt ở đó.
+<style\=RubyPrefixTag></style>\nBut tomorrow marks the first day of your training as\nfully-fledged soldiers. Keep that in mind before you get too\ncocky.=<style\=RubyPrefixTag></style>\nNhưng ngày mai đánh dấu ngày đầu tiên các bạn được huấn luyện thành những người lính chính thức.\nHãy ghi nhớ điều đó trước khi bạn trở nên quá tự mãn.
+But tomorrow marks the first day of your training as fully-fledged soldiers. Keep that in mind before you get too cocky.=Nhưng ngày mai đánh dấu ngày đầu tiên các bạn được huấn luyện thành những người lính chính thức.\nHãy ghi nhớ điều đó trước khi bạn trở nên quá tự mãn.
+<style\=RubyPrefixTag></style>\nKayamori, I hereby declare you the leader of Squad 31-A.\nReport to me once everyone is acquainted with the\ndorms.=<style\=RubyPrefixTag></style>\nKayamori, tôi xin tuyên bố bạn là đội trưởng của Đội 31-A.\nBáo cáo cho tôi khi mọi người đã quen với ký túc xá.
+Kayamori, I hereby declare you the leader of Squad 31-A. Report to me once everyone is acquainted with the dorms.=Kayamori, tôi xin tuyên bố bạn là đội trưởng của Đội 31-A.\nBáo cáo cho tôi khi mọi người đã quen với ký túc xá.
+<style\=RubyPrefixTag></style>\nReport to the commander afterwards?=<style\=RubyPrefixTag></style>\nSau đó báo cáo với chỉ huy?
+<style\=RubyPrefixTag></style>\nMa'am, yes, ma'am!=<style\=RubyPrefixTag></style>\nThưa bà, vâng, thưa bà!
+<style\=RubyPrefixTag></style>\nSorry, groups aren't really my thing=<style\=RubyPrefixTag></style>\nXin lỗi, nhóm không thực sự là sở thích của tôi
+N=N
+<style\=RubyPrefixTag></style>\nThere'll come a day when Karrie and I will grow apart.\nWhen that time comes...would you stand by me?=<style\=RubyPrefixTag></style>\nSẽ đến một ngày Karrie và tôi sẽ xa nhau.\nKhi thời điểm đó đến... em sẽ ở bên anh chứ?
+There'll come a day when Karrie and I will grow apart. When that time comes...would you stand by me?=Sẽ đến một ngày Karrie và tôi sẽ xa nhau.\nKhi thời điểm đó đến... em sẽ ở bên anh chứ?
+Academy Building=Tòa nhà Học viện
+Academy Grounds=Sân học viện
+Dormitories=Ký túc xá
+Battle Report II Acquired=Nhận được Báo cáo Trận chiến II
+<style\=RubyPrefixTag></style>\nI'm the savior of the world, don't matter if nobody's realized\nit yet... That's what keeps me fightin'.=<style\=RubyPrefixTag></style>\nTôi là vị cứu tinh của thế giới, cho dù chưa có ai nhận ra điều đó... Đó là điều khiến tôi tiếp tục chiến đấu.
+I'm the savior of the world, don't matter if nobody's realized it yet... That's what keeps me fightin'.=Tôi là vị cứu tinh của thế giới, cho dù chưa có ai nhận ra điều đó... Đó là điều khiến tôi tiếp tục chiến đấu.
+Heliport=sân bay trực thăng
+Narby Square=Quảng trường Narby
+Clock Tower=Tháp đồng hồ
+Mortuary=nhà xác
+Map=Bản đồ
+<style\=RubyPrefixTag></style>\nEven if I was born just for war, I treasure all of the\nwonderful days I've shared with everyone!=<style\=RubyPrefixTag></style>\nNgay cả khi tôi sinh ra chỉ để dành cho chiến tranh, tôi vẫn trân trọng tất cả những ngày tuyệt vời mà tôi đã chia sẻ với mọi người!
+Even if I was born just for war, I treasure all of the wonderful days I've shared with everyone!=Ngay cả khi tôi sinh ra chỉ để dành cho chiến tranh, tôi vẫn trân trọng tất cả những ngày tuyệt vời mà tôi đã chia sẻ với mọi người!
+Fun Times with Cappy! V=Khoảng thời gian vui vẻ cùng Cappy!\nV.
+Fun Times with Cappy! III=Khoảng thời gian vui vẻ cùng Cappy!\nIII
+Fun Times with Cappy! IV=Khoảng thời gian vui vẻ cùng Cappy!\nIV
+<style\=RubyPrefixTag></style>\nI've always been haughty about my intelligence, so people\nnever liked me...but I don't want to lose my current\nfriends.=<style\=RubyPrefixTag></style>\nTôi luôn kiêu ngạo về trí thông minh của mình nên mọi người không bao giờ thích tôi... nhưng tôi không muốn mất đi những người bạn hiện tại.
+I've always been haughty about my intelligence, so people never liked me...but I don't want to lose my current friends.=Tôi luôn kiêu ngạo về trí thông minh của mình nên mọi người không bao giờ thích tôi... nhưng tôi không muốn mất đi những người bạn hiện tại.
+Anima Sphere=Quả cầu hoạt hình
+Limit Breaks=Phá vỡ giới hạn
+<style\=RubyPrefixTag></style>\nStay here=<style\=RubyPrefixTag></style>\nỞ lại đây
+<style\=RubyPrefixTag></style>\nDo a gig=<style\=RubyPrefixTag></style>\nThực hiện một buổi biểu diễn
+I swear... I'll complete the elixir for eternal life.=Tôi thề... Tôi sẽ hoàn thành liều thuốc trường sinh.
+<style\=RubyPrefixTag></style>\nI swear... I'll complete the elixir for eternal life.=<style\=RubyPrefixTag></style>\nTôi thề... Tôi sẽ hoàn thành liều thuốc trường sinh.
+6 Day(s) Left=Còn lại 6 ngày
+Weekly Missions 4/6=Nhiệm vụ hàng tuần 4/6
+Lottery=Xổ số
+20 Day(s) Left=Còn lại 20 ngày
+STEP0=BƯỚC0
+0 free recruitment(s) available=Có 0 tuyển dụng miễn phí
+Up to 100 free rolls!\nGolden Week Daily Free 10-Roll Recruitment\n* Resets each day at 0:00 (UTC-7).=Lên tới 100 cuộn miễn phí!\nTuần lễ vàng Tuyển dụng 10 cuộn miễn phí hàng ngày * Đặt lại mỗi ngày lúc 0:00 (UTC-7).
+Available until 05/14/2026 23:59(UTC-7)=Có sẵn cho đến ngày 14/05/2026 23:59(UTC-7)
+New Miko Tenne and Seira Sakuraba Memorias Have Appeared!\nFor a limited time, both new Memorias have increased drop rates!=Kỷ niệm Miko Tenne và Seira Sakuraba mới đã xuất hiện!\nTrong thời gian giới hạn, cả hai Memoria mới đều có tỷ lệ rơi tăng lên!
+BLASTER=TUYỆT VỜI
+ Reliable leader of a senior squad.= Người lãnh đạo đáng tin cậy của một đội cấp cao.
+<style\=RubyPrefixTag></style>\nYuina<space\=-96.74px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=96.73px><style\=RubySuffixTag></style> Shirakawa<space\=-178.775px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=178.765px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nYuina<space\=-96.74px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=96.73px><style\=RubySuffixTag></style> Shirakawa<space\=-178.775px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=178.765px><style\=RubySuffixTag></style>
+Unknown=Không xác định
+Jan 6=ngày 6 tháng 1
+Synchronizing data 1 / 1=Đồng bộ dữ liệu 1/1
+CV: Yumiri Hanamori =CV: Yumiri Hanamori 
+CV: Sonoka Tsukiyama =CV: Sonoka Tsukiyama 
+ Blade-wielding executioner trapped by the weight of death.= Kẻ hành quyết cầm dao bị mắc kẹt bởi sức nặng của cái chết.
+<style\=RubyPrefixTag></style>\nInori<space\=-83.04px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=83.03px><style\=RubySuffixTag></style> Natsume<space\=-151.92px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=151.91px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nInori<space\=-83.04px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=83.03px><style\=RubySuffixTag></style> natsume<space\=-151.92px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=151.91px><style\=RubySuffixTag></style>
+Tokyo=Tokyo
+Aug 15=ngày 15 tháng 8
+retry=thử lại
+GetApiServerInfo Error=Lỗi GetApiServerInfo
+Discord=Bất hòa
+Facebook=Facebook
+X=X
+ Squad 31-F\nA strike force that swiftly defeats powerful enemies with their formidable front line backed by the support of their reserve units.= Biệt đội 31-F Một lực lượng tấn công nhanh chóng đánh bại kẻ thù hùng mạnh với tiền tuyến đáng gờm được hỗ trợ bởi các đơn vị dự bị của họ.
+Automatic Battle=Trận chiến tự động
+Form a squad to deploy on automatic battles.=Thành lập một đội để triển khai trong các trận chiến tự động.
+Hyperbolic Time Arena: Squad Formation=Đấu trường thời gian Hyperbolic: Đội hình
+Main/Gig=Chính/Gig
+31A 31B 31C 31D=31A 31B 31C 31D
+ENDLESS=VÔ TẬN
+30 Turn(s)=30 lượt
+SEASON 5 ENDLESS=MÙA 5 VÔ TẬN
+Endless=vô tận
+Available from 05/01/2026 00:00(UTC-7) until 07/23/2026 23:59(UTC-7)=Có sẵn từ ngày 01/05/2026 00:00(UTC-7) cho đến ngày 23/07/2026 23:59(UTC-7)
+Season 5 —Spring 2026—=Mùa 5 —Mùa xuân 2026—
+Arts Battle=Trận chiến nghệ thuật
+Medal Lottery=Xổ số huy chương
+<size\=40>1回</size><size\=24\n> 引く</size>=<size\=40>1回</size><kích thước\=24\n\n> 引く</size>
+<size\=40>10回</size><size\=24\n> 引く</size>=<size\=40>10回</size><kích thước\=24\n\n> 引く</size>
+CV: Aoi Hinata =CV: Aoi Hinata 
+ Hardworking girl with an acute sense of focus.= Cô gái chăm chỉ với ý thức tập trung cao độ.
+<style\=RubyPrefixTag></style>\nIchiko<space\=-104.045px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=104.035px><style\=RubySuffixTag></style> Ohshima<space\=-148.605px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=148.595px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nIchiko<space\=-104.045px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=104.035px><style\=RubySuffixTag></style> Ohshima<space\=-148.605px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=148.595px><style\=RubySuffixTag></style>
+Fukuoka=Fukuoka
+<style\=RubyPrefixTag></style>\nWe were unable to detect an internet connection.\nPlease ensure you are connected to the internet.\nError Code: E-1=<style\=RubyPrefixTag></style>\nChúng tôi không thể phát hiện được kết nối internet.\nHãy đảm bảo bạn đã kết nối với internet.\nMã lỗi: E-1
+CV: Yurie Kozakai =CV: Yurie Kozakai 
+ Prodigy beloved by the goddess of mathematics.= Thần đồng được nữ thần toán học yêu quý.
+<style\=RubyPrefixTag></style>\nVritika<space\=-122.66px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=122.65px><style\=RubySuffixTag></style> Balakrishnan<space\=-225.005px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=224.995px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nvritika<space\=-122.66px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=122.65px><style\=RubySuffixTag></style> Balakrishnan<space\=-225.005px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=224.995px><style\=RubySuffixTag></style>
+New Delhi, India=New Delhi, Ấn Độ
+Jan 26=ngày 26 tháng 1
