@@ -1,127 +1,70 @@
-﻿分割DL=分割DL
-INFORMATION=THÔNG TIN
-F=F
-まとめてDL=まとめてDL
-O K=ĐƯỢC RỒI
+﻿INFORMATION=THÔNG TIN
+O K=Xác nhận
 AUDIO DOWNLOAD PROMPT=NHẮC NHẬN TẢI XUỐNG ÂM THANH
 DOWNLOAD ADVICE=TẢI VỀ TƯ VẤN
 DO NOT DOWNLOAD=KHÔNG TẢI XUỐNG
 AUTO SAVING=TỰ ĐỘNG LƯU
-Synchronizing data 0 / 1=Đồng bộ dữ liệu 0/1
-CV: Maaya Torigoe =CV: Maaya Torigoe 
- Utterly faultless lady's maid of many talents.= Cô hầu gái hoàn toàn không có lỗi của nhiều tài năng.
 0 Day(s) Left=Còn lại 0 ngày
-Lady Ruka, I offer you my servitude... Wherever you go, I shall follow, even to the depths of Hell...=Tiểu thư Ruka, tôi xin dâng cho cô sự phục vụ của mình... Dù cô đi đâu, tôi sẽ theo đó, thậm chí đến tận địa ngục...
 0 Hour(s) Left=Còn lại 0 giờ
-E=E
-Q=Q
-<style\=RubyPrefixTag></style>\nMion<space\=-83.995px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=83.98499px><style\=RubySuffixTag></style> Yanagi<space\=-116.695px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=116.685px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMion<space\=-83.995px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=83.98499px><style\=RubySuffixTag></style> Yanagi<space\=-116.695px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=116.685px><style\=RubySuffixTag></style>
-Miyagi=Miyagi
-Apr 13=ngày 13 tháng 4
-31-F=31-F
-DOWNLOAD=TẢI XUỐNG
-CV:  =CV:  
- / Vo.:  = / Võ.:  
-TIPS=MẸO
-100MB/100MB=100MB/100MB
-NOW LOADING=ĐANG TẢI
-I=TÔI
-Performing setup (660 / 660)=Thực hiện thiết lập (660/660)
 
-
-
-
-
-61F=61F
-
-Welcome, Quon!=Chào mừng Quon!
-CONNECTING=KẾT NỐI
 
 3 Day(s) Left=Còn lại 3 ngày
 Selection Ticket Set=Bộ vé tuyển chọn
-Chapter 5—Part 2=Chương 5—Phần 2
-Yuki Izumi=Yuki Izumi
+
+
 Weekly Missions 2/6=Nhiệm vụ hàng tuần 2/6
 Day=Ngày
 Prologue=Phần mở đầu
 <pos\=15%>Day\n<size\=40>12</size>=<pos\=15%>Ngày\n<size\=40>12</size>
 I used to be a hacker of the Orchids. Honestly, I'm still pretty proud to have been a member.=Tôi từng là hacker của Orchids.\nThành thật mà nói, tôi vẫn khá tự hào khi được là thành viên.
 <size\=22>Unison Recruitment Now ON</size>=<size\=22>Chiêu mộ Style Unison đang diễn ra!</size>
-Lady Ruka, you would treat me to royal tea, mouth-to-mouth? S-Surely you jest...=Tiểu thư Ruka, cô sẽ đãi tôi trà hoàng gia, truyền miệng à?\nĐ-Chắc chắn là cậu đùa...
-Ruka Kayamori=Ruka Kayamori
-I'm no good in social situations. Knight Yukkie, let's sneak off somewhere and make out.=Tôi không giỏi trong các tình huống xã hội.\nHiệp sĩ Yukkie, chúng ta hãy lẻn đi đâu đó và làm lành nhé.
-(God, she looks so erotic when she tucks her hair behind her ear like that... Dammit, my heart's gonna jump out of my chest...)=(Chúa ơi, cô ấy trông thật gợi tình khi vén tóc ra sau tai như thế... Chết tiệt, tim tôi sắp nhảy ra khỏi lồng ngực mất...)
-ASS is acting up... shit, that came out wrong. My actual ass is fine. Wait, no, that also sounds wrong.=ASS đang hoạt động... chết tiệt, điều đó xảy ra sai lầm.\nMông thật của tôi vẫn ổn.\nĐợi đã, không, điều đó nghe cũng có vẻ sai.
+
 Gift Box=
 Item(s) acquired from Premium Token Exchange =(Các) vật phẩm có được từ Trao đổi mã thông báo cao cấp 
 Until 06/03/2026 01:16(UTC-7)=Cho đến ngày 03/06/2026 01:16(UTC-7)
 Golden Week Special Login Bonus: Day 4 =Phần thưởng đăng nhập đặc biệt Tuần lễ vàng: Ngày 4 
 Until 06/03/2026 01:14(UTC-7)=Cho đến ngày 03/06/2026 01:14(UTC-7)
 Daily Login Bonus: Day 1 =Phần thưởng đăng nhập hàng ngày: Ngày 1 
-Time  Selection=Lựa chọn thời gian
-Chapter 2=Chương 2
-Chapter 1=Chương 1
-Story Select=Chọn câu chuyện
-Chapter 3=Chương 3
-Chapter 4—Part 1=Chương 4—Phần 1
-Chapter 4—Part 2=Chương 4—Phần 2
-Chapter 5—Part 1=Chương 5—Phần 1
-Hello World=Xin chào thế giới
+
 During the entrance ceremony, the enemy of mankind—the Cancer—attacks.\nThus begins the young women's fight to save the world.=<size\=32>Trong lễ khai giảng, Cancer - Kẻ thù của nhân loại, bắt đầu tấn công. Từ đó bắt đầu cuộc chiến của các thiếu nữ trẻ để cứu thế giới.</size>
-(Sun)=(CN)
+
 Day<size\=78>00</size><color\=#F6E5E5FF>(Sun)</color>=<size\=28>  Ngày</size><size\=81>00</size><size\=25><color\=#F6E5E5FF>(Chủ Nhật)</color></size>
-(Thur)=(Thứ năm)
-(Wed)=(Thứ Tư)
-(Tue)=(Thứ ba)
-(Mon)=(Thứ Hai)
-(Fri)=(Thứ sáu)
+
 Day<size\=78>12</size><color\=#F6E5E5FF>(Fri)</color>=Ngày<size\=78>12</size><color\=#F6E5E5FF>(Thứ sáu)</color>
 Out of nowhere, a swarm of Cancers crosses the second line of defense, and 31-A and 31-C are called to action.\n* Boss: Death Slug=Không biết từ đâu, một đàn Cancers vượt qua tuyến phòng thủ thứ hai, và 31-A và 31-C được kêu gọi hành động.\n* Boss: Sên tử thần
 31-A continues battling through the dungeon but trails behind 31-C. Which squad will rank supreme?=31-A tiếp tục chiến đấu xuyên qua ngục tối nhưng tụt lại phía sau 31-C.\nĐội hình nào sẽ xếp hạng tối cao?
 Ikebukuro Underground Reservoir=Hồ chứa ngầm Ikebukuro
 31-A continues to explore the dungeon. Though they worry about 31-C, the true reality of combat leaves the squad more tired than usual.=31-A tiếp tục khám phá ngục tối.\nMặc dù họ lo lắng về nhiệt độ 31-C, nhưng thực tế chiến đấu thực sự khiến cả đội mệt mỏi hơn bình thường.
 31-A continues to explore the dungeon.\nMeanwhile, 31-C already seems ready to start exploring Level 3...=31-A tiếp tục khám phá ngục tối.\nTrong khi đó, 31-C dường như đã sẵn sàng bắt đầu khám phá Cấp 3...
-(Sat)=(Đã ngồi)
+
 The members of 31-A experience their first taste of dormitory life, undergo combat training at the arena, and learn about Seraph Weapons.=Các thành viên của 31-A trải nghiệm hương vị đầu tiên của cuộc sống ký túc xá, trải qua huấn luyện chiến đấu tại đấu trường và tìm hiểu về Vũ khí Seraph.
-Aaaghh, I'm gonna hack it!=Aaaghh, tôi sẽ hack nó!
-ver: 3.0.1(61)=phiên bản: 3.0.1(61)
-User Interface=Giao diện người dùng
+
+
 Z=Z
 タップしてIDを表示=タップしてIDを表示
 Enter SDKID=Nhập SDKID
-<style\=RubyPrefixTag></style>\nMari<space\=-79.07999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=79.06999px><style\=RubySuffixTag></style> Satsuki<space\=-130.42px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=130.41px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMari<space\=-79.07999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=79.06999px><style\=RubySuffixTag></style> Satsuki<space\=-130.42px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=130.41px><style\=RubySuffixTag></style>
-Mie=Mie
-Feb 7=7 tháng 2
-31-C=31-C
- Ultimate shopkeeper, fighting on the frontlines.= Người chủ cửa hàng tối thượng, chiến đấu ở tiền tuyến.
-Menu=Thực đơn
-CV: Yuyu Shoji =CV: Yuyu Shoji 
- Cold assassin who talks like a cat.= Sát thủ lạnh lùng nói như mèo.
-<style\=RubyPrefixTag></style>\nSumomo<space\=-140.92px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=140.91px><style\=RubySuffixTag></style> Minase<space\=-121.155px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=121.145px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nsumomo<space\=-140.92px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=140.91px><style\=RubySuffixTag></style> Minase<space\=-121.155px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=121.145px><style\=RubySuffixTag></style>
-Aichi=Tỉnh Aichi
-Sep 6=ngày 6 tháng 9
-31-B=31-B
+
+
 2 Day(s) Left=Còn lại 2 ngày
-ATTACKER=kẻ tấn công
 <size\=32>Squad</size> <size\=48>10</size>=<size\=32>Đội hình</size> <size\=48>10</size>
-Sortie=xuất kích
+Sortie=Xuất kích
 Reorder=Sắp xếp lại
 SLv.=SLv.
 CLv.=CLv.
 Lv.=Lv.
 Unit=Đơn vị
 BLASTER=
-Karen Asakura=Karen Asakura
-DEBUFFER=GỠ LỖI
-Megumi Aikawa=Megumi Aikawa
-ADMIRAL=đô đốc
+
+
+
+
 Erika Aoi=Erika Aoi
-BUFFER=ĐỆM
+
 Iroha Ishii=Iroha Ishii
-BREAKER=máy cắt
-アクセサリLv.=アクセサリLv.
+
+
 Score Attack=Điểm tấn công
-Style List=Danh sách phong cách
+
 Filter On=Bật bộ lọc
 Skill=Kỹ năng
 Limit Break Lv. 3=Phá vỡ giới hạn Lv.\n3
@@ -192,8 +135,8 @@ Chapter 2 Day 7 16 : 30=Chương 2 Ngày 7 16 : 30
 Yukkie Down-the-Steps=Yukkie bước xuống
 Chapter 4—Part 1 Day 2 19 : 00=Chương 4—Phần 1 Ngày 2 19 : 00
 Chapter 5—Part 1 Day 12 19 : 00=Chương 5—Phần 1 Ngày 12 19 : 00
-9 Day(s) Left=Còn lại 9 ngày
-Invite Friend=Mời bạn bè
+
+
 Invite new friends to play Heaven Burns Red\nand they'll receive 1,000 quartz!\nEarn up to 7500 quartz as your friends progress!=Mời bạn bè mới chơi Heaven Burns Red và họ sẽ nhận được 1.000 thạch anh!\nKiếm tới 7500 thạch anh khi bạn bè của bạn tiến bộ!
 <size\=34>5</size><size\=30>/</size><size\=24>5 people</size>=<size\=34>5</size><size\=30>/</size><size\=24>5 người</size>
 A friend clears Main Scenario: Chapter 1=Một người bạn hoàn thành Kịch bản chính: Chương 1
@@ -218,10 +161,8 @@ Filter Off=Tắt bộ lọc
 HQ=trụ sở chính
 Bond Lv.=Trái phiếu Lv.
 Revert=Hoàn nguyên
-Tsukasa Tojo=Tsukasa Tojo
 Aina Mizuhara=Aina Mizuhara
 Yuina Shirakawa=Yuina Shirakawa
-Tama Kunimi=Tama Kunimi
 Miyuki Irie=Miyuki Irie
 Yuri Nakamura=yuri Nakamura
 Kanade Tachibana=Kanade Tachibana
@@ -449,8 +390,6 @@ Dancing Reincarnation=Nhảy múa tái sinh
 Acquired=Đã mua
 ノイズ解放Lv.=ノイズ解放Lv.
 キャラLv.=キャラLv.
-DEFENDER=HẬU VỆ
-HEALER=NGƯỜI CHỮA LÀNH
 Stewartia, Dazzling Noctilucent Star=Stewartia, Ngôi sao dạ quang rực rỡ
 Illustration=Hình minh họa
 Memorias=Kỷ niệm
@@ -491,48 +430,19 @@ Defeat 18 people in Duelo.=Đánh bại 18 người trong Duelo.
 Defeat 16 people in Duelo.=Đánh bại 16 người trong Duelo.
 Defeat 14 people in Duelo.=Đánh bại 14 người trong Duelo.
 Collection=Bộ sưu tập
-Relive Memories=Hồi tưởng
-Late Night=Đêm muộn
-Night 2=Đêm 2
-Early Morning=Sáng sớm
-Morning=Buổi sáng
-Period 1=Giai đoạn 1
-Period 2=Giai đoạn 2
-Lunch=Bữa trưa
-Period 3=Giai đoạn 3
-Period 4=Kỳ 4
-Evening=Buổi tối
-Period 1=Giai đoạn 1
-<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 1"?=<style\=RubyPrefixTag></style>\nChơi Ngày này bắt đầu từ "Giai đoạn 1"?
-Morning=Buổi sáng
-Night 1=Đêm 1
+
+
 <style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 2"?=<style\=RubyPrefixTag></style>\nChơi Ngày này bắt đầu từ "Giai đoạn 2"?
-Hey, you.=Này, bạn.
-BACK LOG=NHẬT KÝ TRỞ LẠI
+
 <style\=RubyPrefixTag></style>\nReturn to the Home screen?=<style\=RubyPrefixTag></style>\nQuay lại Màn hình chính?
-Cancel=Hủy bỏ
+
 
 1 Day(s) Left=Còn lại 1 ngày
 EliminateTarget=
 Recover Life Point(s)=Phục hồi điểm sinh mệnh
 Life Points to Restore=Điểm cuộc sống để khôi phục
 8 Day(s) Left=Còn lại 8 ngày
-Event=
-誕生日=sinh nhật
-所属部隊=Đơn vị trực thuộc
-出身地=Nơi sinh
-お知らせ一覧=Danh sách thông báo
-画像やボイスなどのデータをダウンロードします。\r\n通信環境の良い場所で行ってください。=Tải xuống dữ liệu như hình ảnh và giọng nói.\nHãy thực hiện việc này ở nơi có môi trường giao tiếp tốt.
-アセットのダウンロード=Tải nội dung xuống
 
-お問い合わせ=Liên hệ với chúng tôi
-キャッシュクリア=xóa bộ nhớ đệm
-アセット再取得=Mua lại tài sản
-セーブデータ修復=Lưu sửa chữa dữ liệu
-一括ダウンロード=Tải xuống hàng loạt
-利用規約等=Điều khoản sử dụng, v.v.
-ライセンス=giấy phép
-応援レビュー=Hỗ trợ đánh giá
 友達招待=Mời bạn bè
 報酬を選択して敵の推奨戦力を確定してください=Chọn phần thưởng của bạn và xác nhận sức mạnh đề xuất của kẻ thù
 
@@ -614,11 +524,11 @@ HELL攻略エリア=Khu vực chiến lược HELL
 NORMAL攻略エリア=Khu vực chiến lược BÌNH THƯỜNG
 最高到達階=đạt đến tầng cao nhất
 進捗報酬=phần thưởng tiến bộ
-ギフトボックス=hộp quà
+
 ※受信日時から30日経過すると自動で消去されます。\n　一括受け取りは有効期間が短い順から受け取ります。\n　一度に受け取れるギフトは最大100件までです。=*Nó sẽ tự động bị xóa sau 30 ngày kể từ ngày và giờ nhận.\nBiên lai số lượng lớn được nhận theo thứ tự hợp lệ.\nBạn có thể nhận tới 100 quà tặng cùng một lúc.
 受け取り履歴=Lịch sử nhận
 受け取り可能なものはありません=Không có mặt hàng nào có sẵn để nhận.
-イベントミッション=nhiệm vụ sự kiện
+
 討伐ターゲット=mục tiêu chinh phục
 報酬は獲得済です=Phần thưởng đã kiếm được
 イベントをプレイ=chơi sự kiện
@@ -663,7 +573,7 @@ NORMAL攻略エリア=Khu vực chiến lược BÌNH THƯỜNG
 元素属性=thuộc tính nguyên tố
 効果アップ=Tăng hiệu quả
 専用ピースのみ=Hàng độc quyền duy nhất
-限界突破=Phá vỡ giới hạn
+
 ロール=cuộn
 レアリティ=hiếm có
 並べ替え=sắp xếp
@@ -699,16 +609,13 @@ NORMAL攻略エリア=Khu vực chiến lược BÌNH THƯỜNG
 自動選択設定=Cài đặt lựa chọn tự động
 選択クリア=lựa chọn rõ ràng
 合成=tổng hợp
-ドゥエロ=Duero
 続きから=Từ phần tiếp theo
 過去をたどる=theo dõi quá khứ
 交流/メモリーストーリー=Câu chuyện trao đổi/bộ nhớ
 最新のショップ=cửa hàng mới nhất
 最新のフリータイムへ=Đến thời gian rảnh mới nhất
 特殊効果：=Hiệu ứng đặc biệt:
-時間帯選択=Lựa chọn múi giờ
 本編=Câu chuyện chính
-ストーリー選択=Lựa chọn câu chuyện
 はじめから=ngay từ đầu
 途中から=từ giữa
 討伐任務=nhiệm vụ chinh phục
@@ -849,12 +756,11 @@ SSスタイル交換所=Trao đổi phong cách SS
 はじめる=Bắt đầu
 発生条件=Điều kiện xảy ra
 報酬は取得済みです=Phần thưởng đã nhận được
-選択済=đã chọn
+
 スタイル総合戦力=Sức mạnh phong cách tổng thể
 該当するスタイルがありません=Không có phong cách phù hợp
 編成中=Đang xây dựng
-強化=tăng cường
-スタイル一覧=Danh sách phong cách
+スタイル一覧=Styles
 CV: Aguri Onishi =CV: Aguri Onishi 
  Archer with an extreme devotion to traditional Japanese culture.= Archer với lòng sùng mộ sâu sắc đối với văn hóa truyền thống Nhật Bản.
 <style\=RubyPrefixTag></style>\nMiya<space\=-81.18px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=81.17px><style\=RubySuffixTag></style> Kiryu<space\=-91.23px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=91.21999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMiya<space\=-81.18px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=81.17px><style\=RubySuffixTag></style> Kiryu<space\=-91.23px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=91.21999px><style\=RubySuffixTag></style>
@@ -958,8 +864,6 @@ Wow. Your Orckids is a pretty crazy bunch too!=Ồ.\nOrckids của bạn cũng l
 <style\=RubyPrefixTag></style>\nNo, you're just too damn loud to pay attention!=<style\=RubyPrefixTag></style>\nKhông, bạn ồn ào quá nên không thể chú ý được!
 No, you're just too damn loud to pay attention!=Không, bạn ồn ào quá nên không thể chú ý được!
 <style\=RubyPrefixTag></style>\nIf that's what you call intel, you're already as good as dead.=<style\=RubyPrefixTag></style>\nNếu đó là thứ mà bạn gọi là thông tin thì bạn coi như đã chết rồi.
-<style\=RubyPrefixTag></style>\nAnd you are?=<style\=RubyPrefixTag></style>\nCòn bạn thì sao?
-And you are?=Còn bạn thì sao?
 <style\=RubyPrefixTag></style>\nMy name? As if I would reveal such details. I am an intel\nagent, you know.=<style\=RubyPrefixTag></style>\nTên tôi?\nNhư thể tôi sẽ tiết lộ chi tiết như vậy.\nTôi là đặc vụ tình báo, bạn biết đấy.
 Arrogant Girl=Cô gái kiêu ngạo
 My name? As if I would reveal such details. I am an intel agent, you know.=Tên tôi?\nNhư thể tôi sẽ tiết lộ chi tiết như vậy.\nTôi là đặc vụ tình báo, bạn biết đấy.
@@ -1114,7 +1018,7 @@ STEP0=BƯỚC0
 Up to 100 free rolls!\nGolden Week Daily Free 10-Roll Recruitment\n* Resets each day at 0:00 (UTC-7).=Lên tới 100 cuộn miễn phí!\nTuần lễ vàng Tuyển dụng 10 cuộn miễn phí hàng ngày * Đặt lại mỗi ngày lúc 0:00 (UTC-7).
 Available until 05/14/2026 23:59(UTC-7)=Có sẵn cho đến ngày 14/05/2026 23:59(UTC-7)
 New Miko Tenne and Seira Sakuraba Memorias Have Appeared!\nFor a limited time, both new Memorias have increased drop rates!=Kỷ niệm Miko Tenne và Seira Sakuraba mới đã xuất hiện!\nTrong thời gian giới hạn, cả hai Memoria mới đều có tỷ lệ rơi tăng lên!
-BLASTER=TUYỆT VỜI
+
  Reliable leader of a senior squad.= Người lãnh đạo đáng tin cậy của một đội cấp cao.
 <style\=RubyPrefixTag></style>\nYuina<space\=-96.74px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=96.73px><style\=RubySuffixTag></style> Shirakawa<space\=-178.775px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=178.765px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nYuina<space\=-96.74px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=96.73px><style\=RubySuffixTag></style> Shirakawa<space\=-178.775px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=178.765px><style\=RubySuffixTag></style>
 Unknown=Không xác định
@@ -1124,13 +1028,8 @@ CV: Yumiri Hanamori =CV: Yumiri Hanamori
 CV: Sonoka Tsukiyama =CV: Sonoka Tsukiyama 
  Blade-wielding executioner trapped by the weight of death.= Kẻ hành quyết cầm dao bị mắc kẹt bởi sức nặng của cái chết.
 <style\=RubyPrefixTag></style>\nInori<space\=-83.04px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=83.03px><style\=RubySuffixTag></style> Natsume<space\=-151.92px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=151.91px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nInori<space\=-83.04px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=83.03px><style\=RubySuffixTag></style> natsume<space\=-151.92px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=151.91px><style\=RubySuffixTag></style>
-Tokyo=Tokyo
 Aug 15=ngày 15 tháng 8
-retry=thử lại
-GetApiServerInfo Error=Lỗi GetApiServerInfo
-Discord=Bất hòa
-Facebook=Facebook
-X=X
+
  Squad 31-F\nA strike force that swiftly defeats powerful enemies with their formidable front line backed by the support of their reserve units.= Biệt đội 31-F Một lực lượng tấn công nhanh chóng đánh bại kẻ thù hùng mạnh với tiền tuyến đáng gờm được hỗ trợ bởi các đơn vị dự bị của họ.
 Automatic Battle=Trận chiến tự động
 Form a squad to deploy on automatic battles.=Thành lập một đội để triển khai trong các trận chiến tự động.
@@ -1157,3 +1056,1330 @@ CV: Yurie Kozakai =CV: Yurie Kozakai
 <style\=RubyPrefixTag></style>\nVritika<space\=-122.66px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=122.65px><style\=RubySuffixTag></style> Balakrishnan<space\=-225.005px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=224.995px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nvritika<space\=-122.66px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=122.65px><style\=RubySuffixTag></style> Balakrishnan<space\=-225.005px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=224.995px><style\=RubySuffixTag></style>
 New Delhi, India=New Delhi, Ấn Độ
 Jan 26=ngày 26 tháng 1
+F=F
+
+
+<style\=RubyPrefixTag></style>\nErika<space\=-90.34499px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=90.33499px><style\=RubySuffixTag></style> Aoi<space\=-56.095px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=56.085px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nErika<space\=-90.34499px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=90.33499px><style\=RubySuffixTag></style> aoi<space\=-56.095px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=56.085px><style\=RubySuffixTag></style>
+I'm no good in social situations. Knight Yukkie, let's sneak off somewhere and make out.=Tôi không giỏi trong các tình huống xã hội.\nHiệp sĩ Yukkie, chúng ta hãy lẻn đi đâu đó và làm lành nhé.
+141 Hour(s) Left=Còn lại 141 giờ
+Score Challenge being held now!=Thử thách tính điểm đang được tổ chức ngay bây giờ!
+E=E
+Q=Q
+5 Day(s) Left=Còn lại 5 ngày
+Weekly Missions 5/6=Nhiệm vụ hàng tuần 6/5
+Synchronizing data 0 / 1=Đồng bộ dữ liệu 0/1
+CV: Saki Miyashita =CV: Saki Miyashita 
+ Earnest squad leader with a peculiar ability.= Đội trưởng nghiêm túc với một khả năng đặc biệt.
+19 Day(s) Left=Còn lại 19 ngày
+Even if time should stop.=Kể cả khi thời gian có dừng lại.
+Honnoji, Dress Code de.=Honnoji, Quy định trang phục de.
+HIGH SCORE: 0=ĐIỂM CAO: 0
+Melancholic Blue=Màu xanh u sầu
+This Game Needs Guns=Trò chơi này cần súng
+Dance! Dance! Dance!=Nhảy!\nNhảy!\nNhảy!
+HIGH SCORE: 3096006=ĐIỂM CAO: 3096006
+Arifureta Battle Song ～Itsumo Sentou wa Mendou da～=Bài hát chiến đấu Arifureta ～Isumo Sentou wa Mendou da～
+HIGH SCORE: 3509245=ĐIỂM CAO: 3509245
+Kishi Kaisei=Kishi Kaisei
+HIGH SCORE: 1624898=ĐIỂM CAO: 1624898
+World We Changed=Thế giới chúng ta đã thay đổi
+HIGH SCORE: 1356884=ĐIỂM CAO: 1356884
+Burn My Soul=Đốt cháy tâm hồn tôi
+HIGH SCORE: 2286240=ĐIỂM CAO: 2286240
+
+Live=Sống
+Rating\n=Đánh giá\n
+EASY=DỄ
+Area=Khu vực
+Lv=Cấp độ
+[Currently Live] (until 05/14/2026 23:59(UTC-7))=[Hiện đang trực tiếp] (cho đến ngày 14/05/2026 23:59(UTC-7))
+Lv.22=Lv.22
+EXPERT=CHUYÊN GIA
+Lv.18=Lv.18
+HARD=CỨNG
+Lv.12=Lv.12
+NORMAL=BÌNH THƯỜNG
+Lv.5=Cấp 5
+NORMAL=BÌNH THƯỜNG
+Lv.5=Cấp 5
+AUTO OFF=TỰ ĐỘNG TẮT
+AUTO ON=TỰ ĐỘNG BẬT
+Turn=Xoay
+Boss出現まで=Ông chủ
+DRAW=VẼ TRANH
+Update Card=Cập nhật thẻ
+Turns Used: 0=Lượt sử dụng: 0
+REFRESH=LÀM CHO KHỎE LẠI
+Rank 0=Xếp hạng 0
++ 0 EXP=+ 0 kinh nghiệm
+O=ồ
+0 Turn(s)=0 lượt
+シーズンPt=シーズンPt
+61F=61F
+Nordstrom Nanocrystal=Tinh thể nano Nordstrom
+Quartz=Thạch anh
+Premium Token=Mã thông báo cao cấp
+Bounty Reward(s)=(Các) phần thưởng tiền thưởng
+Do you wish to attempt this anachrony?=Bạn có muốn thử sự lỗi thời này không?
+Clear within 14 total turns.=Hoàn thành trong tổng cộng 14 lượt.
+Clear while using 3 or more members of 31-A.=Xóa khi sử dụng 3 thành viên trở lên của 31-A.
+Clear without using Stat Boost.=Xóa mà không sử dụng Stat Boost.
+Reset: 22 Day(s) Left=Đặt lại: Còn lại 22 ngày
+Delimiter=Dấu phân cách
+Skill Guide=Hướng dẫn kỹ năng
+Lady Ruka, you would treat me to royal tea, mouth-to-mouth? S-Surely you jest...=Tiểu thư Ruka, cô sẽ đãi tôi trà hoàng gia, truyền miệng à?\nĐ-Chắc chắn là cậu đùa...
+Gallery=Phòng trưng bày
+ASS is acting up... shit, that came out wrong. My actual ass is fine. Wait, no, that also sounds wrong.=ASS đang hoạt động... chết tiệt, điều đó xảy ra sai lầm.\nMông thật của tôi vẫn ổn.\nĐợi đã, không, điều đó nghe cũng có vẻ sai.
+Return=Trở lại
+ATTACKER=kẻ tấn công
+BUFFER=ĐỆM
+BREAKER=máy cắt
+DEBUFFER=GỠ LỖI
+The curtain rises on the final battle between the flat hand and the Seraph squadron. What follows is an all-out battle with all hands on deck.\n* Boss: Flat Hand.=Bức màn kéo lên về trận chiến cuối cùng giữa bàn tay phẳng và phi đội Seraph.\nTiếp theo là một trận chiến tổng lực với sự tham gia của tất cả mọi người.\n* Ông chủ: Bàn tay phẳng.
+Side: =Bên: 
+The threat of a mid-sized Cancer's breaching the dome sets a fire in Megumi's heart. Each with their own motivations and conviction, the intense battle against the Skullplume begins.=Mối đe dọa về việc một Cự Giải cỡ trung sẽ chọc thủng mái vòm khiến trái tim Megumi như bùng cháy.\nMỗi người có động cơ và niềm tin riêng, trận chiến khốc liệt chống lại Skullplume bắt đầu.
+Side: Megumi=Bên: Megumi
+Story=Câu chuyện
+ULv.=ULv.
+L=L
+Lv.\nUP=Lv.\n\nHƯỚNG LÊN
+List=Danh sách
+31-C=31-C
+31-F=31-F
+Aaaghh, I'm gonna hack it!=Aaaghh, tôi sẽ hack nó!
+BLASTER=TUYỆT VỜI
+Fast as fuck boi=Nhanh như chết tiệt
+HEALER=NGƯỜI CHỮA LÀNH
+<align\=left>Đột phá</align>=<align\=left>Ending</align>
+DEFENDER=HẬU VỆ
+ADMIRAL=đô đốc
+RIDER=RIDER
+STR=STR
+DEX=DEX
+VIT=VIT
+SPR=XUÂN
+INT=INT
+LCK=LCK
+Critical Rate=Tỷ lệ quan trọng
+Talent Unlock=Mở khóa tài năng
+Acquisition Progress=Tiến độ mua lại
+Unit Lv.=Đơn vị Lv.
+Repair Level=Mức độ sửa chữa
+You have completed all available story.=Bạn đã hoàn thành tất cả câu chuyện có sẵn.
+アクセサリLv.=アクセサリLv.
+Gift Box=Hộp quà
+19 D 21 H remaining=19 D 21 H còn lại
+1 D 21 H remaining=còn lại 1 D 21 H
+Mission=Nhiệm vụ
+Tokens\n0x=Mã thông báo\n\n0x
+Master Skill=Kỹ năng bậc thầy
+Orb Skill=Kỹ năng quả cầu
+Title Rank=Xếp hạng danh hiệu
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 3"?=<style\=RubyPrefixTag></style>\nChơi Ngày này bắt đầu từ "Giai đoạn 3"?
+What the hell? I've never been in combat before!=Cái quái gì vậy?\nTôi chưa bao giờ tham gia chiến đấu trước đây!
+<style\=RubyPrefixTag></style>\nWhat the hell? I've never been in combat before!=<style\=RubyPrefixTag></style>\nCái quái gì vậy?\nTôi chưa bao giờ tham gia chiến đấu trước đây!
+R=R
+FastTravel=Du lịch nhanh
+Head to the right!=Đi về phía bên phải!
+Turns Left: 0=Rẽ trái: 0
+<mspace\=0.65em>0F=<mspace\=0.65em>0F
+<style\=RubyPrefixTag></style>\nHey! What's taking you so long?=<style\=RubyPrefixTag></style>\nChào!\nLàm gì mà lâu thế?
+Hey! What's taking you so long?=Chào!\nLàm gì mà lâu thế?
+<style\=RubyPrefixTag></style>\nThey were saying something about defensive positions,\nbut...=<style\=RubyPrefixTag></style>\nHọ đang nói gì đó về vị trí phòng thủ, nhưng...
+They were saying something about defensive positions, but...=Họ đang nói gì đó về vị trí phòng thủ, nhưng...
+<style\=RubyPrefixTag></style>\nAnyways, we'd better hurry outside with the others.=<style\=RubyPrefixTag></style>\nDù sao thì tốt nhất chúng ta nên nhanh chóng ra ngoài cùng những người khác.
+Anyways, we'd better hurry outside with the others.=Dù sao thì tốt nhất chúng ta nên nhanh chóng ra ngoài cùng những người khác.
+This is rather sudden. What happened?=Điều này khá đột ngột.\nChuyện gì đã xảy ra thế?
+We're probably\nunder attack.=Có lẽ chúng ta đang bị tấn công.
+How's the situation?=Tình hình thế nào rồi?
+<style\=RubyPrefixTag></style>\nHow's the situation?=<style\=RubyPrefixTag></style>\nTình hình thế nào rồi?
+<style\=RubyPrefixTag></style>\nA Cancer swarm just breached our second line of defense.\nE.T.A. approximately 30 minutes.=<style\=RubyPrefixTag></style>\nMột bầy Cự Giải vừa chọc thủng tuyến phòng thủ thứ hai của chúng ta.\nE.T.A.\nkhoảng 30 phút.
+Nanase=Nanase
+A Cancer swarm just breached our second line of defense. E.T.A. approximately 30 minutes.=Một bầy Cự Giải vừa chọc thủng tuyến phòng thủ thứ hai của chúng ta.\nE.T.A.\nkhoảng 30 phút.
+<style\=RubyPrefixTag></style>\nTheir numbers are few. Our patrols should be entirely\ncapable of handling this threat on their own.=<style\=RubyPrefixTag></style>\nSố lượng của họ rất ít.\nĐội tuần tra của chúng tôi phải hoàn toàn có khả năng tự mình xử lý mối đe dọa này.
+Their numbers are few. Our patrols should be entirely capable of handling this threat on their own.=Số lượng của họ rất ít.\nĐội tuần tra của chúng tôi phải hoàn toàn có khả năng tự mình xử lý mối đe dọa này.
+<style\=RubyPrefixTag></style>\nGood.=<style\=RubyPrefixTag></style>\nTốt.
+Good.=Tốt.
+<style\=RubyPrefixTag></style>\nIt's a perfect opportunity for you to offer them backup.\nPrepare to sortie immediately.=<style\=RubyPrefixTag></style>\nĐó là một cơ hội hoàn hảo để bạn cung cấp cho họ bản sao lưu.\nChuẩn bị xuất kích ngay lập tức.
+It's a perfect opportunity for you to offer them backup. Prepare to sortie immediately.=Đó là một cơ hội hoàn hảo để bạn cung cấp cho họ bản sao lưu.\nChuẩn bị xuất kích ngay lập tức.
+<style\=RubyPrefixTag></style>\nUs?! You can't be serious!=<style\=RubyPrefixTag></style>\nChúng ta?!\nBạn không thể nghiêm túc được!
+Us?! You can't be serious!=Chúng ta?!\nBạn không thể nghiêm túc được!
+<style\=RubyPrefixTag></style>\nHuh? Who's she, anyway?=<style\=RubyPrefixTag></style>\nHả?\nMà cô ấy là ai thế?
+Huh? Who's she, anyway?=Hả?\nMà cô ấy là ai thế?
+You didn't even catch that?! She's the commanding officer of the Seraph squadron, Commander Tezuka!=Bạn thậm chí không nắm bắt được điều đó?!\nCô ấy là sĩ quan chỉ huy của phi đội Seraph, Chỉ huy Tezuka!
+<style\=RubyPrefixTag></style>\nYou didn't even catch that?! She's the commanding officer\nof the Seraph squadron, Commander Tezuka!=<style\=RubyPrefixTag></style>\nBạn thậm chí không nắm bắt được điều đó?!\nCô ấy là sĩ quan chỉ huy của phi đội Seraph, Chỉ huy Tezuka!
+<style\=RubyPrefixTag></style>\nThere's no time. This is all the briefing you'll get, so listen\nclosely.=<style\=RubyPrefixTag></style>\nKhông có thời gian.\nĐây là tất cả thông tin tóm tắt bạn sẽ nhận được, vì vậy hãy lắng nghe kỹ.
+There's no time. This is all the briefing you'll get, so listen closely.=Không có thời gian.\nĐây là tất cả thông tin tóm tắt bạn sẽ nhận được, vì vậy hãy lắng nghe kỹ.
+<style\=RubyPrefixTag></style>\nListen to the briefing?=<style\=RubyPrefixTag></style>\nNghe cuộc họp báo?
+<style\=RubyPrefixTag></style>\nIgnore it=<style\=RubyPrefixTag></style>\nBỏ qua nó
+<style\=RubyPrefixTag></style>\nListen closely=<style\=RubyPrefixTag></style>\nLắng nghe kỹ
+<style\=RubyPrefixTag></style>\nSortie?=<style\=RubyPrefixTag></style>\nXuất kích?
+Sortie?=Xuất kích?
+<style\=RubyPrefixTag></style>\nWhat do you think it means? We head out and attack the\nenemy to stop them in their tracks.=<style\=RubyPrefixTag></style>\nBạn nghĩ nó có ý nghĩa gì?\nChúng tôi tiến ra ngoài và tấn công kẻ thù để ngăn chặn bước tiến của chúng.
+What do you think it means? We head out and attack the enemy to stop them in their tracks.=Bạn nghĩ nó có ý nghĩa gì?\nChúng tôi tiến ra ngoài và tấn công kẻ thù để ngăn chặn bước tiến của chúng.
+<style\=RubyPrefixTag></style>\nYeah, okay... Sounds reeeal easy.=<style\=RubyPrefixTag></style>\nỪ, được rồi... Nghe có vẻ dễ dàng.
+Yeah, okay... Sounds reeeal easy.=Ừ, được rồi... Nghe có vẻ dễ dàng.
+<style\=RubyPrefixTag></style>\nThere's no need to worry. I'll be nearby instructing and\nsupporting you, able to assist at a moment's notice.=<style\=RubyPrefixTag></style>\nKhông cần phải lo lắng.\nTôi sẽ ở gần để hướng dẫn và hỗ trợ bạn, có thể hỗ trợ ngay lập tức.
+There's no need to worry. I'll be nearby instructing and supporting you, able to assist at a moment's notice.=Không cần phải lo lắng.\nTôi sẽ ở gần để hướng dẫn và hỗ trợ bạn, có thể hỗ trợ ngay lập tức.
+<style\=RubyPrefixTag></style>\nNow, sortie!=<style\=RubyPrefixTag></style>\nBây giờ, xuất kích!
+Now, sortie!=Bây giờ, xuất kích!
+<style\=RubyPrefixTag></style>\nPick up the pace. We're just waiting for the two of you.=<style\=RubyPrefixTag></style>\nChọn tốc độ.\nChúng tôi đang đợi hai bạn.
+Pick up the pace. We're just waiting for the two of you.=Chọn tốc độ.\nChúng tôi đang đợi hai bạn.
+<style\=RubyPrefixTag></style>\nEveryone is to gather at the bridge up ahead. Follow me.=<style\=RubyPrefixTag></style>\nMọi người tập trung ở cây cầu phía trước.\nHãy theo tôi.
+Everyone is to gather at the bridge up ahead. Follow me.=Mọi người tập trung ở cây cầu phía trước.\nHãy theo tôi.
+<style\=RubyPrefixTag></style>\nWhat on earth's happening? My processing capacity can't\nkeep up!=<style\=RubyPrefixTag></style>\nChuyện quái gì đang xảy ra vậy?\nKhả năng xử lý của tôi không thể theo kịp!
+What on earth's happening? My processing capacity can't keep up!=Chuyện quái gì đang xảy ra vậy?\nKhả năng xử lý của tôi không thể theo kịp!
+I guess the only thing we can do right now is follow her lead.=Tôi đoán điều duy nhất chúng ta có thể làm lúc này là làm theo sự chỉ dẫn của cô ấy.
+<style\=RubyPrefixTag></style>\nI guess the only thing we can do right now is follow her\nlead.=<style\=RubyPrefixTag></style>\nTôi đoán điều duy nhất chúng ta có thể làm lúc này là làm theo sự chỉ dẫn của cô ấy.
+Head to the rendezvous point at the bridge!=Đi đến điểm hẹn ở cây cầu!
+<style\=RubyPrefixTag></style>\nHey, wrong way.=<style\=RubyPrefixTag></style>\nNày, sai đường rồi.
+Hey, wrong way.=Này, sai đường rồi.
+<style\=RubyPrefixTag></style>\nNow's not the time to embrace your inner rebel.=<style\=RubyPrefixTag></style>\nBây giờ không phải là lúc để ôm lấy sự nổi loạn bên trong của bạn.
+Now's not the time to embrace your inner rebel.=Bây giờ không phải là lúc để ôm lấy sự nổi loạn bên trong của bạn.
+<style\=RubyPrefixTag></style>\nDidn't you hear me? Wrong way.=<style\=RubyPrefixTag></style>\nBạn không nghe tôi nói à?\nSai đường rồi.
+Didn't you hear me? Wrong way.=Bạn không nghe tôi nói à?\nSai đường rồi.
+<style\=RubyPrefixTag></style>\nI don't want you to get me into trouble on my first day\nhere.=<style\=RubyPrefixTag></style>\nTôi không muốn bạn làm tôi gặp rắc rối trong ngày đầu tiên ở đây.
+I don't want you to get me into trouble on my first day here.=Tôi không muốn bạn làm tôi gặp rắc rối trong ngày đầu tiên ở đây.
+<style\=RubyPrefixTag></style>\nWow.. You're doing this on purpose, huh?=<style\=RubyPrefixTag></style>\nWow.. Bạn đang cố tình làm điều này phải không?
+Wow.. You're doing this on purpose, huh?=Wow.. Bạn đang cố tình làm điều này phải không?
+<style\=RubyPrefixTag></style>\nJeez... Talk about getting started on the wrong foot.=<style\=RubyPrefixTag></style>\nTrời ạ... Nói về việc bắt đầu sai lầm.
+Jeez... Talk about getting started on the wrong foot.=Trời ạ... Nói về việc bắt đầu sai lầm.
+Cut it out already.=Cắt nó ra rồi.
+<style\=RubyPrefixTag></style>\nCut it out already.=<style\=RubyPrefixTag></style>\nCắt nó ra rồi.
+<style\=RubyPrefixTag></style>\nI SAID "cut it out." You heard me.=<style\=RubyPrefixTag></style>\nTÔI NÓI "cắt nó đi."\nBạn đã nghe tôi nói.
+I SAID "cut it out." You heard me.=TÔI NÓI "cắt nó đi."\nBạn đã nghe tôi nói.
+<style\=RubyPrefixTag></style>\nWhy aren't you letting up after I told you to cut it out?!=<style\=RubyPrefixTag></style>\nTại sao bạn không bỏ cuộc sau khi tôi bảo bạn cắt nó đi?!
+Why aren't you letting up after I told you to cut it out?!=Tại sao bạn không bỏ cuộc sau khi tôi bảo bạn cắt nó đi?!
+<style\=RubyPrefixTag></style>\nYou're making me angry.=<style\=RubyPrefixTag></style>\nBạn đang làm tôi tức giận.
+You're making me angry.=Bạn đang làm tôi tức giận.
+<style\=RubyPrefixTag></style>\nI TOLD you I'm getting angry.=<style\=RubyPrefixTag></style>\nTÔI NÓI với bạn rằng tôi đang tức giận.
+I TOLD you I'm getting angry.=TÔI NÓI với bạn rằng tôi đang tức giận.
+<style\=RubyPrefixTag></style>\nIs that what you want? For me to get angry? Is that what\ngets you off?=<style\=RubyPrefixTag></style>\nĐó có phải là điều bạn muốn không?\nĐể tôi nổi giận à?\nĐó có phải là điều khiến bạn thất vọng không?
+Is that what you want? For me to get angry? Is that what gets you off?=Đó có phải là điều bạn muốn không?\nĐể tôi nổi giận à?\nĐó có phải là điều khiến bạn thất vọng không?
+<style\=RubyPrefixTag></style>\nYou're exhausting, you know that?=<style\=RubyPrefixTag></style>\nAnh đang kiệt sức đấy, anh biết không?
+You're exhausting, you know that?=Anh đang kiệt sức đấy, anh biết không?
+<style\=RubyPrefixTag></style>\nAt least have a little pity.=<style\=RubyPrefixTag></style>\nÍt nhất hãy có một chút thương hại.
+At least have a little pity.=Ít nhất hãy có một chút thương hại.
+I get it! You're enjoying my reactions, aren't you?=Tôi hiểu rồi!\nBạn đang tận hưởng phản ứng của tôi phải không?
+<style\=RubyPrefixTag></style>\nI get it! You're enjoying my reactions, aren't you?=<style\=RubyPrefixTag></style>\nTôi hiểu rồi!\nBạn đang tận hưởng phản ứng của tôi phải không?
+Ah! Aaah! Gotta hurry!!!=À!\nAaa!\nPhải nhanh lên!!!
+<style\=RubyPrefixTag></style>\nThe Cancer swarm is approaching our third line of\ndefense.=<style\=RubyPrefixTag></style>\nBầy Cự Giải đang tiếp cận tuyến phòng thủ thứ ba của chúng ta.
+The Cancer swarm is approaching our third line of defense.=Bầy Cự Giải đang tiếp cận tuyến phòng thủ thứ ba của chúng ta.
+<style\=RubyPrefixTag></style>\nReady for departure?=<style\=RubyPrefixTag></style>\nSẵn sàng khởi hành?
+Ready for departure?=Sẵn sàng khởi hành?
+<style\=RubyPrefixTag></style>\nAll set!=<style\=RubyPrefixTag></style>\nĐã hoàn tất!
+<style\=RubyPrefixTag></style>\nAs if!=<style\=RubyPrefixTag></style>\nNhư thể!
+All set!=Đã hoàn tất!
+<style\=RubyPrefixTag></style>\nWhat, no qualms about being mobilized on the first day?\nYou're something else...=<style\=RubyPrefixTag></style>\nSao, không lo lắng về việc được điều động vào ngày đầu tiên à?\nBạn là một cái gì đó khác...
+What, no qualms about being mobilized on the first day? You're something else...=Sao, không lo lắng về việc được điều động vào ngày đầu tiên à?\nBạn là một cái gì đó khác...
+<style\=RubyPrefixTag></style>\nNow then, follow me.=<style\=RubyPrefixTag></style>\nGiờ thì hãy theo tôi.
+Now then, follow me.=Giờ thì hãy theo tôi.
+<style\=RubyPrefixTag></style>\nPrologue:\nThe End of the World and the Entrance Ceremony=<style\=RubyPrefixTag></style>\nMở đầu: Nơi tận cùng thế giới và Lễ nhập học
+A-1 Buffer Zone=Vùng đệm A-1
+<style\=RubyPrefixTag></style>\nWow, it's a real wasteland out here.=<style\=RubyPrefixTag></style>\nWow, ở đây thực sự là một vùng đất hoang.
+Wow, it's a real wasteland out here.=Wow, ở đây thực sự là một vùng đất hoang.
+<style\=RubyPrefixTag></style>\nRest assured, this is not the front lines.=<style\=RubyPrefixTag></style>\nHãy yên tâm, đây không phải là tiền tuyến.
+Rest assured, this is not the front lines.=Hãy yên tâm, đây không phải là tiền tuyến.
+Today, you shall only be serving in a support capacity.=Hôm nay, bạn sẽ chỉ phục vụ với vai trò hỗ trợ.
+<style\=RubyPrefixTag></style>\nToday, you shall only be serving in a support capacity.=<style\=RubyPrefixTag></style>\nHôm nay, bạn sẽ chỉ phục vụ với vai trò hỗ trợ.
+<style\=RubyPrefixTag></style>\nAs long as you stay focused, you will not die here.=<style\=RubyPrefixTag></style>\nChỉ cần bạn tập trung, bạn sẽ không chết ở đây.
+As long as you stay focused, you will not die here.=Chỉ cần bạn tập trung, bạn sẽ không chết ở đây.
+<style\=RubyPrefixTag></style>\nThat's hardly reassuring.=<style\=RubyPrefixTag></style>\nĐiều đó khó có thể yên tâm.
+That's hardly reassuring.=Điều đó khó có thể yên tâm.
+<style\=RubyPrefixTag></style>\nWait, over there!=<style\=RubyPrefixTag></style>\nĐợi đã, ở đằng kia!
+Proceed with caution.=Tiến hành thận trọng.
+Research Center=Trung tâm nghiên cứu
+Gatehouse=cổng nhà
+Cafeteria Hall=Phòng ăn tự phục vụ
+Common Area=Khu vực chung
+Baths=Phòng tắm
+In Front of Hangar=Trước Hangar
+Commander's Office=Văn phòng chỉ huy
+<style\=RubyPrefixTag></style>\nHeyyy...=<style\=RubyPrefixTag></style>\nNàyyy...
+Heyyy...=Nàyyy...
+<style\=RubyPrefixTag></style>\nWhat is that thing?=<style\=RubyPrefixTag></style>\nThứ đó là gì vậy?
+What is that thing?=Thứ đó là gì vậy?
+Classroom=lớp học
+Canteen=căng tin
+Library=Thư viện
+Arena=đấu trường
+Cafeteria=Nhà ăn
+Munitions Store=Cửa hàng đạn dược
+<style\=RubyPrefixTag></style>\nThat is your enemy. The Cancer.=<style\=RubyPrefixTag></style>\nĐó là kẻ thù của bạn.\nUng thư.
+That is your enemy. The Cancer.=Đó là kẻ thù của bạn.\nUng thư.
+Flashback=Hồi tưởng
+<style\=RubyPrefixTag></style>\nI've only seen them in data files. So witnessing one\nfirsthand—it's enormous...=<style\=RubyPrefixTag></style>\nTôi chỉ nhìn thấy chúng trong các tập tin dữ liệu.\nVì vậy, việc chứng kiến ​​tận mắt một điều—thật tuyệt vời...
+I've only seen them in data files. So witnessing one firsthand—it's enormous...=Tôi chỉ nhìn thấy chúng trong các tập tin dữ liệu.\nVì vậy, việc chứng kiến ​​tận mắt một điều—thật tuyệt vời...
+How do you even fight something like that?=Làm thế nào để bạn thậm chí chiến đấu với một cái gì đó như thế?
+<style\=RubyPrefixTag></style>\nHow do you even fight something like that?=<style\=RubyPrefixTag></style>\nLàm thế nào để bạn thậm chí chiến đấu với một cái gì đó như thế?
+<style\=RubyPrefixTag></style>\nCome this way. I will show you.=<style\=RubyPrefixTag></style>\nHãy đến lối này.\nTôi sẽ chỉ cho bạn.
+Come this way. I will show you.=Hãy đến lối này.\nTôi sẽ chỉ cho bạn.
+<style\=RubyPrefixTag></style>\nThe weapons you will be using are called Seraphim. We\nhave already prepared one for each of you.=<style\=RubyPrefixTag></style>\nVũ khí bạn sẽ sử dụng có tên là Seraphim.\nChúng tôi đã chuẩn bị sẵn một cái cho mỗi bạn.
+The weapons you will be using are called Seraphim. We have already prepared one for each of you.=Vũ khí bạn sẽ sử dụng có tên là Seraphim.\nChúng tôi đã chuẩn bị sẵn một cái cho mỗi bạn.
+<style\=RubyPrefixTag></style>\nSummoning them is as simple as holding up your Military\nElectronic Personal Assistant Device—mePad, for\nshort—and calling out your Seraph Code.=<style\=RubyPrefixTag></style>\nViệc triệu tập họ cũng đơn giản như việc giơ Thiết bị Trợ lý Cá nhân Điện tử Quân sự của bạn—viết tắt là mePad—và gọi Mã Seraph của bạn.
+Summoning them is as simple as holding up your Military Electronic Personal Assistant Device—mePad, for short—and calling out your Seraph Code.=Việc triệu tập họ cũng đơn giản như việc giơ Thiết bị Trợ lý Cá nhân Điện tử Quân sự của bạn—viết tắt là mePad—và gọi Mã Seraph của bạn.
+<style\=RubyPrefixTag></style>\nWoah... Those words sounded like they came straight out\nof a middle schooler's fever dream.=<style\=RubyPrefixTag></style>\nWoah... Những lời đó nghe như thể chúng xuất phát từ giấc mơ gây sốt của một học sinh cấp hai.
+Woah... Those words sounded like they came straight out of a middle schooler's fever dream.=Woah... Những lời đó nghe như thể chúng xuất phát từ giấc mơ gây sốt của một học sinh cấp hai.
+<style\=RubyPrefixTag></style>\nYour personal Seraph Code is registered to your mePad.\nGo on, try it out.=<style\=RubyPrefixTag></style>\nMã Seraph cá nhân của bạn đã được đăng ký vào mePad của bạn.\nTiếp tục, hãy thử nó.
+Your personal Seraph Code is registered to your mePad. Go on, try it out.=Mã Seraph cá nhân của bạn đã được đăng ký vào mePad của bạn.\nTiếp tục, hãy thử nó.
+<style\=RubyPrefixTag></style>\nYou mean...like this?=<style\=RubyPrefixTag></style>\nÝ bạn là...như thế này?
+You mean...like this?=Ý bạn là...như thế này?
+<style\=RubyPrefixTag></style>\nLet's see here... My Seraph Code is...\n"Hello world."=<style\=RubyPrefixTag></style>\nHãy xem ở đây... Mã Seraph của tôi là... "Xin chào thế giới."
+Let's see here... My Seraph Code is...\n"Hello world."=Hãy xem ở đây... Mã Seraph của tôi là... "Xin chào thế giới."
+<style\=RubyPrefixTag></style>\nW-Woooaah!!!=<style\=RubyPrefixTag></style>\nW-Woooaah!!!
+W-Woooaah!!!=W-Woooaah!!!
+Sweet... A black hole? And something's coming out of it. Looks like a weapon of some kind.=Ngọt ngào... Một lỗ đen?\nVà có điều gì đó đang phát ra từ nó.\nTrông giống như một loại vũ khí nào đó.
+<style\=RubyPrefixTag></style>\nSweet... A black hole? And something's coming out of it.\nLooks like a weapon of some kind.=<style\=RubyPrefixTag></style>\nNgọt ngào... Một lỗ đen?\nVà có điều gì đó đang phát ra từ nó.\nTrông giống như một loại vũ khí nào đó.
+<style\=RubyPrefixTag></style>\nAre you seeing this?! I mean, you're correct, but how are\nyou so calm about it?! What even IS that?!=<style\=RubyPrefixTag></style>\nBạn có thấy điều này không?!\nÝ tôi là bạn nói đúng, nhưng sao bạn lại bình tĩnh đến vậy?!\nĐó là cái gì vậy?!
+Are you seeing this?! I mean, you're correct, but how are you so calm about it?! What even IS that?!=Bạn có thấy điều này không?!\nÝ tôi là bạn nói đúng, nhưng sao bạn lại bình tĩnh đến vậy?!\nĐó là cái gì vậy?!
+<style\=RubyPrefixTag></style>\nThat is your weapon against the Cancer, and humanity's\nlast defense: a Seraph.=<style\=RubyPrefixTag></style>\nĐó là vũ khí của bạn chống lại Cự Giải và là biện pháp phòng thủ cuối cùng của nhân loại: Seraph.
+That is your weapon against the Cancer, and humanity's last defense: a Seraph.=Đó là vũ khí của bạn chống lại Cự Giải và là biện pháp phòng thủ cuối cùng của nhân loại: Seraph.
+<style\=RubyPrefixTag></style>\nSeraph Code, Seraph Code... Is this it? "My legend begins\nnow."=<style\=RubyPrefixTag></style>\nMã Seraph, Mã Seraph... Đây có phải không?\n"Huyền thoại của tôi bắt đầu từ bây giờ."
+Seraph Code, Seraph Code... Is this it? "My legend begins now."=Mã Seraph, Mã Seraph... Đây có phải không?\n"Huyền thoại của tôi bắt đầu từ bây giờ."
+<style\=RubyPrefixTag></style>\nIt worked! Hey, why is my code so freaking lame?!=<style\=RubyPrefixTag></style>\nNó đã hoạt động!\nNày, tại sao mã của tôi lại khập khiễng đến thế?!
+It worked! Hey, why is my code so freaking lame?!=Nó đã hoạt động!\nNày, tại sao mã của tôi lại khập khiễng đến thế?!
+Your Seraphim are at your command. Take your positions!=Seraphim của bạn đang theo lệnh của bạn.\nHãy đảm nhận vị trí của bạn!
+<style\=RubyPrefixTag></style>\nYour Seraphim are at your command. Take your\npositions!=<style\=RubyPrefixTag></style>\nSeraphim của bạn đang theo lệnh của bạn.\nHãy đảm nhận vị trí của bạn!
+Consider enemy resistances=Xem xét sự kháng cự của kẻ thù
+Activate at highest level possible=Kích hoạt ở mức cao nhất có thể
+AUTO ON/OFF=TỰ ĐỘNG BẬT/TẮT
+<style\=RubyPrefixTag></style>\nEvery Cancer is covered by an armor-like exoskeleton.=<style\=RubyPrefixTag></style>\nMọi Cự Giải đều được bao phủ bởi một bộ xương ngoài giống như áo giáp.
+Every Cancer is covered by an armor-like exoskeleton.=Mọi Cự Giải đều được bao phủ bởi một bộ xương ngoài giống như áo giáp.
+Activate at Overdrive Lv. 3=Kích hoạt ở Overdrive Lv.\n3
+Activate at Overdrive Lv. 2=Kích hoạt ở Overdrive Lv.\n2
+Activate at Overdrive Lv. 1=Kích hoạt ở Overdrive Lv.\n1
+Do not activate=Không kích hoạt
+<style\=RubyPrefixTag></style>\nUntil that outer shell is destroyed, it is impossible to deal\neffective damage to their actual bodies.=<style\=RubyPrefixTag></style>\nCho đến khi lớp vỏ bên ngoài đó bị phá hủy, cơ thể thật của chúng sẽ không thể gây sát thương hiệu quả được.
+Until that outer shell is destroyed, it is impossible to deal effective damage to their actual bodies.=Cho đến khi lớp vỏ bên ngoài đó bị phá hủy, cơ thể thật của chúng sẽ không thể gây sát thương hiệu quả được.
+[Mode: FULL] Selected Members Use Offensive Skills Once Attack Power Is Doubled=[Chế độ: ĐẦY ĐỦ] Các thành viên được chọn sử dụng kỹ năng tấn công khi sức tấn công được nhân đôi
+<style\=RubyPrefixTag></style>\nSo you should first aim to break through its shell.=<style\=RubyPrefixTag></style>\nVì vậy, trước tiên bạn nên đặt mục tiêu phá vỡ lớp vỏ của nó.
+So you should first aim to break through its shell.=Vì vậy, trước tiên bạn nên đặt mục tiêu phá vỡ lớp vỏ của nó.
+[Mode: FULL] Prioritize using EX skills (Healing/buffs/defense debuffs excluded)=[Chế độ: FULL] Ưu tiên sử dụng các kỹ năng EX (Không bao gồm debuff hồi máu/buff/phòng thủ)
+SP+2=SP+2
++1 SP=+1 điểm
+When an ally's attack breaks an enemy: Extend enemy's downed duration=Khi đòn tấn công của đồng minh hạ gục kẻ địch: Kéo dài thời gian bị hạ gục của kẻ địch
+Execute Commands=Thực thi lệnh
++1 Ice Skill Use=+1 Sử dụng kỹ năng băng
+Choose Unit=Chọn đơn vị
+[Yuki Izumi]=[Yuki Izumi]
+Light Imbuement=Sự thấm nhuần ánh sáng
+BUF=BUF
+※スキルLv 最大時の情報です=※スキルLv 最大時の情報です
+SP 0=SP 0
+Up=Hướng lên
+Skitterer=người trượt ván
+TURN <cspace\=0.1em><size\=36>1</size></cspace>=XOAY <cspace\=0.1em><size\=36>1</size></cspace>
+Dark Imbuement=Sự thấm đẫm bóng tối
+Increases Normal Attack Damage=Tăng sát thương tấn công bình thường
+[Ruka Kayamori]=[Ruka Kayamori]
+<size\=26>DOWN TURN </size><size\=32>2</size>=<size\=26>RÚT XUỐNG </size><size\=32>2</size>
+<style\=RubyPrefixTag></style>\nWell done. However, Cancers will not always fight alone...=<style\=RubyPrefixTag></style>\nLàm tốt.\nTuy nhiên, Cự giải không phải lúc nào cũng chiến đấu một mình...
+Well done. However, Cancers will not always fight alone...=Làm tốt.\nTuy nhiên, Cự giải không phải lúc nào cũng chiến đấu một mình...
+<size\=24>+</size>5.0<size\=24\n>%</size>=<size\=24>+</size>5,0<kích thước\=24\n\n>%</size>
+TOTAL=TỔNG CỘNG
+<style\=RubyPrefixTag></style>\nBut then, neither will you. Have your fellow cadets join you\nto take down the enemy!=<style\=RubyPrefixTag></style>\nNhưng sau đó, bạn cũng sẽ không như vậy.\nHãy để các học viên của bạn tham gia cùng bạn để hạ gục kẻ thù!
+But then, neither will you. Have your fellow cadets join you to take down the enemy!=Nhưng sau đó, bạn cũng sẽ không như vậy.\nHãy để các học viên của bạn tham gia cùng bạn để hạ gục kẻ thù!
+SP+0=SP+0
+All stats increase in accordance with number of memories restored.=Tất cả các chỉ số đều tăng theo số lượng ký ức được khôi phục.
+SP+1=SP+1
+BRK=BRK
+AUTO CONFIG=CẤU HÌNH TỰ ĐỘNG
+ODゲージ=ODゲージ
+We've got this.=Chúng tôi đã có cái này.
+Choose Enemy Target=Chọn mục tiêu của kẻ thù
+Crested Skitterer=Skitterer mào
+BLA=BLA
+[Tsukasa Tojo]=[Tsukasa Tojo]
++10% Overdrive Gauge=+10% Máy đo tốc độ quá mức
+OD発動数=OD発動数
+SP上昇=SP
+LEVEL3=CẤP 3
+LEVEL2=CẤP 2
+LEVEL1=CẤP 1
+Start Action=Bắt đầu hành động
+<size\=24>+</size><size\=24\n>%</size>=<size\=24>+</size><kích thước\=24\n\n>%</size>
+TurnMaxDamage=Thiệt hại tối đa
+Phase=Giai đoạn
+NORMAL AUTO=TỰ ĐỘNG BÌNH THƯỜNG
+FULL AUTO=TỰ ĐỘNG HOÀN TOÀN
+Healing Skitterer=Người trượt tuyết chữa bệnh
+TARGET=MỤC TIÊU
+I think we can do this!=Tôi nghĩ chúng ta có thể làm được điều này!
+Nice shot!=Cú sút đẹp đấy!
+Battle Result=Kết quả trận chiến
++ 7 EXP=+ 7 kinh nghiệm
++0 EXP=+0 kinh nghiệm
+10 <size\=48>GP</size\=48>=10 <size\=48>bác sĩ gia đình</size\=48>
+You're so dainty!=Bạn thật xinh xắn!
+Right... You're like a completely different person. Why do I have a bad feeling about this?=Đúng... Bạn như một người hoàn toàn khác.\nTại sao tôi có linh cảm xấu về điều này?
+<style\=RubyPrefixTag></style>\nRight... You're like a completely different person. Why do I\nhave a bad feeling about this?=<style\=RubyPrefixTag></style>\nĐúng... Bạn như một người hoàn toàn khác.\nTại sao tôi có linh cảm xấu về điều này?
+Ma'am, yes, ma'am!=Thưa bà, vâng, thưa bà!
+Huh? Since when were you such a teacher's pet?=Hả?\nTừ khi nào mà bạn trở thành thú cưng của giáo viên vậy?
+<style\=RubyPrefixTag></style>\nHuh? Since when were you such a teacher's pet?=<style\=RubyPrefixTag></style>\nHả?\nTừ khi nào mà bạn trở thành thú cưng của giáo viên vậy?
+<style\=RubyPrefixTag></style>\nMilady, beeth there anything thou requirest of me?=<style\=RubyPrefixTag></style>\nMilady, ngươi có yêu cầu gì ở ta không?
+Milady, beeth there anything thou requirest of me?=Milady, ngươi có yêu cầu gì ở ta không?
+<style\=RubyPrefixTag></style>\nWhy are you talking like some knight now? And didn't you\nhear the commander? She told you to report in once we've\nsettled into our dorms.=<style\=RubyPrefixTag></style>\nTại sao bây giờ bạn lại nói chuyện như một hiệp sĩ?\nVà bạn không nghe thấy chỉ huy à?\nCô ấy bảo cậu báo cáo khi chúng ta đã ổn định chỗ ở ký túc xá.
+Why are you talking like some knight now? And didn't you hear the commander? She told you to report in once we've settled into our dorms.=Tại sao bây giờ bạn lại nói chuyện như một hiệp sĩ?\nVà bạn không nghe thấy chỉ huy à?\nCô ấy bảo cậu báo cáo khi chúng ta đã ổn định chỗ ở ký túc xá.
+<style\=RubyPrefixTag></style>\nUggghhh, I'm not cut out for this whole leader thing.=<style\=RubyPrefixTag></style>\nUggghhh, tôi không hợp với việc lãnh đạo này chút nào.
+Uggghhh, I'm not cut out for this whole leader thing.=Uggghhh, tôi không hợp với việc lãnh đạo này chút nào.
+<style\=RubyPrefixTag></style>\nSo much for being a teacher's pet...=<style\=RubyPrefixTag></style>\nQuá nhiều để trở thành thú cưng của giáo viên...
+So much for being a teacher's pet...=Quá nhiều để trở thành thú cưng của giáo viên...
+<style\=RubyPrefixTag></style>\nWhy not her instead?=<style\=RubyPrefixTag></style>\nTại sao không phải là cô ấy thay vào đó?
+Why not her instead?=Tại sao không phải là cô ấy thay vào đó?
+<style\=RubyPrefixTag></style>\nWho, me? Lead this sorry group? You must be joking... But\nI don't see any other capable candidates, so if you really do\ninsi—=<style\=RubyPrefixTag></style>\nAi, tôi à?\nDẫn đầu nhóm xin lỗi này?\nChắc bạn đang nói đùa... Nhưng tôi không thấy ứng viên nào có khả năng khác, nên nếu bạn thực sự muốn—
+Who, me? Lead this sorry group? You must be joking... But I don't see any other capable candidates, so if you really do insi—=Ai, tôi à?\nDẫn đầu nhóm xin lỗi này?\nChắc bạn đang nói đùa... Nhưng tôi không thấy ứng viên nào có khả năng khác, nên nếu bạn thực sự muốn—
+<style\=RubyPrefixTag></style>\nNot happening.=<style\=RubyPrefixTag></style>\nKhông xảy ra.
+Not happening.=Không xảy ra.
+<style\=RubyPrefixTag></style>\nOoohhhhhhh! REJECTED!=<style\=RubyPrefixTag></style>\nỐi ôi!\nVẬT BỊ LOẠI BỎ!
+Ooohhhhhhh! REJECTED!=Ối ôi!\nVẬT BỊ LOẠI BỎ!
+<style\=RubyPrefixTag></style>\nBesides, you're in no position to refuse.=<style\=RubyPrefixTag></style>\nNgoài ra, bạn không có tư cách để từ chối.
+Besides, you're in no position to refuse.=Ngoài ra, bạn không có tư cách để từ chối.
+<style\=RubyPrefixTag></style>\nWhaaat.=<style\=RubyPrefixTag></style>\nCái gì.
+Whaaat.=Cái gì.
+<style\=RubyPrefixTag></style>\nThat's an order, Kayamori.=<style\=RubyPrefixTag></style>\nĐó là mệnh lệnh, Kayamori.
+That's an order, Kayamori.=Đó là mệnh lệnh, Kayamori.
+<style\=RubyPrefixTag></style>\nThere ya have it, folks. Say hello to your new, overqualified\nsquad leader.=<style\=RubyPrefixTag></style>\nCó nó đấy, mọi người.\nHãy chào người đội trưởng mới, có năng lực vượt trội của bạn.
+There ya have it, folks. Say hello to your new, overqualified squad leader.=Có nó đấy, mọi người.\nHãy chào người đội trưởng mới, có năng lực vượt trội của bạn.
+I don't think you understand what overqualified actually means...=Tôi không nghĩ bạn hiểu thực tế việc vượt chuẩn có nghĩa là gì...
+<style\=RubyPrefixTag></style>\nI don't think you understand what overqualified actually\nmeans...=<style\=RubyPrefixTag></style>\nTôi không nghĩ bạn hiểu thực tế việc vượt chuẩn có nghĩa là gì...
+<style\=RubyPrefixTag></style>\nNow head to your dorms and confirm that the facilities\nand your equipment are all in order.=<style\=RubyPrefixTag></style>\nBây giờ hãy đến ký túc xá của bạn và xác nhận rằng cơ sở vật chất và thiết bị của bạn đều ổn.
+Now head to your dorms and confirm that the facilities and your equipment are all in order.=Bây giờ hãy đến ký túc xá của bạn và xác nhận rằng cơ sở vật chất và thiết bị của bạn đều ổn.
+<style\=RubyPrefixTag></style>\nFrom now on, you must keep your mePad on you at all\ntimes.=<style\=RubyPrefixTag></style>\nTừ giờ trở đi, bạn phải luôn giữ mePad bên mình.
+From now on, you must keep your mePad on you at all times.=Từ giờ trở đi, bạn phải luôn giữ mePad bên mình.
+<style\=RubyPrefixTag></style>\nKeep it on me even...=<style\=RubyPrefixTag></style>\nHãy giữ nó bên mình thậm chí...
+<style\=RubyPrefixTag></style>\nEven during passionate girl-on-girl bonding time?=<style\=RubyPrefixTag></style>\nNgay cả trong thời gian gắn kết cô gái nồng nàn?
+<style\=RubyPrefixTag></style>\nEven on the toilet?=<style\=RubyPrefixTag></style>\nNgay cả trong nhà vệ sinh?
+<style\=RubyPrefixTag></style>\nEven in the bath?=<style\=RubyPrefixTag></style>\nNgay cả trong bồn tắm?
+Even in the bath?=Ngay cả trong bồn tắm?
+<style\=RubyPrefixTag></style>\nYes. It is completely waterproof. Submerging it in hot\nwater should not be an issue.=<style\=RubyPrefixTag></style>\nĐúng.\nNó hoàn toàn không thấm nước.\nNgâm nó trong nước nóng không phải là một vấn đề.
+Yes. It is completely waterproof. Submerging it in hot water should not be an issue.=Đúng.\nNó hoàn toàn không thấm nước.\nNgâm nó trong nước nóng không phải là một vấn đề.
+<style\=RubyPrefixTag></style>\nLastly, you may encounter slime-like life-forms around\nbase. These are Narbies. They are harmless and\ngood-natured, so treat them with respect.=<style\=RubyPrefixTag></style>\nCuối cùng, bạn có thể gặp những dạng sống giống chất nhờn xung quanh căn cứ.\nĐây là Narbies.\nHọ vô hại và tốt bụng, vì vậy hãy đối xử với họ một cách tôn trọng.
+Lastly, you may encounter slime-like life-forms around base. These are Narbies. They are harmless and good-natured, so treat them with respect.=Cuối cùng, bạn có thể gặp những dạng sống giống chất nhờn xung quanh căn cứ.\nĐây là Narbies.\nHọ vô hại và tốt bụng, vì vậy hãy đối xử với họ một cách tôn trọng.
+<style\=RubyPrefixTag></style>\nFollow me this way, please.=<style\=RubyPrefixTag></style>\nLàm ơn đi theo tôi lối này.
+Follow me this way, please.=Làm ơn đi theo tôi lối này.
+The dormitories are at the far end of the base.=Ký túc xá nằm ở phía xa của căn cứ.
+<style\=RubyPrefixTag></style>\nThe dormitories are at the far end of the base.=<style\=RubyPrefixTag></style>\nKý túc xá nằm ở phía xa của căn cứ.
+<style\=RubyPrefixTag></style>\nI'll show you the way. Please come with me.=<style\=RubyPrefixTag></style>\nTôi sẽ chỉ cho bạn cách.\nHãy đi cùng tôi.
+I'll show you the way. Please come with me.=Tôi sẽ chỉ cho bạn cách.\nHãy đi cùng tôi.
+I wonder what our dorms will be like.=Tôi tự hỏi ký túc xá của chúng tôi sẽ như thế nào.
+Follow Nanase to the dormitories!=Theo Nanase đến ký túc xá!
+Hey, what do you think that is?=Này, bạn nghĩ đó là gì?
+Enter=Đi vào
+ArrowRight=Mũi tênPhải
+ArrowLeft=Mũi TênTrái
+SP→0=SP→0
+EP+0=EP+0
+<style\=RubyPrefixTag></style>\nHm?=<style\=RubyPrefixTag></style>\nHửm?
+Hm?=Hửm?
+ArrowLeft=Mũi TênTrái
+SP-0=SP-0
+EP 0=EP 0
+ATK=ATK
+3 Turn(s)=3 lượt
+2 Turn(s)=2 lượt
+<style\=RubyPrefixTag></style>\nHey, uh... What's that number beneath the clock?\n008065300?=<style\=RubyPrefixTag></style>\nNày, ừ... Con số bên dưới đồng hồ là gì?\n008065300?
+Hey, uh... What's that number beneath the clock? 008065300?=Này, ừ... Con số bên dưới đồng hồ là gì?\n008065300?
+1 Turn(s)=1 lượt
+That's the Population Tracker. It signifies the total number of people currently left remaining in Japan.=Đó là Công cụ theo dõi dân số.\nNó biểu thị tổng số người hiện còn ở lại Nhật Bản.
+<style\=RubyPrefixTag></style>\nThat's the Population Tracker. It signifies the total number\nof people currently left remaining in Japan.=<style\=RubyPrefixTag></style>\nĐó là Công cụ theo dõi dân số.\nNó biểu thị tổng số người hiện còn ở lại Nhật Bản.
+<style\=RubyPrefixTag></style>\nAh, so this is what our intel agent was talking about?=<style\=RubyPrefixTag></style>\nÀ, vậy đây chính là điều mà đặc vụ tình báo của chúng ta đang nói tới à?
+Ah, so this is what our intel agent was talking about?=À, vậy đây chính là điều mà đặc vụ tình báo của chúng ta đang nói tới à?
+<style\=RubyPrefixTag></style>\nI think you mean the commander. Tojo only parroted her.=<style\=RubyPrefixTag></style>\nTôi nghĩ ý bạn là người chỉ huy.\nTojo chỉ nhắc lại cô ấy.
+I think you mean the commander. Tojo only parroted her.=Tôi nghĩ ý bạn là người chỉ huy.\nTojo chỉ nhắc lại cô ấy.
+<style\=RubyPrefixTag></style>\nIt's kinda scary, all our lives represented as a number like\nthis...=<style\=RubyPrefixTag></style>\nThật đáng sợ, tất cả cuộc đời của chúng ta đều được thể hiện bằng một con số như thế này...
+It's kinda scary, all our lives represented as a number like this...=Thật đáng sợ, tất cả cuộc đời của chúng ta đều được thể hiện bằng một con số như thế này...
+<style\=RubyPrefixTag></style>\nIt's our duty to protect and increase that number.=<style\=RubyPrefixTag></style>\nNhiệm vụ của chúng ta là bảo vệ và gia tăng con số đó.
+It's our duty to protect and increase that number.=Nhiệm vụ của chúng ta là bảo vệ và gia tăng con số đó.
+<style\=RubyPrefixTag></style>\nThis way to the dormitory buildings.=<style\=RubyPrefixTag></style>\nLối này dẫn tới khu ký túc xá.
+This way to the dormitory buildings.=Lối này dẫn tới khu ký túc xá.
+How do they keep track of the population in the first place?=Làm thế nào để họ theo dõi dân số ngay từ đầu?
+Think they just grab a clipboard and start counting?=Nghĩ rằng họ chỉ cần lấy một clipboard và bắt đầu đếm?
+Y'know, like people from the birdwatching society?=Bạn biết đấy, giống như những người trong hiệp hội quan sát chim?
+As if that would work...=Giá như điều đó có tác dụng...
+More fresh meat for the grinder!=Thêm thịt tươi cho máy xay!
+They're the ones who fought today, meow!=Họ là những người đã chiến đấu ngày hôm nay, meo meo!
+Is it just me, or is everyone watching us?=Chỉ có tôi thôi hay mọi người đang theo dõi chúng tôi?
+New kids always stand out.=Những đứa trẻ mới luôn nổi bật.
+Thank you kindly for the support earlier.=Cảm ơn bạn vui lòng hỗ trợ trước đó.
+<style\=RubyPrefixTag></style>\nThank you kindly for the support earlier.=<style\=RubyPrefixTag></style>\nCảm ơn bạn vui lòng hỗ trợ trước đó.
+<style\=RubyPrefixTag></style>\nThe heliport is up this path.=<style\=RubyPrefixTag></style>\nSân bay trực thăng ở trên con đường này.
+The heliport is up this path.=Sân bay trực thăng ở trên con đường này.
+<style\=RubyPrefixTag></style>\nIf you are looking for the dorms, they are that way.=<style\=RubyPrefixTag></style>\nNếu bạn đang tìm ký túc xá, họ sẽ ở hướng đó.
+If you are looking for the dorms, they are that way.=Nếu bạn đang tìm ký túc xá, họ sẽ ở hướng đó.
+<style\=RubyPrefixTag></style>\nOnce the commander authorizes you, you'll be assigned\nyour own helicopter, too.=<style\=RubyPrefixTag></style>\nSau khi người chỉ huy ủy quyền cho bạn, bạn cũng sẽ được cấp trực thăng của riêng mình.
+Once the commander authorizes you, you'll be assigned your own helicopter, too.=Sau khi người chỉ huy ủy quyền cho bạn, bạn cũng sẽ được cấp trực thăng của riêng mình.
+<style\=RubyPrefixTag></style>\nI look forward to the day we fight side-by-side on the\nbattlefield.=<style\=RubyPrefixTag></style>\nTôi mong chờ ngày chúng ta sát cánh chiến đấu trên chiến trường.
+I look forward to the day we fight side-by-side on the battlefield.=Tôi mong chờ ngày chúng ta sát cánh chiến đấu trên chiến trường.
+<style\=RubyPrefixTag></style>\nI'll be off now. Take care.=<style\=RubyPrefixTag></style>\nTôi sẽ đi bây giờ.\nBảo trọng.
+I'll be off now. Take care.=Tôi sẽ đi bây giờ.\nBảo trọng.
+A helicopter?! How exciting!=Một chiếc trực thăng?!\nThật thú vị làm sao!
+You think?=Bạn nghĩ sao?
+The seniors are so nice here.=Các tiền bối ở đây thật tốt bụng.
+Zzz... Zzz...=zz... zz...
+Another day, another step closer...=Một ngày nữa, một bước nữa gần hơn...
+Can't wait for tomorrow, <i>snip</i>!=Không thể đợi đến ngày mai, <i>bắn tỉa</i>!
+Hah...hah...hah...=Ha... ha... ha...
+<style\=RubyPrefixTag></style>\nOooh, it's one of those! What did the commander call\nthem? Curvies? or was it Kirb—?=<style\=RubyPrefixTag></style>\nỒ, đó là một trong số đó!\nNgười chỉ huy gọi họ là gì?\nĐường cong?\nhay là Kirb—?
+Oooh, it's one of those! What did the commander call them? Curvies? or was it Kirb—?=Ồ, đó là một trong số đó!\nNgười chỉ huy gọi họ là gì?\nĐường cong?\nhay là Kirb—?
+<style\=RubyPrefixTag></style>\nI'll stop you right there before trademark lawyers go after\nyou. Narbies. They're called Narbies.=<style\=RubyPrefixTag></style>\nTôi sẽ chặn bạn lại ngay trước khi luật sư nhãn hiệu truy lùng bạn.\nNarbies.\nHọ được gọi là Narbies.
+I'll stop you right there before trademark lawyers go after you. Narbies. They're called Narbies.=Tôi sẽ chặn bạn lại ngay trước khi luật sư nhãn hiệu truy lùng bạn.\nNarbies.\nHọ được gọi là Narbies.
+<style\=RubyPrefixTag></style>\nWh-Whoa! It jumped! It's more nimble than it looks!=<style\=RubyPrefixTag></style>\nÚi chà!\nNó nhảy lên!\nNó nhanh nhẹn hơn vẻ ngoài của nó!
+Wh-Whoa! It jumped! It's more nimble than it looks!=Úi chà!\nNó nhảy lên!\nNó nhanh nhẹn hơn vẻ ngoài của nó!
+<style\=RubyPrefixTag></style>\nThere's another one over there. In fact, the whole place is\ncrawling with them.=<style\=RubyPrefixTag></style>\nCó một cái khác ở đằng kia.\nTrên thực tế, toàn bộ nơi này đang bò theo chúng.
+There's another one over there. In fact, the whole place is crawling with them.=Có một cái khác ở đằng kia.\nTrên thực tế, toàn bộ nơi này đang bò theo chúng.
+<style\=RubyPrefixTag></style>\nBut to what end? I must investigate further.=<style\=RubyPrefixTag></style>\nNhưng để làm gì?\nTôi phải điều tra thêm.
+But to what end? I must investigate further.=Nhưng để làm gì?\nTôi phải điều tra thêm.
+<style\=RubyPrefixTag></style>\nWe expected you to know that already. You DID call\nyourself an intel agent, after all.=<style\=RubyPrefixTag></style>\nChúng tôi đã mong bạn biết điều đó rồi.\nRốt cuộc thì bạn ĐÃ tự gọi mình là đặc vụ tình báo.
+We expected you to know that already. You DID call yourself an intel agent, after all.=Chúng tôi đã mong bạn biết điều đó rồi.\nRốt cuộc thì bạn ĐÃ tự gọi mình là đặc vụ tình báo.
+I wonder where these little critters came from.=Tôi tự hỏi những sinh vật nhỏ này đến từ đâu.
+<style\=RubyPrefixTag></style>\nI wonder where these little critters came from.=<style\=RubyPrefixTag></style>\nTôi tự hỏi những sinh vật nhỏ này đến từ đâu.
+<style\=RubyPrefixTag></style>\nThat's, uh...=<style\=RubyPrefixTag></style>\nĐó là, ừ...
+That's, uh...=Đó là, ừ...
+<style\=RubyPrefixTag></style>\n(According to my hypothesis...)=<style\=RubyPrefixTag></style>\n(Theo giả thuyết của tôi...)
+(According to my hypothesis...)=(Theo giả thuyết của tôi...)
+and became mascots=và trở thành linh vật
+in a taxi=trong một chiếc taxi
+on a UFO=trên một UFO
+They came to rebuild our cities=Họ đến để xây dựng lại thành phố của chúng tôi
+They came from the sea=Họ đến từ biển
+They came from outer space=Họ đến từ ngoài vũ trụ
+How did they get here?=Làm thế nào họ đến được đây?
+That's it!=Thế thôi!
+Redo=Làm lại
+<style\=RubyPrefixTag></style>\nThey came from outer space on a UFO.=<style\=RubyPrefixTag></style>\nHọ đến từ ngoài vũ trụ trên một UFO.
+They came from outer space on a UFO.=Họ đến từ ngoài vũ trụ trên một UFO.
+Checks out. They are pretty peculiar.=Kiểm tra.\nChúng khá đặc biệt.
+<style\=RubyPrefixTag></style>\nChecks out. They are pretty peculiar.=<style\=RubyPrefixTag></style>\nKiểm tra.\nChúng khá đặc biệt.
+<style\=RubyPrefixTag></style>\nThe Cancer came from space, too. So it does seem\nplausible.=<style\=RubyPrefixTag></style>\nCự Giải cũng đến từ không gian.\nVì vậy, nó có vẻ hợp lý.
+The Cancer came from space, too. So it does seem plausible.=Cự Giải cũng đến từ không gian.\nVì vậy, nó có vẻ hợp lý.
+<style\=RubyPrefixTag></style>\nMy answer was super effective! Plus 5 Reputation Points!=<style\=RubyPrefixTag></style>\nCâu trả lời của tôi cực kỳ hiệu quả!\nCộng thêm 5 điểm danh tiếng!
+My answer was super effective! Plus 5 Reputation Points!=Câu trả lời của tôi cực kỳ hiệu quả!\nCộng thêm 5 điểm danh tiếng!
+<style\=RubyPrefixTag></style>\nPlease. Anyone could've thought of that.=<style\=RubyPrefixTag></style>\nVui lòng.\nBất cứ ai cũng có thể nghĩ về điều đó.
+Please. Anyone could've thought of that.=Vui lòng.\nBất cứ ai cũng có thể nghĩ về điều đó.
+<style\=RubyPrefixTag></style>\nAw, come on! I really wracked my brains on that one!=<style\=RubyPrefixTag></style>\nÔi, thôi nào!\nTôi thực sự đã vắt óc suy nghĩ về điều đó!
+Aw, come on! I really wracked my brains on that one!=Ôi, thôi nào!\nTôi thực sự đã vắt óc suy nghĩ về điều đó!
+<style\=RubyPrefixTag></style>\nWhat a weirdo...=<style\=RubyPrefixTag></style>\nThật là kỳ lạ...
+What a weirdo...=Thật là kỳ lạ...
+<style\=RubyPrefixTag></style>\nIt takes one to know one, huh?=<style\=RubyPrefixTag></style>\nPhải cần một người mới biết được, phải không?
+It takes one to know one, huh?=Phải cần một người mới biết được, phải không?
+The dormitory buildings are down this road.=Các tòa nhà ký túc xá nằm ở cuối con đường này.
+<style\=RubyPrefixTag></style>\nThe dormitory buildings are down this road.=<style\=RubyPrefixTag></style>\nCác tòa nhà ký túc xá nằm ở cuối con đường này.
+<style\=RubyPrefixTag></style>\nWere you listening? The dormitories are the buildings just\ndown this road.=<style\=RubyPrefixTag></style>\nBạn có đang nghe không?\nKý túc xá là những tòa nhà nằm ngay dưới con đường này.
+Were you listening? The dormitories are the buildings just down this road.=Bạn có đang nghe không?\nKý túc xá là những tòa nhà nằm ngay dưới con đường này.
+<style\=RubyPrefixTag></style>\nWere you listening? Your dormitory is just down this road.\nDo you see it?=<style\=RubyPrefixTag></style>\nBạn có đang nghe không?\nKý túc xá của bạn ở ngay cuối con đường này.\nBạn có thấy nó không?
+Were you listening? Your dormitory is just down this road. Do you see it?=Bạn có đang nghe không?\nKý túc xá của bạn ở ngay cuối con đường này.\nBạn có thấy nó không?
+<style\=RubyPrefixTag></style>\nOi, you've gotta be kidding me... How many times are you\ngoing to do this?=<style\=RubyPrefixTag></style>\nNày, bạn đang đùa tôi à... Bạn định làm điều này bao nhiêu lần nữa?
+Oi, you've gotta be kidding me... How many times are you going to do this?=Này, bạn đang đùa tôi à... Bạn định làm điều này bao nhiêu lần nữa?
+<style\=RubyPrefixTag></style>\nWere you listening? The dormitories are just down this\nroad.=<style\=RubyPrefixTag></style>\nBạn có đang nghe không?\nKý túc xá ở ngay dưới con đường này.
+Were you listening? The dormitories are just down this road.=Bạn có đang nghe không?\nKý túc xá ở ngay dưới con đường này.
+<style\=RubyPrefixTag></style>\nSeems suspicious, right? I was just thinking the same\nthing.=<style\=RubyPrefixTag></style>\nCó vẻ đáng nghi phải không?\nTôi chỉ đang nghĩ điều tương tự.
+Seems suspicious, right? I was just thinking the same thing.=Có vẻ đáng nghi phải không?\nTôi chỉ đang nghĩ điều tương tự.
+<style\=RubyPrefixTag></style>\nSuspicious or not, we're heading to our dorms.=<style\=RubyPrefixTag></style>\nDù nghi ngờ hay không thì chúng ta cũng đang về ký túc xá.
+Suspicious or not, we're heading to our dorms.=Dù nghi ngờ hay không thì chúng ta cũng đang về ký túc xá.
+But, there might be more Narbies over there.=Tuy nhiên, có thể có nhiều Narbies hơn ở đó.
+<style\=RubyPrefixTag></style>\nBut, there might be more Narbies over there.=<style\=RubyPrefixTag></style>\nTuy nhiên, có thể có nhiều Narbies hơn ở đó.
+<style\=RubyPrefixTag></style>\nNarbies or no, we should be heading to our dorms now.=<style\=RubyPrefixTag></style>\nNarbies hay không, chúng ta nên về ký túc xá ngay bây giờ.
+Narbies or no, we should be heading to our dorms now.=Narbies hay không, chúng ta nên về ký túc xá ngay bây giờ.
+<style\=RubyPrefixTag></style>\nHow many times do you think she'll make you repeat\nyourself?!=<style\=RubyPrefixTag></style>\nBạn nghĩ cô ấy sẽ bắt bạn phải lặp lại bao nhiêu lần?!
+How many times do you think she'll make you repeat yourself?!=Bạn nghĩ cô ấy sẽ bắt bạn phải lặp lại bao nhiêu lần?!
+<style\=RubyPrefixTag></style>\nI heard you the first time, but THIS one refuses to listen!=<style\=RubyPrefixTag></style>\nTôi đã nghe bạn lần đầu tiên, nhưng NÀY từ chối lắng nghe!
+I heard you the first time, but THIS one refuses to listen!=Tôi đã nghe bạn lần đầu tiên, nhưng NÀY từ chối lắng nghe!
+Fine. Just keep going back and forth until you've had enough.=Khỏe.\nCứ làm đi làm lại cho đến khi thấy đủ.
+<style\=RubyPrefixTag></style>\nFine. Just keep going back and forth until you've had\nenough.=<style\=RubyPrefixTag></style>\nKhỏe.\nCứ làm đi làm lại cho đến khi thấy đủ.
+<style\=RubyPrefixTag></style>\nIs this some kind of training?! Or a test of will?=<style\=RubyPrefixTag></style>\nĐây có phải là một loại hình đào tạo không?!\nHay một cuộc thử thách ý chí?
+Is this some kind of training?! Or a test of will?=Đây có phải là một loại hình đào tạo không?!\nHay một cuộc thử thách ý chí?
+<style\=RubyPrefixTag></style>\nEach of you, please wait in your dorm room until\ndinnertime.=<style\=RubyPrefixTag></style>\nMỗi người trong số các bạn hãy đợi trong phòng ký túc xá của mình cho đến giờ ăn tối.
+Each of you, please wait in your dorm room until dinnertime.=Mỗi người trong số các bạn hãy đợi trong phòng ký túc xá của mình cho đến giờ ăn tối.
+<style\=RubyPrefixTag></style>\nYes, ma'am. Everyone ready?=<style\=RubyPrefixTag></style>\nVâng, thưa bà.\nMọi người sẵn sàng chưa?
+Yes, ma'am. Everyone ready?=Vâng, thưa bà.\nMọi người sẵn sàng chưa?
+Ready.=Sẵn sàng.
+<style\=RubyPrefixTag></style>\nReady.=<style\=RubyPrefixTag></style>\nSẵn sàng.
+<style\=RubyPrefixTag></style>\nMhm.=<style\=RubyPrefixTag></style>\nỪm.
+Mhm.=Ừm.
+<style\=RubyPrefixTag></style>\nSure.=<style\=RubyPrefixTag></style>\nChắc chắn.
+Sure.=Chắc chắn.
+<style\=RubyPrefixTag></style>\nW-Wait a sec! Why are the four of us still traveling around\nas a group?=<style\=RubyPrefixTag></style>\nĐ-Đợi một chút!\nTại sao bốn người chúng tôi vẫn đi du lịch theo nhóm?
+W-Wait a sec! Why are the four of us still traveling around as a group?=Đ-Đợi một chút!\nTại sao bốn người chúng tôi vẫn đi du lịch theo nhóm?
+<style\=RubyPrefixTag></style>\nHuh? What's with you all of a sudden?=<style\=RubyPrefixTag></style>\nHả?\nĐột nhiên có chuyện gì với bạn vậy?
+Huh? What's with you all of a sudden?=Hả?\nĐột nhiên có chuyện gì với bạn vậy?
+<style\=RubyPrefixTag></style>\nI don't see what the concern is.=<style\=RubyPrefixTag></style>\nTôi không thấy mối quan tâm là gì.
+I don't see what the concern is.=Tôi không thấy mối quan tâm là gì.
+<style\=RubyPrefixTag></style>\nSince when were we friends?!=<style\=RubyPrefixTag></style>\nChúng ta là bạn từ khi nào vậy?!
+Since when were we friends?!=Chúng ta là bạn từ khi nào vậy?!
+Just now.=Ngay bây giờ.
+<style\=RubyPrefixTag></style>\nJust now.=<style\=RubyPrefixTag></style>\nNgay bây giờ.
+<style\=RubyPrefixTag></style>\nBut—I'm the one who talked to you first! Plus, we don't\neven know each other's names!=<style\=RubyPrefixTag></style>\nNhưng—tôi là người đã nói chuyện với bạn đầu tiên!\nHơn nữa, chúng tôi thậm chí còn không biết tên nhau!
+But—I'm the one who talked to you first! Plus, we don't even know each other's names!=Nhưng—tôi là người đã nói chuyện với bạn đầu tiên!\nHơn nữa, chúng tôi thậm chí còn không biết tên nhau!
+<style\=RubyPrefixTag></style>\nTrue. I'll start, then. I'm Ruka Kayamori.=<style\=RubyPrefixTag></style>\nĐÚNG VẬY.\nVậy tôi sẽ bắt đầu.\nTôi là Ruka Kayamori.
+True. I'll start, then. I'm Ruka Kayamori.=ĐÚNG VẬY.\nVậy tôi sẽ bắt đầu.\nTôi là Ruka Kayamori.
+<style\=RubyPrefixTag></style>\nKayamori? Why does that sound familiar? ...Do you spell it\nK-A-Y-A-M-O-R-I?=<style\=RubyPrefixTag></style>\nKayamori?\nTại sao điều đó nghe có vẻ quen thuộc?\n...Bạn có đánh vần nó là K-A-Y-A-M-O-R-I không?
+Kayamori? Why does that sound familiar? ...Do you spell it K-A-Y-A-M-O-R-I?=Kayamori?\nTại sao điều đó nghe có vẻ quen thuộc?\n...Bạn có đánh vần nó là K-A-Y-A-M-O-R-I không?
+<style\=RubyPrefixTag></style>\nYup.=<style\=RubyPrefixTag></style>\nChuẩn rồi.
+Yup.=Chuẩn rồi.
+<style\=RubyPrefixTag></style>\nWait...you said you were really good at singing, right?=<style\=RubyPrefixTag></style>\nĐợi đã...bạn nói bạn hát rất hay phải không?
+Wait...you said you were really good at singing, right?=Đợi đã...bạn nói bạn hát rất hay phải không?
+<style\=RubyPrefixTag></style>\nThat, and the guitar—they're the only things I'm good at.=<style\=RubyPrefixTag></style>\nCái đó và guitar—chúng là những thứ duy nhất tôi giỏi.
+That, and the guitar—they're the only things I'm good at.=Cái đó và guitar—chúng là những thứ duy nhất tôi giỏi.
+<style\=RubyPrefixTag></style>\nDon't tell me... Were you in a band called "She is Legend"?=<style\=RubyPrefixTag></style>\nĐừng nói với tôi là... Bạn có ở trong ban nhạc tên là "She is Legend" không?
+Don't tell me... Were you in a band called "She is Legend"?=Đừng nói với tôi là... Bạn có ở trong ban nhạc tên là "She is Legend" không?
+<style\=RubyPrefixTag></style>\nThat's the one.=<style\=RubyPrefixTag></style>\nĐó là một trong những
+That's the one.=Đó là một trong những
+<style\=RubyPrefixTag></style>\nI KNOOOW YOOUUU!\nI LISTENED TO YOUR SONGS!=<style\=RubyPrefixTag></style>\nTÔI BIẾT BẠN!\nTÔI ĐÃ NGHE BÀI HÁT CỦA BẠN!
+<style\=RubyPrefixTag></style>\nYOU WERE THE LEAD SINGER!\nTHAT'S WHY YOU SEEMED SO FAMILIAR!\nBUT YOU LOOK SO DIFFERENT NOW!\nI DIDNT RECOGNIZE YOU AT AAALLL!=<style\=RubyPrefixTag></style>\nBẠN LÀ CA SĨ CHÍNH!\nĐÓ LÀ LÝ DO BẠN CÓ vẻ QUÁ Quen thuộc!\nNHƯNG BẠN Trông thật khác biệt bây giờ!\nTÔI KHÔNG NHẬN RA BẠN TẠI AAALLL!
+The emo rock band, She is Legend... Their lead wrote all the lyrics while she was only a student.=Ban nhạc emo rock, She is Legend... Trưởng nhóm của họ đã viết tất cả lời bài hát khi cô ấy chỉ còn là sinh viên.
+<style\=RubyPrefixTag></style>\nThe emo rock band, She is Legend... Their lead wrote all\nthe lyrics while she was only a student.=<style\=RubyPrefixTag></style>\nBan nhạc emo rock, She is Legend... Trưởng nhóm của họ đã viết tất cả lời bài hát khi cô ấy chỉ còn là sinh viên.
+<style\=RubyPrefixTag></style>\nTheir major debut album swept the newcomer awards that\nyear. Everyone called them geniuses.=<style\=RubyPrefixTag></style>\nAlbum đầu tay lớn của họ đã quét sạch các giải thưởng dành cho người mới vào năm đó.\nMọi người đều gọi họ là thiên tài.
+Their major debut album swept the newcomer awards that year. Everyone called them geniuses.=Album đầu tay lớn của họ đã quét sạch các giải thưởng dành cho người mới vào năm đó.\nMọi người đều gọi họ là thiên tài.
+<style\=RubyPrefixTag></style>\nBut the following year, they broke up due to differing\nopinions in the direction of their sound. They've been\nmythical-status ever since.=<style\=RubyPrefixTag></style>\nNhưng năm sau, họ chia tay do có quan điểm khác nhau về hướng đi âm thanh của mình.\nHọ đã trở thành thần thoại kể từ đó.
+But the following year, they broke up due to differing opinions in the direction of their sound. They've been mythical-status ever since.=Nhưng năm sau, họ chia tay do có quan điểm khác nhau về hướng đi âm thanh của mình.\nHọ đã trở thành thần thoại kể từ đó.
+<style\=RubyPrefixTag></style>\nSounds pretty much on point, except the last part.=<style\=RubyPrefixTag></style>\nNghe có vẻ khá đúng, ngoại trừ phần cuối cùng.
+Sounds pretty much on point, except the last part.=Nghe có vẻ khá đúng, ngoại trừ phần cuối cùng.
+<style\=RubyPrefixTag></style>\nDisparity in pay, then?=<style\=RubyPrefixTag></style>\nVậy thì có sự chênh lệch về lương?
+Disparity in pay, then?=Vậy thì có sự chênh lệch về lương?
+<style\=RubyPrefixTag></style>\nNope.=<style\=RubyPrefixTag></style>\nKhông.
+Nope.=Không.
+<style\=RubyPrefixTag></style>\nBoy troubles?=<style\=RubyPrefixTag></style>\nCon trai gặp rắc rối?
+Boy troubles?=Con trai gặp rắc rối?
+<style\=RubyPrefixTag></style>\nHint please.=<style\=RubyPrefixTag></style>\nXin gợi ý.
+Hint please.=Xin gợi ý.
+<style\=RubyPrefixTag></style>\nYou're an intel agent! You're supposed to know things, not\nguess wildly!=<style\=RubyPrefixTag></style>\nBạn là một đặc vụ tình báo!\nBạn phải biết mọi thứ chứ không phải đoán lung tung!
+You're an intel agent! You're supposed to know things, not guess wildly!=Bạn là một đặc vụ tình báo!\nBạn phải biết mọi thứ chứ không phải đoán lung tung!
+<style\=RubyPrefixTag></style>\nBurnout?=<style\=RubyPrefixTag></style>\nKiệt sức?
+Burnout?=Kiệt sức?
+<style\=RubyPrefixTag></style>\nNuh-uh.=<style\=RubyPrefixTag></style>\nKhông, ừ.
+Nuh-uh.=Không, ừ.
+<style\=RubyPrefixTag></style>\nJust admit you don't know! No more shots in the dark!=<style\=RubyPrefixTag></style>\nHãy thừa nhận rằng bạn không biết!\nKhông còn bức ảnh nào trong bóng tối nữa!
+Just admit you don't know! No more shots in the dark!=Hãy thừa nhận rằng bạn không biết!\nKhông còn bức ảnh nào trong bóng tối nữa!
+<style\=RubyPrefixTag></style>\nBut I almost had it!=<style\=RubyPrefixTag></style>\nNhưng tôi gần như đã có nó!
+But I almost had it!=Nhưng tôi gần như đã có nó!
+<style\=RubyPrefixTag></style>\nIn what universe?!=<style\=RubyPrefixTag></style>\nỞ vũ trụ nào?!
+In what universe?!=Ở vũ trụ nào?!
+I can't believe you were HER this whole time... Keep it together, me...=Anh không thể tin được em là CÔ ẤY suốt thời gian qua... Hãy giữ nó bên nhau nhé, anh...
+<style\=RubyPrefixTag></style>\nI can't believe you were HER this whole time... Keep it\ntogether, me...=<style\=RubyPrefixTag></style>\nAnh không thể tin được em là CÔ ẤY suốt thời gian qua... Hãy giữ nó bên nhau nhé, anh...
+<style\=RubyPrefixTag></style>\nWhat about you two?=<style\=RubyPrefixTag></style>\nCòn hai bạn thì sao?
+What about you two?=Còn hai bạn thì sao?
+<style\=RubyPrefixTag></style>\nI'm Karen Asakura. Just a gamer who's good at shooters.=<style\=RubyPrefixTag></style>\nTôi là Karen Asakura.\nChỉ là một game thủ giỏi bắn súng.
+I'm Karen Asakura. Just a gamer who's good at shooters.=Tôi là Karen Asakura.\nChỉ là một game thủ giỏi bắn súng.
+<style\=RubyPrefixTag></style>\nI'm Tsukasa Tojo. I belong to a certain secret intelligence\nagency.=<style\=RubyPrefixTag></style>\nTôi là Tsukasa Tojo.\nTôi thuộc về một cơ quan tình báo bí mật nào đó.
+I'm Tsukasa Tojo. I belong to a certain secret intelligence agency.=Tôi là Tsukasa Tojo.\nTôi thuộc về một cơ quan tình báo bí mật nào đó.
+<style\=RubyPrefixTag></style>\nI'm Yuki Izumi. A pretty skilled hacker.=<style\=RubyPrefixTag></style>\nTôi là Yuki Izumi.\nMột hacker khá lành nghề.
+I'm Yuki Izumi. A pretty skilled hacker.=Tôi là Yuki Izumi.\nMột hacker khá lành nghề.
+<style\=RubyPrefixTag></style>\nGreat. Now we're all friends.=<style\=RubyPrefixTag></style>\nTuyệt vời.\nBây giờ chúng tôi đều là bạn bè.
+Great. Now we're all friends.=Tuyệt vời.\nBây giờ chúng tôi đều là bạn bè.
+<style\=RubyPrefixTag></style>\nNOOOOOOO!\nHELLLLLLLLL NOOOOOO!=<style\=RubyPrefixTag></style>\nKHÔNGOOOOOO!\nĐỊA NGỤC KHÔNG KHÔNG!
+<style\=RubyPrefixTag></style>\nWhy?=<style\=RubyPrefixTag></style>\nTại sao?
+Why?=Tại sao?
+<style\=RubyPrefixTag></style>\nAll we did was introduce ourselves!=<style\=RubyPrefixTag></style>\nTất cả những gì chúng tôi làm là giới thiệu bản thân!
+All we did was introduce ourselves!=Tất cả những gì chúng tôi làm là giới thiệu bản thân!
+<style\=RubyPrefixTag></style>\nYour bar for friendship is too high.=<style\=RubyPrefixTag></style>\nTiêu chuẩn về tình bạn của bạn quá cao.
+Your bar for friendship is too high.=Tiêu chuẩn về tình bạn của bạn quá cao.
+<style\=RubyPrefixTag></style>\nAnd yours is too low!=<style\=RubyPrefixTag></style>\nVà của bạn quá thấp!
+And yours is too low!=Và của bạn quá thấp!
+<style\=RubyPrefixTag></style>\nThis Narby's so cute. It's probably okay to take it to my\nroom, right?=<style\=RubyPrefixTag></style>\nNarby này dễ thương quá.\nCó lẽ mang nó vào phòng tôi cũng được phải không?
+This Narby's so cute. It's probably okay to take it to my room, right?=Narby này dễ thương quá.\nCó lẽ mang nó vào phòng tôi cũng được phải không?
+<style\=RubyPrefixTag></style>\nI don't see why not. Might as well bring it.=<style\=RubyPrefixTag></style>\nTôi không hiểu tại sao không.\nCũng có thể mang nó đi.
+I don't see why not. Might as well bring it.=Tôi không hiểu tại sao không.\nCũng có thể mang nó đi.
+<style\=RubyPrefixTag></style>\nA cute, sleeping Karerin cuddling a cute, sleeping Narby?\nI'm getting cuteness overload!=<style\=RubyPrefixTag></style>\nMột Karerin dễ thương đang ngủ ôm ấp một Narby dễ thương đang ngủ?\nTôi đang trở nên quá tải sự dễ thương!
+A cute, sleeping Karerin cuddling a cute, sleeping Narby? I'm getting cuteness overload!=Một Karerin dễ thương đang ngủ ôm ấp một Narby dễ thương đang ngủ?\nTôi đang trở nên quá tải sự dễ thương!
+You plan on sleeping with that thing?!=Cậu định ngủ với thứ đó à?!
+<style\=RubyPrefixTag></style>\nYou plan on sleeping with that thing?!=<style\=RubyPrefixTag></style>\nCậu định ngủ với thứ đó à?!
+<style\=RubyPrefixTag></style>\nIt's harmless and good-natured, so we must treat it with\nrespect.=<style\=RubyPrefixTag></style>\nNó vô hại và tốt bụng nên chúng ta phải đối xử với nó một cách tôn trọng.
+It's harmless and good-natured, so we must treat it with respect.=Nó vô hại và tốt bụng nên chúng ta phải đối xử với nó một cách tôn trọng.
+<style\=RubyPrefixTag></style>\nDo you ever say anything new?!\nYou're just repeating what the commander said earlier!=<style\=RubyPrefixTag></style>\nBạn có bao giờ nói điều gì mới không?!\nBạn chỉ đang lặp lại những gì chỉ huy đã nói trước đó!
+Do you ever say anything new?!\nYou're just repeating what the commander said earlier!=Bạn có bao giờ nói điều gì mới không?!\nBạn chỉ đang lặp lại những gì chỉ huy đã nói trước đó!
+<style\=RubyPrefixTag></style>\nHere. Have a break... Have a Narby.=<style\=RubyPrefixTag></style>\nĐây.\nNghỉ ngơi... Uống Narby.
+Here. Have a break... Have a Narby.=Đây.\nNghỉ ngơi... Uống Narby.
+<style\=RubyPrefixTag></style>\nNO THANK YOU. And why do you sound like a\nchocolate-and-wafer ad?!=<style\=RubyPrefixTag></style>\nKHÔNG, CẢM ƠN BẠN.\nVà tại sao bạn lại nghe giống như một quảng cáo sô-cô-la và bánh xốp?!
+NO THANK YOU. And why do you sound like a chocolate-and-wafer ad?!=KHÔNG, CẢM ƠN BẠN.\nVà tại sao bạn lại nghe giống như một quảng cáo sô-cô-la và bánh xốp?!
+<style\=RubyPrefixTag></style>\nDon't be so mean to Karerin!=<style\=RubyPrefixTag></style>\nĐừng ác ý với Karerin như vậy!
+Don't be so mean to Karerin!=Đừng ác ý với Karerin như vậy!
+Why are you taking her side?=Tại sao bạn lại đứng về phía cô ấy?
+<style\=RubyPrefixTag></style>\nWhy are you taking her side?=<style\=RubyPrefixTag></style>\nTại sao bạn lại đứng về phía cô ấy?
+<style\=RubyPrefixTag></style>\nBecause she's cute.=<style\=RubyPrefixTag></style>\nBởi vì cô ấy dễ thương.
+Because she's cute.=Bởi vì cô ấy dễ thương.
+<style\=RubyPrefixTag></style>\nTHAT'S why?! That's lookism! Cacophobia, even!=<style\=RubyPrefixTag></style>\nĐÓ là lý do tại sao?!\nĐó là chủ nghĩa ngoại hình!\nCacophobia, thậm chí!
+THAT'S why?! That's lookism! Cacophobia, even!=ĐÓ là lý do tại sao?!\nĐó là chủ nghĩa ngoại hình!\nCacophobia, thậm chí!
+<style\=RubyPrefixTag></style>\nThere she goes again, li'l miss center-of-attention actin'\nlike she owns the place.=<style\=RubyPrefixTag></style>\nCô ấy lại nói tiếp, tôi sẽ bỏ lỡ trung tâm của sự chú ý, làm như thể cô ấy sở hữu nơi này.
+There she goes again, li'l miss center-of-attention actin' like she owns the place.=Cô ấy lại nói tiếp, tôi sẽ bỏ lỡ trung tâm của sự chú ý, làm như thể cô ấy sở hữu nơi này.
+<style\=RubyPrefixTag></style>\nThis is...=<style\=RubyPrefixTag></style>\nĐây là...
+<style\=RubyPrefixTag></style>\nA pizza-delivery girl=<style\=RubyPrefixTag></style>\nCô gái giao bánh pizza
+<style\=RubyPrefixTag></style>\nAnother new character=<style\=RubyPrefixTag></style>\nMột nhân vật mới khác
+<style\=RubyPrefixTag></style>\nSeriously? Another new character? This is getting\nridiculous.=<style\=RubyPrefixTag></style>\nNghiêm túc?\nMột nhân vật mới khác?\nĐiều này đang trở nên lố bịch.
+Seriously? Another new character? This is getting ridiculous.=Nghiêm túc?\nMột nhân vật mới khác?\nĐiều này đang trở nên lố bịch.
+<style\=RubyPrefixTag></style>\nWell, it IS our first day.=<style\=RubyPrefixTag></style>\nVâng, đó là ngày đầu tiên của chúng tôi.
+Well, it IS our first day.=Vâng, đó là ngày đầu tiên của chúng tôi.
+<style\=RubyPrefixTag></style>\nC'mon. Don't act like ya don't know me.=<style\=RubyPrefixTag></style>\nThôi nào.\nĐừng làm như bạn không biết tôi.
+Girl with Rolled-up Sleeves=Cô gái xắn tay áo
+C'mon. Don't act like ya don't know me.=Thôi nào.\nĐừng làm như bạn không biết tôi.
+<style\=RubyPrefixTag></style>\nWhat, is she a friend of yours, Kayamori?=<style\=RubyPrefixTag></style>\nCái gì, cô ấy là bạn của cậu à, Kayamori?
+What, is she a friend of yours, Kayamori?=Cái gì, cô ấy là bạn của cậu à, Kayamori?
+<style\=RubyPrefixTag></style>\nHrm...=<style\=RubyPrefixTag></style>\nỪm...
+Hrm...=Ừm...
+<style\=RubyPrefixTag></style>\nHey, secret agent. I need some intel.=<style\=RubyPrefixTag></style>\nNày, đặc vụ bí mật.\nTôi cần một ít thông tin.
+Hey, secret agent. I need some intel.=Này, đặc vụ bí mật.\nTôi cần một ít thông tin.
+She was one of the roadies from your band days. She mainly handed you your guitar.=Cô ấy là một trong những người đồng hành cùng ban nhạc của bạn.\nCô ấy chủ yếu đưa cho bạn cây đàn guitar của bạn.
+<style\=RubyPrefixTag></style>\nShe was one of the roadies from your band days. She\nmainly handed you your guitar.=<style\=RubyPrefixTag></style>\nCô ấy là một trong những người đồng hành cùng ban nhạc của bạn.\nCô ấy chủ yếu đưa cho bạn cây đàn guitar của bạn.
+<style\=RubyPrefixTag></style>\nHey! Long time, no see!=<style\=RubyPrefixTag></style>\nChào!\nĐã lâu không gặp!
+Hey! Long time, no see!=Chào!\nĐã lâu không gặp!
+<style\=RubyPrefixTag></style>\nThat ain't it!=<style\=RubyPrefixTag></style>\nKhông phải vậy đâu!
+That ain't it!=Không phải vậy đâu!
+<style\=RubyPrefixTag></style>\nJust admit you don't know!=<style\=RubyPrefixTag></style>\nHãy thừa nhận rằng bạn không biết!
+Just admit you don't know!=Hãy thừa nhận rằng bạn không biết!
+<style\=RubyPrefixTag></style>\nOhh, but I almost had it...=<style\=RubyPrefixTag></style>\nỒ, nhưng tôi gần như đã có nó...
+Ohh, but I almost had it...=Ồ, nhưng tôi gần như đã có nó...
+<style\=RubyPrefixTag></style>\nYou've already shown your hand! And it has nothing but\nidiot cards!=<style\=RubyPrefixTag></style>\nBạn đã thể hiện bàn tay của mình rồi!\nVà nó không có gì ngoài những tấm thẻ ngu ngốc!
+You've already shown your hand! And it has nothing but idiot cards!=Bạn đã thể hiện bàn tay của mình rồi!\nVà nó không có gì ngoài những tấm thẻ ngu ngốc!
+<style\=RubyPrefixTag></style>\nA'ight, fine. One hint.=<style\=RubyPrefixTag></style>\nĐược rồi, được rồi.\nMột gợi ý.
+A'ight, fine. One hint.=Được rồi, được rồi.\nMột gợi ý.
+<style\=RubyPrefixTag></style>\nAren't you generous!=<style\=RubyPrefixTag></style>\nBạn không hào phóng sao!
+Aren't you generous!=Bạn không hào phóng sao!
+<style\=RubyPrefixTag></style>\nShe's the east-side rocker, yeah? So, I'm the west-side...=<style\=RubyPrefixTag></style>\nCô ấy là ca sĩ nhạc rock phía đông phải không?\nVậy tôi ở phía Tây...
+She's the east-side rocker, yeah? So, I'm the west-side...=Cô ấy là ca sĩ nhạc rock phía đông phải không?\nVậy tôi ở phía Tây...
+<style\=RubyPrefixTag></style>\nRoadie.=<style\=RubyPrefixTag></style>\nRoadie.
+Roadie.=Roadie.
+<style\=RubyPrefixTag></style>\nGet real! What kind of moron stores their gear halfway\nacross the country?!=<style\=RubyPrefixTag></style>\nHãy thực tế!\nLoại ngu ngốc nào lại cất giữ thiết bị của họ ở nửa đất nước?!
+Get real! What kind of moron stores their gear halfway across the country?!=Hãy thực tế!\nThằng ngu nào lại cất giữ thiết bị của mình ở nửa vòng đất nước?!
+<style\=RubyPrefixTag></style>\nIf even our intel agent doesn't know, you must really be a\nnobody.=<style\=RubyPrefixTag></style>\nNếu ngay cả đặc vụ tình báo của chúng tôi cũng không biết thì bạn thực sự chẳng là ai cả.
+If even our intel agent doesn't know, you must really be a nobody.=Nếu ngay cả đặc vụ tình báo của chúng tôi cũng không biết thì bạn thực sự chẳng là ai cả.
+<style\=RubyPrefixTag></style>\nI think ya need a better intel agent, then.=<style\=RubyPrefixTag></style>\nTôi nghĩ bạn cần một đặc vụ tình báo tốt hơn.
+I think ya need a better intel agent, then.=Tôi nghĩ bạn cần một đặc vụ tình báo tốt hơn.
+I must say...=Tôi phải nói...
+<style\=RubyPrefixTag></style>\nI must say...=<style\=RubyPrefixTag></style>\nTôi phải nói...
+<style\=RubyPrefixTag></style>\nWhat is it?=<style\=RubyPrefixTag></style>\nNó là gì?
+What is it?=Nó là gì vậy?
+<style\=RubyPrefixTag></style>\nThis Narby's eyes are lovely.=<style\=RubyPrefixTag></style>\nĐôi mắt của Narby này thật đáng yêu.
+This Narby's eyes are lovely.=Đôi mắt của Narby này thật đáng yêu.
+<style\=RubyPrefixTag></style>\nDon't change the subject!=<style\=RubyPrefixTag></style>\nĐừng thay đổi chủ đề!
+<style\=RubyPrefixTag></style>\nCan't believe y'all are gonna make me do this, but I guess I\ngotta spell it out myself...=<style\=RubyPrefixTag></style>\nKhông thể tin được các bạn sẽ bắt tôi làm điều này, nhưng tôi đoán tôi phải tự mình giải thích nó...
+Can't believe y'all are gonna make me do this, but I guess I gotta spell it out myself...=Không thể tin được các bạn sẽ bắt tôi làm điều này, nhưng tôi đoán tôi phải tự mình giải thích nó...
+<style\=RubyPrefixTag></style>\nPoor you.=<style\=RubyPrefixTag></style>\nTội nghiệp bạn.
+Poor you.=Tội nghiệp bạn.
+<style\=RubyPrefixTag></style>\nThe west-side PSYCHIC! Ring a bell?=<style\=RubyPrefixTag></style>\nPsychic phía tây!\nRung chuông?
+The west-side PSYCHIC! Ring a bell?=Psychic phía tây!\nRung chuông?
+<style\=RubyPrefixTag></style>\nThat's right, I'm Megumi Aikawa, psychic prodigy!=<style\=RubyPrefixTag></style>\nĐúng vậy, tôi là Megumi Aikawa, thần đồng tâm linh!
+That's right, I'm Megumi Aikawa, psychic prodigy!=Đúng vậy, tôi là Megumi Aikawa, thần đồng tâm linh!
+<style\=RubyPrefixTag></style>\nSelf-proclaimed psychic prodigy.\nBorn in Kansai.=<style\=RubyPrefixTag></style>\nTự xưng là thần đồng tâm linh.\nSinh ra ở Kansai.
+<style\=RubyPrefixTag></style>\nBetter upload that to your database, Miss Intel Processor.=<style\=RubyPrefixTag></style>\nTốt hơn hết hãy tải nó lên cơ sở dữ liệu của bạn, thưa cô Bộ xử lý Intel.
+Better upload that to your database, Miss Intel Processor.=Tốt hơn hết hãy tải nó lên cơ sở dữ liệu của bạn, thưa cô Bộ xử lý Intel.
+<style\=RubyPrefixTag></style>\nI'm a bit fuzzy when it comes to Kansai. Also, I'm an intel\nagent, not a computer chip.=<style\=RubyPrefixTag></style>\nTôi hơi bối rối khi nói đến Kansai.\nNgoài ra, tôi là đặc vụ của Intel, không phải chip máy tính.
+I'm a bit fuzzy when it comes to Kansai. Also, I'm an intel agent, not a computer chip.=Tôi hơi bối rối khi nói đến Kansai.\nNgoài ra, tôi là đặc vụ của Intel, không phải chip máy tính.
+<style\=RubyPrefixTag></style>\nFunny, when you show no signs of intelligence inside.=<style\=RubyPrefixTag></style>\nBuồn cười thay, khi bên trong bạn chẳng hề tỏ ra chút thông minh nào cả.
+Funny, when you show no signs of intelligence inside.=Buồn cười thay, khi bên trong bạn chẳng hề tỏ ra chút thông minh nào cả.
+Still doesn't ring any bells. Well, see ya around.=Vẫn không rung chuông.\nHẹn gặp lại nhé.
+<style\=RubyPrefixTag></style>\nStill doesn't ring any bells. Well, see ya around.=<style\=RubyPrefixTag></style>\nVẫn không rung chuông.\nHẹn gặp lại nhé.
+<style\=RubyPrefixTag></style>\nNah, nah, nah. HOLD UP!=<style\=RubyPrefixTag></style>\nKhông, không, không.\nCHẮC CHẮN!
+Nah, nah, nah. HOLD UP!=Không, không, không.\nCHẮC CHẮN!
+<style\=RubyPrefixTag></style>\nWhat now?=<style\=RubyPrefixTag></style>\nBây giờ thì sao?
+What now?=Bây giờ thì sao?
+<style\=RubyPrefixTag></style>\nListen. So, I'm the west-side psychic, yeah? I was on the\ncome up BIG TIME. Then SHE came on the scene and\njacked the spotlight...=<style\=RubyPrefixTag></style>\nNghe.\nVậy tôi là nhà ngoại cảm phía Tây phải không?\nTôi đã xuất hiện vào THỜI GIAN LỚN.\nSau đó SHE xuất hiện và thu hút sự chú ý...
+Listen. So, I'm the west-side psychic, yeah? I was on the come up BIG TIME. Then SHE came on the scene and jacked the spotlight...=Nghe.\nVậy tôi là nhà ngoại cảm phía Tây phải không?\nTôi đã xuất hiện vào THỜI GIAN LỚN.\nSau đó SHE xuất hiện và thu hút sự chú ý...
+<style\=RubyPrefixTag></style>\nSo, if YOU gals don't know who I am,\nit's HER fault. Got it?=<style\=RubyPrefixTag></style>\nVì vậy, nếu các bạn không biết tôi là ai thì đó là lỗi của CÔ ẤY.\nHiểu rồi?
+<style\=RubyPrefixTag></style>\n(She's all fired up. What can I say to calm her down?)=<style\=RubyPrefixTag></style>\n(Cô ấy đang rất nóng giận. Mình phải nói gì để giúp cô ấy bình tĩnh lại đây?)
+(She's all fired up. What can I say to calm her down?)=(Cô ấy đang rất nóng giận. Mình phải nói gì để giúp cô ấy bình tĩnh lại đây?)
+difference in psychic ability=sự khác biệt về khả năng tâm linh
+difference in sheer talent=sự khác biệt về tài năng tuyệt đối
+difference in effort=sự khác biệt trong nỗ lực
+It's a rock-star-exclusive=Đó là sản phẩm độc quyền của một ngôi sao nhạc rock
+It's a world of=Đó là một thế giới của
+It's simply a=Nó đơn giản là một
+What will calm her down?=Điều gì sẽ giúp cô ấy bình tĩnh lại?
+It's simply a difference in effort.=Đơn giản đó là sự khác biệt trong nỗ lực.
+<style\=RubyPrefixTag></style>\nIt's simply a difference in effort.=<style\=RubyPrefixTag></style>\nĐơn giản đó là sự khác biệt trong nỗ lực.
+<style\=RubyPrefixTag></style>\nOh so I'm a slacker, now, eh?=<style\=RubyPrefixTag></style>\nỒ vậy ra bây giờ tôi là một kẻ lười biếng, phải không?
+Oh so I'm a slacker, now, eh?=Ồ vậy ra bây giờ tôi là một kẻ lười biếng, phải không?
+<style\=RubyPrefixTag></style>\nNo, just that I'm working a little harder than you.=<style\=RubyPrefixTag></style>\nKhông, chỉ là tôi làm việc chăm chỉ hơn bạn một chút thôi.
+No, just that I'm working a little harder than you.=Không, chỉ là tôi làm việc chăm chỉ hơn bạn một chút thôi.
+<style\=RubyPrefixTag></style>\nBet this wouldn't be a problem if I weren't from Kansai!\nYou Kanto-ites got it too good!!!=<style\=RubyPrefixTag></style>\nCá là chuyện này sẽ không thành vấn đề nếu tôi không đến từ Kansai!\nCác bạn Kanto-ite đã làm quá tốt!!!
+Bet this wouldn't be a problem if I weren't from Kansai! You Kanto-ites got it too good!!!=Cá là chuyện này sẽ không thành vấn đề nếu tôi không đến từ Kansai!\nCác bạn Kanto-ite đã làm quá tốt!!!
+<style\=RubyPrefixTag></style>\nMan, all you did was rile her up even more. How are you\ngetting out of this one?=<style\=RubyPrefixTag></style>\nTrời ạ, tất cả những gì anh làm chỉ là chọc giận cô ấy nhiều hơn mà thôi.\nLàm thế nào bạn thoát khỏi cái này?
+Man, all you did was rile her up even more. How are you getting out of this one?=Trời ạ, tất cả những gì anh làm chỉ là chọc giận cô ấy nhiều hơn mà thôi.\nLàm thế nào bạn thoát khỏi cái này?
+<style\=RubyPrefixTag></style>\nWhoopsie gravy!=<style\=RubyPrefixTag></style>\nRất tiếc nước sốt!
+Whoopsie gravy!=Rất tiếc nước sốt!
+<style\=RubyPrefixTag></style>\nIs that a fad or something?=<style\=RubyPrefixTag></style>\nĐó có phải là mốt nhất thời hay gì đó không?
+Is that a fad or something?=Đó có phải là mốt nhất thời hay gì đó không?
+<style\=RubyPrefixTag></style>\nNope, this is only the second time I've used it in my life.=<style\=RubyPrefixTag></style>\nKhông, đây mới là lần thứ hai tôi sử dụng nó trong đời.
+Nope, this is only the second time I've used it in my life.=Không, đây mới là lần thứ hai tôi sử dụng nó trong đời.
+<style\=RubyPrefixTag></style>\nYeah. I heard.=<style\=RubyPrefixTag></style>\nVâng.\nTôi đã nghe.
+Yeah. I heard.=Vâng.\nTôi đã nghe.
+<style\=RubyPrefixTag></style>\nThe hell'd you just say?=<style\=RubyPrefixTag></style>\nCậu vừa nói cái quái gì vậy?
+The hell'd you just say?=Cậu vừa nói cái quái gì vậy?
+<style\=RubyPrefixTag></style>\nA magic word to calm everything down.=<style\=RubyPrefixTag></style>\nMột từ kỳ diệu để làm dịu mọi thứ.
+A magic word to calm everything down.=Một từ kỳ diệu để làm dịu mọi thứ.
+<style\=RubyPrefixTag></style>\nOH I'M CALM, NOW!=<style\=RubyPrefixTag></style>\nOH TÔI BÌNH TĨNH, NGAY BÂY GIỜ!
+That's it, I've had it with you. Let's go, missy. Me and you. I'm 'bout to go psychic on yer ass.=Thế đấy, tôi đã có nó với bạn.\nĐi thôi, thưa cô.\nTôi và bạn.\nTôi sắp phát điên lên với anh rồi.
+<style\=RubyPrefixTag></style>\nThat's it, I've had it with you. Let's go, missy. Me and you.\nI'm 'bout to go psychic on yer ass.=<style\=RubyPrefixTag></style>\nThế đấy, tôi đã có nó với bạn.\nĐi thôi, thưa cô.\nTôi và bạn.\nTôi sắp phát điên lên với anh rồi.
+<style\=RubyPrefixTag></style>\nHeh. Bring it.=<style\=RubyPrefixTag></style>\nHừ.\nMang nó đi.
+Heh. Bring it.=Hừ.\nMang nó đi.
+<style\=RubyPrefixTag></style>\nHold it right there!=<style\=RubyPrefixTag></style>\nGiữ nó ngay tại đó!
+Hold it right there!=Giữ nó ngay tại đó!
+Yo, short stuff, unless ya wanna get caught up in the beatdown of the century, I suggest ya step off.=Này, nói ngắn gọn thôi, trừ khi bạn muốn bị cuốn vào cuộc đọ sức của thế kỷ, tôi khuyên bạn nên dừng lại.
+<style\=RubyPrefixTag></style>\nYo, short stuff, unless ya wanna get caught up in the\nbeatdown of the century, I suggest ya step off.=<style\=RubyPrefixTag></style>\nNày, nói ngắn gọn thôi, trừ khi bạn muốn bị cuốn vào cuộc đọ sức của thế kỷ, tôi khuyên bạn nên dừng lại.
+<style\=RubyPrefixTag></style>\nPlease allow me, Tama Kunimi, former captain of the\nKotetsu Maru, to supervise this match!=<style\=RubyPrefixTag></style>\nXin hãy cho phép tôi, Tama Kunimi, cựu đội trưởng của Kotetsu Maru, giám sát trận đấu này!
+Please allow me, Tama Kunimi, former captain of the Kotetsu Maru, to supervise this match!=Xin hãy cho phép tôi, Tama Kunimi, cựu đội trưởng của Kotetsu Maru, giám sát trận đấu này!
+<style\=RubyPrefixTag></style>\nFormer battleship captain.\nMath wiz.=<style\=RubyPrefixTag></style>\nCựu thuyền trưởng tàu chiến.\nPhù thủy toán học.
+<style\=RubyPrefixTag></style>\nOooh, a cosplayer this time? I love the diverse roster we're\ngetting here.=<style\=RubyPrefixTag></style>\nỒ, lần này là cosplayer à?\nTôi yêu thích đội hình đa dạng mà chúng tôi có ở đây.
+Oooh, a cosplayer this time? I love the diverse roster we're getting here.=Ồ, lần này là cosplayer à?\nTôi yêu thích đội hình đa dạng mà chúng tôi có ở đây.
+<style\=RubyPrefixTag></style>\nDo we need to report a lost child? Where'd this blissfully\nignorant kid come from?=<style\=RubyPrefixTag></style>\nChúng ta có cần báo cáo một đứa trẻ bị lạc không?\nĐứa trẻ ngu dốt vui vẻ này đến từ đâu?
+Do we need to report a lost child? Where'd this blissfully ignorant kid come from?=Chúng ta có cần báo cáo một đứa trẻ bị lạc không?\nĐứa trẻ ngu dốt vui vẻ này đến từ đâu?
+<style\=RubyPrefixTag></style>\nBut she's so cute.=<style\=RubyPrefixTag></style>\nNhưng cô ấy thật dễ thương.
+But she's so cute.=Nhưng cô ấy thật dễ thương.
+<style\=RubyPrefixTag></style>\nThis outfit! Um...a former crew member dressed me up in\nit so...it's a little embarrassing, but...=<style\=RubyPrefixTag></style>\nBộ trang phục này!\nỪm...một cựu thành viên phi hành đoàn đã mặc cho tôi bộ đó nên...có hơi xấu hổ một chút, nhưng...
+This outfit! Um...a former crew member dressed me up in it so...it's a little embarrassing, but...=Bộ trang phục này!\nỪm...một cựu thành viên phi hành đoàn đã mặc cho tôi bộ đó nên...có hơi xấu hổ một chút, nhưng...
+I said, MOVE!=Tôi nói, CHUYỂN ĐI!
+<style\=RubyPrefixTag></style>\nI said, MOVE!=<style\=RubyPrefixTag></style>\nTôi nói, CHUYỂN ĐI!
+<style\=RubyPrefixTag></style>\nNegative! As former captain of the Kotetsu Maru, it is my\nduty to maintain order!=<style\=RubyPrefixTag></style>\nTiêu cực!\nLà cựu thuyền trưởng của Kotetsu Maru, nhiệm vụ của tôi là duy trì trật tự!
+Negative! As former captain of the Kotetsu Maru, it is my duty to maintain order!=Tiêu cực!\nLà cựu thuyền trưởng của Kotetsu Maru, nhiệm vụ của tôi là duy trì trật tự!
+<style\=RubyPrefixTag></style>\nIf memory serves, wasn't the Kotetsu Maru steered by AI?=<style\=RubyPrefixTag></style>\nNếu trí nhớ còn hoạt động, không phải Kotetsu Maru được điều khiển bởi AI sao?
+If memory serves, wasn't the Kotetsu Maru steered by AI?=Nếu trí nhớ còn hoạt động, không phải Kotetsu Maru được điều khiển bởi AI sao?
+<style\=RubyPrefixTag></style>\nThat's because I look so...um...young. They had no choice\nbut to report it that way...=<style\=RubyPrefixTag></style>\nĐó là bởi vì tôi trông quá...ừm...trẻ.\nHọ không còn lựa chọn nào khác ngoài việc báo cáo theo cách đó...
+That's because I look so...um...young. They had no choice but to report it that way...=Đó là bởi vì tôi trông quá...ừm...trẻ.\nHọ không còn lựa chọn nào khác ngoài việc báo cáo theo cách đó...
+<style\=RubyPrefixTag></style>\nOh? So you're a survivor of the Okhotsk Sea tragedy?=<style\=RubyPrefixTag></style>\nỒ?\nVậy bạn là người sống sót sau thảm kịch biển Okhotsk?
+Oh? So you're a survivor of the Okhotsk Sea tragedy?=Ồ?\nVậy bạn là người sống sót sau thảm kịch biển Okhotsk?
+<style\=RubyPrefixTag></style>\nYes.=<style\=RubyPrefixTag></style>\nĐúng.
+Yes.=Đúng.
+<style\=RubyPrefixTag></style>\nWhat does that mean?=<style\=RubyPrefixTag></style>\nĐiều đó có nghĩa là gì?
+What does that mean?=Điều đó có nghĩa là gì?
+<style\=RubyPrefixTag></style>\nI'd like to know as well.=<style\=RubyPrefixTag></style>\nTôi cũng muốn biết.
+I'd like to know as well.=Tôi cũng muốn biết.
+If you're an intel agent, please know about SOMETHING.=Nếu bạn là đặc vụ intel, vui lòng biết về ĐIỀU GÌ ĐÓ.
+<style\=RubyPrefixTag></style>\nIf you're an intel agent, please know about SOMETHING.=<style\=RubyPrefixTag></style>\nNếu bạn là đặc vụ intel, vui lòng biết về ĐIỀU GÌ ĐÓ.
+<style\=RubyPrefixTag></style>\nAnyway, a combined fleet led by the US Navy tried to\nlaunch an attack against the Cancer, but they were utterly\ndecimated.=<style\=RubyPrefixTag></style>\nDù sao đi nữa, một hạm đội tổng hợp do Hải quân Hoa Kỳ chỉ huy đã cố gắng tiến hành một cuộc tấn công chống lại Cancer, nhưng họ đã bị tiêu diệt hoàn toàn.
+Anyway, a combined fleet led by the US Navy tried to launch an attack against the Cancer, but they were utterly decimated.=Dù sao đi nữa, một hạm đội tổng hợp do Hải quân Hoa Kỳ chỉ huy đã cố gắng tiến hành một cuộc tấn công chống lại Cancer, nhưng họ đã bị tiêu diệt hoàn toàn.
+<style\=RubyPrefixTag></style>\nOnly one ship returned—the Kotetsu Maru—barely keeping\nitself afloat. The girl here was its captain.=<style\=RubyPrefixTag></style>\nChỉ có một con tàu quay trở lại—Kotetsu Maru—gần như không thể nổi được.\nCô gái ở đây là thuyền trưởng của nó.
+Only one ship returned—the Kotetsu Maru—barely keeping itself afloat. The girl here was its captain.=Chỉ có một con tàu quay trở lại—Kotetsu Maru—gần như không thể nổi được.\nCô gái ở đây là thuyền trưởng của nó.
+<style\=RubyPrefixTag></style>\nSounds like we got a real smarty pants here. Say all the\ndigits of Pi. Bet'cha can't do that! And don't think about\nmakin' it up, Miss Glasses here knows the answer.=<style\=RubyPrefixTag></style>\nCó vẻ như chúng ta có một chiếc quần thông minh thực sự ở đây.\nNói tất cả các chữ số của Pi.\nBet'cha không thể làm điều đó!\nVà đừng nghĩ đến chuyện bịa đặt, Cô Kính đây biết câu trả lời.
+Sounds like we got a real smarty pants here. Say all the digits of Pi. Bet'cha can't do that! And don't think about makin' it up, Miss Glasses here knows the answer.=Có vẻ như chúng ta có một chiếc quần thông minh thực sự ở đây.\nNói tất cả các chữ số của Pi.\nBet'cha không thể làm điều đó!\nVà đừng nghĩ đến chuyện bịa đặt, Cô Kính đây biết câu trả lời.
+<style\=RubyPrefixTag></style>\nConfirm the answer yourself. Don't drag me into this.=<style\=RubyPrefixTag></style>\nHãy tự mình xác nhận câu trả lời.\nĐừng lôi tôi vào chuyện này.
+Confirm the answer yourself. Don't drag me into this.=Hãy tự mình xác nhận câu trả lời.\nĐừng lôi tôi vào chuyện này.
+<style\=RubyPrefixTag></style>\nFine, but...it goes on forever, you know.\n3.14159265358979323846264338327950288...=<style\=RubyPrefixTag></style>\nĐược thôi, nhưng...nó cứ kéo dài mãi mãi, bạn biết đấy.\n3.14159265358979323846264338327950288...
+Fine, but...it goes on forever, you know.\n3.14159265358979323846264338327950288...=Được thôi, nhưng...nó cứ kéo dài mãi mãi, bạn biết đấy.\n3.14159265358979323846264338327950288...
+<style\=RubyPrefixTag></style>\nWait, slow down!=<style\=RubyPrefixTag></style>\nĐợi đã, chậm lại!
+Wait, slow down!=Đợi đã, chậm lại!
+<style\=RubyPrefixTag></style>\nNice try, kid. Ya think if you just say it all fast we won't\nknow?=<style\=RubyPrefixTag></style>\nCố gắng nhé nhóc.\nBạn nghĩ nếu bạn nói nhanh thì chúng tôi sẽ không biết?
+Nice try, kid. Ya think if you just say it all fast we won't know?=Cố gắng nhé nhóc.\nBạn nghĩ nếu bạn nói nhanh thì chúng tôi sẽ không biết?
+I mean, she wasn't wrong.=Ý tôi là, cô ấy không sai.
+<style\=RubyPrefixTag></style>\nI mean, she wasn't wrong.=<style\=RubyPrefixTag></style>\nÝ tôi là, cô ấy không sai.
+<style\=RubyPrefixTag></style>\nWhat the hell, we're up to two whiz kids now!=<style\=RubyPrefixTag></style>\nCái quái gì thế, bây giờ chúng ta có tới hai đứa trẻ siêu phàm!
+What the hell, we're up to two whiz kids now!=Cái quái gì thế, bây giờ chúng ta có tới hai đứa trẻ siêu phàm!
+<style\=RubyPrefixTag></style>\nWould you like me to do the square root of two next?\n1.41421356237309504880168872420969...=<style\=RubyPrefixTag></style>\nBạn có muốn tôi làm căn bậc hai của 2 tiếp theo không?\n1.41421356237309504880168872420969...
+Would you like me to do the square root of two next?\n1.41421356237309504880168872420969...=Bạn có muốn tôi làm căn bậc hai của 2 tiếp theo không?\n1.41421356237309504880168872420969...
+<style\=RubyPrefixTag></style>\nWoah, even I don't know that one.=<style\=RubyPrefixTag></style>\nWow, ngay cả tôi cũng không biết điều đó.
+Woah, even I don't know that one.=Wow, ngay cả tôi cũng không biết điều đó.
+<style\=RubyPrefixTag></style>\nGet outta here... So, short stuff here's an actual genius?=<style\=RubyPrefixTag></style>\nRa khỏi đây đi... Tóm lại, đây có phải là một thiên tài thực sự không?
+Get outta here... So, short stuff here's an actual genius?=Ra khỏi đây đi... Tóm lại, đây có phải là một thiên tài thực sự không?
+<style\=RubyPrefixTag></style>\nYes, ma'am!=<style\=RubyPrefixTag></style>\nVâng, thưa bà!
+Yes, ma'am!=Vâng, thưa bà!
+<style\=RubyPrefixTag></style>\nSo that means...=<style\=RubyPrefixTag></style>\nVậy điều đó có nghĩa là...
+So that means...=Vậy điều đó có nghĩa là...
+<style\=RubyPrefixTag></style>\nShe's...=<style\=RubyPrefixTag></style>\nCô ấy...
+<style\=RubyPrefixTag></style>\nour token loli character! Woo-hoo!=<style\=RubyPrefixTag></style>\nnhân vật loli token của chúng tôi!\nWoo-hoo!
+<style\=RubyPrefixTag></style>\nour ally!=<style\=RubyPrefixTag></style>\nđồng minh của chúng tôi!
+<style\=RubyPrefixTag></style>\nour next opponent!=<style\=RubyPrefixTag></style>\nđối thủ tiếp theo của chúng ta!
+<style\=RubyPrefixTag></style>\nShe's our token loli character! Woo-hoo!=<style\=RubyPrefixTag></style>\nCô ấy là nhân vật loli token của chúng tôi!\nWoo-hoo!
+She's our token loli character! Woo-hoo!=Cô ấy là nhân vật loli token của chúng tôi!\nWoo-hoo!
+<style\=RubyPrefixTag></style>\nQuit cheering. It's not something you should be excited\nover, you know.=<style\=RubyPrefixTag></style>\nThôi cổ vũ đi.\nĐó không phải là điều bạn nên hào hứng, bạn biết đấy.
+Quit cheering. It's not something you should be excited over, you know.=Thôi cổ vũ đi.\nĐó không phải là điều bạn nên hào hứng, bạn biết đấy.
+<style\=RubyPrefixTag></style>\nI can't help it. Having a cute little girl on board puts\neveryone's mind at ease.=<style\=RubyPrefixTag></style>\nTôi không thể giúp được.\nCó một cô bé dễ thương trên tàu khiến tâm trí mọi người đều thoải mái.
+I can't help it. Having a cute little girl on board puts everyone's mind at ease.=Tôi không thể giúp được.\nCó một cô bé dễ thương trên tàu khiến tâm trí mọi người đều thoải mái.
+Why are you speaking for all of us?=Tại sao bạn lại nói thay cho tất cả chúng tôi?
+<style\=RubyPrefixTag></style>\nGood daaay, Captain Tama! Long time, no seeea! You're\none hot TAMAleee!=<style\=RubyPrefixTag></style>\nChúc một ngày tốt lành, Thuyền trưởng Tama!\nĐã lâu không gặp!\nBạn là một TAMAle nóng bỏng!
+Female Maintenance Worker=Nữ Nhân Viên Bảo Trì
+Good daaay, Captain Tama! Long time, no seeea! You're one hot TAMAleee!=Chúc một ngày tốt lành, Thuyền trưởng Tama!\nĐã lâu không gặp!\nBạn là một TAMAle nóng bỏng!
+<style\=RubyPrefixTag></style>\nWhy are you speaking for all of us?=<style\=RubyPrefixTag></style>\nTại sao bạn lại nói thay cho tất cả chúng tôi?
+Anyway, nice to meet you, Token Loli Character.=Dù sao thì, rất vui được gặp bạn, Nhân vật Token Loli.
+<style\=RubyPrefixTag></style>\nAnyway, nice to meet you, Token Loli Character.=<style\=RubyPrefixTag></style>\nDù sao thì, rất vui được gặp bạn, Nhân vật Token Loli.
+No. My name's Tama Kunimi. At your command!=Không. Tên tôi là Tama Kunimi.\nTheo lệnh của bạn!
+<style\=RubyPrefixTag></style>\nIndeed!=<style\=RubyPrefixTag></style>\nThực vậy!
+<style\=RubyPrefixTag></style>\nWhat gives? She just called you Tama.=<style\=RubyPrefixTag></style>\nCái gì mang lại?\nCô ấy vừa gọi bạn là Tama.
+<style\=RubyPrefixTag></style>\nHuh?! U-Um...that's...she was, er, using my nickname...=<style\=RubyPrefixTag></style>\nHả?!\nU-Ừm...đó là...cô ấy, ờ, sử dụng biệt danh của tôi...
+Huh?! U-Um...that's...she was, er, using my nickname...=Hả?!\nU-Ừm...đó là...cô ấy, ờ, sử dụng biệt danh của tôi...
+What gives? She just called you Tama.=Cái gì mang lại?\nCô ấy vừa gọi bạn là Tama.
+Indeed!=Thực vậy!
+<style\=RubyPrefixTag></style>\nNo. My name's Tama Kunimi. At your command!=<style\=RubyPrefixTag></style>\nKhông. Tên tôi là Tama Kunimi.\nTheo lệnh của bạn!
+<style\=RubyPrefixTag></style>\nOh, so Tama's a no-go, but Hot Tamale is fine?=<style\=RubyPrefixTag></style>\nỒ, vậy Tama thì không được, nhưng Hot Tamale thì được chứ?
+<style\=RubyPrefixTag></style>\nNo, I meant my nickname was Captain Tama, not Hot\nTamale.=<style\=RubyPrefixTag></style>\nKhông, ý tôi là biệt danh của tôi là Captain Tama, không phải Hot Tamale.
+No, I meant my nickname was Captain Tama, not Hot Tamale.=Không, ý tôi là biệt danh của tôi là Captain Tama, không phải Hot Tamale.
+Oh, so Tama's a no-go, but Hot Tamale is fine?=Ồ, vậy Tama thì không được, nhưng Hot Tamale thì được chứ?
+How do you spell that?=Làm thế nào để bạn đánh vần nó?
+<style\=RubyPrefixTag></style>\nHow do you spell that?=<style\=RubyPrefixTag></style>\nLàm thế nào để bạn đánh vần nó?
+T-A-M-A, like the popular cat name... So that's why I prefer going by my last name. To avoid that connection...=T-A-M-A, giống như tên mèo phổ biến... Đó là lý do tại sao tôi thích gọi họ của mình hơn.\nĐể tránh kết nối đó ...
+<style\=RubyPrefixTag></style>\nBut you're not a captain anymore.=<style\=RubyPrefixTag></style>\nNhưng anh không còn là thuyền trưởng nữa.
+<style\=RubyPrefixTag></style>\nI know, but...=<style\=RubyPrefixTag></style>\nTôi biết, nhưng...
+<style\=RubyPrefixTag></style>\nHow's this? I'll call you Cappy.=<style\=RubyPrefixTag></style>\nCái này thế nào?\nTôi sẽ gọi bạn là Cappy.
+<style\=RubyPrefixTag></style>\nOh! I'm not an actual captain anymore, so that's a perfect\nworkaround! There's no going back!=<style\=RubyPrefixTag></style>\nỒ!\nTôi không còn là đội trưởng thực sự nữa nên đó là giải pháp hoàn hảo!\nKhông có đường quay lại!
+Oh! I'm not an actual captain anymore, so that's a perfect workaround! There's no going back!=Ồ!\nTôi không còn là đội trưởng thực sự nữa nên đó là giải pháp hoàn hảo!\nKhông có đường quay lại!
+How's this? I'll call you Cappy.=Cái này thế nào?\nTôi sẽ gọi bạn là Cappy.
+I know, but...=Tôi biết, nhưng...
+But you're not a captain anymore.=Nhưng anh không còn là thuyền trưởng nữa.
+<style\=RubyPrefixTag></style>\nT-A-M-A, like the popular cat name... So that's why I prefer\ngoing by my last name. To avoid that connection...=<style\=RubyPrefixTag></style>\nT-A-M-A, giống như tên mèo phổ biến... Đó là lý do tại sao tôi thích gọi họ của mình hơn.\nĐể tránh kết nối đó ...
+<style\=RubyPrefixTag></style>\nBut, if you've always gone by Captain Tama, then why\nchange now?=<style\=RubyPrefixTag></style>\nNhưng, nếu bạn luôn đi theo Thuyền trưởng Tama, vậy tại sao bây giờ lại thay đổi?
+But, if you've always gone by Captain Tama, then why change now?=Nhưng, nếu bạn luôn đi theo Thuyền trưởng Tama, vậy tại sao bây giờ lại thay đổi?
+<style\=RubyPrefixTag></style>\nTsk...that's it. I can't take any more of this word play crap.\nI've said what I needed to say.=<style\=RubyPrefixTag></style>\nChậc...chính là nó.\nTôi không thể chịu nổi trò chơi chữ vớ vẩn này nữa.\nTôi đã nói những gì tôi cần nói.
+Tsk...that's it. I can't take any more of this word play crap. I've said what I needed to say.=Chậc...chính là nó.\nTôi không thể chịu nổi trò chơi chữ vớ vẩn này nữa.\nTôi đã nói những gì tôi cần nói.
+<style\=RubyPrefixTag></style>\nSay what? All you did was come here and complain.=<style\=RubyPrefixTag></style>\nNói gì cơ?\nTất cả những gì bạn làm là đến đây và phàn nàn.
+Say what? All you did was come here and complain.=Nói gì cơ?\nTất cả những gì bạn làm là đến đây và phàn nàn.
+Thank short stuff there for savin' yer butt, rock star. But next time we meet, I'll psychic your pretty head clean-off them shoulders, ya hear?=Cảm ơn những điều ngắn gọn vì đã cứu được mông của bạn, ngôi sao nhạc rock.\nNhưng lần sau chúng ta gặp nhau, tôi sẽ dùng tâm linh để cạo sạch đôi vai của bạn, nghe chưa?
+<style\=RubyPrefixTag></style>\nThank short stuff there for savin' yer butt, rock star. But\nnext time we meet, I'll psychic your pretty head clean-off\nthem shoulders, ya hear?=<style\=RubyPrefixTag></style>\nCảm ơn những điều ngắn gọn vì đã cứu được mông của bạn, ngôi sao nhạc rock.\nNhưng lần sau chúng ta gặp nhau, tôi sẽ dùng tâm linh để cạo sạch đôi vai của bạn, nghe chưa?
+<style\=RubyPrefixTag></style>\nSure, sure.=<style\=RubyPrefixTag></style>\nChắc chắn, chắc chắn.
+Sure, sure.=Chắc chắn, chắc chắn.
+<style\=RubyPrefixTag></style>\nI need some time to think.=<style\=RubyPrefixTag></style>\nTôi cần chút thời gian để suy nghĩ.
+I need some time to think.=Tôi cần chút thời gian để suy nghĩ.
+<style\=RubyPrefixTag></style>\nThey told us to wait in our rooms, but I'm going to stay out\nhere for a bit.=<style\=RubyPrefixTag></style>\nHọ bảo chúng tôi đợi trong phòng, nhưng tôi sẽ ở ngoài này một lát.
+They told us to wait in our rooms, but I'm going to stay out here for a bit.=Họ bảo chúng tôi đợi trong phòng, nhưng tôi sẽ ở ngoài này một lát.
+Rest in your dormitory room=Nghỉ ngơi trong phòng ký túc xá của bạn
+I think my room's...that way?=Tôi nghĩ phòng tôi... ở hướng đó?
+<style\=RubyPrefixTag></style>\nI think my room's...that way?=<style\=RubyPrefixTag></style>\nTôi nghĩ phòng tôi... ở hướng đó?
+<style\=RubyPrefixTag></style>\nJust you wait. I gotta psy-kick with ya name on it.=<style\=RubyPrefixTag></style>\nChỉ cần bạn chờ đợi.\nTôi phải phát điên với cái tên của bạn trên đó.
+Just you wait. I gotta psy-kick with ya name on it.=Chỉ cần bạn chờ đợi.\nTôi phải phát điên với cái tên của bạn trên đó.
+<style\=RubyPrefixTag></style>\nThis place is so luxurious... Just where do they get their\nfunding?=<style\=RubyPrefixTag></style>\nNơi này xa hoa quá... Họ lấy tiền từ đâu ra?
+This place is so luxurious... Just where do they get their funding?=Nơi này xa hoa quá... Họ lấy tiền từ đâu ra?
+And is there more of it to go around?=Và có nhiều thứ để đi xung quanh không?
+<style\=RubyPrefixTag></style>\nAnd is there more of it to go around?=<style\=RubyPrefixTag></style>\nVà có nhiều thứ để đi xung quanh không?
+<style\=RubyPrefixTag></style>\nI wonder if it'll be okay to take this Narby back to my\nroom?=<style\=RubyPrefixTag></style>\nTôi tự hỏi liệu có ổn không khi đưa Narby này về phòng tôi?
+I wonder if it'll be okay to take this Narby back to my room?=Tôi tự hỏi liệu có ổn không khi đưa Narby này về phòng tôi?
+<style\=RubyPrefixTag></style>\nMy pride as a former naval captain is on the line here!=<style\=RubyPrefixTag></style>\nNiềm tự hào của tôi với tư cách là một cựu thuyền trưởng hải quân đang bị đe dọa ở đây!
+My pride as a former naval captain is on the line here!=Niềm tự hào của tôi với tư cách là một cựu thuyền trưởng hải quân đang bị đe dọa ở đây!
+<style\=RubyPrefixTag></style>\nNo more hot tamales for me...=<style\=RubyPrefixTag></style>\nKhông còn bánh tamales nóng hổi nào dành cho tôi nữa...
+No more hot tamales for me...=Không còn bánh tamales nóng hổi nào dành cho tôi nữa...
+Hi Honey, I'm home!=Chào em yêu, anh về rồi!
+<style\=RubyPrefixTag></style>\nHi Honey, I'm home!=<style\=RubyPrefixTag></style>\nChào em yêu, anh về rồi!
+<style\=RubyPrefixTag></style>\nThe hell?! Of all the damn rooms...=<style\=RubyPrefixTag></style>\nCái quái gì thế?!\nTrong số tất cả những căn phòng chết tiệt...
+<style\=RubyPrefixTag></style>\nDoes this mean...the six of us make up the 31-A squad?=<style\=RubyPrefixTag></style>\nĐiều này có nghĩa là...sáu người chúng ta tạo thành đội 31-A phải không?
+Does this mean...the six of us make up the 31-A squad?=Điều này có nghĩa là...sáu người chúng ta tạo thành đội 31-A phải không?
+The hell?! Of all the damn rooms...=Cái quái gì thế?!\nTrong số tất cả những căn phòng chết tiệt...
+<style\=RubyPrefixTag></style>\nYup. That's what it said on the nameplate outside.=<style\=RubyPrefixTag></style>\nChuẩn rồi.\nĐó là những gì ghi trên bảng tên bên ngoài.
+Yup. That's what it said on the nameplate outside.=Chuẩn rồi.\nĐó là những gì ghi trên bảng tên bên ngoài.
+<style\=RubyPrefixTag></style>\nAren't you an intel agent? Don't just wander around blindly!\nObserve your surroundings!=<style\=RubyPrefixTag></style>\nBạn không phải là đặc vụ intel sao?\nĐừng chỉ đi loanh quanh một cách mù quáng!\nQuan sát môi trường xung quanh bạn!
+Aren't you an intel agent? Don't just wander around blindly! Observe your surroundings!=Bạn không phải là đặc vụ intel sao?\nĐừng chỉ đi loanh quanh một cách mù quáng!\nQuan sát môi trường xung quanh bạn!
+<style\=RubyPrefixTag></style>\nThat's why I came to say hi to everyone...=<style\=RubyPrefixTag></style>\nĐó là lý do tại sao tôi đến để chào mọi người...
+That's why I came to say hi to everyone...=Đó là lý do tại sao tôi đến để chào mọi người...
+<style\=RubyPrefixTag></style>\nWhat should I do?=<style\=RubyPrefixTag></style>\nTôi nên làm gì?
+<style\=RubyPrefixTag></style>\nPlay Uno!=<style\=RubyPrefixTag></style>\nChơi Uno!
+<style\=RubyPrefixTag></style>\nLeave=<style\=RubyPrefixTag></style>\nRời khỏi
+<style\=RubyPrefixTag></style>\nIt's UNO time!=<style\=RubyPrefixTag></style>\nĐã đến lúc UNO!
+<style\=RubyPrefixTag></style>\nI can't believe you're suggesting games right now. Don't we\nhave more important business to attend to?=<style\=RubyPrefixTag></style>\nTôi không thể tin được là bạn đang đề xuất trò chơi vào lúc này.\nChẳng phải chúng ta có việc quan trọng hơn phải làm sao?
+I can't believe you're suggesting games right now. Don't we have more important business to attend to?=Tôi không thể tin được là bạn đang đề xuất trò chơi vào lúc này.\nChẳng phải chúng ta có việc quan trọng hơn phải làm sao?
+It's UNO time!=Đã đến lúc UNO!
+<style\=RubyPrefixTag></style>\nDraw 2!=<style\=RubyPrefixTag></style>\nVẽ 2!
+Draw 2!=Vẽ 2!
+Wild Draw 4.=Vẽ hoang dã 4.
+<style\=RubyPrefixTag></style>\nAAAhhh!!!=<style\=RubyPrefixTag></style>\nAAAhhh!!!
+<style\=RubyPrefixTag></style>\nHahaha!=<style\=RubyPrefixTag></style>\nHahaha!
+Hahaha!=Hahaha!
+<style\=RubyPrefixTag></style>\nWE DO HAVE MORE IMPORTANT BUSINESS! Stop forgetting already!!=<style\=RubyPrefixTag></style>\nCHÚNG TÔI CÓ KINH DOANH QUAN TRỌNG HƠN!\nĐừng quên nữa!!
+<style\=RubyPrefixTag></style>\nWild Draw 4.=<style\=RubyPrefixTag></style>\nVẽ hoang dã 4.
+<style\=RubyPrefixTag></style>\nChallenge.=<style\=RubyPrefixTag></style>\nThử thách.
+<style\=RubyPrefixTag></style>\nGimme a break. Are you always this loud? I thought you\nwere a fan of mine.=<style\=RubyPrefixTag></style>\nHãy cho tôi nghỉ ngơi.\nCậu luôn ồn ào thế này à?\nTôi tưởng bạn là fan của tôi.
+Gimme a break. Are you always this loud? I thought you were a fan of mine.=Hãy cho tôi nghỉ ngơi.\nCậu luôn ồn ào thế này à?\nTôi tưởng bạn là fan của tôi.
+Challenge.=Thử thách.
+<style\=RubyPrefixTag></style>\nI WAS! But you're nothing like I thought you were!=<style\=RubyPrefixTag></style>\nTÔI ĐÃ!\nNhưng bạn không hề như tôi nghĩ!
+I WAS! But you're nothing like I thought you were!=TÔI ĐÃ!\nNhưng bạn không hề như tôi nghĩ!
+<style\=RubyPrefixTag></style>\nOr ya can just be my fan. I treat all the psykids with mad\nrespect. And, if ya havin' trouble sleepin'? I can just psychic\nya right to dreamland, jus' like that.=<style\=RubyPrefixTag></style>\nHoặc bạn có thể chỉ là fan của tôi.\nTôi đối xử với tất cả những đứa trẻ tâm thần bằng sự tôn trọng điên cuồng.\nVà nếu bạn khó ngủ?\nTôi chỉ có thể tâm linh cho bạn đến vùng đất mơ, chỉ như vậy thôi.
+Or ya can just be my fan. I treat all the psykids with mad respect. And, if ya havin' trouble sleepin'? I can just psychic ya right to dreamland, jus' like that.=Hoặc bạn có thể chỉ là fan của tôi.\nTôi đối xử với tất cả những đứa trẻ tâm thần bằng sự tôn trọng điên cuồng.\nVà nếu bạn khó ngủ?\nTôi chỉ có thể tâm linh cho bạn đến vùng đất mơ, chỉ như vậy thôi.
+<style\=RubyPrefixTag></style>\nIt's what comes AFTER that I'm concerned about!=<style\=RubyPrefixTag></style>\nĐiều tôi quan tâm là điều xảy ra SAU!
+<style\=RubyPrefixTag></style>\nNo—Focus! Kayamori, didn't they tell us to check our\nequipment?=<style\=RubyPrefixTag></style>\nKhông—tập trung!\nKayamori, họ không bảo chúng ta kiểm tra trang bị sao?
+No—Focus! Kayamori, didn't they tell us to check our equipment?=Không—tập trung!\nKayamori, họ không bảo chúng ta kiểm tra trang bị sao?
+It's what comes AFTER that I'm concerned about!=Điều tôi quan tâm là điều xảy ra SAU!
+<style\=RubyPrefixTag></style>\nWhat do you mean by equipment? Socks, bras, and\npanties?=<style\=RubyPrefixTag></style>\nBạn có ý nghĩa gì bởi thiết bị?\nTất, áo ngực và quần lót?
+What do you mean by equipment? Socks, bras, and panties?=Bạn có ý nghĩa gì bởi thiết bị?\nTất, áo ngực và quần lót?
+<style\=RubyPrefixTag></style>\nExactly. Those should be in there, too. But why does it\nsound so perverted when you say them?=<style\=RubyPrefixTag></style>\nChính xác.\nNhững thứ đó cũng nên ở trong đó.\nNhưng tại sao khi bạn nói những điều đó nghe có vẻ biến thái thế?
+Exactly. Those should be in there, too. But why does it sound so perverted when you say them?=Chính xác.\nNhững thứ đó cũng nên ở trong đó.\nNhưng tại sao khi bạn nói những điều đó nghe có vẻ biến thái thế?
+<style\=RubyPrefixTag></style>\nWhat are these foil pouches? There seems to be one for\neach of us.=<style\=RubyPrefixTag></style>\nNhững túi giấy bạc này là gì?\nDường như có một cái cho mỗi người chúng ta.
+What are these foil pouches? There seems to be one for each of us.=Những túi giấy bạc này là gì?\nDường như có một cái cho mỗi người chúng ta.
+<style\=RubyPrefixTag></style>\nLooks like...water and field rations.=<style\=RubyPrefixTag></style>\nHình như... nước và khẩu phần đồng ruộng.
+Looks like...water and field rations.=Hình như... nước và khẩu phần đồng ruộng.
+Snack time!=Giờ ăn nhẹ!
+<style\=RubyPrefixTag></style>\nSnack time!=<style\=RubyPrefixTag></style>\nGiờ ăn nhẹ!
+<style\=RubyPrefixTag></style>\nWhaaa? Can't they just buy more?=<style\=RubyPrefixTag></style>\nCái gì?\nHọ không thể mua thêm sao?
+Whaaa? Can't they just buy more?=Cái gì?\nHọ không thể mua thêm sao?
+<style\=RubyPrefixTag></style>\nHow would we explain why they're gone to begin with?!\nLike...oops, I was hungry, and they were right there?!\nThey'd FLIP!=<style\=RubyPrefixTag></style>\nLàm thế nào chúng ta có thể giải thích lý do tại sao họ lại ra đi ngay từ đầu?!\nGiống như...ôi, tôi đói quá, và họ ở ngay đó?!\nHọ sẽ lật!
+How would we explain why they're gone to begin with?! Like...oops, I was hungry, and they were right there?! They'd FLIP!=Làm thế nào chúng ta có thể giải thích lý do tại sao họ lại ra đi ngay từ đầu?!\nGiống như...ôi, tôi đói quá, và họ ở ngay đó?!\nHọ sẽ lật!
+<style\=RubyPrefixTag></style>\nDon't you DARE! They're for missions only!=<style\=RubyPrefixTag></style>\nBạn đừng DÁM!\nChúng chỉ dành cho nhiệm vụ!
+Don't you DARE! They're for missions only!=Bạn đừng DÁM!\nChúng chỉ dành cho nhiệm vụ!
+<style\=RubyPrefixTag></style>\nFine, I get it.=<style\=RubyPrefixTag></style>\nĐược rồi, tôi hiểu rồi.
+<style\=RubyPrefixTag></style>\nEveryone, check that you have everything, all right?=<style\=RubyPrefixTag></style>\nMọi người, hãy kiểm tra xem các bạn có đủ mọi thứ chưa, được chứ?
+<style\=RubyPrefixTag></style>\nAye-aye! On it!=<style\=RubyPrefixTag></style>\nĐược rồi!\nTrên đó!
+Aye-aye! On it!=Được rồi!\nTrên đó!
+Everyone, check that you have everything, all right?=Mọi người, hãy kiểm tra xem các bạn có đủ mọi thứ chưa, được chứ?
+<style\=RubyPrefixTag></style>\nSocks, bras, and panties. Check.=<style\=RubyPrefixTag></style>\nTất, áo ngực và quần lót.\nKiểm tra.
+<style\=RubyPrefixTag></style>\nSeriously. Why does your saying them sound so\nperverted?=<style\=RubyPrefixTag></style>\nNghiêm túc.\nSao bạn nói nghe có vẻ biến thái thế?
+<style\=RubyPrefixTag></style>\nYo, so what are we lookin' for anyway?=<style\=RubyPrefixTag></style>\nYo, vậy chúng ta đang tìm kiếm cái gì thế?
+<style\=RubyPrefixTag></style>\nIs she really that dumb?=<style\=RubyPrefixTag></style>\nCô ấy thực sự ngốc đến vậy sao?
+<style\=RubyPrefixTag></style>\nThis goes riiight here.=<style\=RubyPrefixTag></style>\nĐiều này diễn ra ngay tại đây.
+<style\=RubyPrefixTag></style>\nWhat the heck are you installing?=<style\=RubyPrefixTag></style>\nBạn đang cài đặt cái quái gì vậy?
+<style\=RubyPrefixTag></style>\nHuh? Speakers.=<style\=RubyPrefixTag></style>\nHả?\nLoa.
+<style\=RubyPrefixTag></style>\nOf all the portable speakers, these ones are the best.\nThese bad boys can turn any place into a raging mosh pit,\ncomplete with dives and crowd surfing.=<style\=RubyPrefixTag></style>\nTrong số tất cả các loa di động, những cái này là tốt nhất.\nNhững chàng trai hư này có thể biến bất kỳ nơi nào thành một hố mosh hoành hành, hoàn chỉnh với các hoạt động lặn và lướt sóng giữa đám đông.
+Of all the portable speakers, these ones are the best. These bad boys can turn any place into a raging mosh pit, complete with dives and crowd surfing.=Trong số tất cả các loa di động, những cái này là tốt nhất.\nNhững chàng trai hư này có thể biến bất kỳ nơi nào thành một hố mosh hoành hành, hoàn chỉnh với các hoạt động lặn và lướt sóng giữa đám đông.
+<style\=RubyPrefixTag></style>\nWhat?=<style\=RubyPrefixTag></style>\nCái gì?
+What?=Cái gì?
+<style\=RubyPrefixTag></style>\nNOT HAPPENING. Put those things away!=<style\=RubyPrefixTag></style>\nKHÔNG XẢY RA.\nHãy bỏ những thứ đó đi!
+Huh? Speakers.=Hả?\nLoa.
+What the heck are you installing?=Bạn đang cài đặt cái quái gì vậy?
+<style\=RubyPrefixTag></style>\nNo back talking.=<style\=RubyPrefixTag></style>\nKhông nói lại.
+Fine, I get it.=Được rồi, tôi hiểu rồi.
+Socks, bras, and panties. Check.=Tất, áo ngực và quần lót.\nKiểm tra.
+Seriously. Why does your saying them sound so perverted?=Nghiêm túc.\nSao bạn nói nghe có vẻ biến thái thế?
+<style\=RubyPrefixTag></style>\nWhat? I'm here too, you know.=<style\=RubyPrefixTag></style>\nCái gì?\nTôi cũng ở đây, bạn biết đấy.
+<style\=RubyPrefixTag></style>\nYeah, I know, but...wait. You don't know?=<style\=RubyPrefixTag></style>\nỪ, tôi biết, nhưng...đợi đã.\nBạn không biết à?
+Yeah, I know, but...wait. You don't know?=Ừ, tôi biết, nhưng...đợi đã.\nBạn không biết à?
+What? I'm here too, you know.=Cái gì?\nTôi cũng ở đây, bạn biết đấy.
+Yo, so what are we lookin' for anyway?=Yo, vậy chúng ta đang tìm kiếm cái gì thế?
+<style\=RubyPrefixTag></style>\nNo, no, that's not it...=<style\=RubyPrefixTag></style>\nKhông, không, không phải thế...
+<style\=RubyPrefixTag></style>\nNo! You don't know what you don't know!=<style\=RubyPrefixTag></style>\nKHÔNG!\nBạn không biết những gì bạn không biết!
+No! You don't know what you don't know!=KHÔNG!\nBạn không biết những gì bạn không biết!
+<style\=RubyPrefixTag></style>\nNow's really not the time for a "You Know, You\nKnow"-showdown, you know. Unless you two have already\nfinished checking?=<style\=RubyPrefixTag></style>\nBây giờ thực sự không phải là lúc cho cuộc đối đầu "Bạn biết, bạn biết", bạn biết đấy.\nTrừ khi hai người đã kiểm tra xong rồi?
+Now's really not the time for a "You Know, You Know"-showdown, you know. Unless you two have already finished checking?=Bây giờ thực sự không phải là lúc cho cuộc đối đầu "Bạn biết, bạn biết", bạn biết đấy.\nTrừ khi hai người đã kiểm tra xong rồi?
+No, no, that's not it...=Không, không, không phải thế...
+Is she really that dumb?=Cô ấy thực sự ngốc đến vậy sao?
+This goes riiight here.=Điều này diễn ra ngay tại đây.
+<style\=RubyPrefixTag></style>\nCalling all new recruits. Please make your way to the cafeteria. Your dinner awaits.=<style\=RubyPrefixTag></style>\nKêu gọi tất cả tân binh.\nXin vui lòng đến quán ăn tự phục vụ.\nBữa tối của bạn đang chờ đợi.
+No back talking.=Không nói lại.
+As the only sane person in this clown fiesta...I'm beginning to seriously question my future... How long can I keep going like this?=Là người tỉnh táo duy nhất trong lễ hội chú hề này...Tôi bắt đầu nghiêm túc đặt câu hỏi về tương lai của mình...Tôi có thể tiếp tục như thế này được bao lâu?
+<style\=RubyPrefixTag></style>\nWoah, dinnertime already?=<style\=RubyPrefixTag></style>\nWow, đã đến giờ ăn tối rồi à?
+<style\=RubyPrefixTag></style>\nDinnertime already?=<style\=RubyPrefixTag></style>\nĐã đến giờ ăn tối rồi à?
+<style\=RubyPrefixTag></style>\nWanna grab a bite, kids?=<style\=RubyPrefixTag></style>\nMuốn ăn một miếng không, các em?
+<style\=RubyPrefixTag></style>\nLet's eat!=<style\=RubyPrefixTag></style>\nHãy ăn đi!
+Woah, dinnertime already?=Wow, đã đến giờ ăn tối rồi à?
+<style\=RubyPrefixTag></style>\nAs the only sane person in this clown fiesta...I'm beginning\nto seriously question my future... How long can I keep\ngoing like this?=<style\=RubyPrefixTag></style>\nLà người tỉnh táo duy nhất trong lễ hội chú hề này...Tôi bắt đầu nghiêm túc đặt câu hỏi về tương lai của mình...Tôi có thể tiếp tục như thế này được bao lâu?
+Wanna grab a bite, kids?=Muốn ăn một miếng không, các em?
+<style\=RubyPrefixTag></style>\nWhy do you sound like a soccer mom after practice? All\nwe did was play Uno.=<style\=RubyPrefixTag></style>\nTại sao bạn có vẻ giống một bà mẹ bóng đá sau khi luyện tập?\nTất cả những gì chúng tôi làm là chơi Uno.
+Why do you sound like a soccer mom after practice? All we did was play Uno.=Tại sao bạn có vẻ giống một bà mẹ bóng đá sau khi luyện tập?\nTất cả những gì chúng tôi làm là chơi Uno.
+Whatever they're feeding us, I hope it's good.=Bất cứ thứ gì họ cho chúng ta ăn, tôi hy vọng nó ngon.
+<style\=RubyPrefixTag></style>\nWell, it's a military facility. I suggest not getting your hopes\nup. A step above hospital food is a safe bet, so brace\nyourselves.=<style\=RubyPrefixTag></style>\nÀ, đó là một cơ sở quân sự.\nTôi khuyên bạn không nên hy vọng nhiều.\nCao hơn một bậc so với thức ăn ở bệnh viện là một lựa chọn an toàn, vì vậy hãy chuẩn bị tinh thần.
+Well, it's a military facility. I suggest not getting your hopes up. A step above hospital food is a safe bet, so brace yourselves.=À, đó là một cơ sở quân sự.\nTôi khuyên bạn không nên hy vọng nhiều.\nCao hơn một bậc so với thức ăn ở bệnh viện là một lựa chọn an toàn, vì vậy hãy chuẩn bị tinh thần.
+<style\=RubyPrefixTag></style>\nWhatever they're feeding us, I hope it's good.=<style\=RubyPrefixTag></style>\nBất cứ thứ gì họ cho chúng ta ăn, tôi hy vọng nó ngon.
+<style\=RubyPrefixTag></style>\nWOAH! An all-you-can-eat buffet! BOO-yah!=<style\=RubyPrefixTag></style>\nÁch!\nMột bữa tiệc buffet ăn thỏa sức!\nBOO-yah!
+WOAH! An all-you-can-eat buffet! BOO-yah!=Ách!\nMột bữa tiệc buffet ăn thỏa sức!\nBOO-yah!
+<style\=RubyPrefixTag></style>\nAmazing!=<style\=RubyPrefixTag></style>\nTuyệt vời!
+<style\=RubyPrefixTag></style>\nI'm drooling...=<style\=RubyPrefixTag></style>\nTôi đang chảy nước dãi...
+<style\=RubyPrefixTag></style>\nWoooah, look at all this food!=<style\=RubyPrefixTag></style>\nWoooah, nhìn tất cả đồ ăn này đi!
+<style\=RubyPrefixTag></style>\nTojo, will you ever have any USEFUL intel for us?=<style\=RubyPrefixTag></style>\nTojo, bạn có bao giờ có thông tin HỮU ÍCH nào cho chúng tôi không?
+Tojo, will you ever have any USEFUL intel for us?=Tojo, bạn có bao giờ có thông tin HỮU ÍCH nào cho chúng tôi không?
+Woooah, look at all this food!=Woooah, nhìn tất cả đồ ăn này đi!
+<style\=RubyPrefixTag></style>\nDarn... So close!=<style\=RubyPrefixTag></style>\nChết tiệt... Gần quá!
+<style\=RubyPrefixTag></style>\nYou couldn't have been farther off! This is a veritable\nfeast!=<style\=RubyPrefixTag></style>\nBạn không thể đi xa hơn được!\nĐây đúng là một bữa tiệc thật sự!
+You couldn't have been farther off! This is a veritable feast!=Bạn không thể đi xa hơn được!\nĐây đúng là một bữa tiệc thật sự!
+<style\=RubyPrefixTag></style>\nOh, hey...if I put this with THIS...=<style\=RubyPrefixTag></style>\nỒ, này...nếu tôi đặt cái này với NÀY...
+Oh, hey...if I put this with THIS...=Ồ, này...nếu tôi đặt cái này với NÀY...
+Darn... So close!=Chết tiệt... Gần quá!
+<style\=RubyPrefixTag></style>\nThis plus this equals?=<style\=RubyPrefixTag></style>\nCái này cộng với cái này bằng?
+<style\=RubyPrefixTag></style>\nSeaweed-on-rice bowl!=<style\=RubyPrefixTag></style>\nCơm rong biển!
+<style\=RubyPrefixTag></style>\nA Salisbury steak curry!=<style\=RubyPrefixTag></style>\nCà ri bít tết Salisbury!
+I'm drooling...=Tôi đang chảy nước dãi...
+Amazing!=Tuyệt vời!
+<style\=RubyPrefixTag></style>\nI get a Salisbury steak curry! I'm getting all fired up!=<style\=RubyPrefixTag></style>\nTôi gọi món cà ri bít tết Salisbury!\nTôi đang kiệt sức!
+I get a Salisbury steak curry! I'm getting all fired up!=Tôi gọi món cà ri bít tết Salisbury!\nTôi đang kiệt sức!
+<style\=RubyPrefixTag></style>\nHeh. You done messed up, that's for sure.=<style\=RubyPrefixTag></style>\nHừ.\nBạn đã làm hỏng việc rồi, đó là điều chắc chắn.
+Heh. You done messed up, that's for sure.=Hừ.\nBạn đã làm hỏng việc rồi, đó là điều chắc chắn.
+Lemme explain it in a way even a moron like you can understand, aight?=Hãy để tôi giải thích theo cách mà ngay cả một kẻ ngốc như bạn cũng có thể hiểu được, được không?
+<style\=RubyPrefixTag></style>\nLemme explain it in a way even a moron like you can\nunderstand, aight?=<style\=RubyPrefixTag></style>\nHãy để tôi giải thích theo cách mà ngay cả một kẻ ngốc như bạn cũng có thể hiểu được, được không?
+<style\=RubyPrefixTag></style>\nWhat's your deal this time?=<style\=RubyPrefixTag></style>\nLần này thỏa thuận của bạn là gì?
+<style\=RubyPrefixTag></style>\nNow listen...=<style\=RubyPrefixTag></style>\nBây giờ hãy nghe...
+<style\=RubyPrefixTag></style>\nThe man is always puttin' curry in buffets cause they know\nthat it's a trap. You make one bowl of curry rice and that's\nit, yer full. Ya been got.=<style\=RubyPrefixTag></style>\nNgười đàn ông luôn đặt cà ri vào các bữa tiệc buffet vì họ biết đó là một cái bẫy.\nBạn làm một bát cơm cà ri là xong, bạn đã no rồi.\nYa đã có được.
+The man is always puttin' curry in buffets cause they know that it's a trap. You make one bowl of curry rice and that's it, yer full. Ya been got.=Người đàn ông luôn đặt cà ri vào các bữa tiệc buffet vì họ biết đó là một cái bẫy.\nBạn làm một bát cơm cà ri là xong, bạn đã no rồi.\nYa đã có được.
+<style\=RubyPrefixTag></style>\nWhy are you acting like that was some major plot reveal...=<style\=RubyPrefixTag></style>\nTại sao bạn lại hành động như vậy vì có một âm mưu lớn nào đó được tiết lộ...
+Why are you acting like that was some major plot reveal...=Tại sao bạn lại hành động như vậy vì có một âm mưu lớn nào đó được tiết lộ...
+<style\=RubyPrefixTag></style>\nYa gotta watch out for noodles, too.=<style\=RubyPrefixTag></style>\nBạn cũng phải coi chừng mì nhé.
+Ya gotta watch out for noodles, too.=Bạn cũng phải coi chừng mì nhé.
+<style\=RubyPrefixTag></style>\nBut...=<style\=RubyPrefixTag></style>\nNhưng...
+<style\=RubyPrefixTag></style>\nI was just about to go for knife-cut noodles!=<style\=RubyPrefixTag></style>\nTôi vừa định đi ăn mì cắt bằng dao!
+<style\=RubyPrefixTag></style>\nI was just about to go for carbonara!=<style\=RubyPrefixTag></style>\nTôi vừa định đi ăn carbonara!
+<style\=RubyPrefixTag></style>\nUh-oh!=<style\=RubyPrefixTag></style>\nỜ-ồ!
+Now listen...=Bây giờ hãy nghe...
+What's your deal this time?=Lần này thỏa thuận của bạn là gì?
+I was just about to go for carbonara!=Tôi vừa định đi ăn carbonara!
+<style\=RubyPrefixTag></style>\nYa playin' right into the man's hands, girl! Resist!=<style\=RubyPrefixTag></style>\nYa đang rơi vào tay đàn ông đấy, cô gái!\nKháng cự!
+Ya playin' right into the man's hands, girl! Resist!=Ya đang rơi vào tay đàn ông đấy, cô gái!\nKháng cự!
+<style\=RubyPrefixTag></style>\nWHOSE trap? This isn't some extreme eating challenge\nwith a prize at the end.=<style\=RubyPrefixTag></style>\nBẫy CỦA AI?\nĐây không phải là một thử thách ăn uống khắc nghiệt có giải thưởng ở cuối.
+WHOSE trap? This isn't some extreme eating challenge with a prize at the end.=Bẫy CỦA AI?\nĐây không phải là một thử thách ăn uống khắc nghiệt có giải thưởng ở cuối.
+<style\=RubyPrefixTag></style>\nIt's all about maximizin', got it. You take a small portion of\neach dish, just enough to savor the flavor.=<style\=RubyPrefixTag></style>\nĐó là tất cả về tối đa hóa, hiểu rồi.\nBạn lấy một phần nhỏ mỗi món, vừa đủ để thưởng thức hương vị.
+It's all about maximizin', got it. You take a small portion of each dish, just enough to savor the flavor.=Đó là tất cả về tối đa hóa, hiểu rồi.\nBạn lấy một phần nhỏ mỗi món, vừa đủ để thưởng thức hương vị.
+<style\=RubyPrefixTag></style>\nJust like this.=<style\=RubyPrefixTag></style>\nCứ như thế này.
+Just like this.=Cứ như thế này.
+<style\=RubyPrefixTag></style>\nThe man would be QUAKIN' if he saw this. Shakin' in his\nBOOTS.=<style\=RubyPrefixTag></style>\nNgười đàn ông đó sẽ QUAKIN' nếu nhìn thấy điều này.\nLắc trong BOOTS của mình.
+The man would be QUAKIN' if he saw this. Shakin' in his BOOTS.=Người đàn ông đó sẽ QUAKIN' nếu nhìn thấy điều này.\nLắc trong BOOTS của mình.
+<style\=RubyPrefixTag></style>\nThis isn't a restaurant, you know.=<style\=RubyPrefixTag></style>\nĐây không phải là một nhà hàng, bạn biết đấy.
+This isn't a restaurant, you know.=Đây không phải là một nhà hàng, bạn biết đấy.
+<style\=RubyPrefixTag></style>\nOh, the harmony of this super airy cake and rich, fluffy\ncream... I think I'm in heaven!=<style\=RubyPrefixTag></style>\nÔi, sự hòa quyện giữa chiếc bánh siêu thoáng và lớp kem bông xốp béo ngậy này... Tôi nghĩ mình đang ở trên thiên đường!
+Oh, the harmony of this super airy cake and rich, fluffy cream... I think I'm in heaven!=Ôi, sự hòa quyện giữa chiếc bánh siêu thoáng và lớp kem bông xốp béo ngậy này... Tôi nghĩ mình đang ở trên thiên đường!
+Are you eating a roll cake right now? This is supposed to be dinner...=Hiện tại bạn đang ăn bánh cuộn phải không?\nĐây lẽ ra là bữa tối...
+<style\=RubyPrefixTag></style>\nAre you eating a roll cake right now? This is supposed to\nbe dinner...=<style\=RubyPrefixTag></style>\nHiện tại bạn đang ăn bánh cuộn phải không?\nĐây lẽ ra là bữa tối...
+<style\=RubyPrefixTag></style>\nThese simmered veggies...they're so flavorful!=<style\=RubyPrefixTag></style>\nNhững món rau luộc này... chúng thật có hương vị!
+These simmered veggies...they're so flavorful!=Những món rau luộc này... chúng thật có hương vị!
+<style\=RubyPrefixTag></style>\nWhy does it look like there's a home-cooked meal on your\nplate?=<style\=RubyPrefixTag></style>\nTại sao trên đĩa của bạn lại có vẻ như có đồ ăn tự nấu?
+Why does it look like there's a home-cooked meal on your plate?=Tại sao trên đĩa của bạn lại có vẻ như có đồ ăn tự nấu?
+<style\=RubyPrefixTag></style>\nAnd you, you're just a big a dumbass as the rest of them!\nTake a look in the mirror already!=<style\=RubyPrefixTag></style>\nCòn anh, anh cũng chỉ là một tên ngốc như những người còn lại thôi!\nHãy nhìn vào gương đã!
+<style\=RubyPrefixTag></style>\nCould it be? Is this our reward for being super special\nstudents?=<style\=RubyPrefixTag></style>\nCó thể nào?\nĐây có phải là phần thưởng của chúng ta khi trở thành học sinh siêu đặc biệt không?
+Could it be? Is this our reward for being super special students?=Có thể nào?\nĐây có phải là phần thưởng của chúng ta khi trở thành học sinh siêu đặc biệt không?
+And you, you're just a big a dumbass as the rest of them! Take a look in the mirror already!=Còn anh, anh cũng chỉ là một tên ngốc như những người còn lại thôi!\nHãy nhìn vào gương đã!
+<style\=RubyPrefixTag></style>\nA most peculiar welcome feast, indeed...suspicious.\nWouldn't you agree?=<style\=RubyPrefixTag></style>\nQuả thực là một bữa tiệc chào đón đặc biệt nhất...đáng ngờ.\nBạn có đồng ý không?
+A most peculiar welcome feast, indeed...suspicious. Wouldn't you agree?=Quả thực là một bữa tiệc chào đón đặc biệt nhất...đáng ngờ.\nBạn có đồng ý không?
+<style\=RubyPrefixTag></style>\nWell, I used to be a famous rock star.=<style\=RubyPrefixTag></style>\nÀ, tôi từng là một ngôi sao nhạc rock nổi tiếng.
+<style\=RubyPrefixTag></style>\nOh! Then that must be why they're being so hospitable!=<style\=RubyPrefixTag></style>\nỒ!\nVậy chắc đó là lý do tại sao họ lại hiếu khách đến thế!
+<style\=RubyPrefixTag></style>\nStay suspicious!=<style\=RubyPrefixTag></style>\nLuôn nghi ngờ!
+Oh! Then that must be why they're being so hospitable!=Ồ!\nVậy chắc đó là lý do tại sao họ lại hiếu khách đến thế!
+<style\=RubyPrefixTag></style>\nQuestion everything! You're an AGENT!=<style\=RubyPrefixTag></style>\nHãy hỏi tất cả mọi thứ!\nBạn là ĐẠI LÝ!
+Well, I used to be a famous rock star.=À, tôi từng là một ngôi sao nhạc rock nổi tiếng.
+<style\=RubyPrefixTag></style>\nYou can rant and rave all you want, Yuki, but your stomach\ndoesn't lie. It's been growling nonstop.=<style\=RubyPrefixTag></style>\nBạn có thể chửi bới và nói huyên thuyên tất cả những gì bạn muốn, Yuki, nhưng dạ dày của bạn không nói dối.\nNó gầm gừ không ngừng.
+You can rant and rave all you want, Yuki, but your stomach doesn't lie. It's been growling nonstop.=Bạn có thể chửi bới và nói huyên thuyên tất cả những gì bạn muốn, Yuki, nhưng dạ dày của bạn không nói dối.\nNó gầm gừ không ngừng.
+<style\=RubyPrefixTag></style>\nUgh...=<style\=RubyPrefixTag></style>\nỜ...
+Ugh...=Ờ...
+<style\=RubyPrefixTag></style>\nMy ears don't miss a thing.=<style\=RubyPrefixTag></style>\nTai tôi không bỏ sót điều gì.
+My ears don't miss a thing.=Tai tôi không bỏ sót điều gì.
+<style\=RubyPrefixTag></style>\nHmph. I can't very well fight on an empty stomach. Fine...\nI'll eat. Happy?=<style\=RubyPrefixTag></style>\nHừm.\nTôi không thể chiến đấu tốt khi bụng đói.\nĐược rồi... tôi sẽ ăn.\nVui mừng?
+Hmph. I can't very well fight on an empty stomach. Fine... I'll eat. Happy?=Hừm.\nTôi không thể chiến đấu tốt khi bụng đói.\nĐược rồi... tôi sẽ ăn.\nVui mừng?
+<style\=RubyPrefixTag></style>\nI've got it, I've got it. This plus that plus these plus those\nmake...=<style\=RubyPrefixTag></style>\nTôi có nó, tôi có nó.\nCái này cộng với cái kia cộng với cái này cộng với cái kia tạo thành...
+I've got it, I've got it. This plus that plus these plus those make...=Tôi có nó, tôi có nó.\nCái này cộng với cái kia cộng với cái này cộng với cái kia tạo thành...
+<style\=RubyPrefixTag></style>\nAn eel curry beef bowl!=<style\=RubyPrefixTag></style>\nBát cà ri lươn thịt bò!
+<style\=RubyPrefixTag></style>\nA deluxe fried fish and eel seaweed rice bowl!=<style\=RubyPrefixTag></style>\nCơm cá lươn rong biển chiên giòn cao cấp!
+<style\=RubyPrefixTag></style>\nAn eyeballs-and-tentacles-a-plenty mystery meat bowl!=<style\=RubyPrefixTag></style>\nMột bát thịt có nhiều nhãn cầu và xúc tu bí ẩn!
+<style\=RubyPrefixTag></style>\nThis plus that plus these plus those make...=<style\=RubyPrefixTag></style>\nCái này cộng với cái kia cộng với cái này cộng với cái kia tạo thành...
+An eel curry beef bowl!=Bát cà ri lươn thịt bò!
+<style\=RubyPrefixTag></style>\nThat's one thing too many! If I was at a fast-food joint, I'd\norder an eel beef bowl, or a curry beef bowl! But not all\nthree at once!=<style\=RubyPrefixTag></style>\nĐó là một điều quá nhiều!\nNếu tôi đến một cửa hàng đồ ăn nhanh, tôi sẽ gọi tô thịt lươn hoặc tô thịt bò cà ri!\nNhưng không phải cả ba cùng một lúc!
+That's one thing too many! If I was at a fast-food joint, I'd order an eel beef bowl, or a curry beef bowl! But not all three at once!=Đó là một điều quá nhiều!\nNếu tôi đến một cửa hàng đồ ăn nhanh, tôi sẽ gọi tô thịt lươn hoặc tô thịt bò cà ri!\nNhưng không phải cả ba cùng một lúc!
+<style\=RubyPrefixTag></style>\nAt that moment, little did they know that, come daybreak,\none of them would be...dead.=<style\=RubyPrefixTag></style>\nVào lúc đó, họ không hề biết rằng, khi bình minh lên, một trong số họ sẽ…chết.
+At that moment, little did they know that, come daybreak, one of them would be...dead.=Vào lúc đó, họ không hề biết rằng, khi bình minh lên, một trong số họ sẽ…chết.
+<style\=RubyPrefixTag></style>\nHuh? Was that narration I heard just now?=<style\=RubyPrefixTag></style>\nHả?\nĐó có phải là lời tường thuật tôi vừa nghe không?
+Huh? Was that narration I heard just now?=Hả?\nĐó có phải là lời tường thuật tôi vừa nghe không?
+<style\=RubyPrefixTag></style>\nTalk about ominous...=<style\=RubyPrefixTag></style>\nNói về điều đáng lo ngại...
+Talk about ominous...=Nói về điều đáng lo ngại...
+<style\=RubyPrefixTag></style>\nWho said that? Karerin?=<style\=RubyPrefixTag></style>\nAi đã nói vậy?\nKarerin?
+Who said that? Karerin?=Ai đã nói vậy?\nKarerin?
+<style\=RubyPrefixTag></style>\nNot me.=<style\=RubyPrefixTag></style>\nKhông phải tôi.
+Not me.=Không phải tôi.
+<style\=RubyPrefixTag></style>\nYou, Intel Agent?=<style\=RubyPrefixTag></style>\nBạn, Đặc vụ Intel?
+You, Intel Agent?=Bạn, Đặc vụ Intel?
+<style\=RubyPrefixTag></style>\nNo, wasn't me.=<style\=RubyPrefixTag></style>\nKhông, không phải tôi.
+No, wasn't me.=Không, không phải tôi.
+<style\=RubyPrefixTag></style>\nThen who was it?=<style\=RubyPrefixTag></style>\nVậy đó là ai?
+<style\=RubyPrefixTag></style>\nIf it wasn't any of us, that leaves only one possibility.=<style\=RubyPrefixTag></style>\nNếu không phải ai trong chúng ta thì chỉ còn lại một khả năng.
+If it wasn't any of us, that leaves only one possibility.=Nếu không phải ai trong chúng ta thì chỉ còn lại một khả năng.
+Then who was it?=Vậy đó là ai?
+Cappy, don't scare us like that. You sounded completely different.=Cappy, đừng dọa chúng tôi như thế.\nBạn nghe có vẻ hoàn toàn khác.
+<style\=RubyPrefixTag></style>\nWhat's this all about?=<style\=RubyPrefixTag></style>\nChuyện này là thế nào vậy?
+<style\=RubyPrefixTag></style>\nAnother uninvited guest.=<style\=RubyPrefixTag></style>\nLại một vị khách không mời nữa.
+<style\=RubyPrefixTag></style>\nWho could it be?=<style\=RubyPrefixTag></style>\nNó có thể là ai?
+<style\=RubyPrefixTag></style>\nA...poltergeist.=<style\=RubyPrefixTag></style>\nMột...kẻ yêu tinh.
+<style\=RubyPrefixTag></style>\nBelieving in ghosts is the last thing\nan intel agent should be doing!=<style\=RubyPrefixTag></style>\nTin vào ma quỷ là điều cuối cùng mà một đặc vụ tình báo nên làm!
+A...poltergeist.=Một...kẻ yêu tinh.
+<style\=RubyPrefixTag></style>\nIf not a ghost, what else might it have been?=<style\=RubyPrefixTag></style>\nNếu không phải ma thì còn có thể là gì nữa?
+<style\=RubyPrefixTag></style>\nLiterally anything else. Don't jump straight to the\nsupernatural!=<style\=RubyPrefixTag></style>\nNghĩa đen là bất cứ điều gì khác.\nĐừng nhảy thẳng vào điều siêu nhiên!
+<style\=RubyPrefixTag></style>\nThen, I suppose we're at an impasse. I can't think of any\nother explanation.=<style\=RubyPrefixTag></style>\nVậy thì tôi cho rằng chúng ta đang rơi vào bế tắc.\nTôi không thể nghĩ ra lời giải thích nào khác.
+Then, I suppose we're at an impasse. I can't think of any other explanation.=Vậy thì tôi cho rằng chúng ta đang rơi vào bế tắc.\nTôi không thể nghĩ ra lời giải thích nào khác.
+<style\=RubyPrefixTag></style>\nAbsolutely useless...=<style\=RubyPrefixTag></style>\nHoàn toàn vô dụng...
+<style\=RubyPrefixTag></style>\nUm, what about this Narby?=<style\=RubyPrefixTag></style>\nỪm, còn Narby này thì sao?
+<style\=RubyPrefixTag></style>\nDoes it look like it has human vocal chords to you?=<style\=RubyPrefixTag></style>\nBạn có thấy nó có hợp âm của con người không?
+Does it look like it has human vocal chords to you?=Bạn có thấy nó có hợp âm của con người không?
+Um, what about this Narby?=Ừm, còn Narby này thì sao?
+<style\=RubyPrefixTag></style>\nGuess not... Pity. I was really hoping to talk with it.=<style\=RubyPrefixTag></style>\nĐoán là không... Đáng tiếc.\nTôi thực sự mong được nói chuyện với nó.
+Guess not... Pity. I was really hoping to talk with it.=Đoán là không... Đáng tiếc.\nTôi thực sự mong được nói chuyện với nó.
+<style\=RubyPrefixTag></style>\nRight? *nom nom*=<style\=RubyPrefixTag></style>\nPhải?\n*nom nom*
+Right? *nom nom*=Phải?\n*nom nom*
+Absolutely useless...=Hoàn toàn vô dụng...
+Literally anything else. Don't jump straight to the supernatural!=Nghĩa đen là bất cứ điều gì khác.\nĐừng nhảy thẳng vào điều siêu nhiên!
+If not a ghost, what else might it have been?=Nếu không phải ma thì còn có thể là gì nữa?
+Who could it be?=Nó có thể là ai?
+Another uninvited guest.=Lại một vị khách không mời nữa.
+What's this all about?=Chuyện này là thế nào vậy?
+<style\=RubyPrefixTag></style>\nCappy, don't scare us like that. You sounded completely\ndifferent.=<style\=RubyPrefixTag></style>\nCappy, đừng dọa chúng tôi như thế.\nBạn nghe có vẻ hoàn toàn khác.
+<style\=RubyPrefixTag></style>\nBut, it wasn't me.=<style\=RubyPrefixTag></style>\nNhưng đó không phải là tôi.
+But, it wasn't me.=Nhưng đó không phải là tôi.
+That uniform...=Đồng phục đó...
+<style\=RubyPrefixTag></style>\nThat uniform...=<style\=RubyPrefixTag></style>\nĐồng phục đó...
+<style\=RubyPrefixTag></style>\nLooks like a job for Detective Kayamori!=<style\=RubyPrefixTag></style>\nCó vẻ như đây là công việc dành cho Thám tử Kayamori!
+Looks like a job for Detective Kayamori!=Có vẻ như đây là công việc dành cho Thám tử Kayamori!
+<style\=RubyPrefixTag></style>\nOh? If I'm not mistaken...=<style\=RubyPrefixTag></style>\nỒ?\nNếu tôi không nhầm...
+Researcher?=Nhà nghiên cứu?
+<style\=RubyPrefixTag></style>\nYou're...Kayamori, was it?=<style\=RubyPrefixTag></style>\nCậu là...Kayamori phải không?
+<style\=RubyPrefixTag></style>\nYou must really like me if you followed me all the way into\nthis research center.=<style\=RubyPrefixTag></style>\nBạn phải thực sự thích tôi nếu bạn theo tôi đến tận trung tâm nghiên cứu này.
+You must really like me if you followed me all the way into this research center.=Bạn phải thực sự thích tôi nếu bạn theo tôi đến tận trung tâm nghiên cứu này.
+You're...Kayamori, was it?=Cậu là...Kayamori phải không?
+Oh? If I'm not mistaken...=Ồ?\nNếu tôi không nhầm...
+<style\=RubyPrefixTag></style>\nThe name's Seika Higuchi. I study Seraphim. This\nlaboratory is at the forefront of such research.=<style\=RubyPrefixTag></style>\nTên là Seika Higuchi.\nTôi nghiên cứu Seraphim.\nPhòng thí nghiệm này đi đầu trong nghiên cứu như vậy.
+The name's Seika Higuchi. I study Seraphim. This laboratory is at the forefront of such research.=Tên là Seika Higuchi.\nTôi nghiên cứu Seraphim.\nPhòng thí nghiệm này đi đầu trong nghiên cứu như vậy.
+<style\=RubyPrefixTag></style>\nSoon, you will all be dancing in the palm of my hand!=<style\=RubyPrefixTag></style>\nChẳng bao lâu nữa, tất cả các bạn sẽ nhảy múa trong lòng bàn tay của tôi!
+<style\=RubyPrefixTag></style>\nWhat? You want to know the nature of my studies?=<style\=RubyPrefixTag></style>\nCái gì?\nBạn muốn biết bản chất việc học của tôi?
+<style\=RubyPrefixTag></style>\nI guess there's no harm telling you. It's not like I've\nanything to hide.=<style\=RubyPrefixTag></style>\nTôi đoán là không có hại gì khi nói cho bạn biết.\nKhông phải là tôi có điều gì phải giấu.
+I guess there's no harm telling you. It's not like I've anything to hide.=Tôi đoán là không có hại gì khi nói cho bạn biết.\nKhông phải là tôi có điều gì phải giấu.
+What? You want to know the nature of my studies?=Cái gì?\nBạn muốn biết bản chất việc học của tôi?
+<style\=RubyPrefixTag></style>\nPut in layman's terms, I'm working on a Seraphim\nmatching system powered by a super computer.=<style\=RubyPrefixTag></style>\nNói theo cách thông thường, tôi đang làm việc trên một hệ thống kết hợp Seraphim được cung cấp bởi một siêu máy tính.
+Put in layman's terms, I'm working on a Seraphim matching system powered by a super computer.=Nói theo cách thông thường, tôi đang làm việc trên một hệ thống kết hợp Seraphim được cung cấp bởi một siêu máy tính.
+Soon, you will all be dancing in the palm of my hand!=Chẳng bao lâu nữa, tất cả các bạn sẽ nhảy múa trong lòng bàn tay của tôi!
+<style\=RubyPrefixTag></style>\nStand in the analysis platform over there. Close your eyes\nand breathe deeply.=<style\=RubyPrefixTag></style>\nĐứng ở bục phân tích đằng kia.\nNhắm mắt lại và thở sâu.
+Stand in the analysis platform over there. Close your eyes and breathe deeply.=Đứng ở bục phân tích đằng kia.\nNhắm mắt lại và thở sâu.
+<style\=RubyPrefixTag></style>\nThere appear to be others you have already met hiding\ninside your mind...=<style\=RubyPrefixTag></style>\nCó vẻ như có những người khác mà bạn đã gặp đang ẩn náu trong tâm trí bạn...
+There appear to be others you have already met hiding inside your mind...=Có vẻ như có những người khác mà bạn đã gặp đang ẩn náu trong tâm trí bạn...
+<style\=RubyPrefixTag></style>\nJust lying dormant at the edge of your consciousness.=<style\=RubyPrefixTag></style>\nChỉ nằm im lìm ở rìa ý thức của bạn.
+Just lying dormant at the edge of your consciousness.=Chỉ nằm im lìm ở rìa ý thức của bạn.
+Now, remember...=Bây giờ, hãy nhớ...
+<style\=RubyPrefixTag></style>\nHere. I'll make it so your mePad is also capable of\nperforming this function.=<style\=RubyPrefixTag></style>\nĐây.\nTôi sẽ làm cho mePad của bạn cũng có khả năng thực hiện chức năng này.
+Here. I'll make it so your mePad is also capable of performing this function.=Đây.\nTôi sẽ làm cho mePad của bạn cũng có khả năng thực hiện chức năng này.
+<style\=RubyPrefixTag></style>\nSo? Did you glimpse the future?=<style\=RubyPrefixTag></style>\nVì thế?\nBạn đã nhìn thấy tương lai?
+<style\=RubyPrefixTag></style>\nCheck it out when you have spare time.=<style\=RubyPrefixTag></style>\nHãy xem nó khi bạn có thời gian rảnh.
+Check it out when you have spare time.=Hãy xem nó khi bạn có thời gian rảnh.
+So? Did you glimpse the future?=Vì thế?\nBạn đã nhìn thấy tương lai?
+<style\=RubyPrefixTag></style>\nRemember...=<style\=RubyPrefixTag></style>\nNhớ...
+Remember...=Nhớ...
+<style\=RubyPrefixTag></style>\nYes, yes...=<style\=RubyPrefixTag></style>\nVâng, vâng...
+Yes, yes...=Vâng, vâng...
+<style\=RubyPrefixTag></style>\nYou've merely forgotten their memories.=<style\=RubyPrefixTag></style>\nBạn chỉ đơn thuần là quên đi ký ức của họ.
+You've merely forgotten their memories.=Bạn chỉ đơn thuần là quên đi ký ức của họ.
+<style\=RubyPrefixTag></style>\nWheeew, best bath ever! It's basically like a hot spring\nhere!=<style\=RubyPrefixTag></style>\nWheeew, tắm tốt nhất từ ​​trước đến nay!\nVề cơ bản nó giống như một suối nước nóng ở đây!
+Wheeew, best bath ever! It's basically like a hot spring here!=Wheeew, tắm tốt nhất từ ​​trước đến nay!\nVề cơ bản nó giống như một suối nước nóng ở đây!
+<style\=RubyPrefixTag></style>\nBreathe deeply and remember...=<style\=RubyPrefixTag></style>\nHãy thở thật sâu và nhớ...
+Breathe deeply and remember...=Hãy thở thật sâu và nhớ...
+<style\=RubyPrefixTag></style>\nNow, remember...=<style\=RubyPrefixTag></style>\nBây giờ, hãy nhớ...
+<style\=RubyPrefixTag></style>\nThey even have coffee milk. It's perfect.=<style\=RubyPrefixTag></style>\nHọ thậm chí còn có cà phê sữa.\nNó hoàn hảo.
+They even have coffee milk. It's perfect.=Họ thậm chí còn có cà phê sữa.\nNó hoàn hảo.
+<style\=RubyPrefixTag></style>\nPhew... I'm still hot, even out here.=<style\=RubyPrefixTag></style>\nPhù... Tôi vẫn còn nóng, thậm chí ở ngoài này.
+Phew... I'm still hot, even out here.=Phù... Tôi vẫn còn nóng, thậm chí ở ngoài này.
+<style\=RubyPrefixTag></style>\nYou're wearing too many layers. Just take off your cape.=<style\=RubyPrefixTag></style>\nBạn đang mặc quá nhiều lớp.\nChỉ cần cởi áo choàng của bạn ra.
+You're wearing too many layers. Just take off your cape.=Bạn đang mặc quá nhiều lớp.\nChỉ cần cởi áo choàng của bạn ra.
+<style\=RubyPrefixTag></style>\nNo, that's WRONG!=<style\=RubyPrefixTag></style>\nKhông, điều đó SAI!
+No, that's WRONG!=Không, điều đó SAI!
+What's wrong about it? I'd say my assessment is right.=Có chuyện gì vậy?\nTôi muốn nói rằng đánh giá của tôi là đúng.
+<style\=RubyPrefixTag></style>\nWhat's wrong about it? I'd say my assessment is right.=<style\=RubyPrefixTag></style>\nCó chuyện gì vậy?\nTôi muốn nói rằng đánh giá của tôi là đúng.
+<style\=RubyPrefixTag></style>\nQuite peculiar indeed, isn't it?=<style\=RubyPrefixTag></style>\nQuả thực khá đặc biệt phải không?
+Quite peculiar indeed, isn't it?=Quả thực khá đặc biệt phải không?
+<style\=RubyPrefixTag></style>\nIs something peculiar?=<style\=RubyPrefixTag></style>\nCó điều gì đó đặc biệt phải không?
+<style\=RubyPrefixTag></style>\nGuess so=<style\=RubyPrefixTag></style>\nđoán vậy
+<style\=RubyPrefixTag></style>\nDon't think so=<style\=RubyPrefixTag></style>\nĐừng nghĩ vậy
+<style\=RubyPrefixTag></style>\nSomething's off...=<style\=RubyPrefixTag></style>\nCó gì đó không ổn...
+<style\=RubyPrefixTag></style>\nDon't think so.=<style\=RubyPrefixTag></style>\nĐừng nghĩ vậy.
+<style\=RubyPrefixTag></style>\nOh, must be my imagination. Coffee milk, anyone?=<style\=RubyPrefixTag></style>\nỒ, chắc là do tôi tưởng tượng.\nCà phê sữa có ai không?
+<style\=RubyPrefixTag></style>\nTrust your instincts, Intel Agent!=<style\=RubyPrefixTag></style>\nHãy tin vào bản năng của bạn, Đặc vụ Intel!
+Oh, must be my imagination. Coffee milk, anyone?=Ồ, chắc là do tôi tưởng tượng.\nCà phê sữa có ai không?
+Don't think so.=Đừng nghĩ vậy.
+<style\=RubyPrefixTag></style>\nWho? Me?=<style\=RubyPrefixTag></style>\nAi?\nTôi?
+<style\=RubyPrefixTag></style>\nYes, you! Out with it! What was so peculiar?!=<style\=RubyPrefixTag></style>\nVâng, bạn!\nBỏ nó đi!\nCó gì đặc biệt vậy?!
+Yes, you! Out with it! What was so peculiar?!=Vâng, bạn!\nBỏ nó đi!\nCó gì đặc biệt vậy?!
+<style\=RubyPrefixTag></style>\nOh, it's nothing important.=<style\=RubyPrefixTag></style>\nỒ, không có gì quan trọng đâu.
+Oh, it's nothing important.=Ồ, không có gì quan trọng đâu.
+Who? Me?=Ai?\nTôi?
+<style\=RubyPrefixTag></style>\nLook. No matter how trivial it is, you can't just start to say\nsomething then bail halfway. Now we're curious. Just say\nit.=<style\=RubyPrefixTag></style>\nNhìn.\nDù nó có tầm thường đến đâu, bạn cũng không thể vừa mới bắt đầu nói điều gì đó rồi bỏ cuộc giữa chừng.\nBây giờ chúng tôi tò mò.\nCứ nói đi.
+Look. No matter how trivial it is, you can't just start to say something then bail halfway. Now we're curious. Just say it.=Nhìn.\nDù nó có tầm thường đến đâu, bạn cũng không thể vừa mới bắt đầu nói điều gì đó rồi bỏ cuộc giữa chừng.\nBây giờ chúng tôi tò mò.\nCứ nói đi.
+Something's off...=Có gì đó không ổn...
+<style\=RubyPrefixTag></style>\nUmm, what was it again?=<style\=RubyPrefixTag></style>\nỪm, lại là cái gì thế?
+Umm, what was it again?=Ừm, lại là cái gì thế?
+<style\=RubyPrefixTag></style>\nRight. Isn't it...quite peculiar?=<style\=RubyPrefixTag></style>\nPhải.\nChẳng phải nó... khá đặc biệt sao?
+Right. Isn't it...quite peculiar?=Phải.\nChẳng phải nó... khá đặc biệt sao?
+<style\=RubyPrefixTag></style>\nIt may not be important, but just try us. Go on.=<style\=RubyPrefixTag></style>\nNó có thể không quan trọng, nhưng hãy thử chúng tôi.\nĐi tiếp.
+It may not be important, but just try us. Go on.=Nó có thể không quan trọng, nhưng hãy thử chúng tôi.\nĐi tiếp.
+<style\=RubyPrefixTag></style>\nWe haven't encountered a single man since we arrived.=<style\=RubyPrefixTag></style>\nChúng tôi chưa gặp một người đàn ông nào kể từ khi chúng tôi đến.
+We haven't encountered a single man since we arrived.=Chúng tôi chưa gặp một người đàn ông nào kể từ khi chúng tôi đến.
+Woah. You're right.=Ôi.\nBạn nói đúng.
+<style\=RubyPrefixTag></style>\nThat was incredibly perceptive!=<style\=RubyPrefixTag></style>\nĐiều đó cực kỳ sâu sắc!
+<style\=RubyPrefixTag></style>\nWoah. You're right.=<style\=RubyPrefixTag></style>\nÔi.\nBạn nói đúng.
+<style\=RubyPrefixTag></style>\nThis is the military, yes? Why are all the members\nwomen?=<style\=RubyPrefixTag></style>\nĐây là quân đội phải không?\nTại sao tất cả thành viên đều là nữ?
+This is the military, yes? Why are all the members women?=Đây là quân đội phải không?\nTại sao tất cả thành viên đều là nữ?
+<style\=RubyPrefixTag></style>\nI'll tell ya why.=<style\=RubyPrefixTag></style>\nTôi sẽ nói cho bạn biết tại sao.
+I'll tell ya why.=Tôi sẽ nói cho bạn biết tại sao.
+<style\=RubyPrefixTag></style>\n'Cause we have more potential, that's why.=<style\=RubyPrefixTag></style>\nVì chúng ta có nhiều tiềm năng hơn, đó là lý do.
+'Cause we have more potential, that's why.=Vì chúng ta có nhiều tiềm năng hơn, đó là lý do.
+<style\=RubyPrefixTag></style>\nPotential, huh... I guess that means we're not a bunch of\nlost causes after all.=<style\=RubyPrefixTag></style>\nTiềm năng à... Tôi đoán điều đó có nghĩa là rốt cuộc chúng ta không phải là một đống nguyên nhân thất lạc.
+Potential, huh... I guess that means we're not a bunch of lost causes after all.=Tiềm năng à... Tôi đoán điều đó có nghĩa là rốt cuộc chúng ta không phải là một đống nguyên nhân thất lạc.
+<style\=RubyPrefixTag></style>\nDON'T JUST BELIEVE EVERYTHING YOU HEAR!!=<style\=RubyPrefixTag></style>\nĐỪNG TIN TẤT CẢ MỌI ĐIỀU BẠN NGHE!!
+<style\=RubyPrefixTag></style>\nAnd here I was about to praise you for actually asking a\nquestion that's actually intel-agent-worthy!=<style\=RubyPrefixTag></style>\nVà ở đây tôi đang định khen ngợi bạn vì đã thực sự hỏi một câu hỏi thực sự xứng đáng với đặc vụ thông tin!
+And here I was about to praise you for actually asking a question that's actually intel-agent-worthy!=Và ở đây tôi đang định khen ngợi bạn vì đã thực sự hỏi một câu hỏi thực sự xứng đáng với đặc vụ thông tin!
+<style\=RubyPrefixTag></style>\nIf you're so smart, then tell us, Yukkie.=<style\=RubyPrefixTag></style>\nNếu bạn thông minh đến vậy thì hãy nói cho chúng tôi biết, Yukkie.
+If you're so smart, then tell us, Yukkie.=Nếu bạn thông minh đến vậy thì hãy nói cho chúng tôi biết, Yukkie.
+<style\=RubyPrefixTag></style>\nWhat's your deal? And why are you calling me that?=<style\=RubyPrefixTag></style>\nThỏa thuận của bạn là gì?\nVà tại sao bạn lại gọi tôi như vậy?
+<style\=RubyPrefixTag></style>\nI mean, your name's Yuki Izumi, right? So why not Yukkie?=<style\=RubyPrefixTag></style>\nÝ tôi là, tên bạn là Yuki Izumi phải không?\nVậy tại sao không phải là Yukkie?
+I mean, your name's Yuki Izumi, right? So why not Yukkie?=Ý tôi là, tên bạn là Yuki Izumi phải không?\nVậy tại sao không phải là Yukkie?
+<style\=RubyPrefixTag></style>\nIs a nickname really necessary here?=<style\=RubyPrefixTag></style>\nBiệt danh có thực sự cần thiết ở đây không?
+<style\=RubyPrefixTag></style>\nYup. And you can just call me Ruka.=<style\=RubyPrefixTag></style>\nChuẩn rồi.\nVà bạn có thể gọi tôi là Ruka.
+Yup. And you can just call me Ruka.=Chuẩn rồi.\nVà bạn có thể gọi tôi là Ruka.
+<style\=RubyPrefixTag></style>\n*sigh*... What's your deal anyway, acting like we're friends\nall of a sudden...=<style\=RubyPrefixTag></style>\n*thở dài*... Mà cậu có ý gì thế, đột nhiên lại hành động như thể chúng ta là bạn bè vậy...
+*sigh*... What's your deal anyway, acting like we're friends all of a sudden...=*thở dài*... Mà cậu có ý gì thế, đột nhiên lại hành động như thể chúng ta là bạn bè vậy...
+Is a nickname really necessary here?=Biệt danh có thực sự cần thiết ở đây không?
+<style\=RubyPrefixTag></style>\nWe're not? Weren't you the one who talked to me first?=<style\=RubyPrefixTag></style>\nChúng tôi không phải vậy?\nKhông phải cậu là người nói chuyện với tôi trước sao?
+We're not? Weren't you the one who talked to me first?=Chúng tôi không phải vậy?\nKhông phải cậu là người nói chuyện với tôi trước sao?
+<style\=RubyPrefixTag></style>\nHaha. Guess so.=<style\=RubyPrefixTag></style>\nHaha.\nĐoán vậy.
+Haha. Guess so.=Haha.\nĐoán vậy.
+<style\=RubyPrefixTag></style>\nShall I continue?=<style\=RubyPrefixTag></style>\nTôi có nên tiếp tục không?
+What's your deal? And why are you calling me that?=Thỏa thuận của bạn là gì?\nVà tại sao bạn lại gọi tôi như vậy?
+<style\=RubyPrefixTag></style>\nI never thought you'd be the one to keep us on track. Oh,\nhow the mighty have fallen.=<style\=RubyPrefixTag></style>\nTôi chưa bao giờ nghĩ bạn sẽ là người giữ chúng tôi đi đúng hướng.\nÔi, những kẻ hùng mạnh đã sa ngã như thế nào.
+I never thought you'd be the one to keep us on track. Oh, how the mighty have fallen.=Tôi chưa bao giờ nghĩ bạn sẽ là người giữ chúng tôi đi đúng hướng.\nÔi, những kẻ hùng mạnh đã sa ngã như thế nào.
+<style\=RubyPrefixTag></style>\nSo why aren't there any guys around?=<style\=RubyPrefixTag></style>\nVậy tại sao xung quanh lại không có chàng trai nào?
+<style\=RubyPrefixTag></style>\nMaybe they're staying in a separate dorm.=<style\=RubyPrefixTag></style>\nCó lẽ họ đang ở trong một ký túc xá riêng biệt.
+<style\=RubyPrefixTag></style>\nBut to go so far as conducting separate entrance\nceremonies?=<style\=RubyPrefixTag></style>\nNhưng có thể tiến xa đến mức tiến hành các nghi lễ khai giảng riêng biệt?
+But to go so far as conducting separate entrance ceremonies?=Nhưng có thể tiến xa đến mức tiến hành các nghi lễ khai giảng riêng biệt?
+Maybe they're staying in a separate dorm.=Có lẽ họ đang ở trong một ký túc xá riêng biệt.
+<style\=RubyPrefixTag></style>\nYou're right... There wasn't a single guy there.=<style\=RubyPrefixTag></style>\nBạn nói đúng... Chẳng có một chàng trai nào ở đó cả.
+You're right... There wasn't a single guy there.=Bạn nói đúng... Chẳng có một chàng trai nào ở đó cả.
+<style\=RubyPrefixTag></style>\nThe US Military has long been co-ed. In fact, separating by\ngender was criticized, because it led to more sexual\nassault. Will the world really allow this?=<style\=RubyPrefixTag></style>\nQuân đội Hoa Kỳ từ lâu đã được đồng biên tập.\nTrên thực tế, việc phân biệt giới tính đã bị chỉ trích vì nó dẫn đến nhiều vụ tấn công tình dục hơn.\nLiệu thế giới có thực sự cho phép điều này?
+The US Military has long been co-ed. In fact, separating by gender was criticized, because it led to more sexual assault. Will the world really allow this?=Quân đội Hoa Kỳ từ lâu đã được đồng biên tập.\nTrên thực tế, việc phân biệt giới tính đã bị chỉ trích vì nó dẫn đến nhiều vụ tấn công tình dục hơn.\nLiệu thế giới có thực sự cho phép điều này?
+So why aren't there any guys around?=Vậy tại sao xung quanh lại không có chàng trai nào?
+Shall I continue?=Tôi có nên tiếp tục không?
+<style\=RubyPrefixTag></style>\nHey, you're actually starting to sound like an intel agent.\nKeep going.=<style\=RubyPrefixTag></style>\nNày, thực ra anh bắt đầu nghe giống đặc vụ tình báo rồi đó.\nTiếp tục đi.
+Hey, you're actually starting to sound like an intel agent. Keep going.=Này, thực ra anh bắt đầu nghe giống đặc vụ tình báo rồi đó.\nTiếp tục đi.
+<style\=RubyPrefixTag></style>\nWhat are you trying to get at?=<style\=RubyPrefixTag></style>\nBạn đang cố gắng đạt được điều gì?
+<style\=RubyPrefixTag></style>\nThere is only one logical explanation...=<style\=RubyPrefixTag></style>\nChỉ có một lời giải thích hợp lý...
+<style\=RubyPrefixTag></style>\nYes, that's it! Blow us all away!=<style\=RubyPrefixTag></style>\nVâng, đúng vậy!\nThổi bay tất cả chúng tôi đi!
+Yes, that's it! Blow us all away!=Vâng, đúng vậy!\nThổi bay tất cả chúng tôi đi!
+<style\=RubyPrefixTag></style>\nWithout a doubt, the six of us...=<style\=RubyPrefixTag></style>\nKhông còn nghi ngờ gì nữa, sáu người chúng tôi...
+<style\=RubyPrefixTag></style>\nAre going to save the world as an idol group?=<style\=RubyPrefixTag></style>\nSẽ cứu thế giới với tư cách là một nhóm nhạc thần tượng?
+Without a doubt, the six of us...=Không còn nghi ngờ gì nữa, sáu người chúng tôi...
+<style\=RubyPrefixTag></style>\nNOOOOooo!!! You were so CLOSE!=<style\=RubyPrefixTag></style>\nKHÔNG!!!\nBạn đã rất ĐÓNG!
+<style\=RubyPrefixTag></style>\nNot a chance in hell. At least I got a pretty face when I\nkeep my mouth shut, not like Miss Rock Star over here\nwho reeks of country bumpkin from head to toe.=<style\=RubyPrefixTag></style>\nKhông có cơ hội trong địa ngục.\nÍt nhất thì tôi cũng có một khuôn mặt xinh đẹp khi im lặng, không như cô Ngôi Sao Nhạc Rock đằng kia, từ đầu đến chân bốc mùi quê mùa.
+Not a chance in hell. At least I got a pretty face when I keep my mouth shut, not like Miss Rock Star over here who reeks of country bumpkin from head to toe.=Không có cơ hội trong địa ngục.\nÍt nhất thì tôi cũng có một khuôn mặt xinh đẹp khi im lặng, không như cô Ngôi Sao Nhạc Rock đằng kia, từ đầu đến chân bốc mùi quê mùa.
+There is only one logical explanation...=Chỉ có một lời giải thích hợp lý...
+What are you trying to get at?=Bạn đang cố gắng đạt được điều gì?
+The coffee milk is hotter than you are...=Cà phê sữa còn nóng hơn cả anh...
+<style\=RubyPrefixTag></style>\nThe coffee milk is hotter than you are...=<style\=RubyPrefixTag></style>\nCà phê sữa còn nóng hơn cả anh...
+<style\=RubyPrefixTag></style>\nWell, we start training tomorrow, so we can just ask the\ninstructor about the lack of dudes when we get a chance.=<style\=RubyPrefixTag></style>\nChà, chúng ta bắt đầu tập luyện vào ngày mai, nên chúng ta có thể hỏi người hướng dẫn về việc thiếu bạn khi có cơ hội.
+Well, we start training tomorrow, so we can just ask the instructor about the lack of dudes when we get a chance.=Chà, chúng ta bắt đầu tập luyện vào ngày mai, nên chúng ta có thể hỏi người hướng dẫn về việc thiếu bạn khi có cơ hội.
+<style\=RubyPrefixTag></style>\nI get the feeling she won't talk that easily...=<style\=RubyPrefixTag></style>\nTôi có cảm giác cô ấy sẽ không nói chuyện dễ dàng như vậy...
+I get the feeling she won't talk that easily...=Tôi có cảm giác cô ấy sẽ không nói chuyện dễ dàng như vậy...
+<style\=RubyPrefixTag></style>\nAll six of us in one room... Staring up at the same ceiling...\nIt's like a sleepover.=<style\=RubyPrefixTag></style>\nTất cả sáu người chúng tôi ở trong một phòng... Nhìn lên cùng một trần nhà... Giống như ngủ qua đêm vậy.
+All six of us in one room... Staring up at the same ceiling... It's like a sleepover.=Tất cả sáu người chúng tôi ở trong một phòng... Nhìn lên cùng một trần nhà... Giống như ngủ qua đêm vậy.
+<style\=RubyPrefixTag></style>\nHah. What, we gonna talk about our love lives now?=<style\=RubyPrefixTag></style>\nHa.\nGì cơ, bây giờ chúng ta sẽ nói về chuyện tình cảm của chúng ta à?
+Hah. What, we gonna talk about our love lives now?=Ha.\nGì cơ, bây giờ chúng ta sẽ nói về chuyện tình cảm của chúng ta à?
+<style\=RubyPrefixTag></style>\nI guess I might've done something like that before? Feels\nlike a lifetime ago...=<style\=RubyPrefixTag></style>\nTôi đoán tôi có thể đã từng làm điều gì đó tương tự trước đây?\nCảm giác như một đời trước...
+I guess I might've done something like that before? Feels like a lifetime ago...=Tôi đoán tôi có thể đã từng làm điều gì đó tương tự trước đây?\nCảm giác như một đời trước...
+<style\=RubyPrefixTag></style>\nWell, these are precarious times.=<style\=RubyPrefixTag></style>\nVâng, đây là thời điểm bấp bênh.
+Well, these are precarious times.=Vâng, đây là thời điểm bấp bênh.
+<style\=RubyPrefixTag></style>\nI've always slept alone, so this is my first time.=<style\=RubyPrefixTag></style>\nTôi luôn ngủ một mình nên đây là lần đầu tiên tôi ngủ.
+I've always slept alone, so this is my first time.=Tôi luôn ngủ một mình nên đây là lần đầu tiên tôi ngủ.
+<style\=RubyPrefixTag></style>\nThat hat—are you seriously wearing it to bed? Does it even\ncome off? I'll be floored if it's still on your head in the\nmorning.=<style\=RubyPrefixTag></style>\nChiếc mũ đó—bạn có nghiêm túc đội nó đi ngủ không?\nNó thậm chí có rơi ra không?\nTôi sẽ bị hạ gục nếu nó vẫn còn trên đầu bạn vào buổi sáng.
+That hat—are you seriously wearing it to bed? Does it even come off? I'll be floored if it's still on your head in the morning.=Chiếc mũ đó—bạn có nghiêm túc đội nó đi ngủ không?\nNó thậm chí có rơi ra không?\nTôi sẽ bị hạ gục nếu nó vẫn còn trên đầu bạn vào buổi sáng.
+<style\=RubyPrefixTag></style>\nOooh, I just thought of something! That Narby would make\nthe BEST pillow.=<style\=RubyPrefixTag></style>\nỒ, tôi vừa nghĩ ra điều gì đó!\nNarby đó sẽ làm chiếc gối TỐT NHẤT.
+Oooh, I just thought of something! That Narby would make the BEST pillow.=Ồ, tôi vừa nghĩ ra điều gì đó!\nNarby đó sẽ làm chiếc gối TỐT NHẤT.
+<style\=RubyPrefixTag></style>\nWhaaat? Come on, just for a little while!=<style\=RubyPrefixTag></style>\nCái gì vậy?\nThôi nào, chỉ một lát thôi!
+Whaaat? Come on, just for a little while!=Cái gì vậy?\nThôi nào, chỉ một lát thôi!
+<style\=RubyPrefixTag></style>\nThe commander said to treat them with respect, doofus.=<style\=RubyPrefixTag></style>\nNgười chỉ huy nói rằng hãy đối xử với họ một cách tôn trọng, đồ ngốc.
+The commander said to treat them with respect, doofus.=Người chỉ huy nói rằng hãy đối xử với họ một cách tôn trọng, đồ ngốc.
+Plus, we have to wake up super early tomorrow. Go to sleep.=Hơn nữa, ngày mai chúng ta phải dậy siêu sớm.\nĐi ngủ đi.
+<style\=RubyPrefixTag></style>\nPlus, we have to wake up super early tomorrow. Go to\nsleep.=<style\=RubyPrefixTag></style>\nHơn nữa, ngày mai chúng ta phải dậy siêu sớm.\nĐi ngủ đi.
+<style\=RubyPrefixTag></style>\nYeah, yeah.=<style\=RubyPrefixTag></style>\nVâng, vâng.
+Yeah, yeah.=Vâng, vâng.
+<style\=RubyPrefixTag></style>\nMm...=<style\=RubyPrefixTag></style>\nỪm...
+Mm...=Ừm...
+<style\=RubyPrefixTag></style>\nHuh? Even with my eyes closed, I'm wide awake!=<style\=RubyPrefixTag></style>\nHả?\nNgay cả khi nhắm mắt lại, tôi vẫn tỉnh táo!
+Huh? Even with my eyes closed, I'm wide awake!=Hả?\nNgay cả khi nhắm mắt lại, tôi vẫn tỉnh táo!
+<style\=RubyPrefixTag></style>\nYou seriously got your 8 hours in with that power nap?\nIncredible.=<style\=RubyPrefixTag></style>\nBạn thực sự có được 8 giờ với giấc ngủ ngắn đó à?\nĐáng kinh ngạc.
+You seriously got your 8 hours in with that power nap? Incredible.=Bạn thực sự có được 8 giờ với giấc ngủ ngắn đó à?\nĐáng kinh ngạc.
+<style\=RubyPrefixTag></style>\nIt's no use. Time to par-tay! Squash, anyone?=<style\=RubyPrefixTag></style>\nKhông có ích gì.\nĐã đến lúc chia tay!\nBí đao, có ai không?
+It's no use. Time to par-tay! Squash, anyone?=Không có ích gì.\nĐã đến lúc chia tay!\nBí đao, có ai không?
+<style\=RubyPrefixTag></style>\nI'm exhausted. Just be quiet and go to sleep. Plus, why in\nthe world would I want to play such a demanding sport on\na night like this?=<style\=RubyPrefixTag></style>\nTôi kiệt sức rồi.\nChỉ cần im lặng và đi ngủ.\nHơn nữa, tại sao tôi lại muốn chơi một môn thể thao đòi hỏi khắt khe như vậy vào một đêm như thế này?
+I'm exhausted. Just be quiet and go to sleep. Plus, why in the world would I want to play such a demanding sport on a night like this?=Tôi kiệt sức rồi.\nChỉ cần im lặng và đi ngủ.\nHơn nữa, tại sao tôi lại muốn chơi một môn thể thao đòi hỏi khắt khe như vậy vào một đêm như thế này?
+<style\=RubyPrefixTag></style>\nTch...fine.=<style\=RubyPrefixTag></style>\nCh...được thôi.
+Tch...fine.=Ch...được thôi.
+<style\=RubyPrefixTag></style>\nNngh...=<style\=RubyPrefixTag></style>\nNgh...
+<style\=RubyPrefixTag></style>\nWhew... Talk about a hectic day...=<style\=RubyPrefixTag></style>\nPhù... Nói về một ngày bận rộn...
+Whew... Talk about a hectic day...=Phù... Nói về một ngày bận rộn...
+Nngh...=Ngh...
+<style\=RubyPrefixTag></style>\nBut, with each new day, one of their companions would\nvanish... That was the game they were unknowingly\nplaying.=<style\=RubyPrefixTag></style>\nTuy nhiên, cứ mỗi ngày mới, một trong những người bạn đồng hành của họ lại biến mất... Đó là trò chơi mà họ đang vô tình chơi.
+But, with each new day, one of their companions would vanish... That was the game they were unknowingly playing.=Tuy nhiên, cứ mỗi ngày mới, một trong những người bạn đồng hành của họ lại biến mất... Đó là trò chơi mà họ đang vô tình chơi.
+<style\=RubyPrefixTag></style>\nWhat? We're playing real Werewolf or something?!=<style\=RubyPrefixTag></style>\nCái gì?\nChúng ta đang chơi trò Người sói thật hay gì đó?!
+What? We're playing real Werewolf or something?!=Cái gì?\nChúng ta đang chơi trò Người sói thật hay gì đó?!
+Yukkiiiiie, you're the noisiest one here. Just be quiet and go to sleep.=Yukkiiiiie, cậu là người ồn ào nhất ở đây đấy.\nChỉ cần im lặng và đi ngủ.
+How can I possibly sleep after hearing that?!=Làm sao tôi có thể ngủ được sau khi nghe điều đó?!
+<style\=RubyPrefixTag></style>\nHow can I possibly sleep after hearing that?!=<style\=RubyPrefixTag></style>\nLàm sao tôi có thể ngủ được sau khi nghe điều đó?!
+Everyone's out. It was probably sleep talk...=Mọi người đều ra ngoài.\nCó lẽ đó là cuộc nói chuyện khi ngủ...
+<style\=RubyPrefixTag></style>\nEveryone's out. It was probably sleep talk...=<style\=RubyPrefixTag></style>\nMọi người đều ra ngoài.\nCó lẽ đó là cuộc nói chuyện khi ngủ...
+That's even worse! If this really is a game, then someone's going to...=Điều đó còn tệ hơn nữa!\nNếu đây thực sự là một trò chơi thì sẽ có người...
+<style\=RubyPrefixTag></style>\nThat's even worse! If this really is a game, then someone's\ngoing to...=<style\=RubyPrefixTag></style>\nĐiều đó còn tệ hơn nữa!\nNếu đây thực sự là một trò chơi thì sẽ có người...
+Day Result=Kết quả ngày
+<style\=RubyPrefixTag></style>\nPeople seem to be gathering in the other direction!=<style\=RubyPrefixTag></style>\nMọi người dường như đang tụ tập ở hướng khác!
+People seem to be gathering in the other direction!=Mọi người dường như đang tụ tập ở hướng khác!

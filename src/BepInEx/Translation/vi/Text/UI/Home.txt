@@ -6,7 +6,7 @@
 Roster=Nhân vật
 ランク=Cấp bậc
 メインストーリー=Chính truyện
-イベント\n=Sự kiện\n
+Invite Friend=Mời bạn bè
 PICKUP!=KHUYẾN MÃI!
 
 Home Screen Customization=<cspace\=-2>Tùy chỉnh màn hình chính</cspace>
@@ -16,7 +16,6 @@ Home Screen Customization=<cspace\=-2>Tùy chỉnh màn hình chính</cspace>
 復刻=in lại
 ライブ=
 ジオラマ=Sa bàn
-コンテンツ=メニュー=thực đơn
 時の修練場=sân tập thời gian
 アーツバトル=
 称号バッジ=Huy hiệu
@@ -58,9 +57,14 @@ Total Reward Pts.=Tổng điểm thưởng
 お知らせ=Thông báo
 設定=Cài đặt
 キャラ=Nhân vật
-部隊=Đội hình
 シックスセンス=Đặc tính
 プレイヤーランク=Cấp bậc
+
+続きから=Tiếp tục
+過去をたどる=Hồi tưởng
+交流/メモリーストーリー=Xã giao / Ký ức
+最新のショップ=Cửa hàng 
+最新のフリータイムへ=Thời gian rảnh \ngần nhất
 
 獲得場所=Lấy nó ở đâu
 クレイジー=Kỳ quặc
@@ -69,11 +73,11 @@ Total Reward Pts.=Tổng điểm thưởng
 優しさ=Lòng tốt
 器=Cởi mở
 カリスマ=Thần thái
+
 期間限定=Thời gian có hạn
-チャレンジ=thử thách
-チャレンジ\n=thử thách\n
+チャレンジ=Thử thách
 累計=Tổng tích lũy
-ウィークリー=hàng tuần
+ウィークリー=Hằng tuần
 デイリー=Hằng ngày
 ミッションがありません=Không có sứ mệnh
 
@@ -100,6 +104,3 @@ List of Targets=Danh sách mục tiêu
 White=Trắng
 <style\=RubyPrefixTag></style>\nUse this theme?=<style\=RubyPrefixTag></style>\nSử dụng chủ đề này?
 
-入手済=Đã nhận
-受け取り=nhận được
-一括受け取り=<size\=30>Nhận nhanh</size>

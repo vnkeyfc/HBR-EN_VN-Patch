@@ -1,0 +1,65 @@
+入手済=Đã nhận
+受け取り=nhận được
+一括受け取り=<size\=30>Nhận nhanh</size>
+NOW LOADING= Đ A N G   T Ả I
+Cancel=Hủy bỏ
+選択済=Đã chọn
+話しかける=Tương tác
+BACK LOG=
+
+
+イベントミッション=Nhiệm vụ sự kiện
+Story Select=Chọn câu chuyện
+Relive Memories=Hồi tưởng
+Time  Selection=Lựa chọn thời gian
+Style List=Danh sách Style
+ギフトボックス=Hộp quà
+
+Early Morning=Sáng sớm
+Morning=Buổi sáng
+Period 1=Tiết 1
+Period 2=Tiết 2
+Period 3=Tiết 3
+Period 4=Tiết 4
+Lunch=Buổi trưa
+Evening=Buổi chiều
+Night 1=Đêm 1
+Night 2=Đêm 2
+Late Night=Đêm muộn
+
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 1"?=<style\=RubyPrefixTag></style>\nTheo dõi lại sự kiện trong ngày từ "Tiết 1"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 2"?=<style\=RubyPrefixTag></style>\nTheo dõi lại sự kiện trong ngày từ "Tiết 2"?
+
+
+Commander=Tư lệnh
+Girl with Glasses=Cô gái đeo kính
+Female Cadet 1=Nữ đội viên 1
+Female Cadet 2=Nữ đội viên 2
+
+
+[================ JP localized name ================]
+
+Ruka Kayamori=Kayamori Ruka
+Yuki Izumi=Izumi Yuki
+Megumi Aikawa=Aikawa Megumi
+Tsukasa Tojo=Tojo Tsukasa
+Karen Asakura=Asakura Karen
+Tama Kunimi=Kunimi Tama
+
+
+
+Chapter 1=Chương 1
+Chapter 2=Chương 2
+Chapter 3=Chương 3
+Chapter 4—Part 1=Chương 4 - Phần 1
+Chapter 4—Part 2=Chương 4 - Phần 2
+Chapter 5—Part 1=Chương 5 - Phần 1
+Chapter 5—Part 2=Chương 5 - Phần 2
+
+(Sun)=(CN)
+(Mon)=(Thứ Hai)
+(Tue)=(Thứ Ba)
+(Wed)=(Thứ Tư)
+(Thur)=(Thứ Năm)
+(Fri)=(Thứ Sáu)
+(Sat)=(Thứ Bảy)

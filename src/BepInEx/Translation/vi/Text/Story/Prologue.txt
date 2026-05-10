@@ -1,5 +1,98 @@
+[================ Intro video ================]
 I have this really bad feeling...=<size\=40>Tớ có linh cảm xấu...</size>
 I usually have good vibes about everything.=<size\=40>Trước giờ tớ vốn chỉ toàn có những linh cảm tốt.</size>
 I'm that kind of carefree sort of person.=<size\=40>Một đứa vô lo vô nghĩ như mình...</size>
 But this...just feels like something terrible's going to happen.=<size\=40>Vậy mà lúc này tớ lại có dự cảm chẳng lành...</size>
+
+
+[================ Tiết 1 ================]
+Hey, you.=Này, oi.
+<style\=RubyPrefixTag></style>\nHuh?=<style\=RubyPrefixTag></style>\n...Hửm?
+<style\=RubyPrefixTag></style>\n(Did I doze off?)=<style\=RubyPrefixTag></style>\n(Mình đã ngủ gật à...?)
+<style\=RubyPrefixTag></style>\n...As such, our base operates as a military academy. Your\ninstructors will explain the details later, so be sure to pay\nattention to them.=<style\=RubyPrefixTag></style><br>...Như vậy, căn cứ này được thiết lập để hoạt động như một \nngôi trường thực thụ. Chi tiết sẽ được giáo quan phụ trách \ncủa các cô giải thích sau, nên hãy chú ý xác nhận lại.
+<style\=RubyPrefixTag></style>\nThe commander seems awfully fond of her own voice...=<style\=RubyPrefixTag></style>\nMấy người chức cao vọng trọng phát biểu dài dòng quá nhỉ...
+<style\=RubyPrefixTag></style>\nWant to chat? Any more of this and I'll fall asleep.=<style\=RubyPrefixTag></style>\nChán chết đi được, tám chuyện chút không? Cứ thế này thì tôi \nngủ gật mất...
+
+{---------------- Lựa chọn 1 ----------------}
+<style\=RubyPrefixTag></style>\nTalk with her?=<style\=RubyPrefixTag></style>\nNói chuyện với cậu ấy?
+<style\=RubyPrefixTag></style>\nSure=<style\=RubyPrefixTag></style>\nCũng được thôi
+<style\=RubyPrefixTag></style>\nSleep=<style\=RubyPrefixTag></style>\nNgủ
+
+{---------------- Lựa chọn "Cũng được thôi" ----------------}
+<style\=RubyPrefixTag></style>\nI'm game. What about?=<style\=RubyPrefixTag></style>\nCũng được thôi, chuyện gì vậy?
+<style\=RubyPrefixTag></style>\nThis academy gathers people with incredible talents, right?\nSo I'm curious. What's yours?=<style\=RubyPrefixTag></style><br>Ở đây là nơi tập hợp những người có tài năng xuất chúng \nđúng không? Tôi khá là tò mò không biết cậu có điểm gì \nđặc biệt đấy.
+<style\=RubyPrefixTag></style>\nMy talent? I don't have one. I'm just an everyday, ordinary\nhuman being, same as anyone else. Except...=<style\=RubyPrefixTag></style><br>Lợi hại á? Tớ thì có gì đâu mà lợi hại. Cũng chỉ là một người \nbình thường như bao người khác thôi. Có điều...
+<style\=RubyPrefixTag></style>\nExcept?=<style\=RubyPrefixTag></style>\nCó điều?
+<style\=RubyPrefixTag></style>\nMy passion for music is second to none. That's about it.=<style\=RubyPrefixTag></style>\nChỉ là, nếu nói về nhiệt huyết với âm nhạc thì tớ chẳng ngán \nmột ai đâu. Thế thôi.
+<style\=RubyPrefixTag></style>\nAaah, one of those. You have perfect pitch, or can detect\nsoundwaves imperceptible to the human ear. Something\nto that effect?=<style\=RubyPrefixTag></style><br>À, ra là kiểu đó. Chắc là sở hữu thính giác tuyệt đối này, \nhay là thính đến mức nghe được cả mấy cái tần số mà \nngười thường chịu chết không nghe nổi, đại loại thế \nđúng không.
+<style\=RubyPrefixTag></style>\nNah, nothing that cool. I love music. That's all.=<style\=RubyPrefixTag></style>\nLàm gì có năng lực nào ghê gớm thế chứ. Tớ chỉ đơn thuần \nlà yêu âm nhạc, thế thôi.
+<style\=RubyPrefixTag></style>\nI highly doubt they would've brought you here if that's all\nyou're capable of.=<style\=RubyPrefixTag></style><br>Tôi không nghĩ là chỉ bấy nhiêu đó mà vào được đây đâu nhỉ.
+<style\=RubyPrefixTag></style>\nThe only thing I'm good at is belting out songs and rocking\nout on the guitar. I was the lead vocalist in my band, you\nknow.=<style\=RubyPrefixTag></style><br>Tớ chỉ được mỗi cái là giỏi vừa đàn guitar vừa hát thôi. \nHồi đó tớ làm guitar kiêm hát chính trong một ban nhạc mà.
+<style\=RubyPrefixTag></style>\nHah... Perhaps you're the entertainment for the entrance\nceremony.=<style\=RubyPrefixTag></style><br>Tưởng thế nào, hóa ra cứ mang cái không khí 'lễ hội trường học' \nlà vào được đây à...
+
+{---------------- Lựa chọn "Ngủ" ----------------}
+<style\=RubyPrefixTag></style>\nNap time.=<style\=RubyPrefixTag></style>\nNgủ.
+<style\=RubyPrefixTag></style>\nThat sounds like a great idea.=<style\=RubyPrefixTag></style>\nCũng đúng, ngủ thôi nhỉ...
+<style\=RubyPrefixTag></style>\nWait a second! That's precisely what I'm trying to avoid!=<style\=RubyPrefixTag></style>\nƠ kìa, tôi bắt chuyện là để không bị buồn ngủ cơ mà.
+<style\=RubyPrefixTag></style>\nZzz... *snore*=<style\=RubyPrefixTag></style>\nKhò... *ngáy*
+<style\=RubyPrefixTag></style>\nYou're already asleep?!=<style\=RubyPrefixTag></style>\nNgủ mất rồi!?
+<style\=RubyPrefixTag></style>\nYou there. This isn't nap time, you know.=<style\=RubyPrefixTag></style>\nĐằng kia, đừng có ngang nhiên mà ngủ như thế!
+<style\=RubyPrefixTag></style>\nSorry, I think she's anemic... Hey, wake up!=<style\=RubyPrefixTag></style>\nÀ, có vẻ cậu ấy hơi chóng mặt chút... Này, dậy mau đi!
+<style\=RubyPrefixTag></style>\nHm? I feel so refreshed! I could pull an all-nighter!=<style\=RubyPrefixTag></style>\nHử...? Tự nhiên đầu óc mình tỉnh táo hẳn ra! Đêm nay khỏi cần \nngủ luôn cũng được!
+<style\=RubyPrefixTag></style>\nWhat are you, a professional power napper?=<style\=RubyPrefixTag></style>\nKhông hiểu nổi sao cậu có thể ngủ hiệu quả đến thế chỉ trong \nchớp mắt vậy...
+<style\=RubyPrefixTag></style>\nWide awake I am. Let's talk about something.=<style\=RubyPrefixTag></style>\nMắt tớ giờ sáng rực hẳn ra rồi. Cũng nên tám chuyện gì đi nhỉ.
+<style\=RubyPrefixTag></style>\nWhat do you think I was trying to do earlier?=<style\=RubyPrefixTag></style>\nCái đó vốn dĩ là do tôi đề nghị trước mà...
+
+
+[================ Tiết 2 ================]
+<style\=RubyPrefixTag></style>\nFormer legendary rocker.\nJoined the academy after being scouted.=<style\=RubyPrefixTag></style>\nMột cựu rocker huyền thoại.\nĐược chiêu mộ và có mặt tại đây.
+<style\=RubyPrefixTag></style>\nAnd you are?=<style\=RubyPrefixTag></style>\nCòn cậu thì sao?
+<style\=RubyPrefixTag></style>\nEx-member of an elite hacker organization.\nHelped prevent World War III.=<style\=RubyPrefixTag></style>\nTừng là thành viên của một tổ chức hacker ưu tú.\nCó tiểu sử từng ngăn chặn Thế chiến thứ ba.
+<style\=RubyPrefixTag></style>\nMe? The name's Izumi.=<style\=RubyPrefixTag></style>\nTôi á? Tên của tôi là Izumi.
+<style\=RubyPrefixTag></style>\nContrary to appearances, I'm a skilled hacker. Maybe\nyou've heard of the hacker group, "the Orchids"? It IS world\nfamous, after all.=<style\=RubyPrefixTag></style>\nNhìn thế thôi chứ tôi là một hacker lành nghề đấy. \nCậu đã bao giờ nghe danh nhóm hacker tên là Orchid chưa? \nHọ vốn dĩ nổi tiếng trên toàn thế giới cơ đấy.
+<style\=RubyPrefixTag></style>\nContrary to appearances, I'm a skilled hacker. Maybe you've heard of the hacker group, "the Orchids"? It IS world famous, after all.=<style\=RubyPrefixTag></style>\nNhìn thế thôi chứ tôi là một hacker lành nghề đấy. Cậu đã bao giờ nghe danh nhóm hacker tên là Orchid chưa? Họ vốn dĩ nổi tiếng trên toàn thế giới cơ đấy.
+<style\=RubyPrefixTag></style>\nThe Orckids?! You're a fan of the legendary Orckids?!=<style\=RubyPrefixTag></style>\nOrchid!? Bồ cũng thích Orchid hả!?
+<style\=RubyPrefixTag></style>\nThat band's wild cries of\n"GYAYAGRAYYYBODODODODUOH" shake the foundations\nof my very soul!!!=<style\=RubyPrefixTag></style><br>Là cái ban nhạc nhiệt huyết huyền thoại đó, cái nhóm mà \nhay gào thét kiểu 'GYAIA GUREII IBODODODOOOO!!' \nlàm rung động cả tâm hồn ấy!
+<style\=RubyPrefixTag></style>\nWhat? No. And what's with the yelling?=<style\=RubyPrefixTag></style><br>Không phải đâu... Mà cái kiểu thay đổi thái độ xoạch xoạch \nđó là sao vậy hả...
+<style\=RubyPrefixTag></style>\nI don't think I could ever take a band that screams\n"GYAYAGRAYYYBODODODODUOH" seriously.=<style\=RubyPrefixTag></style><br>Với lại, tôi ghét mấy cái ban nhạc suốt ngày gào thét kiểu \n'GYAIA GUREII IBODODODOOOO!!' lắm luôn ấy...
+<style\=RubyPrefixTag></style>\nWoah, woah, hold up! When you're bursting with anger to\nthe point you're about to explode—tell me, what do you\ndo?=<style\=RubyPrefixTag></style><br>Kìa kìa, sao lại thế chứ!? Thế những lúc mà sự bực bội nó \ndồn nén đến mức bồ không còn kiểm soát nổi bản thân \nmình nữa, thì lúc đó bồ tính làm cái gì hả!?
+<style\=RubyPrefixTag></style>\nWhat would I do? Well, I'd probably end up going off on\nsomebody...=<style\=RubyPrefixTag></style><br>Làm gì á? Thì chắc là tôi sẽ trút giận lên người khác một chút \nchăng...
+<style\=RubyPrefixTag></style>\nWHAAAT?! You wouldn't scream\n"GYAYAGRAYYYBODODODODUOH"?!=<style\=RubyPrefixTag></style><br>Hảaa—!? Bình thường thì người ta phải gào lên là \n'GYAIA GUREII IBODODODOOOO!!' chứ!?
+<style\=RubyPrefixTag></style>\nOF COURSE NOT! And even if I DID, that's the LAST thing I\nwould scream!=<style\=RubyPrefixTag></style><br>Không có gào lên đâu nhé!? Mà cho dù có gào đi chăng nữa, \ntôi cũng tuyệt đối không bao giờ chọn cái cụm từ đó để \nhét lên đâu nhé!?
+<style\=RubyPrefixTag></style>\nDon't tell me you wouldn't say anything.=<style\=RubyPrefixTag></style>\nNhưng mà bồ cũng đâu thể cứ im thin thít mãi được, \nđúng không?
+<style\=RubyPrefixTag></style>\nI might give out a "HELL NO!" or something to that effect.=<style\=RubyPrefixTag></style>\nDĩ nhiên là mấy câu kiểu như 'Chết tiệt!' thì chắc tôi cũng \ncó nói, nhưng mà...
+<style\=RubyPrefixTag></style>\nThat's almost a "GYAYAGRAYYYBODODODODUOH,"\nthough.=<style\=RubyPrefixTag></style><br>Nghe gần như y hệt cái câu 'GYAIA GUREII IBODODODOOOO!!' \nluôn chứ đâu nữa.
+<style\=RubyPrefixTag></style>\nWhat? No. While "HELL NO!" and\n"GYAYAGRAYYYBODODODODUOH" aren't polar opposites,\nthey're absolutely not the same thing!=<style\=RubyPrefixTag></style><br>Kìa kìa, giữa câu 'Khốn kiếp!' và 'GYAIA GUREII IBODODODOOOO!!' \nkia tuy chưa đến mức cách biệt như trời với đất, nhưng rõ ràng \nlà có một sự khác biệt cực kỳ lớn đấy nhé!?
+<style\=RubyPrefixTag></style>\nThink of it this way. It's like "Hey, you mind standing up?\nThis is the elderly section." versus "Hey MORON, you're\nsitting in the elderly section. Stand the hell up!".=<style\=RubyPrefixTag></style><br>Để xem nào... Nó giống như sự khác biệt giữa câu: \n'Chỗ đó là ghế ưu tiên nên bọn mình hãy nhường đi' và câu: \n'Mày bao nhiêu tuổi rồi hả, cút ra khỏi chỗ đó mau lênnn—!!' \nvậy đó.
+<style\=RubyPrefixTag></style>\nWhat? Those are pretty close.=<style\=RubyPrefixTag></style>\nỦa? Thấy cũng có khác gì mấy đâu.
+<style\=RubyPrefixTag></style>\nCLOSE?! There's nothing more extreme than "Hey MORON,\nyou're sitting in the elderly section. Stand the hell up!".=<style\=RubyPrefixTag></style><br>Khác nhau một trời một vực luôn ấy chứ—!? Trên đời này \ncòn có cái gì 'nặng đô' hơn cả câu 'Mày bao nhiêu tuổi rồi hả, \ncút ra khỏi chỗ đó mau lênnn—!!' nữa không hả—!?
+<style\=RubyPrefixTag></style>\nYes there is.=<style\=RubyPrefixTag></style>\nCó chứ.
+<style\=RubyPrefixTag></style>\nNEVER SIT AGAIN. STAND UNTIL YOU DIE. STAND AFTER\nYOU DIE. DON'T THINK YOUR SOUL IS GOING\nANYWHERE, COZ WE'RE PUTTING YOU IN THE GROUND\nSTANDING UP!=<style\=RubyPrefixTag></style><br>Cả đời này đừng có mà hòng ngồi xuống nữa—!! \nĐứng đó cho đến chết đi—!! Có chết rồi cũng phải đứng đấy—!! \nĐừng có mơ là sẽ được hỏa táng rồi chôn cất tử tế nhé—!! \nTao sẽ đem đi địa táng, rồi cắm đứng xác xuống luôn!!
+<style\=RubyPrefixTag></style>\nOH GOD, you're right! That would suck. At least let me lay\ndown when I'm dead. Standing for eternity would be the\nWORST!=<style\=RubyPrefixTag></style><br>Có thật kìa—!! Chết rồi mà vẫn phải đứng—!! Tôi muốn được \nyên nghỉ—!! Đã chết rồi thì ít ra cũng phải cho tôi nằm xuống \nchứ hảーーー!!
+<style\=RubyPrefixTag></style>\nRight?=<style\=RubyPrefixTag></style>\nĐúng không?
+<style\=RubyPrefixTag></style>\nYeah.=<style\=RubyPrefixTag></style>\nỪm.
+<style\=RubyPrefixTag></style>\nWait—why am I agreeing with you?! I haven't even\nprogressed an inch into my explanation of the Orchids! Let\nme tell you about the Orchids!=<style\=RubyPrefixTag></style><br>Mà khoan, bộ định bắt tôi chấp nhận thế hảーーー!! \nPhần giải thích về nhóm hacker nãy giờ chẳng tiến triển \nthêm được một li nào hếtーー!! Để cho tôi nói nốt chuyện \nvề Orchid mau lênーーー!!
+<style\=RubyPrefixTag></style>\nIs this a bug or did you just copy-paste your previous line?\nWhat's wrong with you?!=<style\=RubyPrefixTag></style><br>Đừng có quay lại cái câu thoại đầu tiên như kiểu vừa nhấn \nCopy-Paste thế chứーーーー!! Đáng sợ quá đi mất!!
+<style\=RubyPrefixTag></style>\nAre you some broken NPC that only says the same thing,\nno matter how many times you talk to them?! Debuggers\nwould be sending in tickets about you!=<style\=RubyPrefixTag></style><br>Cậu là cái loại NPC mà dù có bắt chuyện bao nhiêu lần đi nữa \nthì cũng chỉ biết nói đi nói lại đúng một câu đó thôi hả!! \nKiểu này thì sẽ bị mấy ông Debugger góp ý là 'hãy đầu tư \nkịch bản kỹ lưỡng hơn một chút đi' cho mà xem!
+<style\=RubyPrefixTag></style>\nYou two over there. You're being disruptive.=<style\=RubyPrefixTag></style>\nĐằng kia, bớt ồn ào lại đi.
+
+{---------------- Lựa chọn 2 ----------------}
+<style\=RubyPrefixTag></style>\nYour response?=<style\=RubyPrefixTag></style><size\=30>\nVới Tư lệnh thì...</size>
+<style\=RubyPrefixTag></style>\nSnap back=<style\=RubyPrefixTag></style>\nQuát lại
+<style\=RubyPrefixTag></style>\nQuiet down=<style\=RubyPrefixTag></style>\nHành xử chừng mực.
+
+{---------------- Lựa chọn "Quát lại" ----------------}
+<style\=RubyPrefixTag></style>\nWe're not disruptive! We're just\n"GYAYAGRAYYYBODODODODUOH"-ing!!!=<style\=RubyPrefixTag></style><br>Chả phải ồn ào gì đâu nhé. Đã bảo là \nGYAIA GUREII IBODODODOOOO!! cơ mààààーーーーーー!!
+<style\=RubyPrefixTag></style>\nIt's the battle cry of my soul, dammit!!!=<style\=RubyPrefixTag></style>\nĐó là tiếng gọi của linh hồn đấy biết chưa!! Cái đồ chết tiệt này!!
+<style\=RubyPrefixTag></style>\nWhat's with her?=<style\=RubyPrefixTag></style>\nCái người đó bị gì vậy...
+<style\=RubyPrefixTag></style>\nI can't believe she talked to the commander like that...=<style\=RubyPrefixTag></style>\nĐối mặt với Tư lệnh mà dám ăn nói kiểu đó sao...
+<style\=RubyPrefixTag></style>\nCut it out. Everyone's staring at us! Unless you LIKE\nstanding out for all the wrong reasons on the first day?!=<style\=RubyPrefixTag></style><br>K-Kìa, đừng có nổi khùng đến mức làm mọi người xung quanh \nphải khiếp sợ thế chứ! Ngay từ ngày đầu tiên mà cậu đã gây \nchú ý quá mức theo nghĩa tiêu cực rồi đấy!
+<style\=RubyPrefixTag></style>\nSorry. I got a little excited there. I'm good now.=<style\=RubyPrefixTag></style>\nXin lỗi, nãy tớ có hơi bị kích động quá. Giờ tớ ổn rồi.
+<style\=RubyPrefixTag></style>\nYou know, I had you pegged as someone cool and\ncollected, but boy was I wrong. You really can't judge a\nbook by its cover.=<style\=RubyPrefixTag></style>\nPhù... Hóa ra cậu lại là kiểu nhân vật đó à... Làm tôi cứ \nnhầm tưởng cậu thuộc kiểu nhân vật 'ngầu lòi' chứ. \nĐúng là không nên đánh giá con người qua vẻ bề ngoài mà.
+<style\=RubyPrefixTag></style>\nGracias.=<style\=RubyPrefixTag></style>\nThanks.
+<style\=RubyPrefixTag></style>\nThat wasn't a compliment.=<style\=RubyPrefixTag></style>\nĐó không phải là một lời khen.
+<style\=RubyPrefixTag></style>\nWhy did I have to sit next to the biggest weirdo on the\nplanet on my first day?=<style\=RubyPrefixTag></style>\nTại sao tôi phải ngồi cạnh người lập dị nhất hành tinh vào ngày đầu tiên?
+<style\=RubyPrefixTag></style>\nHuh? What's that noise?=<style\=RubyPrefixTag></style>\nHả?\nTiếng ồn đó là gì?
+<style\=RubyPrefixTag></style>\nAll students, please take to your defensive positions.=<style\=RubyPrefixTag></style>\nTất cả học sinh, xin hãy vào vị trí phòng thủ.
+<style\=RubyPrefixTag></style>\n"Defensive positions"? Has a battle broken out or\nsomething?=<style\=RubyPrefixTag></style>\n"Vị trí phòng thủ"?\nCó phải một trận chiến đã nổ ra hay gì đó không?
 

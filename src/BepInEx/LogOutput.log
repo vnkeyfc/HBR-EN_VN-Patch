@@ -1,43 +1,546 @@
+[Message: Preloader] BepInEx 6.0.0-be.755 - HeavenBurnsRed (04/23/26 11:50:39 AM)
+[Message: Preloader] Built from commit 3fab71a1914132a1ce3a545caf3192da603f2258
 [Info   :   BepInEx] System platform: Windows 10 64-bit
 [Info   :   BepInEx] Process bitness: 64-bit (x64)
 [Info   :   BepInEx] Running under Unity 2022.3.62f2
 [Info   :   BepInEx] Runtime version: 6.0.7
 [Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Debug  :   BepInEx] Game executable path: C:\Games\YostarGames\HeavenBurnsRed\HeavenBurnsRed.exe
+[Debug  :   BepInEx] Interop assembly directory: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop
+[Debug  :   BepInEx] BepInEx root path: C:\Games\YostarGames\HeavenBurnsRed\BepInEx
 [Info   : Preloader] 0 patcher plugins loaded
+[Debug  :AssemblyPatcher] Assembly loaded: AddressableUtils.dll
+[Debug  :AssemblyPatcher] Assembly loaded: AddressableUtils.Preset.dll
+[Debug  :AssemblyPatcher] Assembly loaded: AppAddressable.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Arbor.BuiltInBehaviours.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Arbor.Core.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Arbor.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Arbor.Examples.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Assembly-CSharp-firstpass.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Assembly-CSharp.dll
+[Debug  :AssemblyPatcher] Assembly loaded: AssetsLoader.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Built-in VFX.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Cinemachine.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Coffee.CompositeCanvas.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Coffee.UIParticle.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Coffee.UnmaskForUGUI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Collections.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Common.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Conel.dll
+[Debug  :AssemblyPatcher] Assembly loaded: CriMw.CriWare.Adxlipsync.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: CriMw.CriWare.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: CriMw.CriWare.Vp9.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Cryptograph.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Decoma.dll
+[Debug  :AssemblyPatcher] Assembly loaded: DeltaComm.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Domain.dll
+[Debug  :AssemblyPatcher] Assembly loaded: fbschema.dll
+[Debug  :AssemblyPatcher] Assembly loaded: FSM.dll
+[Debug  :AssemblyPatcher] Assembly loaded: GGLSequences.dll
+[Debug  :AssemblyPatcher] Assembly loaded: GoKit.dll
+[Debug  :AssemblyPatcher] Assembly loaded: HTTPComm.dll
+[Debug  :AssemblyPatcher] Assembly loaded: HTTPCommGenerated.dll
+[Debug  :AssemblyPatcher] Assembly loaded: I2.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppMono.Security.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2Cppmscorlib.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Collections.Immutable.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Configuration.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Core.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Data.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Drawing.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.IO.Compression.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Numerics.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Runtime.Serialization.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Xml.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Il2CppSystem.Xml.Linq.dll
+[Debug  :AssemblyPatcher] Assembly loaded: ILoadObserver.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Infra.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Lily.Acf.dll
+[Debug  :AssemblyPatcher] Assembly loaded: LitJson.dll
+[Debug  :AssemblyPatcher] Assembly loaded: LockCounter.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Logger.dll
+[Debug  :AssemblyPatcher] Assembly loaded: LotusSound.dll
+[Debug  :AssemblyPatcher] Assembly loaded: LuaEncryption.dll
+[Debug  :AssemblyPatcher] Assembly loaded: LyricsPlayer.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MasterData.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MasterDataStrategy.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MemoryPack.Core.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MemoryScrambler.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MiniJSON.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MirrorAnimator.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MoviePlayer.dll
+[Debug  :AssemblyPatcher] Assembly loaded: MultiActionCallback.dll
+[Debug  :AssemblyPatcher] Assembly loaded: NavMeshComponents.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Newtonsoft.Json.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Notification.dll
+[Debug  :AssemblyPatcher] Assembly loaded: OniCodeGenerator.dll
+[Debug  :AssemblyPatcher] Assembly loaded: OniHcShop.Domain.dll
+[Debug  :AssemblyPatcher] Assembly loaded: OniState.dll
+[Debug  :AssemblyPatcher] Assembly loaded: OniStateTest.dll
+[Debug  :AssemblyPatcher] Assembly loaded: OniUI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: PlatformDialog.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Singleton.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.OdinInspector.Attributes.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.Serialization.AOTGenerated.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.Serialization.Config.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.Serialization.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Sirenix.Utilities.dll
+[Debug  :AssemblyPatcher] Assembly loaded: SocialKitUtils.dll
+[Debug  :AssemblyPatcher] Assembly loaded: SPFX_SDK.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Steamworks.NET.dll
+[Debug  :AssemblyPatcher] Assembly loaded: StompyRobot.SRF.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UData.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UGuis.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UIEffect.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UniRx.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UniTask.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UniTask.Linq.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Addressables.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Burst.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Burst.Unsafe.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Collections.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Collections.LowLevel.ILSupport.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.InputSystem.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.InputSystem.ForUI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Mathematics.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Polybrush.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Postprocessing.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipeline.Universal.ShaderLibrary.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipelines.Core.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.RenderPipelines.Universal.Runtime.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.ResourceManager.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Splines.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.TextMeshPro.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Unity.Timeline.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AccessibilityModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AndroidJNIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AnimationModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AssetBundleModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.AudioModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ClothModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ClusterInputModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ClusterRendererModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ContentLoadModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.CoreModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.CrashReportingModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.DirectorModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.DSPGraphModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.GameCenterModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.GIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.GridModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.HotReloadModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ImageConversionModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.IMGUIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.InputLegacyModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.InputModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.JSONSerializeModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.LocalizationModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ParticleSystemModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.PerformanceReportingModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.Physics2DModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.PhysicsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ProfilerModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.PropertiesModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.ScreenCaptureModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SharedInternalsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SpriteMaskModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SpriteShapeModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.StreamingModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SubstanceModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.SubsystemsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TerrainModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TerrainPhysicsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TextCoreFontEngineModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TextCoreTextEngineModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TextRenderingModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TilemapModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.TLSModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UI.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UIElementsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UIModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UmbraModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityAnalyticsCommonModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityAnalyticsModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityConnectModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityCurlModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityTestProtocolModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityWebRequestAssetBundleModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityWebRequestAudioModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityWebRequestModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityWebRequestTextureModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.UnityWebRequestWWWModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.VehiclesModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.VFXModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.VideoModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.VirtualTexturingModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.VRModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.WindModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UnityEngine.XRModule.dll
+[Debug  :AssemblyPatcher] Assembly loaded: UniUnitTest.dll
+[Debug  :AssemblyPatcher] Assembly loaded: untiy-webview.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Vuplex.WebView.dll
+[Debug  :AssemblyPatcher] Assembly loaded: Vuplex.WebViewDemos.dll
+[Debug  :AssemblyPatcher] Assembly loaded: WFS.Localize.dll
+[Debug  :AssemblyPatcher] Assembly loaded: WFSLib.CustomYieldInstruction.dll
+[Debug  :AssemblyPatcher] Assembly loaded: WFSLib.dll
+[Debug  :AssemblyPatcher] Assembly loaded: WFSLib.EditorProcess.dll
+[Debug  :AssemblyPatcher] Assembly loaded: WFSLib.ExtensionMethods.dll
+[Debug  :AssemblyPatcher] Assembly loaded: WFSLib.ReflectionUtility.dll
+[Debug  :AssemblyPatcher] Assembly loaded: YoStarSDK.dll
+[Debug  :AssemblyPatcher] Assembly loaded: ZString.dll
+[Debug  :AssemblyPatcher] Assembly loaded: __Generated.dll
 [Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Debug  : Preloader] Runtime invoke pointer: 0x7FFDD4CF42D0
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD4CF42D0 to 0x7FFD74763264
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD94D00000
+[Debug  :DobbyDetour] Original: 7FFDD4CF42D0, Trampoline: 7FFD94D00000, diff: 3FFF42D0
+[Debug  : Preloader] Runtime invoke patched
+[Debug  :Il2CppInterop] il2cpp_object_get_virtual_method: 0x7FFDD4CF41D0
+[Debug  :Il2CppInterop] Object::GetVirtualMethod: 0x7FFDD4CE5630
+[Debug  :Il2CppInterop] GenericMethod::GetMethod found: 0x7FFDD4C8AD20
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD4C8AD20 to 0x7FFD747632A4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD94D00020
+[Debug  :DobbyDetour] Original: 7FFDD4C8AD20, Trampoline: 7FFD94D00020, diff: 3FF8AD00
+[Debug  :Il2CppInterop] il2cpp_image_get_class: 0x7FFDD4CF3E80
+[Debug  :Il2CppInterop] Image::GetType: 0x7FFDD4CC4670
+[Debug  :Il2CppInterop] imageGetTypeXrefs.Length: 2
+[Debug  :Il2CppInterop] getTypeInfoFromHandle: 7FFDD4C657E0
+[Debug  :Il2CppInterop] MetadataCache::GetTypeInfoFromTypeDefinitionIndex found: 0x7FFDD4CB2E70
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD4CB2E70 to 0x7FFD747632E4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD94D00040
+[Debug  :DobbyDetour] Original: 7FFDD4CB2E70, Trampoline: 7FFD94D00040, diff: 3FFB2E30
+[Debug  :Il2CppInterop] Class::GetDefaultFieldValue found: 0x7FFDD4CB1940
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD4CB1940 to 0x7FFD74763324
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD94D00060
+[Debug  :DobbyDetour] Original: 7FFDD4CB1940, Trampoline: 7FFD94D00060, diff: 3FFB18E0
+[Warning:Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[Debug  :Il2CppInterop] Picked mono_class_instance_size as a Class::Init substitute
+[Debug  :Il2CppInterop] Class::Init: 0x7FFDD4CF4B00
+[Debug  :Il2CppInterop] il2cpp_class_from_il2cpp_type: 0x7FFDD4C55DC0
+[Debug  :Il2CppInterop] Class::FromIl2CppType found: 0x7FFDD4C624A0
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD4C624A0 to 0x7FFD74763364
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD94D00080
+[Debug  :DobbyDetour] Original: 7FFDD4C624A0, Trampoline: 7FFD94D00080, diff: 3FF62420
+[Debug  :Il2CppInterop] il2cpp_class_from_name: 0x7FFDD4CF3760
+[Debug  :Il2CppInterop] Class::FromName found: 0x7FFDD4C62A00
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD4C62A00 to 0x7FFD747633A4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD94D000A0
+[Debug  :DobbyDetour] Original: 7FFDD4C62A00, Trampoline: 7FFD94D000A0, diff: 3FF62960
 [Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Debug  :InteropManager] Preloaded 186 interop assemblies in 94ms
 [Info   :   BepInEx] 4 plugins to load
 [Info   :   BepInEx] Loading [TMP Font Persist 1.0.0]
 [Info   :TMP Font Persist] TMPFontPersist v1.0.0 loaded.
 [Info   :Il2CppInterop] Registered mono type TMPFontPersist.FontInjectHelper in il2cpp domain
-[Info   :TMP Font Persist] [TMPFontPersist] Bundle loaded OK.
 [Info   :TMP Font Persist] [TMPFontPersist] Fallback font loaded: 'Roboto-Regular SDF'
 [Info   :   BepInEx] Loading [HBR Skip Typewriter Effect 1.0.0]
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD7FBD820 to 0x7FFD74763824
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD97FC0000
+[Debug  :DobbyDetour] Original: 7FFDD7FBD820, Trampoline: 7FFD97FC0000, diff: 3FFFD820
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD7FBD9A0 to 0x7FFD74763864
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD97FC0020
+[Debug  :DobbyDetour] Original: 7FFDD7FBD9A0, Trampoline: 7FFD97FC0020, diff: 3FFFD980
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8611FA0 to 0x7FFD747638A4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD98620000
+[Debug  :DobbyDetour] Original: 7FFDD8611FA0, Trampoline: 7FFD98620000, diff: 3FFF1FA0
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8611DF0 to 0x7FFD747638E4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD98620020
+[Debug  :DobbyDetour] Original: 7FFDD8611DF0, Trampoline: 7FFD98620020, diff: 3FFF1DD0
 [Info   :HBR Skip Typewriter Effect] HBR Skip Typewriter: Loaded!
 [Info   :   BepInEx] Loading [XUnity Auto Translator 5.6.1]
 [Info   :Il2CppInterop] Registered mono type XUnity.AutoTranslator.Plugin.Core.PluginLoader+AutoTranslatorProxyBehaviour in il2cpp domain
 [Info   :   BepInEx] Loading [XUnity Resource Redirector 2.1.0]
+[Message:   BepInEx] Chainloader startup complete
+[Debug  : Preloader] Runtime invoke unpatched
 [Info   :TMP Font Persist] [TMPFontPersist] Scene 'MainScene' loaded.
+[Debug  :XUnity.AutoTranslator] Screen resolution determine to be: 1280x720
 [Info   :XUnity.AutoTranslator] Force loading ALL proxy assemblies.
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\AddressableUtils.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\AddressableUtils.Preset.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\AppAddressable.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Arbor.BuiltInBehaviours.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Arbor.Core.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Arbor.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Arbor.Examples.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Assembly-CSharp-firstpass.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Assembly-CSharp.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\AssetsLoader.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Built-in VFX.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Cinemachine.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Coffee.CompositeCanvas.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Coffee.UIParticle.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Coffee.UnmaskForUGUI.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Collections.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Common.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Conel.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\CriMw.CriWare.Adxlipsync.Runtime.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\CriMw.CriWare.Runtime.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\CriMw.CriWare.Vp9.Runtime.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Cryptograph.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Decoma.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\DeltaComm.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Domain.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\fbschema.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\FSM.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\GGLSequences.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\GoKit.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\HTTPComm.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\HTTPCommGenerated.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\I2.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppMono.Security.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2Cppmscorlib.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Collections.Immutable.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Configuration.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Core.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Data.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Drawing.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.IO.Compression.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Numerics.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Runtime.Serialization.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Xml.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Il2CppSystem.Xml.Linq.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\ILoadObserver.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Infra.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Lily.Acf.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\LitJson.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\LockCounter.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Logger.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\LotusSound.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\LuaEncryption.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\LyricsPlayer.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\MasterData.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\MasterDataStrategy.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\MemoryPack.Core.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\MemoryScrambler.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\MiniJSON.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\MirrorAnimator.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\MoviePlayer.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\MultiActionCallback.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\NavMeshComponents.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Newtonsoft.Json.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Notification.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\OniCodeGenerator.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\OniHcShop.Domain.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\OniState.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\OniStateTest.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\OniUI.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\PlatformDialog.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Singleton.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Sirenix.OdinInspector.Attributes.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Sirenix.Serialization.AOTGenerated.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Sirenix.Serialization.Config.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Sirenix.Serialization.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Sirenix.Utilities.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\SocialKitUtils.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\SPFX_SDK.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Steamworks.NET.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\StompyRobot.SRF.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UData.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UGuis.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UI.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UIEffect.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UniRx.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UniTask.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UniTask.Linq.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Addressables.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Burst.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Burst.Unsafe.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Collections.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Collections.LowLevel.ILSupport.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.InputSystem.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.InputSystem.ForUI.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Mathematics.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Polybrush.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Postprocessing.Runtime.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.RenderPipelines.Core.Runtime.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.RenderPipelines.Universal.Runtime.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.ResourceManager.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Splines.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.TextMeshPro.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Unity.Timeline.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.AccessibilityModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.AIModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.AndroidJNIModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.AnimationModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.AssetBundleModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.AudioModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.ClothModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.ClusterInputModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.ClusterRendererModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.ContentLoadModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.CoreModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.CrashReportingModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.DirectorModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.DSPGraphModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.GameCenterModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.GIModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.GridModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.HotReloadModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.ImageConversionModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.IMGUIModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.InputLegacyModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.InputModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.JSONSerializeModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.LocalizationModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.ParticleSystemModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.PerformanceReportingModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.Physics2DModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.PhysicsModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.ProfilerModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.PropertiesModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.ScreenCaptureModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.SharedInternalsModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.SpriteMaskModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.SpriteShapeModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.StreamingModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.SubstanceModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.SubsystemsModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.TerrainModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.TerrainPhysicsModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.TextCoreFontEngineModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.TextCoreTextEngineModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.TextRenderingModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.TilemapModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.TLSModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UI.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UIElementsModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UIModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UmbraModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityAnalyticsCommonModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityAnalyticsModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityConnectModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityCurlModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityTestProtocolModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityWebRequestAssetBundleModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityWebRequestAudioModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityWebRequestModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityWebRequestTextureModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.UnityWebRequestWWWModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.VehiclesModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.VFXModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.VideoModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.VirtualTexturingModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.VRModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.WindModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UnityEngine.XRModule.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\UniUnitTest.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\untiy-webview.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Vuplex.WebView.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\Vuplex.WebViewDemos.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\WFS.Localize.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\WFSLib.CustomYieldInstruction.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\WFSLib.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\WFSLib.EditorProcess.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\WFSLib.ExtensionMethods.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\WFSLib.ReflectionUtility.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\YoStarSDK.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\ZString.dll
+[Debug  :XUnity.AutoTranslator] Force loading assembly: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\interop\__Generated.dll
+[Error  :Il2CppInterop] Nested type ToolbarButtonSize on GUI not found!
+[Warning:XUnity.AutoTranslator] An error occurred while resolving type: UnityEngine.GUI+ToolbarButtonSize
+System.ArgumentException: ToolbarButtonSize does not have a corresponding IL2CPP class pointer
+   at Il2CppInterop.Runtime.Il2CppType.TypeFromPointerInternal(IntPtr classPointer, String typeName, Boolean throwOnFailure) in /home/runner/work/Il2CppInterop/Il2CppInterop/Il2CppInterop.Runtime/Il2CppType.cs:line 19
+   at XUnity.Common.Constants.UnityTypes.FindType(String name)
 [Info   :XUnity.AutoTranslator] Version of TextMesh Pro: 1.4.0.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD936CAF0 to 0x7FFD74763AA4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370000
+[Debug  :DobbyDetour] Original: 7FFDD936CAF0, Trampoline: 7FFD99370000, diff: 3FFFCAF0
+[Debug  :XUnity.AutoTranslator] Hooked UnityEngine.UI.Text.set_text through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD936B4E0 to 0x7FFD74763AE4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370020
+[Debug  :DobbyDetour] Original: 7FFDD936B4E0, Trampoline: 7FFD99370020, diff: 3FFFB4C0
+[Debug  :XUnity.AutoTranslator] Hooked UnityEngine.UI.Text.OnEnable through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD920BD50 to 0x7FFD74763B24
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370040
+[Debug  :DobbyDetour] Original: 7FFDD920BD50, Trampoline: 7FFD99370040, diff: 3FE9BD10
+[Debug  :XUnity.AutoTranslator] Hooked UnityEngine.UIElements.TextElement.set_text through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8FB63F0 to 0x7FFD74763B64
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370060
+[Debug  :DobbyDetour] Original: 7FFDD8FB63F0, Trampoline: 7FFD99370060, diff: 3FC46390
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TextMeshProUGUI.OnEnable through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8FBEA40 to 0x7FFD74763BA4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370080
+[Debug  :DobbyDetour] Original: 7FFDD8FBEA40, Trampoline: 7FFD99370080, diff: 3FC4E9C0
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TextMeshPro.OnEnable through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD9006AB0 to 0x7FFD74763BE4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD993700A0
+[Debug  :DobbyDetour] Original: 7FFDD9006AB0, Trampoline: 7FFD993700A0, diff: 3FC96A10
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.set_text through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8FFB790 to 0x7FFD74763C24
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD993700C0
+[Debug  :DobbyDetour] Original: 7FFDD8FFB790, Trampoline: 7FFD993700C0, diff: 3FC8B6D0
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8FFBA90 to 0x7FFD74763C64
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD993700E0
+[Debug  :DobbyDetour] Original: 7FFDD8FFBA90, Trampoline: 7FFD993700E0, diff: 3FC8B9B0
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8FFBCF0 to 0x7FFD74763CA4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370100
+[Debug  :DobbyDetour] Original: 7FFDD8FFBCF0, Trampoline: 7FFD99370100, diff: 3FC8BBF0
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8FFB620 to 0x7FFD74763CE4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370120
+[Debug  :DobbyDetour] Original: 7FFDD8FFB620, Trampoline: 7FFD99370120, diff: 3FC8B500
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8FFB4C0 to 0x7FFD74763D24
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370140
+[Debug  :DobbyDetour] Original: 7FFDD8FFB4C0, Trampoline: 7FFD99370140, diff: 3FC8B380
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD8FFB4C0 to 0x7FFD74763D64
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370160
+[Debug  :DobbyDetour] Original: 7FFDD8FFB4C0, Trampoline: 7FFD99370160, diff: 3FC8B360
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD91B5BE0 to 0x7FFD74763DA4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD99370180
+[Debug  :DobbyDetour] Original: 7FFDD91B5BE0, Trampoline: 7FFD99370180, diff: 3FE45A60
+[Debug  :XUnity.AutoTranslator] Hooked UnityEngine.TextMesh.set_text through Harmony hooks.
+[Debug  :DobbyDetour] Preparing detour from 0x7FFDD90CF990 to 0x7FFD74763DE4
+[Debug  :DobbyDetour] Prepared detour; Trampoline: 0x7FFD993701A0
+[Debug  :DobbyDetour] Original: 7FFDD90CF990, Trampoline: 7FFD993701A0, diff: 3FD5F7F0
+[Debug  :XUnity.AutoTranslator] Hooked UnityEngine.GameObject.SetActive through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Disabling certificate checks for endpoints because of configuration.
+[Debug  :XUnity.AutoTranslator] Probing whether OnLevelWasLoaded or SceneManager is supported in this version of Unity. Any warnings related to OnLevelWasLoaded coming from Unity can safely be ignored.
+[Debug  :XUnity.AutoTranslator] SceneManager is supported in this version of Unity.
+[Debug  :XUnity.AutoTranslator] Loaded resize command text files.
+[Debug  :XUnity.AutoTranslator] Loading texts: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\Translation\vi\Text\_Substitutions.txt.
+[Debug  :XUnity.AutoTranslator] Loading texts: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\Translation\vi\Text\_Preprocessors.txt.
+[Debug  :XUnity.AutoTranslator] Loading texts: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\Translation\vi\Text\_Postprocessors.txt.
+[Debug  :XUnity.AutoTranslator] --- Loading Global Translations ---
+[Debug  :XUnity.AutoTranslator] Loading texts: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\Translation\vi\Text\_AutoGeneratedTranslations.txt.
+[Debug  :XUnity.AutoTranslator] Loading texts: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\Translation\vi\Text\UI\Utils.txt.
+[Debug  :XUnity.AutoTranslator] Loading texts: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\Translation\vi\Text\UI\Home.txt.
+[Debug  :XUnity.AutoTranslator] Loading texts: C:\Games\YostarGames\HeavenBurnsRed\BepInEx\Translation\vi\Text\Story\Prologue.txt.
+[Debug  :XUnity.AutoTranslator] Loaded translation text files (took 0.01 seconds)
+[Debug  :XUnity.AutoTranslator] Created variation translations (took -0 seconds)
+[Debug  :XUnity.AutoTranslator] Created token translations (took -0 seconds)
+[Debug  :XUnity.AutoTranslator] Translations generated: 3353
+[Debug  :XUnity.AutoTranslator] Regex translations generated: 0
+[Debug  :XUnity.AutoTranslator] Regex splitters generated: 0
+[Debug  :XUnity.AutoTranslator] Token translations generated: 1569
 [Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2022.3.62f2c1] game.
 [Info   :Il2CppInterop] Registered mono type XUnity.AutoTranslator.Plugin.Core.Il2CppManagedEnumerator in il2cpp domain
-[Info   :TMPFontPersist] [TMPFontPersist] 'Roboto-Regular SDF' injected.
+[Debug  :XUnity.AutoTranslator] [UnityInput] Using Il2CppLegacyInputSystem
+[Info   :TMP Font Persist] [TMPFontPersist] 'Roboto-Regular SDF' injected.
 [Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.
-[Info   :TMP Font Persist] [TMPFontPersist] Scene 'BaseEvening' loaded.
-[Info   :TMP Font Persist] [TMPFontPersist] Bundle loaded OK.
-[Info   :TMP Font Persist] [TMPFontPersist] Fallback font loaded: 'Roboto-Regular SDF'
-[Info   :TMPFontPersist] [TMPFontPersist] 'Roboto-Regular SDF' injected.
+[Info   :TMP Font Persist] [TMPFontPersist] Scene 'MC00_00_04_02_School1F' loaded.
+[Info   :TMP Font Persist] [TMPFontPersist] Scene 'BaseNoon' loaded.
 [Info   :TMP Font Persist] [TMPFontPersist] Scene 'Level' loaded.
-[Info   :TMPFontPersist] [TMPFontPersist] Already present, skipping.
-[Info   :TMP Font Persist] [TMPFontPersist] Scene 'Garden_MainStreet' loaded.
-[Info   :TMPFontPersist] [TMPFontPersist] Already present, skipping.
 [Info   :TMP Font Persist] [TMPFontPersist] Scene 'Home' loaded.
-[Info   :TMPFontPersist] [TMPFontPersist] Already present, skipping.
 [Info   :TMP Font Persist] [TMPFontPersist] Scene 'BaseEvening' loaded.
-[Info   :TMPFontPersist] [TMPFontPersist] Already present, skipping.
 [Info   :TMP Font Persist] [TMPFontPersist] Scene 'Level' loaded.
-[Info   :TMPFontPersist] [TMPFontPersist] Already present, skipping.
 [Info   :XUnity.AutoTranslator] Whitespace difference (c10): '制圧戦
 ' => 'Trận chiến thống trị
 '
