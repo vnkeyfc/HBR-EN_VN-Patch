@@ -2,40 +2,74 @@
 受け取り=nhận được
 一括受け取り=<size\=30>Nhận nhanh</size>
 NOW LOADING= Đ A N G   T Ả I
+AUTO SAVING=TỰ ĐỘNG LƯU
 Cancel=Hủy bỏ
 選択済=Đã chọn
 話しかける=Tương tác
 BACK LOG=
+次の時間へ=Bỏ qua
+O K=Xác nhận
+Confirm=Xác nhận
+INFORMATION=THÔNG TIN
 
+<style\=RubyPrefixTag></style>\nReturn to the Home screen?=<style\=RubyPrefixTag></style>\nQuay lại Màn hình chính?
 
+A-1 Buffer Zone=V ù n g   đ ệ m   A - 1
+
+Start Action=<cspace\=-1><size\=-0.5><b>Bắt đầu hành động</b></size></cspace>
+行動開始=<size\=-1><cspace\=-8><b>ACTION START</b></cspace></size>
+Choose Enemy Target=Chọn mục tiêu
+TOTAL=
+TurnMaxDamage=Sát Thương Cao Nhất
+NORMAL AUTO=TỰ ĐỘNG BÌNH THƯỜNG
+FULL AUTO=TỰ ĐỘNG HOÀN TOÀN
+TARGET=MỤC TIÊU
+AUTO OFF=TỰ ĐỘNG TẮT
+AUTO ON=TỰ ĐỘNG BẬT
+Normal Attack=Đánh thường
+
+SSスタイル交換所=SS Style Exchange 
+Exchanged=Trao đổi Style SS
 イベントミッション=Nhiệm vụ sự kiện
 Story Select=Chọn câu chuyện
 Relive Memories=Hồi tưởng
 Time  Selection=Lựa chọn thời gian
 Style List=Danh sách Style
-ギフトボックス=Hộp quà
+Event=Sự kiện
+ギフトボックス=<size\=-1>Gift Box</size>
+Live=Trình diễn
+Battle Result=Kết quả trận chiến
+獲得GP=GP nhận được
+Gift Box=Hộp quà
 
 Early Morning=Sáng sớm
 Morning=Buổi sáng
-Period 1=Tiết 1
-Period 2=Tiết 2
-Period 3=Tiết 3
-Period 4=Tiết 4
+Period 1=Sáng 01
+Period 2=Sáng 02
 Lunch=Buổi trưa
+Period 3=Chiều 01
+Period 4=Chiều 02
 Evening=Buổi chiều
-Night 1=Đêm 1
-Night 2=Đêm 2
+Night 1=Tối 01
+Night 2=Tối 02
 Late Night=Đêm muộn
 
-<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 1"?=<style\=RubyPrefixTag></style>\nTheo dõi lại sự kiện trong ngày từ "Tiết 1"?
-<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 2"?=<style\=RubyPrefixTag></style>\nTheo dõi lại sự kiện trong ngày từ "Tiết 2"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 1"?=<style\=RubyPrefixTag></style>\nTheo dõi lại sự kiện trong ngày từ "Sáng 01"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 2"?=<style\=RubyPrefixTag></style>\nTheo dõi lại sự kiện trong ngày từ "Sáng 02"?
+<style\=RubyPrefixTag></style>\nSkip the rest of this period and move on to the next?=<style\=RubyPrefixTag></style>\nBỏ qua phần còn lại và chuyển đến mốc thời gian tiếp theo?
 
 
 Commander=Tư lệnh
-Girl with Glasses=Cô gái đeo kính
+Girl with Glasses=Thiếu nữ đeo kính
 Female Cadet 1=Nữ đội viên 1
 Female Cadet 2=Nữ đội viên 2
-
+Officer=Sĩ quan
+Black-haired Girl=Thiếu nữ tóc đen
+Arrogant Girl=Thiếu nữ kiêu ngạo
+Aristocratic Girl=Thiếu nữ quý tộc
+Samurai-like Girl=Thiếu nữ giống samurai
+Charming Girl=Thiếu nữ quyến rũ
+Masked Girl=Thiếu nữ đeo mặt nạ
 
 [================ JP localized name ================]
 
@@ -46,7 +80,8 @@ Tsukasa Tojo=Tojo Tsukasa
 Karen Asakura=Asakura Karen
 Tama Kunimi=Kunimi Tama
 
-
+Saki Tezuka=Tezuka Saki
+Nanami Nanase=Nanase Nanami
 
 Chapter 1=Chương 1
 Chapter 2=Chương 2

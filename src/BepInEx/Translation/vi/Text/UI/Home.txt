@@ -1,6 +1,6 @@
 ガチャ=Gacha
 ギフト=Hộp quà
-ミッション=Nhiệm vụ
+ミッション=Missions
 強化 / 育成=<size\=18>Tăng cường / Phát triển</size>
 交換所=Trao đổi
 Roster=Nhân vật
@@ -16,9 +16,17 @@ Home Screen Customization=<cspace\=-2>Tùy chỉnh màn hình chính</cspace>
 復刻=in lại
 ライブ=
 ジオラマ=Sa bàn
-時の修練場=sân tập thời gian
+時の修練場=Sân tập thời gian
 アーツバトル=
 称号バッジ=Huy hiệu
+
+アイテム購入\n（GP）=Trao đổi (GP)
+アイテム購入\n（GGP）=Trao đổi (GGP)
+Badge Exchange=Trao đổi huân chương
+SS Memoria Exchange=Trao đổi Style SS
+クリスタル交換所=Trao đổi tinh thể
+プレミアメダル交換所=Trao đổi xu bậc cao
+アクセサリ錬成=Chế tạo phụ kiện
 
 The Astrarium=Hằng Tinh
 Anachronies=Liên Lớp Thời Gian
