@@ -1,0 +1,34 @@
+[Ngày trong tuần]
+Day=Ngày
+(Sun)=(CN)
+(Mon)=(T.Hai)
+(Tue)=(T.Ba)
+(Wed)=(T.Tư)
+(Thur)=(T.Năm)
+(Fri)=(T.Sáu)
+(Sat)=(T.Bảy)
+
+[Mốc thời gian]
+Period 1=Sáng 01
+Period 2=Sáng 02
+Period 3=Sáng 03
+Period 4=Sáng 04
+Period 5=Sáng 05
+Evening 1=Chiều 01
+Evening 2=Chiều 02
+Evening 3=Chiều 03
+Evening 4=Chiều 04
+Evening 4=Chiều 05
+Night 1=Tối 01
+Night 2=Tối 02
+Night 2=Tối 03
+Night 2=Tối 04
+Night 2=Tối 05
+Early Morning=Sáng sớm
+Morning=Buổi sáng
+Lesson Prep=Chuẩn bị tiết học
+Lunch=Buổi trưa
+After School=Sau giờ học
+Evening=Buổi chiều
+Late Night=Đêm muộn
+Free Time=Giải lao

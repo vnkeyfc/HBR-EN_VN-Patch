@@ -1,0 +1,10 @@
+[Action]
+話しかける=Trò chuyện
+メッセージ=Tin nhắn
+ホーム=Màn hình chính
+次の時間へ=Chuyển mốc \nthời gian
+INFORMATION=THÔNG TIN
+
+[Location]
+Clock Tower=Tháp đồng hồ
+Arena=Đấu trường
