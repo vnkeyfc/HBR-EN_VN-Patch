@@ -1,0 +1,53 @@
+友達招待=Mời bạn bè
+
+メインストーリー=Chính truyện
+イベント=Sự kiện
+
+コンテンツ=Nội dung
+ジオラマ=Sa bàn
+ライブ=Live 
+交換所=Trao đổi
+ギャラリー=Gallery 
+キャラ一覧=Danh sách đội viên
+称号バッジ=Huy hiệu
+Roster=Đội viên
+
+ストーリー選択=<cspace\=-3px>Lựa chọn cốt truyện</cspace>
+時間帯選択=Chọn mốc thời gian
+交流=Xã giao
+異時層=Không Gian Dị Thời
+恒星掃戦線=Hằng Tinh
+アリーナ=Arena
+Munitions Store=Cửa hàng
+強化 / 育成=<size\=89%>Tăng cường / Phát triển</size>
+制圧戦=Conquest Battle
+メモリーストーリー一覧=DANH SÁCH KÝ ỨC
+調べる=Điều tra
+セラフ遭遇戦演習=Chuỗi Trận Mô Phỏng
+Seraph Encounter Drill=Seraph Skirmish Simulation
+
+[Story]
+最新のショップ=Cửa hàng\nmới nhất
+最新のフリータイムへ=Giờ giải lao\ngần nhất
+続きから=Tiếp tục
+過去をたどる=Hồi tưởng
+交流/メモリーストーリー=Xã giao
+Monthly Missions=Monthly Mission
+Master Missions=Master Mission
+r:"^Board (\d+): Master Missions$"=Bảng $1: Nhiệm vụ bậc cao
+
+[Ruka's Cat Dialogue]
+<style\=RubyPrefixTag></style>\nIs there anything I can help you with?=<style\=RubyPrefixTag></style>\nTôi có thể giúp gì cho bạn?
+<style\=RubyPrefixTag></style>\nHow may I be of assistance?=<style\=RubyPrefixTag></style>\nTôi có thể hỗ trợ gì cho bạn?
+<style\=RubyPrefixTag></style>\nWhat are you in need of help with?=<style\=RubyPrefixTag></style>\nTôi muốn...
+<style\=RubyPrefixTag></style>\n錬成をしたい=<style\=RubyPrefixTag></style>\nWant to do training
+<style\=RubyPrefixTag></style>\nBuy stuff with GP=<style\=RubyPrefixTag></style>\nMua một vài thứ (GP)
+<style\=RubyPrefixTag></style>\nBuy stuff with GGP=<style\=RubyPrefixTag></style>\nMua một vài thứ (GGP)
+<style\=RubyPrefixTag></style>\nI wanna do some crafting=<style\=RubyPrefixTag></style>\nChế tạo một vài phụ kiện
+<style\=RubyPrefixTag></style>\nLet's shoot the breeze=<style\=RubyPrefixTag></style>\nTrò chuyện
+<style\=RubyPrefixTag></style>\nEngage in flashback battles to become even stronger.=<style\=RubyPrefixTag></style>\nTham gia Khiêu chiến Lăng kính để trở nên mạnh mẽ hơn.
+<style\=RubyPrefixTag></style>\nCollect valuable crafting materials to upgrade your \nMemorias.=<style\=RubyPrefixTag></style><br>Bạn sẽ nhận được những nguyên liệu quý giá để cường hóa <br>các Style mạnh hơn.
+<style\=RubyPrefixTag></style>\nTo grow even further, I suggest you partake in gem \nflashback battles.=<style\=RubyPrefixTag></style><br>Khuyến khích khiêu chiến Lăng kính Đá quý sẽ khiến đội hình <br>của bạn ngày càng mạnh hơn.
+<style\=RubyPrefixTag></style>\nChallenge Orb Bosses in the dormitories to become even \nstronger.=<style\=RubyPrefixTag></style><br>Khiêu chiến các Orb Boss để có thể trở nên mạnh mẽ hơn.
+<style\=RubyPrefixTag></style>\nIncrease the amount of skills you can use and widen your \noptions in battle.=<style\=RubyPrefixTag></style><br>Thành thục kỹ năng đặc biệt cho phép đưa ra nhiều lựa chọn <br>phù hợp hơn trong chiến đấu.
+<style\=RubyPrefixTag></style>\nGive me a shout whenever you feel like it.=<style\=RubyPrefixTag></style>\nCứ tự nhiên trò chuyện với tôi nếu bạn muốn.

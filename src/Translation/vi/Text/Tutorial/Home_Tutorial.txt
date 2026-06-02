@@ -1,0 +1,24 @@
+Welcome to the world of Heaven Burns Red!=Chào mừng bạn đến với Heaven Burns Red!
+This is the "Home" screen.\nIt has a variety of helpful features for your adventures.=*hướng dẫn giao diện Home*
+<style\=RubyPrefixTag></style>\nAlong the long path of destiny, you may need to make\noccasional detours.=<style\=RubyPrefixTag></style><br>Meow Tutorial line 1
+r:"^For (\d+) Days Only$"=Còn lại $1 ngày
+Quartz Acquired=Đã nhận đá Thạch Anh
+Start by claiming a reward.=Hãy bắt đầu bằng việc nhận thưởng.
+Now try using the item you received to perform a recruitment draw.=Thử lấy quà đã nhận đi Gacha đi.
+The squad members you take will level up during the battles that occur in this story.\nIt's wise to choose members you want to train when forming your squad in advance.=Nâng memoria để đi ải đi.
+Once you are ready, you can start your Heaven Burns Red adventure from here.=Ừ
+
+Complete beginner missions to\nLimit Break Ruka Kayamori (SS)!=Hoàn thành nhiệm vụ tân thủ để\nđột phá Style SS của Kayamori Ruka!
+<size\=22>Clear Day 3 to receive Ruka Kayamori's SS [Shining Circuit Burst]!</size>=<size\=22> Hoàn thành Ngày 3 để nhận Style SS\n  Kayamori Ruka [Tia Sáng Circuit Burst]</size>
+
+[Setting]
+You can adjust the controls from the mePad's Options menu.=Có thể điều chỉnh
+Try checking which keys are available for use here.=Đổi phím tắt
+
+[Locked]
+<style\=RubyPrefixTag></style>\nUnlocked by advancing in the Main Scenario.=<style\=RubyPrefixTag></style><br>Mở khoá trong quá trình trải nghiệm Chính Truyện
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 1.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 1
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 1, Day 2.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Ngày 2 của Chương 1
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 1, Day 5.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Ngày 5 của Chương 1
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 1, Day 11.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Ngày 11 của Chương 1
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 2.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 2

@@ -1,0 +1,58 @@
+[Unit]
+{31A}
+Ruka Kayamori=Kayamori Ruka
+Yuki Izumi=Izumi Yuki
+Megumi Aikawa=Aikawa Megumi
+Tsukasa Tojo=Tojo Tsukasa
+Karen Asakura=Asakura Karen
+Tama Kunimi=Kunimi Tama
+
+{31B}
+Erika Aoi=Aoi Erika
+Ichigo Minase=Minase Ichigo
+Sumomo Minase=Minase Sumomo
+Seika Higuchi=Higuchi Seika
+Kozue Hiiragi=Hiiragi Kozue
+
+{31C}
+Bon Ivar Yamawaki=Yamawaki Bon Ivar
+Yayoi Bungo=Bungo Yayoi 
+Mari Satsuki=Satsuki Mari
+Adelheid Kanzaki=Kanzaki Adelheid
+Seira Sakuraba=Sakuraba Seira
+Miko Tenne=Tenne Miko
+
+{31D}
+=Nikaido Misato
+=Date Akari
+=Mizuhara Aina
+=Murofushi Risa
+=Ishii Iroha
+=Mikoto Fubuki
+
+{31X}
+Carole Reaper
+Yingxia Li=Li Yingxia
+Vritika Balakrishnan
+Charlotta Skopovskaya
+Maria de Angelis
+Irene Redmayne
+
+{HQ}
+Saki Tezuka=Tezuka Saki
+Nanami Nanase=Nanase Nanami
+
+[Other name tag]
+Commander=Tư lệnh
+Girl with Glasses=Thiếu nữ đeo kính
+Female Cadet 1=Nữ đội viên 1
+Female Cadet 2=Nữ đội viên 2
+Officer=Sĩ quan
+Black-haired Girl=Thiếu nữ tóc đen
+Arrogant Girl=Thiếu nữ kiêu ngạo
+Aristocratic Girl=Thiếu nữ quý tộc
+Samurai-like Girl=Thiếu nữ giống samurai
+Charming Girl=Thiếu nữ quyến rũ
+Masked Girl=Thiếu nữ đeo mặt nạ
+Black-haired Girl=Thiếu nữ tóc đen
+Researcher?=Nghiên cứu viên?

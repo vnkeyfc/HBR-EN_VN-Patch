@@ -1,0 +1,29 @@
+[6th Sense]
+カリスマ=Khí chất
+クレイジー=Điên rồ
+天然=Ngây ngô
+メンタル=Ý chí
+優しさ=Nhân hậu
+器=Độ lượng
+Charisma=Khí chất
+Openness=Độ lượng
+Kindness=Nhân hậu
+Determination=Ý chí
+Silliness=Ngây ngô
+Eccentricity=Điên rồ
+
+
+[Vị trí 6th Sense]
+獲得場所=Vị trí nhận
+センス獲得場所=VỊ TRÍ NHẬN NHỮNG ĐẶC TÍNH
+・Library=・Thư viện
+・Narby Square=・Quảng trường Narby
+・Gym=・Phòng Gym
+・Cafeteria=・Nhà ăn
+・Miemie Spa=・Spa Miemie
+・Library=・Thư viện
+・Cinema=・Rạp chiếu phim
+・Fountain Square=・Đài phun nước
+・Watchtower (Camp)=・Tháp quan sát (Doanh trại)
+・Mess Tent (Camp)=・Khu nấu nướng (Doanh trại)
+・Stockpile (Camp)=・Kho vật tư (Doanh trại)

@@ -1,0 +1,33 @@
+タップしてIDを表示=Nhấn vào để xem ID
+r:"^ver: ([\d.]+)\((\d+)\)$"=Phiên bản: $1($2)
+r:"^Performing [Ss]etup \((\d+) / (\d+)\)$"=Đang thiết lập ($1 / $2)
+r:"^Synchronizing data (\d+) / (\d+)$"=Đang đồng bộ dữ liệu  $1 / $2
+
+[Menu]
+メニュー=Menu
+User Interface=Menu
+お知らせ一覧=Thông báo
+お問い合わせ=Hỗ trợ người dùng
+キャッシュクリア=Xoá dữ liệu cache
+アセット再取得=Khôi phục tài nguyên
+セーブデータ修復=Khôi phục Save Data
+一括ダウンロード=Tải trước tài nguyên
+利用規約等=Điều khoản dịch vụ
+ライセンス=Chính sách quyền riêng tư
+応援レビュー=Tài khoản
+X=X (Twitter)
+
+[Cache]
+<style\=RubyPrefixTag></style>\nDeleting cache of sound data. Is it okay to proceed?=<style\=RubyPrefixTag></style><br>Bạn có muốn xoá dữ liệu âm thanh để giải phóng dung lượng?
+<style\=RubyPrefixTag></style>\nDeletion complete.=<style\=RubyPrefixTag></style><br>Đã xoá dữ liệu thành công
+
+[Save Data]
+<style\=RubyPrefixTag></style>\nWipes your progress in the current day, as well as any automatic battle data, and resets you to the Home screen.\n Try this if you encounter an error during gameplay and are left unable to progress.=<style\=RubyPrefixTag></style><br>Hệ thống sẽ xoá toàn bộ tiến trình trong ngày, cũng như\ndữ liệu chiến đấu tự động và đưa bạn về Màn hình chính\n\n<size\=80%>Hãy sử dụng chức năng này nếu bạn gặp lỗi hoặc không thể tiếp tục tiến trình</size>
+
+[Asset Download]
+DOWNLOAD ALL=Tất cả
+DOWNLOAD RECOMMENDED=Khuyến nghị
+DOWNLOAD ESSENTIAL=Cần thiết
+DOWNLOAD RECOMMENDATION=※Khuyến khích tải trong môi trường mạng kết nối mạnh.\n※Dữ liệu tài nguyên phụ có thể được tải thêm ở\n[Cài đặt > Tuỳ chỉnh trong game > Tải trước tài nguyên]
+PRE DOWNLOAD OPTIONS DESCRIPTION=Để mang lại trải nghiệm tốt nhất khi chơi game, hệ thống đã cung cấp các tuỳ chọn tải tài nguyên:\n\n<align\=left>             Cần thiết: Tải dữ liệu tài nguyên thiết yếu cho trò chơi, dữ liệu âm thanh sẽ được tải sau.\n             Khuyến nghị: Tải nội dung chính và âm thanh để mang lại trải nghiệm cốt truyện tốt hơn.\n             Tất cả: Toàn bộ dữ liệu của trò chơi sẽ được tải xuống.\n</align>
+GAME RESOURCE PRE DOWNLOAD=Tải trước tài nguyên trò chơi

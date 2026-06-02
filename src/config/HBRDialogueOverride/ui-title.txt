@@ -1,0 +1,1 @@
+/UIInviteDetail(Clone)/container/commonBg/title|'Mời bạn bè'|'Mời bạn bè chơi game'

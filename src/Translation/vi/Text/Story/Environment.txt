@@ -1,0 +1,28 @@
+[Action]
+話しかける=Trò chuyện
+メッセージ=Tin nhắn
+ホーム=Màn hình chính
+次の時間へ=Chuyển mốc \nthời gian
+質問=Câu hỏi
+That's it!=Chính là nó!
+Redo=Chọn lại
+INFORMATION=THÔNG TIN
+
+[Chapter]
+Chapter 1=Chương 1
+Chapter 2=Chương 2
+Chapter 3=Chương 3
+Chapter 4—Part 1=Chương 4-Phần I
+Chapter 4—Part 2=Chương 4-Phần II
+Chapter 5—Part 1=Chương 5-Phần I
+Chapter 5—Part 2=Chương 5-Phần II
+r:"^Chapter (\d+)Day(\d+)$"=Chương $1 Ngày $2
+r:"^Chapter (\d+)—Part (\d+)Day(\d+)$"=Chương $1-Phần $2 Ngày $3
+
+[Location]
+Clock Tower=Tháp đồng hồ
+Arena=Đấu trường
+
+SKIP=Bỏ qua
+Relive Memories=Hồi tưởng
+Day Result=Kết quả trong ngày

@@ -1,0 +1,56 @@
+[Movement]
+To move, hold or swipe the screen in the direction you'd like to go.=Có 2 cách để di chuyển: Vuốt và Giữ.
+Swiping will allow you to auto-run.=Vuốt nhanh để nhân vật tự động di chuyển theo hướng mong muốn.
+Try heading to the bridge!=Hãy di chuyển đến điểm tập kết ở cây cầu!
+
+[Battle]
+First, attack this Cancer to deplete its initial blue gauge (DP \= deflector points).=<size\=83%>Hãy nhắm vào việc phá hủy thanh năng lượng màu xanh (DP - Deflector Points).</size>
+Once you deplete its DP gauge, your enemy will enter a "break" state.\nIt will also stagger that enemy, rendering it unable to act for 1 turn.=<size\=83%>Phá hủy hoàn toàn thanh DP sẽ khiến kẻ địch rơi vào trạng thái BREAK.\n Kẻ địch lúc này sẽ bị choáng và không thể hành động trong 1 lượt.</size>
+You will regain 2 SP (skill points) at the start of each turn. Try to activate a skill using the SP you have accumulated.=<size\=83%>SP tự động hồi 2 điểm mỗi khi bắt đầu lượt.\nHãy sử dụng số SP đó để thi triển kỹ năng!</size>
+The damage you deal to an enemy while it is in a break state will gradually increase.=<size\=83%>Sát thương gây lên kẻ địch đang trong trạng thái BREAK sẽ lớn hơn.</size>
+As long as your DP gauge does not reach 0, it is possible to restore DP through the use of skills and other means.=<size\=83%>Thanh DP vẫn có thể hồi phục nếu chưa bị giảm về 0.</size>
+However, once it does reach 0, your second gauge (HP \= health points) will begin to take damage.\nBe careful, as you cannot restore HP!=<size\=83%>Khi DP giảm về 0, sát thương sẽ trực tiếp trừ vào thanh thứ hai (HP - Health Points). \nLưu ý rằng thanh HP không thể hồi phục bằng kỹ năng thông thường.</size>
+Once a Cancer enters a break state, if you don't defeat them quickly, they will eventually restore their own DP.=<size\=83%>Hãy nhanh chóng hạ gục kẻ địch đang bị BREAK trước khi chúng tự hồi phục DP.</size>
+Use your skills to swiftly deal as much damage as you can!=<size\=83%>Sử dụng kỹ năng để dồn sát thương vào một đòn dứt điểm!</size>
+Press this button to adjust the battle speed.=<size\=83%>Nhấn nút này để thay đổi tốc độ trận đấu.</size>
+A squad consists of frontline and reserve units.\nMove active members short on DP into reserve to prevent them from taking further damage.=<size\=83%>Một đội hình bao gồm vị trí Tiền tuyến (hàng trước) và Hậu phương (hàng sau).\nHãy đưa đội viên có lượng DP thấp về Hậu phương để tránh nhận sát thương!</size>
+Select two members, one after the other, to switch the order you wish to line them up in.=<size\=83%>Chọn lần lượt các đội viên để thay đổi vị trí đội hình.</size>
+Your Overdrive gauge will fill with each hit you land.\nOnce it fills completely, you can initiate Overdrive mode.=<size\=83%>Thanh OVERDRIVE sẽ tích đầy dựa trên số Hiệp kích (HIT). \nMột khi đã đầy, việc kích hoạt nó cho phép tiến vào trạng thái đặc biệt.</size>
+The enemy on the right heals itself and others.=<size\=83%>Có vẻ kẻ địch bên phải có khả năng hồi phục.</size>
+Tap on that enemy to change target, then try using your skills to take it down fast!=<size\=83%>Hãy nhấn vào kẻ địch để khoá mục tiêu và thi triển kỹ năng!</size>
+You can also individually specify each of your members' targets.\nTap a squad member followed by an enemy.=<size\=83%>Có thể cho đội viên chỉ tấn công mục tiêu được chỉ định riêng biệt.</size>
+The order the frontline members are lined up in affects the order they attack.\nTry moving them around when you want to better utilize their skills!=<size\=83%>Vị trí Tiền tuyến sẽ ảnh hưởng đến thứ tự tấn công.\nHãy thử thay đổi vị trí giữa các đội viên Tiền tuyến!</size>
+Your Overdrive gauge is full. Go into Overdrive to gain a bonus turn\nand temporarily increase your team's attack power and SP.=<size\=83%>Thanh OVERDRIVE đã được nạp đầy! Hãy kích hoạt để \ntăng sức tấn công, hồi phục SP và nhận thêm lượt Bonus.</size>
+You can select which Overdrive to activate on this screen.\nSince Gauge Level 1 is charged, let's try activating it.=<size\=83%>Tại màn hình này, bạn có thể chọn OVERDRIVE muốn kích hoạt.\nThanh OVERDRIVE đã tích được 1 tầng, hãy thử kích hoạt xem.</size>
+Use the SP you gained to take down the enemy!=<size\=83%>Sử dụng số SP nhận được một cách hiệu quả để hạ gục kẻ địch!</size>
+
+[Upgrade]
+<style\=RubyPrefixTag></style>\nUnits rise in level as they gain experience in battle.=<style\=RubyPrefixTag></style><br>Tham gia nhiều trận chiến sẽ giúp tăng cấp (Lv) của đội viên.
+<style\=RubyPrefixTag></style>\nMore importantly, Memoria enables a unit to unlock different fighting styles.=<style\=RubyPrefixTag></style><br><line-height\=110px>Hơn thế nữa, thứ đóng vai trò cốt lõi mở rộng tiềm năng<br>chiến thuật chính là Style.<br><br><align\=center><cspace\=2px><size\=55%>※( Bên bản quốc tế là Memoria )</size></cspace></align></line-height>
+<style\=RubyPrefixTag></style>\nInstalling a Memoria dramatically increases that unit's stats.=<style\=RubyPrefixTag></style><br><line-height\=110px>Trang bị Style sẽ giúp gia tăng đáng kể chỉ số sức mạnh của<br>đội viên.</line-height>
+<style\=RubyPrefixTag></style>\nYou can upgrade Memoria by using items obtained from battles. Try enhancing one now!=<style\=RubyPrefixTag></style><br><line-height\=110px>Bạn có thể cường hóa bằng các vật phẩm thu thập được<br>từ các trận chiến. Hãy thử nâng cấp xem!</line-height>
+Try upgrading a Memoria!\nTap the button in the bottom left corner to open the main menu.=Hãy cùng thử cường hóa Style nào!\nBạn có thể mở MENU bằng nút bấm ở góc dưới bên trái màn hình.
+Tap the Learn button to check the upgrade details.=Nhấn vào mũi tên để kiểm tra chi tiết nội dung cường hóa.
+You successfully upgraded this Memoria!\nNow press the return button.=Đã cường hóa Style thành công!\nHãy nhấn nút "Quay lại" nào.
+Tap outside of the mePad's screen to close the main menu.=Chạm vào vùng bên ngoài thiết bị hiển thị trên màn hình để đóng Menu.
+<style\=RubyPrefixTag></style>\nAbilities a unit learns from such upgrades can continue\nto be used even if you change the Memoria that unit has\ninstalled.=<style\=RubyPrefixTag></style><br><line-height\=110px>Khi mở khóa kỹ năng thông qua cường hóa, bạn vẫn có thể<br>tiếp tục sử dụng chúng ngay cả khi thay đổi Style khác.</line-height>
+<style\=RubyPrefixTag></style>\nHowever, there are also some Memoria-exclusive skills and stats, so look out for those.=<style\=RubyPrefixTag></style><br><line-height\=110px>Tuy vậy, hãy lưu ý rằng có một số kỹ năng và thông số chỉ<br>áp dụng riêng cho một số Style nhất định.</line-height>
+Upgrade your Memorias to build stronger and more adaptable squads!=Hãy cường hóa nhiều Style khác nhau để có một đội hình mạnh mẽ hơn!
+Tap this button to auto-run to the next target location.\n(Tap again to disengage.)=Nhấn nút này để tự động di chuyển đến điểm tiếp theo.\n(Chạm vào màn hình để hủy bỏ)
+Next=Tiếp theo
+
+[Dorms]
+Tap the arrow to enter the dorms.=Chạm vào mũi tên trên bản đồ để di chuyển đến Ký túc xá.
+
+[Gacha]
+<style\=RubyPrefixTag></style>\nMemorias can be obtained via Recruitment.=<style\=RubyPrefixTag></style><br>Bạn có thể nhận được Style thông qua Gacha.
+<style\=RubyPrefixTag></style>\nIf you recruit a Memoria of a unit you have not previously\nenlisted, then that unit will be added as a new member to\nyour list of units.=<style\=RubyPrefixTag></style><br><line-height\=110px>Khi nhận được Style, đội viên mới cũng sẽ được thêm vào\ndanh sách đội viên.</line-height>
+<style\=RubyPrefixTag></style>\nIf you recruit a Memoria that you already possess, then\nyou will instead receive material called "shards" that can\nbe used to enhance that Memoria.=<style\=RubyPrefixTag></style><br><line-height\=110px>Nếu đã có sẵn, bạn sẽ nhận được "Mảnh" tương ứng, giúp\ncường hóa sức mạnh cho Style.</line-height>
+First, try recruiting a new unit.=Trước tiên, hãy thử chiêu mộ đội viên xem.</style>
+You received a new Memoria!\nTry swapping Memorias to strengthen your squad.=Bạn đã nhận được một Style mới!<br>Thay đổi đội hình sẽ giúp gia tăng lực chiến.
+Beginner Support SS-Guaranteed Recruitment ON=Gacha Tân Thủ Style SS đang mở
+
+[Formation]
+Try forming a squad with the new Memoria you just received in it.=Hãy thử sắp xếp đội hình với Style mới nhận được xem sao.
+Use the Auto Formation function to create a squad\nthat prioritizes the most powerful Memorias you possess.=Sử dụng "Đội hình đề xuất" sẽ giúp bạn tự động\nsắp xếp đội hình ưu tiên các Style mạnh nhất.
+Auto Formation created a squad with the strongest Memorias you possess.=Đội hình mạnh hơn đã được tạo thành công theo đề xuất tự động.

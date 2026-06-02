@@ -1,0 +1,10 @@
+Confirm=Xác nhận
+OK=Xác nhận
+Cancel=Huỷ bỏ
+キャンセル=Huỷ bỏ
+未所持=Chưa có
+長押しでスタイル性能詳細を確認できます。=Nhấn giữ Style để xem chi tiết.
+Exchange for selected Memoria?=Xác nhận chọn Style này?
+交換する=Xác nhận
+画面タップで次へ=Nhấn để tiếp tục
+

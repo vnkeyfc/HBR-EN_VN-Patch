@@ -1,0 +1,8 @@
+[Main]
+ギフトボックス=<size\=80%>Hộp quà</size>
+受け取り=Nhận
+一括受け取り=<size\=80%>Nhận nhanh</size>
+
+[Common Reward]
+Score Challenge Reward=Phần thưởng Thử thách ghi điểm
+r:"^Daily Login Bonus: Day (\d+)"=Phần thưởng điểm danh: Ngày $1
