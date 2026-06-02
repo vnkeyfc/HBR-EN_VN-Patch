@@ -1,8 +1,0 @@
-続きから=Tiếp tục
-過去をたどる=Hồi tưởng
-交流/メモリーストーリー=Xã giao
-最新のショップ=Đến Cửa hàng mới nhất
-最新のフリータイムへ=Đến Giờ giải lao \ngần nhất
-
-メモリーストーリー一覧=DANH SÁCH KÝ ỨC
-

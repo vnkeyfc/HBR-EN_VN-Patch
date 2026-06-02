@@ -1,1 +1,0 @@
-r:"^Weekly Missions (\d+)/(\d+)$"=Nhiệm vụ hằng tuần $1/$2
