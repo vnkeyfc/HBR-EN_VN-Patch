@@ -1,1 +1,17 @@
+[Data Download]
+r:"(\d+)MB assets require updating\. Start download\?"=<style\=RubyPrefixTag></style>\nCần cập nhật $1MB tài nguyên. Bắt đầu tải xuống?
+
+[Home Mission Label]
 r:"^Weekly Missions (\d+)/(\d+)$"=Nhiệm vụ hằng tuần $1/$2
+r:"^Daily Missions (\d+)/(\d+)$"=Nhiệm vụ hằng ngày $1/$2
+
+[Beginner/Master Mission]
+r:"^Board (\d+): Beginner Missions$"=Bảng $1: Nhiệm vụ tân thủ
+r:"^Board (\d+): Master Missions$"=Bảng $1: Nhiệm vụ bậc cao
+
+[Gacha]
+r:"^Remaining: (\d+)$"=Số lượt chiêu mộ còn lại: $1
+r:"^Available until (\d+)/(\d+)/(\d+) (\d+:\d+)\(UTC([+-]\d+)\)$"=Diễn ra đến $2/$1/$3 - 13:59
+
+[Style]
+r:"^All Stats \+(\d+)"=Tất cả +$1

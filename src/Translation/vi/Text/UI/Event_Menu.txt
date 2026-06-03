@@ -15,6 +15,10 @@ Upon Clearing Chapter 3=Sau khi hoàn thành Chương 3
 Upon Clearing Chapter 2=Sau khi hoàn thành Chương 2
 Upon Clearing Chapter 1=Sau khi hoàn thành Chương 1
 
+[Exchange]
+メダル所持数=<size\=85%>  Huy chương hiện có:</size>
+r:"^Tokens Needed: (\d+)$"=Số huy chương cần đổi: $1
+
 [Dungeon]
 ダンジョン選択=<cspace\=-2px>Lựa chọn phó bản</cspace>
 踏破率=Tiến độ

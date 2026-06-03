@@ -23,24 +23,50 @@ Seira Sakuraba=Sakuraba Seira
 Miko Tenne=Tenne Miko
 
 {31D}
-=Nikaido Misato
-=Date Akari
-=Mizuhara Aina
-=Murofushi Risa
-=Ishii Iroha
-=Mikoto Fubuki
+Misato Nikaido=Nikaido Misato
+Akari Date=Date Akari
+Aina Mizuhara=Mizuhara Aina
+Risa Murofushi=Murofushi Risa
+Iroha Ishii=Ishii Iroha
+Fubuki Mikoto=Mikoto Fubuki
+
+{31E}
+Ichiko Ohshima=Ohshima Ichiko
+Niina Ohshima=Ohshima Niina
+Minori Ohshima=Ohshima Minori
+Yotsuha Ohshima=Ohshima Yotsuha
+Isuzu Ohshima=Ohshima Isuzu
+Muua Ohshima=Ohshima Muua
+
+{31F}
+Mion Yanagi=Yanagi Mion
+Kanata Maruyama=Maruyama Kanata
+Inori Natsume=Natsume Inori
+Shiki Hanamura=Hanamura Shiki
+Maki Kurosawa=Kurosawa Maki
+Chiroru Matsuoka=Matsuoka Chiroru
+
+{30G}
+Yuina Shirakawa=Shirakawa Yuina
+Miya Kiryu=Kiryu Miya
+Monaka Tsukishiro=Tsukishiro Monaka
+Satomi Kura=Kura Satomi
+Chie Sugawara=Sugawara Chie
+Hisame Ogasahara=Ogasahara Hisame
 
 {31X}
-Carole Reaper
 Yingxia Li=Li Yingxia
-Vritika Balakrishnan
-Charlotta Skopovskaya
-Maria de Angelis
-Irene Redmayne
 
 {HQ}
 Saki Tezuka=Tezuka Saki
 Nanami Nanase=Nanase Nanami
+Makiko Asami=Asami Makiko
+
+{Angel Beats}
+Kanade Tachibana=Tachibana Kanade
+Yuri Nakamura=Nakamura Yuri
+Miyuki Irie=Irie Miyuki
+Hisako Fuchita=Fuchita Hisako
 
 [Other name tag]
 Commander=Tư lệnh

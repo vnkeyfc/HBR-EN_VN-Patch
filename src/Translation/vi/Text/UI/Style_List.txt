@@ -1,2 +1,2 @@
-スタイル一覧=Danh sách Style
-スタイル総合戦力=Tổng lực chiến
+スタイル一覧=<size\=80%>Danh sách Style</style>
+スタイル総合戦力=Tổng lực chiến Style

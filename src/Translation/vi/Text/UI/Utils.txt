@@ -7,4 +7,5 @@ Cancel=Huỷ bỏ
 Exchange for selected Memoria?=Xác nhận chọn Style này?
 交換する=Xác nhận
 画面タップで次へ=Nhấn để tiếp tục
+Player Rank EXP Acquired=Đã nhận thêm EXP
 

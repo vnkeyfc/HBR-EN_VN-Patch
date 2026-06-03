@@ -5,6 +5,8 @@
 # Ví dụ:
 # /RootView/UI-Foreground/Main/UIEventLimitedExchangeShop/exchangeShop/commonBg/title|Trao đổi'|'Cửa hàng đổi thưởng'
 
+/UILotteryTop4(Clone)/container/lotteryShopHeader/consumeContainer/isVisibleGem/free|'Miễn phí'|'<size=85%>Miễn phí</size>'
+/UILotteryTop4(Clone)/container/lotteryShopHeader/consumeContainer/isVisibleGem/charge|'Có phí'|'<size=60%>Có phí</size>'
 /RootView/UI-Foreground/Main/UIAdvChoice/container/balloonContainer/msgQuestion|'<style=RubyPrefixTag></style><br>Việc chuẩn bị đã hoàn tất rồi chứ?'|'<style=RubyPrefixTag></style><br>Sẵn sàng chưa?'
 
 # Days of week (UIHud)

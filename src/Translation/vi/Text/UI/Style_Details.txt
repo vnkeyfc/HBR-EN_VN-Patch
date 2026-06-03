@@ -1,0 +1,24 @@
+[Label]
+Set Skills=<size\=80%>Thiết lập Kỹ năng</size>
+Unit Details=<size\=80%>Chi tiết Đội viên</size>
+Memoria Details=<size\=80%>Chi tiết Style</size>
+Equip Boosters=<size\=80%>Trang bị Booster</size>
+Equip Accessories=<size\=80%>Trang bị Phụ kiện</size>
+Support Unit Details=<size\=80%>Chi tiết Hỗ trợ</size>
+
+[Tab]
+スキル=Kỹ năng
+ブースター=Booster
+アクセサリ=Phụ kiện
+サポート=Hỗ trợ
+
+[Chi tiết Đội viên]
+詳細=Chi tiết
+転生=Tái sinh
+絆 Lv.=Thân mật Lv.
+戦力=Lực chiến
+ステータス=Chỉ số 
+
+[Revert]
+転生巻き戻し=Hoàn tác Tái sinh
+スキル枠=Slot kỹ năng

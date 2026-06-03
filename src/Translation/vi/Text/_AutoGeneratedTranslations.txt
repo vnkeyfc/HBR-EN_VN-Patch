@@ -72,4 +72,3 @@ Hey now, is that really the kind of world we live in?=Này, đó có thực sự
 <style\=RubyPrefixTag></style>\nHey now, is that really the kind of world we live in?=<style\=RubyPrefixTag></style>\nNày, đó có thực sự là thế giới chúng ta đang sống không?
 <style\=RubyPrefixTag></style>\nBesides, mascots are fictional characters. Do those look\nfictional to you?=<style\=RubyPrefixTag></style>\nNgoài ra, linh vật là những nhân vật hư cấu.\nNhững điều đó có vẻ hư cấu với bạn không?
 Besides, mascots are fictional characters. Do those look fictional to you?=Ngoài ra, linh vật là những nhân vật hư cấu.\nNhững điều đó có vẻ hư cấu với bạn không?
-List of Targets=Danh sách mục tiêu

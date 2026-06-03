@@ -8,9 +8,10 @@
 ライブ=Live 
 交換所=Trao đổi
 ギャラリー=Gallery 
-キャラ一覧=Danh sách đội viên
+キャラ一覧=<size\=80%>Danh sách đội viên</size>
 称号バッジ=Huy hiệu
-Roster=Đội viên
+名簿=Hồ sơ
+Roster=Hồ sơ
 
 ストーリー選択=<cspace\=-3px>Lựa chọn cốt truyện</cspace>
 時間帯選択=Chọn mốc thời gian
@@ -32,9 +33,6 @@ Seraph Encounter Drill=Seraph Skirmish Simulation
 続きから=Tiếp tục
 過去をたどる=Hồi tưởng
 交流/メモリーストーリー=Xã giao
-Monthly Missions=Monthly Mission
-Master Missions=Master Mission
-r:"^Board (\d+): Master Missions$"=Bảng $1: Nhiệm vụ bậc cao
 
 [Ruka's Cat Dialogue]
 <style\=RubyPrefixTag></style>\nIs there anything I can help you with?=<style\=RubyPrefixTag></style>\nTôi có thể giúp gì cho bạn?

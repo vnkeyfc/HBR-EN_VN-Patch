@@ -1,0 +1,3 @@
+やめる=Dừng lại
+再戦する=Tái khiêu chiến
+Care for a rematch?=Bạn có muốn tái khiêu chiến?

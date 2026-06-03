@@ -4,5 +4,6 @@
 一括受け取り=<size\=80%>Nhận nhanh</size>
 
 [Common Reward]
+r:"^Reward\(s\) Acquired \| (.+)$"=Đã nhận thưởng | $1
 Score Challenge Reward=Phần thưởng Thử thách ghi điểm
 r:"^Daily Login Bonus: Day (\d+)"=Phần thưởng điểm danh: Ngày $1

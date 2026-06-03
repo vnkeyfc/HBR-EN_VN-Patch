@@ -1,1 +1,4 @@
-/UIInviteDetail(Clone)/container/commonBg/title|'Mời bạn bè'|'Mời bạn bè chơi game'
+/UIParty5(Clone)/container/commonBg/title|'Đội hình'|'<size=80%>Đội hình</size>'
+/UIBelongings(Clone)/container/commonBg/title|'Kho'|'<size=80%>Kho vật tư</size>'
+/UIEventHeader(Clone)/commonBg/title|'Sự kiện\n'|'<size=80%>Sự kiện</size>'
+/UICharacterListProfile(Clone)/container/commonBg/title|'Tiểu sử'|'<size=80%>Tiểu sử</size>'

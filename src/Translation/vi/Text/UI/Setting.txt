@@ -1,0 +1,101 @@
+[Volume]
+サウンド設定=Cài đặt âm thanh
+個別音量設定=Âm lượng riêng biệt
+<size\=40>ENV</size>（環境音）=<size\=40>ENV</size>  (Âm thanh môi trường)
+<size\=40>VOICE</size>（キャラクターボイス）=<size\=40>VOICE</size>  (Giọng nhân vật)
+<size\=40>SYSTEM</size>（システム音）=<size\=40>SYSTEM</size>  (Âm thanh hệ thống)
+<size\=40>SE</size>（効果音）=<size\=40>SE</size>  (Âm thanh hiệu ứng)
+<size\=40>BGM</size>（バックミュージック）=<size\=40>BGM</size>  (Nhạc nền)
+全体音量設定=Âm lượng tổng thể
+<size\=40>MASTER</size>（マスターボリューム）=<size\=40>MASTER</size>  (Âm lượng chính)
+
+[Game]
+ゲーム設定=Cài đặt trò chơi
+{Graphic}
+グラフィック=Thiết lập đồ họa
+・画質=・Chất lượng hình ảnh
+※高画質はGPU負荷が高くなります=※Chất lượng hình ảnh cao sẽ làm tăng tải GPU.
+低画質=Thấp
+標準画質=Tiêu chuẩn
+高画質=Cao
+・表示モード=・Chế độ hiển thị
+ウィンドウ=Cửa sổ
+フルスクリーン=Toàn màn hình
+・解像度=・Độ phân giải
+・垂直同期=・Đồng bộ dọc
+・アンチエイリアス=・Khử răng cưa
+・シャドウ品質=・Chất lượng bóng
+低=Thấp
+中=Trung bình
+高=Cao
+・ノベル解像度=・Đồ hoạ Visual Novel
+標準=Tiêu chuẩn
+
+{Battle}
+バトル=Trận chiến
+・速度=・Tốc độ trận chiến
+通常=Bình thường
+2倍速=Tốc độ x 2
+・オート=・Tự động
+・オート詳細設定=・Cài đặt chi tiết tự động
+・編成制限ダイアログ=・Thông báo giới hạn đội hình
+※編成がストーリーと乖離する場合お知らせします=※Hệ thống sẽ cảnh báo nếu đội hình không khớp với cốt truyện.
+表示=Hiển thị
+非表示=Ẩn
+
+{Dungeon}
+・ダンジョンでバトル終了時に部隊の並び順を保存する=・Ghi nhớ thứ tự đội hình khi kết thúc trận đấu trong phó bản
+・ダンジョン内の移動速度をアップする=・Tăng tốc độ di chuyển trong phó bản
+
+{Outfit}
+衣装着せ替え=Trang phục
+・部隊画面のサムネイル=・Thumbnail giao diện đội hình
+・バトル中のスキル選択画面のイラスト=・Artwork bảng chọn skill trong trận
+・バトル中のアイコン=・Icon trong trận đấu
+・探検・アーツバトル中のアイコン=・Icon khi thám hiểm trong Arts Battle
+オリジナル=Mặc định
+選択中の衣装=Đang chọn
+
+{Camera}
+・カメラ操作 上下=・Thao tác camera lên xuống
+ノーマル=Bình thường
+リバース=Đảo ngược
+・カメラ操作 左右=・Thao tác camera trái và phải
+・カメラ操作の感度=・Độ nhạy camera
+
+{Keyboard & Mouse}
+キーボード＆マウス=Bàn phím và chuột
+・キーコンフィグ=・Cấu hình phím tắt
+キーボード操作時のキーの設定を行います=Cấu hình các phím cho thao tác bàn phím
+設定する=Cài đặt
+・マウスカーソルサイズ=・Kích thước con trỏ chuột
+小=Nhỏ
+大=Lớn
+・マウススクロールの感度=・Độ nhạy cuộn chuột
+
+コントローラ=Điều khiển tay cầm
+・コントローラを使用する=・Sử dụng tay cầm
+※ONの場合、接続されたコントローラでゲームをプレイできます=*Nếu được bật, bạn có thể chơi trò chơi bằng tay cầm điều khiển.
+・コントローラの決定ボタンを入れ替える=・Thay đổi nút quyết định của tay cầm
+※コントローラの決定ボタンとキャンセルボタンを入れ替えます=*Đổi nút OK và nút Hủy của tay cầm.
+・ジオラマ編集中のポインター速度=・Tốc độ con trỏ trong Sa bàn
+
+連続入力の速度設定=Cài đặt tốc độ đầu vào liên tục
+・連続入力開始までの長押し時間=・Thời gian nhấn lâu cho đến khi bắt đầu nhập liên tục
+・連続入力の間隔=・ Khoảng thời gian đầu vào liên tục
+※カーソル移動や個数選択の速度が変わります=*Tốc độ di chuyển con trỏ và lựa chọn số sẽ thay đổi.
+
+{Other}
+その他=Tuỳ chỉnh khác
+・ボイスの継続再生=・Phát giọng nói liên tục
+※ONの場合、音声の再生中に次の文章に進んでも再生を続けます=*Nếu được bật, âm thanh sẽ tiếp tục phát ngay cả khi chuyển sang thoại tiếp theo.
+・未読テキストもスキップする=・Bỏ qua thoại chưa đọc
+Copy UserID=Sao chép UserID
+・初期設定=・Cài đặt ban đầu
+初期設定に戻す=Khôi phục cài đặt mặc định
+タイトル画面に戻る=Quay lại màn hình tiêu đề
+・タイトル画面=・Màn hình tiêu đề
+・ライセンス=・Giấy phép
+・お問い合わせ=・Liên hệ với chúng tôi
+・応援レビュー=・Hỗ trợ đánh giá
+・利用規約等=・Điều khoản sử dụng, v.v.

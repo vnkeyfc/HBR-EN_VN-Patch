@@ -2,25 +2,30 @@
 チケットガチャ=Gacha Vé
 交換Pt=Điểm tích luỹ
 Remaining: Unlimited=Số lần đổi: Không giới hạn
-交換一覧=Đổi điểm
+交換一覧=<size\=80%>Đổi thưởng</size>
 所持交換Pt=Điểm đổi hiện có
 交換所ラインナップ=Danh sách đổi thưởng
 Already Held=Đã sở hữu
 ※すでに所持しているスタイルを交換するとピースに変換されます。=※Nếu đổi Style đã sở hữu sẽ tự động chuyển hóa thành Mảnh.
 ボーナスゲージ=Thanh Bonus
-有償=<size\=57%>Có phí</size>
-無償=<size\=92%>Miễn phí</size>
+有償=Có phí
+無償=Miễn phí
 利用履歴=<size\=85%>Lịch sử giao dịch</size>
 詳細/提供割合=Chi tiết / Tỷ lệ
 スタイル詳細=Chi tiết Style
+もう一度引く=Chiêu mộ lần nữa
+
+[Gacha Screen]
+Results=Kết quả
+Recruitment Results=Kết quả Gacha
 
 [Utils]
-r:"^Remaining: (\d+)$"=Số lượt chiêu mộ còn lại: $1
-r:"^Available until (\d+)/(\d+)/(\d+) (\d+:\d+)\(UTC([+-]\d+)\)$"=Diễn ra đến $2/$1/$3 - 13:59
 One S or above guaranteed!=<size\=85%>Chắc chắn nhận 1 Style S trở lên!</size>
 S or above guaranteed!=<size\=90%>Chắc chắn nhận 1 Style SS!</size>
 1 × SS guaranteed!=<size\=90%>Chắc chắn nhận 1 Style SS!</size>
 1 or more SS guaranteed!=<size\=90%>Chắc chắn nhận Style SS trở lên!</size>
+1 free recruitment(s) available=Miễn phí 1 lần chiêu mộ mỗi ngày
+Free once per day!=<size\=95%>Miễn phí mỗi ngày!</size>
 
 Use Selection Ticket=Sử dụng vé lựa chọn
 Purchase Set(s)=Mua gói chiêu mộ
@@ -28,7 +33,6 @@ Recruit x 1=Chiêu mộ x 1
 Recruit x 10=Chiêu mộ x 10
 <size\=24>Recruit</size> <size\=28>x 1</size>=<size\=24>Chiêu mộ</size> <size\=28>x 1</size>
 <size\=24>Recruit</size> <size\=28>x 10</size>=<size\=24>Chiêu mộ</size> <size\=28>x 10</size>
-
 
 [Beginner Gacha]
 Recruit with Scout Ticket=Gacha bằng vé Chiêu mộ

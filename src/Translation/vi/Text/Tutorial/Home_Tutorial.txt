@@ -1,8 +1,10 @@
+r:"^Clear Day (\d+) to earn 1,000 quartz!$"=Hoàn thành Ngày $1 để nhận 1,000 quartz!  
+
 Welcome to the world of Heaven Burns Red!=Chào mừng bạn đến với Heaven Burns Red!
 This is the "Home" screen.\nIt has a variety of helpful features for your adventures.=*hướng dẫn giao diện Home*
 <style\=RubyPrefixTag></style>\nAlong the long path of destiny, you may need to make\noccasional detours.=<style\=RubyPrefixTag></style><br>Meow Tutorial line 1
 r:"^For (\d+) Days Only$"=Còn lại $1 ngày
-Quartz Acquired=Đã nhận đá Thạch Anh
+Quartz Acquired=Đã nhận Quartz
 Start by claiming a reward.=Hãy bắt đầu bằng việc nhận thưởng.
 Now try using the item you received to perform a recruitment draw.=Thử lấy quà đã nhận đi Gacha đi.
 The squad members you take will level up during the battles that occur in this story.\nIt's wise to choose members you want to train when forming your squad in advance.=Nâng memoria để đi ải đi.

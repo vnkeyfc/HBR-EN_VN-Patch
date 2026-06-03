@@ -1,0 +1,30 @@
+入手済=Đã nhận
+確認=Xác nhận
+※受信日時から30日経過すると自動で消去されます。\n　一括受け取りは有効期間が短い順から受け取ります。\n　一度に受け取れるギフトは最大100件までです。=※Vật phẩm sẽ tự động xóa sau 30 ngày kể từ thời điểm nhận.\n    Ưu tiên nhận các vật phẩm sắp hết hạn khi chọn Nhận nhanh.\n    Số lượng có thể nhận tối đa cùng một lúc là 100 vật phẩm.
+受け取り履歴=Lịch sử nhận
+以下の報酬を受け取りました=Đã nhận phần thưởng bên dưới:
+デイリー=Hằng ngày
+ウィークリー=Hằng tuần
+累計=Dài hạn
+チャレンジ=Thử thách
+期間限定=Giới hạn
+進捗報酬=<size\=130%>Tiến độ</size>
+Beginner Missions=Nhiệm vụ tân thủ
+Monthly Missions=Nhiệm vụ hằng tháng
+Master Missions=Nhiệm vụ bậc cao
+
+[Daily]
+Clear all daily missions.=Hoàn thành nhiệm vụ hằng ngày
+r:"^Use (\d+) life point."=Dùng $1 Life Point
+r:"^Use (\d+) life points."=Dùng $1 Life Point
+
+[Weekly]
+Advance the main story by 1 day (only unread).=Tiến thêm 1 Ngày trong Cốt truyện chính (chỉ tính phần chưa đọc)
+Advance the event story by 1 day (only unread).=Tiến thêm 1 Ngày trong Cốt truyện sự kiện (chỉ tính phần chưa đọc)
+Clear 30 battles. (Hyperbolic Time Arena excluded.)=Tham gia 30 trận chiến (không tính Buồng Thời Gian)
+Log in for 5 days.=Đăng nhập 5 ngày
+Clear 1 anachrony.=Khiêu chiến Không Gian Dị Thời 1 lần
+r:"^Clear (\d+) anachronies."=Khiêu chiến Không Gian Dị Thời $1 lần
+Clear the Score Challenge or Seraph Encounter Drill 1 time.=Khiêu chiến Thử Thách Ghi Điểm hoặc Chuỗi Trận Mô Phỏng 1 lần
+Perform crafting on an accessory.=Chế tạo một phụ kiện
+Clear 500 Hyperbolic Time Arenas.=Tham gia 500 trận trong Buồng Thời Gian
