@@ -2,7 +2,7 @@
 
 <img src=".github/assets/logo.png" style="vertical-align: bottom">
 
-<i>Bản patch Việt Hoá cho phiên bản quốc tế của Heaven Burns Red.<i>
+<i>Bản patch Việt Hoá cho phiên bản quốc tế của Heaven Burns Red.</i>
 <br>
 <br>
 </h2>
