@@ -1,0 +1,12 @@
+﻿# HBRDialogueOverride
+# Format: path|'text_đã_dịch'|'text_muốn_thay'
+# Lưu ý: cột giữa là bản dịch XUnity đang hiển thị, không phải text gốc
+#
+# Ví dụ:
+# /RootView/UI-Foreground/Main/UIEventLimitedExchangeShop/exchangeShop/commonBg/title|Trao đổi'|'Cửa hàng đổi thưởng'
+
+/UILotteryTop4(Clone)/container/lotteryShopHeader/consumeContainer/isVisibleGem/free|'Miễn phí'|'<size=85%>Miễn phí</size>'
+/UILotteryTop4(Clone)/container/lotteryShopHeader/consumeContainer/isVisibleGem/charge|'Có phí'|'<size=60%>Có phí</size>'
+
+/UIStaminaRecoveryDialog4(Clone)/container/front/recoveryBox/HCFlame/free/title|'Miễn phí'|'<size=75%>Miễn phí</size>'
+/UIStaminaRecoveryDialog4(Clone)/container/front/recoveryBox/HCFlame/paid/title|'Có phí'|'<size=80%>Có phí</size>'

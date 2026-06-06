@@ -1,0 +1,2 @@
+[UI]
+Bond Lv.=T.Mật Lv.

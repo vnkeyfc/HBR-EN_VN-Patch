@@ -1,0 +1,15 @@
+# Main_Selection
+# [SS Style]
+/RootView/UI-Foreground/Main/UIPartyCharacterSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/ability|'Cường hoá'|'<space=17px><size=85%>Cường hoá</size>'
+/RootView/UI-Foreground/Main/UIPartyCharacterSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/limit|'Đột phá'|'<space=-45px><size=85%>Đột phá</size>'
+
+/UIPartyCharacterSelect(Clone)/container/righ/scrollView/Viewport/Content/PartyCharacterGrid/PartyCharacterCellList/PartyCharacterCell/styleImage/characterLevelContainer/ability|'Cường hoá'|'<space=7px><size=115%>Cường hoá</size>'
+/UIPartyCharacterSelect(Clone)/container/righ/scrollView/Viewport/Content/PartyCharacterGrid/PartyCharacterCellList/PartyCharacterCell/styleImage/characterLevelContainer/limit|'Đột phá'|'<space=7px><size=115%>Đột phá</size>'
+
+# Support_Selection
+# [S/A Style]
+/RootView/UI-Foreground/Main/UISupportCardSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/ability|'Cường hoá'|'<space=55px><size=85%>Cường hoá</size>'
+/RootView/UI-Foreground/Main/UISupportCardSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/limit|'Đột phá'|'<space=-15px><size=85%>Đột phá</size>'
+
+/RootView/UI-Foreground/Main/UISupportCardSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/characterLevelContainer/ability|'Cường hoá'|'<size=110%>Cường hoá</size>'
+/RootView/UI-Foreground/Main/UISupportCardSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/characterLevelContainer/limit|'Đột phá'|'<size=110%>Đột phá</size>'

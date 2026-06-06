@@ -1,0 +1,5 @@
+Home Screen Customization=<size\=85%>Tuỳ chỉnh Màn hình chính</size>
+ホームセリフ表示=<size\=90%>Bóng thoại nhân vật</size>
+設定中=Đã chọn
+Default=Mặc định
+Confirm home screen customization?=Xác nhận tuỳ chỉnh này?

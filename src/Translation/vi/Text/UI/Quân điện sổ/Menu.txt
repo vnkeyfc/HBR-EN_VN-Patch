@@ -1,5 +1,6 @@
 ガチャ=Gacha 
 設定=Cài đặt
+ランク=Cấp bậc
 着せ替えショップ=Cửa hàng nền chủ đề
 着せ替え=Trang trí
 シックスセンス=G i á c   q u a n \nt h ứ   s á u
@@ -9,7 +10,6 @@
 持ち物=Kho
 お知らせ=Thông báo
 キャラ=Đội viên
-プレイヤーランク=Rank người chơi
 ミッション=Nhiệm vụ
 ゲームを終了する=<size\=95%>Thoát game</size>
 <style\=RubyPrefixTag></style>\nEnd the game?=<style\=RubyPrefixTag></style><br>Thoát khỏi trò chơi?

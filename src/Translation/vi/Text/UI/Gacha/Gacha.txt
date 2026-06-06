@@ -14,10 +14,11 @@ Already Held=Đã sở hữu
 詳細/提供割合=Chi tiết / Tỷ lệ
 スタイル詳細=Chi tiết Style
 もう一度引く=Chiêu mộ lần nữa
+Memoria Selection=<size\=80%>Lựa chọn Style</size>
 
-[Gacha Screen]
+[Gacha_Screen]
 Results=Kết quả
-Recruitment Results=Kết quả Gacha
+Recruitment Results=Kết quả
 
 [Utils]
 One S or above guaranteed!=<size\=85%>Chắc chắn nhận 1 Style S trở lên!</size>
@@ -43,9 +44,9 @@ SS Memorias are the 37 squadron members' normal outfits!\nReceive an SS-Guarante
 Obtain Memorias with\nStart Dash Recruitment Tickets!=Xoay4
 
 [Regular Gacha]
-Acquire tickets from raising your Player Rank\nand clearing Weekly Missions!\nSelect four base-outfit SS Memorias to draw\nfrom a pool of all 48 squadron members.=<size\=23>Nhận vé từ việc nâng Cấp bậc Người chơi và hoàn thành \nNhiệm vụ Hằng tuần! \nChọn 4 Style SS cơ bản có cơ hội nhận được 1 Style SS trong 48 đội viên.</size>
+Acquire tickets from raising your Player Rank\nand clearing Weekly Missions!\nSelect four base-outfit SS Memorias to draw\nfrom a pool of all 48 squadron members.=<size\=23>Nhận vé từ việc nâng Rank và hoàn thành \nNhiệm vụ Hằng tuần! \nChọn 4 Style SS cơ bản có cơ hội nhận được 1 Style SS trong 48 đội viên.</size>
 
 [SA Gacha Scrips]
 
 [Weekly Gacha Scrips]
-Use 8 SS-Guaranteed Recruitment Scrips obtained from\nweekly missions to roll for an SS!\n*Resets with every version update.=Thu thập đủ 8 mảnh chiêu mộ từ Nhiệm vụ Hằng tuần \nđể nhận được 1 Style SS ngẫu nhiên!\n*Reset sau mỗi đợt cập nhật phiên bản.
+Use 8 SS-Guaranteed Recruitment Scrips obtained from\nweekly missions to roll for an SS!\n*Resets with every version update.=Thu thập đủ 8 mảnh chiêu mộ từ Nhiệm vụ Hằng tuần \nđể nhận được 1 Style SS ngẫu nhiên!\n※Reset sau mỗi đợt cập nhật phiên bản.

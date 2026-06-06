@@ -1,12 +1,17 @@
 [Action]
 話しかける=Trò chuyện
+調べる=Điều tra
+
+[UI_Story]
 メッセージ=Tin nhắn
 ホーム=Màn hình chính
 次の時間へ=Chuyển mốc \nthời gian
+移動=<voffset\=-20px>Đi Đến</voffset>
+
+[Multiple_Choice]
 質問=Câu hỏi
 That's it!=Chính là nó!
 Redo=Chọn lại
-INFORMATION=THÔNG TIN
 
 [Chapter]
 Chapter 1=Chương 1
@@ -20,9 +25,16 @@ r:"^Chapter (\d+)Day(\d+)$"=Chương $1 Ngày $2
 r:"^Chapter (\d+)—Part (\d+)Day(\d+)$"=Chương $1-Phần $2 Ngày $3
 
 [Location]
+Academy Grounds=Căn cứ Học viện
+Academy Building=Khu học xá
+Dormitories=Khu ký túc xá
 Clock Tower=Tháp đồng hồ
 Arena=Đấu trường
+Narby Square=<line-height\=35px>Quảng trường\nNarby</line-height>
+Mortuary=Đài tưởng niệm
+Heliport=<line-height\=35px>Bãi đáp\ntrực thăng</line-height>
 
 SKIP=Bỏ qua
+INFORMATION=THÔNG TIN
 Relive Memories=Hồi tưởng
 Day Result=Kết quả trong ngày

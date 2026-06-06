@@ -8,4 +8,5 @@ Exchange for selected Memoria?=Xác nhận chọn Style này?
 交換する=Xác nhận
 画面タップで次へ=Nhấn để tiếp tục
 Player Rank EXP Acquired=Đã nhận thêm EXP
+<style\=RubyPrefixTag></style>\nNot currently available.=<style\=RubyPrefixTag></style>\nHiện tại không khả dụng
 

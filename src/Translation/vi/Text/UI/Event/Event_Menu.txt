@@ -5,11 +5,13 @@ Archived=Đã lưu trữ
 振り返り=Xem lại
 シェア=Chia  sẻ
 イベントプリズム=Lăng kính Sự kiện
-ダンジョン=Phó bản
 From the Beginning=Theo dõi từ đầu
 編成制限=Giới hạn đội hình
 開始する=Bắt đầu
 解放する=Mở khoá
+クリア報酬=Thưởng hoàn thành
+10枚集めて\nSSスタイルと交換しよう！=Thu thập đủ 10 mảnh\nđể đổi một Style SS!
+
 Main Scenario: Interlude=Chính Truyện: Chương đệm
 Upon Clearing Chapter 3=Sau khi hoàn thành Chương 3
 Upon Clearing Chapter 2=Sau khi hoàn thành Chương 2
@@ -20,7 +22,7 @@ Upon Clearing Chapter 1=Sau khi hoàn thành Chương 1
 r:"^Tokens Needed: (\d+)$"=Số huy chương cần đổi: $1
 
 [Dungeon]
-ダンジョン選択=<cspace\=-2px>Lựa chọn phó bản</cspace>
+ダンジョン選択=<size\=80%><cspace\=-2px>Lựa chọn phó bản</cspace></size>
 踏破率=Tiến độ
 イベントダンジョン=Phó Bản Sự Kiện
 推奨戦力=L.C đề cử

@@ -26,8 +26,8 @@ LEVEL1=MỨC 1
 LEVEL2=MỨC 2
 LEVEL3=MỨC 3
 
-[Result Screen]
-Battle Result=Kết quả trận chiến
+[Result_Screen]
+バトルリザルト=Kết quả trận chiến
 獲得GP=GP nhận được
 獲得アイテム=Vật phẩm
 
@@ -44,3 +44,4 @@ Activate at Overdrive Lv. 3=Kích hoạt Overdrive cấp 3
 Activate at highest level possible=Kích hoạt Overdrive ở mức cao nhất
 Consider enemy resistances=Ưu tiên điểm yếu của kẻ địch
 CHANGE=<size\=80%>Thay đổi trạng thái</size>
+<style\=RubyPrefixTag></style>\nAccept defeat and withdraw from battle?=<style\=RubyPrefixTag></style>\nChấp nhận bị đánh bại và rút lui khỏi trận chiến?

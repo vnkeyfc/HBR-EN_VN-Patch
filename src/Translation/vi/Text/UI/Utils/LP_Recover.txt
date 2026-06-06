@@ -1,0 +1,14 @@
+Recover Life Point(s)=Hồi phục Life Point
+Life Points to Restore=Số LP cần hồi phục
+消費アイテム=Vật phẩm tiêu hao
+または=hoặc
+予備ライフ/ライフストーン=Life Point dự phòng / Life Stone
+現在のクォーツ所持数=Quartz hiện có
+現在の予備ライフ所持数=Life Point dự phòng hiện có
+現在のライフストーン所持数=Life Stone hiện có
+※クォーツは無償分から消費されます。=※Quartz miễn phí sẽ được ưu tiên tiêu hao trước.
+クォーツを消費=<size\=90%><cspace\=3px>  Tiêu hao Quartz</size>
+予備ライフを消費=<size\=90%><cspace\=3px> Dùng LP dự phòng</size>
+ライフストーンを消費=<size\=90%><cspace\=3px> Dùng Life Stone</size>
+
+<style\=RubyPrefixTag></style>\nLife Points Recovered=<style\=RubyPrefixTag></style>\nĐã hồi phục Life Point

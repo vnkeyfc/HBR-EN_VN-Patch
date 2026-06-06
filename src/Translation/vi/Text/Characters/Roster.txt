@@ -1,0 +1,3 @@
+部隊戦力=Tổng lực chiến
+絆Lv.=T.Mật Lv.
+イメージ=Artwork

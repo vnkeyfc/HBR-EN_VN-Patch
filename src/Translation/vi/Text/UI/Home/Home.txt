@@ -1,10 +1,5 @@
 友達招待=Mời bạn bè
-
-メインストーリー=Chính truyện
-イベント=Sự kiện
-
 コンテンツ=Nội dung
-ジオラマ=Sa bàn
 ライブ=Live 
 交換所=Trao đổi
 ギャラリー=Gallery 
@@ -16,25 +11,39 @@ Roster=Hồ sơ
 ストーリー選択=<cspace\=-3px>Lựa chọn cốt truyện</cspace>
 時間帯選択=Chọn mốc thời gian
 交流=Xã giao
-異時層=Không Gian Dị Thời
+メモリーストーリー=Ký ức
+異時層=Dị Thời Không
 恒星掃戦線=Hằng Tinh
-アリーナ=Arena
 Munitions Store=Cửa hàng
 強化 / 育成=<size\=89%>Tăng cường / Phát triển</size>
 制圧戦=Conquest Battle
 メモリーストーリー一覧=DANH SÁCH KÝ ỨC
-調べる=Điều tra
-セラフ遭遇戦演習=Chuỗi Trận Mô Phỏng
-Seraph Encounter Drill=Seraph Skirmish Simulation
+セラフ遭遇戦演習=<size\=70%>Diễn Tập Ứng Chiến</size>
+スコアアタック=<size\=80%>Thử Thách Ghi Điểm</size>
+
+[Enhance/Upgrade]
+The Astrarium=Hằng Tinh
+Anachronies=Dị Thời Không
+Score Challenge=Thử Thách Ghi Điểm
+Seraph Encounter Drill=Diễn Tập Ứng Chiến
+時計塔=Tháp đồng hồ
+アリーナ=Đấu trường
+宝石プリズム=Prism Đá quý 
+プリズムバトル=Prism Battle
+ダンジョン=Phó bản
+記憶の庭へ=Khu vườn Ký ức
+オーブボス=Orb Boss
 
 [Story]
+メインストーリー=Chính Truyện
+イベント=Sự kiện
 最新のショップ=Cửa hàng\nmới nhất
 最新のフリータイムへ=Giờ giải lao\ngần nhất
 続きから=Tiếp tục
 過去をたどる=Hồi tưởng
-交流/メモリーストーリー=Xã giao
+交流/メモリーストーリー=Xã giao / Ký ức
 
-[Ruka's Cat Dialogue]
+[Ruka's_Cat_Dialogue]
 <style\=RubyPrefixTag></style>\nIs there anything I can help you with?=<style\=RubyPrefixTag></style>\nTôi có thể giúp gì cho bạn?
 <style\=RubyPrefixTag></style>\nHow may I be of assistance?=<style\=RubyPrefixTag></style>\nTôi có thể hỗ trợ gì cho bạn?
 <style\=RubyPrefixTag></style>\nWhat are you in need of help with?=<style\=RubyPrefixTag></style>\nTôi muốn...

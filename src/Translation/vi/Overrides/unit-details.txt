@@ -1,0 +1,2 @@
+/RootView/UI-Foreground/Main/UIPartyDetailCharacterSecond/container/viewTypeRight/communicationLv/communicateContainer/communicaitionScrollView/Viewport/Content/template(Clone)/btnInformation/nomal/label|'Chi tiết'|'<size=85%><cspace=-2px>Chi tiết</cspace></size>'
+/RootView/UI-Foreground/Main/UIPartyDetailCharacterSecond/container/viewTypeRight/communicationLv/communicateContainer/communicaitionScrollView/Viewport/Content/template(Clone)/btnInformation/active/label|'Chi tiết'|'<size=85%><cspace=-2px>Chi tiết</cspace></size>'

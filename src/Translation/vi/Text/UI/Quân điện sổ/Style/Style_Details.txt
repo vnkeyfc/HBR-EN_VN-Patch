@@ -1,0 +1,35 @@
+[Label]
+Set Skills=<size\=80%>Thiết lập Kỹ năng</size>
+Unit Details=<size\=80%>Chi tiết Đội viên</size>
+Memoria Details=<size\=80%>Chi tiết Style</size>
+Equip Boosters=<size\=80%>Trang bị Booster</size>
+Equip Accessories=<size\=80%>Trang bị Phụ kiện</size>
+Support Unit Details=<size\=80%>Chi tiết Hỗ trợ</size>
+
+[Tab]
+スキル=Kỹ năng
+ブースター=Booster
+アクセサリ=Phụ kiện
+サポート=Hỗ trợ
+限界突破=Đột phá
+
+[Character_Details]
+詳細=Chi tiết
+転生=Tái sinh
+絆 Lv.=Thân mật Lv.
+戦力=Lực chiến
+ステータス=Chỉ số 
+SLv.= SLv.
+ULv.=CLv.
+能力強化=Nâng cấp
+才能開花=Tiềm năng
+強化=Cường hoá
+
+[Revert]
+転生巻き戻し=Hoàn tác Tái sinh
+スキル枠=Slot kỹ năng
+Each time you revert a unit, their base stats gain reversion bonuses, and skill slots increase with multiple reversions.=Tái sinh sẽ cộng thêm chỉ số nhân vật.\nKhi tái sinh nhiều lần, số slot kỹ năng cũng sẽ tăng.
+転生数=<space\=25px>Số lần Tái sinh
+Revert=Tái sinh
+Upon undoing a reversion, the unit's reversion level will decrease, and a Miracle Bell will be refunded.=Khi hoàn tác tái sinh, số lần tái sinh sẽ bị giảm xuống,\nđổi lại bạn có thể nhận được Chuông Kỳ Diệu.
+Undo Reversion=Hoàn tác Tái sinh

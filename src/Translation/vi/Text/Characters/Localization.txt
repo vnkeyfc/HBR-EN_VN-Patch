@@ -1,3 +1,12 @@
+31-A=31A
+31-B=31B
+31-C=31C
+31-D=31D
+31-E=31E
+31-F=31F
+31-X=31X
+30-G=30G
+
 [Unit]
 {31A}
 Ruka Kayamori=Kayamori Ruka

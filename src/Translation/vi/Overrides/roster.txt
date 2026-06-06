@@ -1,0 +1,13 @@
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01/container/btnSelect/status/reincarnationText|'Tái sinh'|'T.Sinh'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_1/container/btnSelect/status/reincarnationText|'Tái sinh'|'T.Sinh'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_2/container/btnSelect/status/reincarnationText|'Tái sinh'|'T.Sinh'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_3/container/btnSelect/status/reincarnationText|'Tái sinh'|'T.Sinh'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_4/container/btnSelect/status/reincarnationText|'Tái sinh'|'T.Sinh'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_5/container/btnSelect/status/reincarnationText|'Tái sinh'|'T.Sinh'
+
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01/container/btnSelect/status/totalText|'T.Mật Lv.'|'T.<size=80%>Mật </size>Lv.'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_1/container/btnSelect/status/totalText|'T.Mật Lv.'|'T.<size=80%>Mật </size>Lv.'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_2/container/btnSelect/status/totalText|'T.Mật Lv.'|'T.<size=80%>Mật </size>Lv.'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_3/container/btnSelect/status/totalText|'T.Mật Lv.'|'T.<size=80%>Mật </size>Lv.'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_4/container/btnSelect/status/totalText|'T.Mật Lv.'|'T.<size=80%>Mật </size>Lv.'
+/RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_5/container/btnSelect/status/totalText|'T.Mật Lv.'|'T.<size=80%>Mật </size>Lv.'
