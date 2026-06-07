@@ -24,13 +24,13 @@ _Chúng tôi sẵn lòng đón nhận mọi hỏi đáp và góp ý từ mọi n
 
 ---
 
-## <img src=".github/assets/ruka.png" width="40" align="absmiddle">   Nội dung
-- [Cài đặt](#---cài-đặt)
-- [Cập nhật](#---cập-nhật)
-- [Gỡ cài đặt](#---gỡ-cài-đặt)
-- [Cấu hình & tuỳ chỉnh](#---cấu-hình--tuỳ-chỉnh)
+## <img src=".github/assets/ruka.png" width="40" align="absmiddle"> Nội dung
+- [Cài đặt](#-cài-đặt)
+- [Cập nhật](#-cập-nhật)
+- [Gỡ cài đặt](#-gỡ-cài-đặt)
+- [Cấu hình & tuỳ chỉnh](#-cấu-hình--tuỳ-chỉnh)
 
-## <img src=".github/assets/yuki.png" width="40" align="absmiddle">   Cài đặt
+## <img src=".github/assets/yuki.png" width="40" align="absmiddle"> Cài đặt
 ### Phương án thủ công
 1. Hãy chắc chắn rằng bạn đã cài đặt nền tảng PC của [Heaven Burns Red](https://heavenburnsred.yo-star.com/) thông qua Launcher của Yostar, không phải trên nên tảng di động. 
 2. Tải [phiên bản mới nhất](https://github.com/vnkeyfc/HBR-EN_Vi-Patch/releases) của bản vá.
@@ -46,12 +46,12 @@ Bạn có thể tải chương trình cài đặt ngay [tại đây](#).
 
 **Lưu ý:** _Lần khởi chạy đầu tiên có thể tốn vài phút để vào game, những lần khởi chạy sau sẽ trở lại bình thường._
 
-## <img src=".github/assets/karerin.png" width="40" align="absmiddle">   Cập nhật
+## <img src=".github/assets/karerin.png" width="40" align="absmiddle"> Cập nhật
 Khuyến khích thực hiện xoá bỏ toàn bộ các file liên quan đến bản vá cũ thay vì chỉ thực hiện thay thế chúng.
 
 Chỉ cần xoá đi thư mục `BepInEx` cũ, giải nén file zip và thay thế thư mục tương ứng. 
 
-## <img src=".github/assets/tojo.png" width="40" align="absmiddle">   Gỡ cài đặt
+## <img src=".github/assets/tojo.png" width="40" align="absmiddle"> Gỡ cài đặt
 Chỉ cần xoá đi các file và thư mục liên quan đến bản vá mà bạn đã giải nén ở thư mục `HeavenBurnsRed`. Mọi dữ liệu trong game không bị hư hỏng hoặc chỉnh sửa khi cài đặt bản vá, nên bạn có thể yên tâm tự xoá chúng. Game sẽ quay trở về trạng thái khi chưa có bản vá.
 
 Các file và thư mục bạn cần phải xoá bao gồm:
@@ -70,11 +70,11 @@ Trạng thái ban đầu của thư mục `HeavenBurnsRed` sẽ như bức ảnh
 
 Bạn có thể sử dụng chương trình vá có tích hợp chức năng gỡ cài đặt. Tuy nhiên, chúng tôi không hoàn toàn bảo đảm tính toàn vẹn của dữ liệu game sau khi sử dụng chức năng này. Chúng tôi khuyến khích bạn nên thực hiện thao tác bằng thủ công.
 
-## <img src=".github/assets/nanami.png" width="40" align="absmiddle">   Cấu hình & tuỳ chỉnh
+## <img src=".github/assets/megumi.png" width="43" align="absmiddle"> Cấu hình & tuỳ chỉnh
 - Dự án sử dụng phiên bản [Bleeding Edge của BepInEx](https://builds.bepinex.dev/projects/bepinex_be) để tích hợp plugin [bbepis/XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator).
 - Bạn có thể tìm thấy các file cấu hình ở đây:
   - [BepInEx](https://docs.bepinex.dev/articles/user_guide/configuration.html)
   - [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator#configuration)
+- Chúng tôi đã tạo thêm một số custom plugin nhằm tối ưu chất lượng bản dịch cũng như trải nghiệm giao diện người dùng của trò chơi.
 
-  
-## <img src=".github/assets/nanami.png" width="40" align="absmiddle">   
+## <img src=".github/assets/tama.png" width="43" align="absmiddle"> [*Mục cuối nên để gì đây?]
