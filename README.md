@@ -2,6 +2,7 @@
 
 <img src=".github/assets/logo.png" style="vertical-align: bottom; width: 50%">
 <br><br>
+[![BepInEx](https://img.shields.io/badge/-BepInEx-yellow.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/BepInEx/BepInEx "BepInEx")
 <i>Bản vá Việt Hoá cho phiên bản quốc tế của Heaven Burns Red</i>
 <br>
 <br>
@@ -14,3 +15,6 @@
 _Chúng tôi sẵn lòng đón nhận mọi hỏi đáp và góp ý từ mọi người nhằm phát triển cũng như sửa đổi dự án để phù hợp!_
 
 ## ![Ruka](https://static.wikia.nocookie.net/heavenburnsred/images/d/dd/RKayamori.png/revision/latest/scale-to-width-down/35?cb=20260112105649) Nội dung
+- [ CÀI ĐẶT](#-cài-đặt)
+
+## ![Ruka](https://static.wikia.nocookie.net/heavenburnsred/images/d/dd/RKayamori.png/revision/latest/scale-to-width-down/35?cb=20260112105649) CÀI ĐẶT
