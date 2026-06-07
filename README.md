@@ -19,10 +19,10 @@ _Chúng tôi sẵn lòng đón nhận mọi hỏi đáp và góp ý từ mọi n
 ---
 
 ## <img src=".github/assets/ruka.png" width="40" align="absmiddle">   Nội dung
-- Cài đặt
-- Cập nhật
-- Gỡ cài đặt
-- Cấu hình & tuỳ chỉnh
+- [Cài đặt](#---cài-đặt)
+- [Cập nhật](#---cập-nhật)
+- [Gỡ cài đặt](#---gỡ-cài-đặt)
+- [Cấu hình & tuỳ chỉnh](#---cấu-hình--tuỳ-chỉnh)
 
 ## <img src=".github/assets/yuki.png" width="40" align="absmiddle">   Cài đặt
 
