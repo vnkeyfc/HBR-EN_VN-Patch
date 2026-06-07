@@ -2,14 +2,14 @@
 
 <img src=".github/assets/logo.png" style="vertical-align: bottom; width: 50%">
 <br><br>
+<a href="https://discord.com/invite/vnkeyfc" target="_blank">
+    <img src="https://img.shields.io/discord/615594872358961160?color=blue&labelColor=555555&label=discord&logo=discord&style=flat">
+</a>
 <a href="https://github.com/bepinex/bepinex" target="_blank">
     <img src="https://img.shields.io/badge/-BepInEx-yellow.svg?logo=unity&labelColor=555555&style=flat"> 
 </a>
 <a href="https://github.com/bbepis/XUnity.AutoTranslator" target="_blank">
     <img src="https://img.shields.io/badge/-AutoTranslator-orange.svg?logo=unity&labelColor=555555&style=flat"> 
-</a>
-<a href="https://discord.com/invite/vnkeyfc" target="_blank">
-    <img src="https://img.shields.io/discord/615594872358961160?color=blue&labelColor=555555&label=discord&logo=discord&style=flat">
 </a><br>
 <i>Bản vá Việt Hoá cho phiên bản quốc tế của Heaven Burns Red</i>
 <br>
