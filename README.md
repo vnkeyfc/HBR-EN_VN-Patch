@@ -25,7 +25,7 @@ _Chúng tôi sẵn lòng đón nhận mọi hỏi đáp và góp ý từ mọi n
 - [Cấu hình & tuỳ chỉnh](#---cấu-hình--tuỳ-chỉnh)
 
 ## <img src=".github/assets/yuki.png" width="40" align="absmiddle">   Cài đặt
-
+### Phương án thủ công
 1. Hãy chắc chắn rằng bạn đã cài đặt nền tảng PC của [Heaven Burns Red](https://heavenburnsred.yo-star.com/) thông qua Launcher của Yostar, không phải trên nên tảng di động. 
 2. Tải [phiên bản mới nhất](https://github.com/vnkeyfc/HBR-EN_Vi-Patch/releases) của bản vá.
 3. Giải nén tất cả nội dung trong file zip đến đường dẫn `...\YostarGames\HeavenBurnsRed`
@@ -33,10 +33,32 @@ _Chúng tôi sẵn lòng đón nhận mọi hỏi đáp và góp ý từ mọi n
 
 <img src=".github/assets/directory.png">
 
-_Lần khởi chạy đầu tiên có thể tốn vài phút để vào game, những lần khởi chạy sau sẽ trở lại bình thường._
+### Phương án tự động
+Dự án cũng tích hợp một chương trình cài đặt bản vá tự động, với các thao tác nút đơn giản và dễ tiếp cận. Tuy nhiên, chương trình vẫn còn đang trong giai đoạn thử nghiệm nên hãy cẩn thận khi sử dụng nó.
+
+Bạn có thể tải chương trình cài đặt ngay [tại đây](#).
+
+**Lưu ý:** _Lần khởi chạy đầu tiên có thể tốn vài phút để vào game, những lần khởi chạy sau sẽ trở lại bình thường._
 
 ## <img src=".github/assets/karerin.png" width="40" align="absmiddle">   Cập nhật
+Khuyến khích thực hiện xoá bỏ toàn bộ các file liên quan đến bản vá cũ thay vì chỉ thực hiện thay thế chúng.
+
+Chỉ cần xoá đi thư mục `BepInEx` cũ, giải nén file zip và thay thế thư mục tương ứng. 
 
 ## <img src=".github/assets/tojo.png" width="40" align="absmiddle">   Gỡ cài đặt
+Chỉ cần xoá đi các file và thư mục liên quan đến bản vá mà bạn đã giải nén ở thư mục `HeavenBurnsRed`. Mọi dữ liệu trong game không bị hư hỏng hoặc chỉnh sửa khi cài đặt bản vá, nên bạn có thể yên tâm tự xoá chúng. Game sẽ quay trở về trạng thái khi chưa có bản vá.
+
+Các file và thư mục bạn cần phải xoá bao gồm:
+```
+BepInEx                       [Thư mục]
+dotnet                        [Thư mục]
+changelog.txt
+doorstop_config.ini
+winhttp.dll
+.doorstop_version
+```
+và 1 thư mục `BepInEx` ở ...\%appdata%\Roaming
+
+
 
 ## <img src=".github/assets/nanami.png" width="40" align="absmiddle">   Cấu hình & tuỳ chỉnh
