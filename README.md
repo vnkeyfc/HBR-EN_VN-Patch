@@ -2,13 +2,19 @@
 
 <img src=".github/assets/logo.png" style="vertical-align: bottom; width: 50%">
 <br><br>
+<a href="https://github.com/bepinex/bepinex" target="_blank">
+    <img src="https://img.shields.io/badge/-BepInEx-yellow.svg?logo=unity&labelColor=555555&style=flat"> 
+</a>
+<a href="https://github.com/bbepis/XUnity.AutoTranslator" target="_blank">
+    <img src="https://img.shields.io/badge/-AutoTranslator-orange.svg?logo=unity&labelColor=555555&style=flat"> 
+</a>
+<a href="https://discord.com/invite/vnkeyfc" target="_blank">
+    <img src="https://img.shields.io/discord/615594872358961160?color=blue&labelColor=555555&label=discord&logo=discord&style=flat">
+</a><br>
 <i>Bản vá Việt Hoá cho phiên bản quốc tế của Heaven Burns Red</i>
 <br>
 <br>
 </h2>
-*Nếu có điền cái gì đó thêm
-
----
 
 ⚠️ **CẢNH BÁO:** _Việc sử dụng bản vá này sẽ vi phạm vào điều khoản dịch vụ của game và có thể khiến tài khoản của bạn bị khoá. Chúng tôi sẽ không hoàn toàn chịu trách nhiệm cho những hành vi của bạn khi sử dụng công cụ này._
 
@@ -59,6 +65,16 @@ winhttp.dll
 ```
 và 1 thư mục `BepInEx` ở ...\%appdata%\Roaming
 
+Trạng thái ban đầu của thư mục `HeavenBurnsRed` sẽ như bức ảnh bên dưới:
+<img src=".github/assets/vanila_state.png">
 
+Bạn có thể sử dụng chương trình vá có tích hợp chức năng gỡ cài đặt. Tuy nhiên, chúng tôi không hoàn toàn bảo đảm tính toàn vẹn của dữ liệu game sau khi sử dụng chức năng này. Chúng tôi khuyến khích bạn nên thực hiện thao tác bằng thủ công.
 
 ## <img src=".github/assets/nanami.png" width="40" align="absmiddle">   Cấu hình & tuỳ chỉnh
+- Dự án sử dụng phiên bản [Bleeding Edge của BepInEx](https://builds.bepinex.dev/projects/bepinex_be) để tích hợp plugin [bbepis/XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator).
+- Bạn có thể tìm thấy các file cấu hình ở đây:
+  - [BepInEx](https://docs.bepinex.dev/articles/user_guide/configuration.html)
+  - [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator#configuration)
+
+  
+## <img src=".github/assets/nanami.png" width="40" align="absmiddle">   
