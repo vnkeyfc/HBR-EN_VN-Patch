@@ -14,3 +14,11 @@
 _Chúng tôi sẵn lòng đón nhận mọi hỏi đáp và góp ý từ mọi người nhằm phát triển cũng như sửa đổi dự án để phù hợp!_
 
 ## ![Ruka](https://static.wikia.nocookie.net/heavenburnsred/images/d/dd/RKayamori.png/revision/latest/scale-to-width-down/35?cb=20260112105649) Nội dung
+- [ CÀI ĐẶT](#-cài-đặt)
+
+## ![Ruka](https://static.wikia.nocookie.net/heavenburnsred/images/d/dd/RKayamori.png/revision/latest/scale-to-width-down/35?cb=20260112105649) CÀI ĐẶT
+
+1. Hãy chắc chắn rằng bạn đã cài đặt nền tảng PC của [Heaven Burns Red](https://heavenburnsred.yo-star.com/) thông qua Launcher của Yostar, không phải trên nên tảng di động. 
+2. Tải phiên bản mới nhất của bản vá.
+3. Giải nén tất cả nội dung trong file zip đến thư mục chứa game (không phải thư mục chứa launcher).
+4. Thư mục chứa game sẽ trông như thế này
