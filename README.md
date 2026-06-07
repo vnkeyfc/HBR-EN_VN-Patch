@@ -1,7 +1,7 @@
 <h2 align="center">
 
-<img src=".github/assets/logo.png" style="vertical-align: bottom">
-
+<img src=".github/assets/logo.png" style="vertical-align: bottom; width: 50%">
+<br><br>
 <i>Bản vá Việt Hoá cho phiên bản quốc tế của Heaven Burns Red</i>
 <br>
 <br>
