@@ -13,12 +13,22 @@
 
 _Chúng tôi sẵn lòng đón nhận mọi hỏi đáp và góp ý từ mọi người nhằm phát triển cũng như sửa đổi dự án để phù hợp!_
 
-## ![Ruka](https://static.wikia.nocookie.net/heavenburnsred/images/d/dd/RKayamori.png/revision/latest/scale-to-width-down/35?cb=20260112105649) Nội dung
+## Nội dung
 - [ CÀI ĐẶT](#-cài-đặt)
 
-## ![Ruka](https://static.wikia.nocookie.net/heavenburnsred/images/d/dd/RKayamori.png/revision/latest/scale-to-width-down/35?cb=20260112105649) CÀI ĐẶT
+## Cài đặt
 
 1. Hãy chắc chắn rằng bạn đã cài đặt nền tảng PC của [Heaven Burns Red](https://heavenburnsred.yo-star.com/) thông qua Launcher của Yostar, không phải trên nên tảng di động. 
-2. Tải phiên bản mới nhất của bản vá.
-3. Giải nén tất cả nội dung trong file zip đến thư mục chứa game (không phải thư mục chứa launcher).
-4. Thư mục chứa game sẽ trông như thế này
+2. Tải [phiên bản mới nhất](https://github.com/vnkeyfc/HBR-EN_Vi-Patch/releases) của bản vá.
+3. Giải nén tất cả nội dung trong file zip đến đường dẫn `...\YostarGames\HeavenBurnsRed`
+4. Thư mục `HeavenBurnsRed` sẽ trông như thế này
+
+<img src=".github/assets/directory.png">
+
+_Lần khởi chạy đầu tiên có thể tốn vài phút để vào game, những lần khởi chạy sau sẽ trở lại bình thường._
+
+## Cập nhật
+
+## Gỡ cài đặt
+
+## Cấu hình và tuỳ chỉnh
