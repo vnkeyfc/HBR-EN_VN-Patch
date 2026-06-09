@@ -9,7 +9,7 @@
 ギフト=Hộp quà
 持ち物=Kho
 お知らせ=Thông báo
-キャラ=Đội viên
+キャラ=Nhân vật
 ミッション=Nhiệm vụ
 ゲームを終了する=<size\=95%>Thoát game</size>
 <style\=RubyPrefixTag></style>\nEnd the game?=<style\=RubyPrefixTag></style><br>Thoát khỏi trò chơi?

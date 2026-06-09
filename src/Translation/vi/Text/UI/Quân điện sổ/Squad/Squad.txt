@@ -3,8 +3,8 @@
 メイン編成中=Đội hình chính
 サポート編成中=Đang hỗ trợ
 編成中=<size\=70%>Trong đội</size>
-キャラクター選択=<size\=85%>Lựa chọn Đội viên</size>
-サポート選択=<size\=85%>Lựa chọn Đội viên Hỗ trợ</size>
+キャラクター選択=<size\=85%>Lựa chọn nhân vật</size>
+サポート選択=<size\=85%>Lựa chọn nhân vật hỗ trợ</size>
 すべてはずす=<size\=85%>Gỡ toàn bộ</size>
 <style\=RubyPrefixTag></style>\nDiscarding formation data and returning to previous screen. Proceed?=<style\=RubyPrefixTag></style>\nHủy bỏ nội dung đang chỉnh sửa và quay về trạng thái cũ?
 Unlock by clearing Main Scenario: Chapter 3.=Hoàn thành Chính Truyện: Chương 3
@@ -13,10 +13,10 @@ Sortie=<size\=90%>Xuất Trận</size>
 
 [Option]
 スキル設定=Thiết lập kỹ năng
-キャラ詳細=Chi tiết Đội viên
+キャラ詳細=Chi tiết nhân vật
 ブースター装備=Trang bị Booster
-アクセサリ装備=Trang bị Phụ kiện
-サポート詳細=Chi tiết Hỗ trợ
+アクセサリ装備=Trang bị phụ kiện
+サポート詳細=Chi tiết hỗ trợ
 
 [UI]
 総合戦力=Lực chiến
@@ -47,7 +47,7 @@ System=HỆ THỐNG
 なし=Trống
 ※現在の装備が外れる可能性があります。=※Trang bị hiện tại có thể sẽ bị gỡ ra
 設定完了=<size\=85%>Xác nhận</size>
-タップでキャラクター編成、ドラッグ&ドロップで入れ替え=Nhấn vào để chọn đội viên, kéo và thả để hoán đổi vị trí
+タップでキャラクター編成、ドラッグ&ドロップで入れ替え=Nhấn vào để chọn nhân vật, kéo và thả để hoán đổi vị trí
 
 [Switch]
 Main Formation=Đội hình chính

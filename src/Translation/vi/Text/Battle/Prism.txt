@@ -1,0 +1,3 @@
+Flashback Battles=Prism Battle
+Gem Flashback Battles=Jewel Prism Battle
+最大到達階=<space\=-25px>Tầng đạt được:

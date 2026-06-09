@@ -3,7 +3,6 @@
 ライブ=Live 
 交換所=Trao đổi
 ギャラリー=Gallery 
-キャラ一覧=<size\=80%>Danh sách đội viên</size>
 称号バッジ=Huy hiệu
 名簿=Hồ sơ
 Roster=Hồ sơ
@@ -28,7 +27,7 @@ Score Challenge=Thử Thách Ghi Điểm
 Seraph Encounter Drill=Diễn Tập Ứng Chiến
 時計塔=Tháp đồng hồ
 アリーナ=Đấu trường
-宝石プリズム=Prism Đá quý 
+宝石プリズム=Jewel Prism
 プリズムバトル=Prism Battle
 ダンジョン=Phó bản
 記憶の庭へ=Khu vườn Ký ức
@@ -36,7 +35,7 @@ Seraph Encounter Drill=Diễn Tập Ứng Chiến
 
 [Story]
 メインストーリー=Chính Truyện
-イベント=Sự kiện
+イベント\n=Sự kiện
 最新のショップ=Cửa hàng\nmới nhất
 最新のフリータイムへ=Giờ giải lao\ngần nhất
 続きから=Tiếp tục

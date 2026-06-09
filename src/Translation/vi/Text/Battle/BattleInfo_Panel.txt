@@ -5,8 +5,9 @@ Select which item you wish to use.=Chọn vật phẩm bạn muốn tiêu hao
 出現する敵=Kẻ địch
 報酬=Thưởng
 Bounty Reward(s)=Phần thưởng thảo phạt
-Dropped Item(s)=<align\=center>Vật phẩm rơi ra
+Dropped Item(s)=Vật phẩm rơi ra
 (Rare)=(Hiếm)
+挑戦する=Bắt đầu
 
 No. Expended:1=Lượng tiêu hao: 1
 No. Expended:2=Lượng tiêu hao: 2

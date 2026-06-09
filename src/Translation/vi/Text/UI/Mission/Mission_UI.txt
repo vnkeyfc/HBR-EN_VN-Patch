@@ -13,12 +13,30 @@
 Beginner Missions=Nhiệm vụ tân thủ
 Monthly Missions=Nhiệm vụ hằng tháng
 Master Missions=Nhiệm vụ bậc cao
+Event Missions=<size\=80%>Nhiệm vụ sự kiện</size>
 ウィークリーPt=Điểm hằng tuần
+Resets at 12 AM (UTC-7) on the first of each month.=<size\=130%>Reset lúc 14:00 vào\nmỗi ngày đầu tháng
 
-[Daily]
+[Daily_HomeLabel]
+Daily Missions 0/4=Nhiệm vụ hằng ngày 0/4
+Daily Missions 1/4=Nhiệm vụ hằng ngày 1/4
+Daily Missions 2/4=Nhiệm vụ hằng ngày 2/4
+Daily Missions 3/4=Nhiệm vụ hằng ngày 3/4
+Daily Missions 4/4=Nhiệm vụ hằng ngày 4/4
+
+[Daily_Missions]
 Clear all daily missions.=Hoàn thành nhiệm vụ hằng ngày
 
-[Weekly]
+[Weekly_HomeLabel]
+Weekly Missions 0/6=Nhiệm vụ hằng tuần 0/6
+Weekly Missions 1/6=Nhiệm vụ hằng tuần 1/6
+Weekly Missions 2/6=Nhiệm vụ hằng tuần 2/6
+Weekly Missions 3/6=Nhiệm vụ hằng tuần 3/6
+Weekly Missions 4/6=Nhiệm vụ hằng tuần 4/6
+Weekly Missions 5/6=Nhiệm vụ hằng tuần 5/6
+Weekly Missions 6/6=Nhiệm vụ hằng tuần 6/6
+
+[Weekly_Missions]
 Advance the main story by 1 day (only unread).=Tiến thêm 1 Ngày trong Cốt truyện chính (chỉ tính phần chưa đọc)
 Advance the event story by 1 day (only unread).=Tiến thêm 1 Ngày trong Cốt truyện sự kiện (chỉ tính phần chưa đọc)
 Clear 30 battles. (Hyperbolic Time Arena excluded.)=Tham gia 30 trận chiến (không tính Luyện Trường Thời Không)
@@ -30,3 +48,6 @@ Clear 500 Hyperbolic Time Arenas.=Tham gia 500 trận trong Luyện Trường Th
 
 [Event]
 r:"^Clear (\d+) anachronies."=Khiêu chiến Dị Thời Không $1 lần
+
+[Limited]
+Use 1 Life Point during the Seraph Encounter Drill. (Loop Mission)=Trong khi Diễn Tập Ứng Chiến diễn ra, tiêu hao 1 Life Point (Nhiệm vụ lặp)

@@ -3,6 +3,7 @@
 調べる=Điều tra
 
 [UI_Story]
+マップ=Bản Đồ
 メッセージ=Tin nhắn
 ホーム=Màn hình chính
 次の時間へ=Chuyển mốc \nthời gian
@@ -33,6 +34,12 @@ Arena=Đấu trường
 Narby Square=<line-height\=35px>Quảng trường\nNarby</line-height>
 Mortuary=Đài tưởng niệm
 Heliport=<line-height\=35px>Bãi đáp\ntrực thăng</line-height>
+Canteen=Căn tin
+Common Area=Nơi tụ tập
+Cafeteria=Nhà ăn
+In Front of Dormitories=Phía trước\nKý túc xá
+In Front of Academy Building=Phía trước\nKhu học xá
+Map=Map 
 
 SKIP=Bỏ qua
 INFORMATION=THÔNG TIN

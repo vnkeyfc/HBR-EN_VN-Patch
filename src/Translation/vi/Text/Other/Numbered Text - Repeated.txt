@@ -145,8 +145,40 @@
 <size\=36>59</size>/<size\=32>60</size>=<size\=30>59</size><size\=24>/60</size>
 <size\=36>60</size>/<size\=32>60</size>=<size\=30>60</size><size\=24>/60</size>
 
+[LimitBreakLv.]
+<size\=24>Lv.</size><size\=40>0</size>=<size\=24>Lv.</size><size\=32>0</size>
+<size\=24>Lv.</size><size\=40>1</size>=<size\=24>Lv.</size><size\=32>1</size>
+<size\=24>Lv.</size><size\=40>2</size>=<size\=24>Lv.</size><size\=32>2</size>
+<size\=24>Lv.</size><size\=40>3</size>=<size\=24>Lv.</size><size\=32>3</size>
+<size\=24>Lv.</size><size\=40>4</size>=<size\=24>Lv.</size><size\=32>4</size>
+<size\=24>Lv.</size><size\=40>5</size>=<size\=24>Lv.</size><size\=32>5</size>
+<size\=24>Lv.</size><size\=40>6</size>=<size\=24>Lv.</size><size\=32>6</size>
+<size\=24>Lv.</size><size\=40>7</size>=<size\=24>Lv.</size><size\=32>7</size>
+<size\=24>Lv.</size><size\=40>8</size>=<size\=24>Lv.</size><size\=32>8</size>
+<size\=24>Lv.</size><size\=40>9</size>=<size\=24>Lv.</size><size\=32>9</size>
 <size\=24>Lv.</size><size\=40>10</size>=<size\=24>Lv.</size><size\=32>10</size>
+<size\=24>Lv.</size><size\=40>11</size>=<size\=24>Lv.</size><size\=32>11</size>
+<size\=24>Lv.</size><size\=40>12</size>=<size\=24>Lv.</size><size\=32>12</size>
+<size\=24>Lv.</size><size\=40>13</size>=<size\=24>Lv.</size><size\=32>13</size>
+<size\=24>Lv.</size><size\=40>14</size>=<size\=24>Lv.</size><size\=32>14</size>
+<size\=24>Lv.</size><size\=40>15</size>=<size\=24>Lv.</size><size\=32>15</size>
+<size\=24>Lv.</size><size\=40>16</size>=<size\=24>Lv.</size><size\=32>16</size>
+<size\=24>Lv.</size><size\=40>17</size>=<size\=24>Lv.</size><size\=32>17</size>
+<size\=24>Lv.</size><size\=40>18</size>=<size\=24>Lv.</size><size\=32>18</size>
+<size\=24>Lv.</size><size\=40>19</size>=<size\=24>Lv.</size><size\=32>19</size>
 <size\=24>Lv.</size><size\=40>20</size>=<size\=24>Lv.</size><size\=32>20</size>
+
+[LimitBreakShard]
+Insufficient (0/10)=Không đủ (0/10)
+Insufficient (1/10)=Không đủ (1/10)
+Insufficient (2/10)=Không đủ (2/10)
+Insufficient (3/10)=Không đủ (3/10)
+Insufficient (4/10)=Không đủ (4/10)
+Insufficient (5/10)=Không đủ (5/10)
+Insufficient (6/10)=Không đủ (6/10)
+Insufficient (7/10)=Không đủ (7/10)
+Insufficient (8/10)=Không đủ (8/10)
+Insufficient (9/10)=Không đủ (9/10)
 
 [Beginner_Mission]
 Board 1: Beginner Missions=Bảng 1: Nhiệm vụ tân thủ
@@ -196,3 +228,27 @@ All Stats +17=Tất cả +17
 All Stats +18=Tất cả +18
 All Stats +19=Tất cả +19
 All Stats +20=Tất cả +20
+
+All Stats +0%=Tất cả +0%
+All Stats +1%=Tất cả +1%
+All Stats +2%=Tất cả +2%
+All Stats +3%=Tất cả +3%
+All Stats +4%=Tất cả +4%
+All Stats +5%=Tất cả +5%
+All Stats +6%=Tất cả +6%
+All Stats +7%=Tất cả +7%
+All Stats +8%=Tất cả +8%
+All Stats +9%=Tất cả +9%
+All Stats +10%=Tất cả +10%
+All Stats +11%=Tất cả +11%
+All Stats +12%=Tất cả +12%
+All Stats +13%=Tất cả +13%
+All Stats +14%=Tất cả +14%
+All Stats +15%=Tất cả +15%
+All Stats +16%=Tất cả +16%
+All Stats +17%=Tất cả +17%
+All Stats +18%=Tất cả +18%
+All Stats +19%=Tất cả +19%
+All Stats +20%=Tất cả +20%
+All Stats +30%=Tất cả +30%
+All Stats +40%=Tất cả +40%

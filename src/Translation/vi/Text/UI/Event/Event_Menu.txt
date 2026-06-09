@@ -1,10 +1,10 @@
 [General]
 Currently Live=<size\=90%>Đang diễn ra</size>
-イベントミッション=Nhiệm vụ Sự kiện
+イベントミッション=Nhiệm vụ sự kiện
 Archived=Đã lưu trữ
 振り返り=Xem lại
 シェア=Chia  sẻ
-イベントプリズム=Lăng kính Sự kiện
+イベントプリズム=Prism Event
 From the Beginning=Theo dõi từ đầu
 編成制限=Giới hạn đội hình
 開始する=Bắt đầu
@@ -18,8 +18,8 @@ Upon Clearing Chapter 2=Sau khi hoàn thành Chương 2
 Upon Clearing Chapter 1=Sau khi hoàn thành Chương 1
 
 [Exchange]
-メダル所持数=<size\=85%>  Huy chương hiện có:</size>
-r:"^Tokens Needed: (\d+)$"=Số huy chương cần đổi: $1
+メダル所持数=<size\=85%> Huân chương hiện có</size>
+r:"^Tokens Needed: (\d+)$"=Số huân chương cần đổi: $1
 
 [Dungeon]
 ダンジョン選択=<size\=80%><cspace\=-2px>Lựa chọn phó bản</cspace></size>

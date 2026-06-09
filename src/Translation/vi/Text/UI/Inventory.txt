@@ -1,6 +1,12 @@
-売却=Bán đi
-=Vật phẩm
+売却=<size\=80%>Bán đi</size>
+合成=<size\=80%>Dung hợp</size>
+﻿アイテム=Vật phẩm
 入手方法=Nhận ở đâu
-チップ=
 成長素材=Nâng cấp
 ピース=Mảnh
+変換=<size\=70%><space\=-30px>Chuyển hoá</size>
+Items=Vật phẩm
+Sale=
+Crystal Exchange=<size\=80%>Của hằng đổi Pha lê</size>
+Synthesis=Dung hợp
+Exchange Qty:=Số lượng

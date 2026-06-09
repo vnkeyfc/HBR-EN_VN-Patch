@@ -10,3 +10,11 @@
 
 /UIStaminaRecoveryDialog4(Clone)/container/front/recoveryBox/HCFlame/free/title|'Miễn phí'|'<size=75%>Miễn phí</size>'
 /UIStaminaRecoveryDialog4(Clone)/container/front/recoveryBox/HCFlame/paid/title|'Có phí'|'<size=80%>Có phí</size>'
+
+/RootView/UI-Background/UIBG/UIGardenExpeditionMap/scrollView/Viewport/Content/template(Clone)/Windows/leftWindow/breakthroughLabel|'Tiến độ'|'<size=135%>Tiến độ</size>'
+
+/UIAccessorySynthesis(Clone)/container/commonBg/subTitle|'Dung hợp'|''
+
+/RootView/UI-Foreground/Notification/UIMissionRewardNotification/Information/MissionTitle|'Mission Accomplished!'|'Nhiệm vụ hoàn thành!'
+
+/RootView/UI-Foreground/Main/UIExchangeStyle2/container/scrollView/Viewport/Content/exchangeStyleTemplate(Clone)/image/limitBreak/limit|'Đột phá'|'<voffset=-10px><size=135%>Đột phá</size>'

@@ -2,6 +2,7 @@
 r:"^(\d+) Day\(s\) Left$"=Còn $1 ngày
 r:"^(\d+) D (\d+) H remaining$"=Còn $1 ngày $2 giờ
 r:"^Until (\d+)/(\d+)/(\d+) (\d+:\d+)\(UTC([+-]\d+)\)$"=Đến hết $2/$1/$3  -  $4
+r:"Refresh: (\d+) Day\(s\) Left"=Còn $1 ngày cho tới khi reset
 
 [Giờ]
 r:"^(\d+) Hour\(s\) Left$"=Còn $1 giờ

@@ -1,0 +1,7 @@
+アイテム購入\n（GP）=Mua vật phẩm\n(GP)
+アイテム購入\n（GGP）=Mua vật phẩm\n(GGP)
+アクセサリ錬成=Chế tạo phụ kiện
+クリスタル交換所=Cửa hàng đổi Pha lê
+Badge Exchange=Cửa hàng Huân chương Thảo phạt
+SS Memoria Exchange=Cửa hàng đổi Style SS
+プレミアメダル交換所=Cửa hàng Huân chương Premium

@@ -1,2 +1,3 @@
 スタイル一覧=<size\=80%>Danh sách Style</style>
-スタイル総合戦力=Tổng lực chiến Style
+スタイル総合戦力=Tổng lực chiến Style 
+SSスタイル交換所=<size\=80%>Cửa hàng đổi Style SS</style>
