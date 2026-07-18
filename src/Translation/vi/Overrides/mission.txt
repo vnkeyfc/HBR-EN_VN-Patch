@@ -1,0 +1,1 @@
+/RootView/UI-Foreground/Notification/UIMissionRewardNotification/Information/MissionTitle|'Mission Accomplished!'|'Nhiệm vụ hoàn thành!'

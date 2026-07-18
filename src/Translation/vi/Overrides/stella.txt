@@ -1,0 +1,1 @@
+/RootView/UI3D/UIDimensionBattleTop/header/title|'<size=80%><cspace=-2.5px><space=-10>Truy Quét Hằng Tinh'|'<size=77%><cspace=-4px><space=-10>Truy Quét Hằng Tinh'

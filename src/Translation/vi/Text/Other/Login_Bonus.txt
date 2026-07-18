@@ -1,0 +1,15 @@
+r:"^Day (\d+)$"=Ngày $1
+※ログインボーナスは、毎日4:00にリセットされます。=*Quà điểm danh sẽ tự động reset vào 14:00 hằng ngày.
+Reward(s) Acquired=Đã nhận thưởng
+Daily Login Bonus=Điểm danh hằng ngày
+sr:"^(.+) \| (.+)$"=$1 | $2
+
+
+[Nanami_Quote]
+Here is your allowance for today.=Đây là quân nhu bổ sung của ngày hôm nay.
+Thank you for your service.=Thật tốt vì bạn đã luôn rèn luyện chăm chỉ.
+Please take care and do not push yourself\nif you feel sick or sleep-deprived.=Hãy hạn chế ra trận nếu bản thân đang\ncảm thấy không khỏe hoặc thiếu ngủ nhé.
+We have been waiting for you.\nPlease take this.=Tôi đã đợi bạn đến đấy.\nXin hãy nhận lấy thứ này.
+Please do your best today.=Hôm nay cũng cố gắng lên nhé.
+Dun-du-dun-duuun!\n...I just wanted to try saying that.\nDon't pay it any mind.=Tè-ten-tèn-tennnn!\nChỉ là tôi muốn nói thử vậy thôi,\nkhông có ý nghĩa gì đặc biệt đâu.
+Yeah, my name has "nana" in it twice. Get over it!\n...I just wanted to try saying that.\nDon't pay it any mind.=<size\=90%>Ngoài chữ 'se' và 'mi' ra thì toàn là chữ 'Na',\ncái tên gì lạ vậy! Chỉ là tôi muốn nói thử vậy thôi,\nkhông có ý nghĩa gì đặc biệt đâu.

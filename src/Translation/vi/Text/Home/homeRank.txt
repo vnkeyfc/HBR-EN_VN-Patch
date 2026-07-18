@@ -1,0 +1,8 @@
+Chapter Cleared=Hoàn thành Chương
+
+メインストーリー進行で以下の機能が解放されます=Tiếp tục Chính Truyện để mở khóa các tính năng sau:
+
+[Chapter-1]
+・<color\=#91eaf2>Socializations</color> Unlocked=・Mở khoá <color\=#91eaf2>Giao lưu</color>
+・<color\=#91eaf2>Hyperbolic Time Arena </color> Unlocked\n・<color\=#91eaf2>Arena: Battle Guide</color> Unlocked=・Mở khoá <color\=#91eaf2>Luyện Trường Thời Không</color>\n・Mở khoá <color\=#91eaf2>Arena: Hướng dẫn chiến đấu</color>
+・<color\=#91eaf2>Flashback Battles</color> Unlocked \n・<color\=#91eaf2>Token Exchange</color> Unlocked=・Mở khoá <color\=#91eaf2>Prism Battle</color>\n・Mở khoá <color\=#91eaf2>Cửa hàng Token</color>

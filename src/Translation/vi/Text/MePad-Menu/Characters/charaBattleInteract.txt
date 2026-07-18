@@ -1,0 +1,55 @@
+//[Kayamori-Ruka]
+//## 一気に片付けるぞ。
+//This'll be a piece of cake.=Dứt điểm trong một lượt nào.
+//## あたしらならやれるさ。
+//We've got this.=<size\=90%>Nếu là chúng ta thì dư sức làm được thôi.
+//## チャンスだ！
+//Now's our chance!=Cơ hội đây rồi!
+//## やるな！
+//Nice!=Được đấy!
+//## さっすが！
+//Woah, sick!=Quá đỉnh!
+//## やるね！
+//Sick moves!=
+//## その調子だ！
+//Lookin' good!=Cứ giữ đà đó nha!
+//## 一気に行こうぜ！
+//Let's go all out!=Xông lên một lượt luôn nào!
+//## よっ！ 待ってました！
+//You're a rock star!=Dô! Tớ đợi mãi đấy!
+//## くぅーいいねー！
+//That's the stuff!=Chàaaa, được đấy chứ!
+//## こいつはありがてー！
+//Thanks! You rock!=Cám ơn bồ nhé!
+//
+//Look at you!=Được đó!
+//## みんな、行くぜ！
+//It's time to rock n' roll!=Mọi người, lên nào!
+//
+//
+//[Izumi-Yuki]
+//## みんな、冷静にな。
+//Stay cool, everyone.=Mọi người, giữ cái đầu lạnh đấy.
+//## 焦らず慎重に行くぞ。
+//Be careful, and don't overthink things.=Cứ bình tĩnh và cẩn thận mà triển thôi.
+//## この流れに乗ろうぜ！
+//That's how it's done!=Nương theo đà này luôn nào!
+//## いいじゃねーか！
+//Nice shot!=Được đấy chứ!
+//
+//Woah, sweet!=
+//## 一気に畳みかけようぜ。
+//Let's shut this down!=Dứt điểm trong một lượt luôn đi.
+//## その調子で頼むぜ。
+//Keep up that pace.=Cứ giữ vững phong độ đó nhé.
+//## よし、チャンスだ！
+//Alright, now's our chance!=Hay lắm, cơ hội đây rồi!
+//## あんま張り切り過ぎんなよ。
+//Don't let it go to your head now.=Đừng có căng thẳng quá sức đấy.
+//## お、こいつはいいな。
+//Oh. Appreciate it.=Ồ, cái này được đấy nhỉ.
+//## 使わせてもらうぜ。
+//Time for an upgrade.=Mượn tạm xài tí nhé.
+//Nice kill!=Hay lắm!
+//## このチャンスを逃すな！
+//Don't miss this opportunity!=Đừng để sổng mất cơ hội này!

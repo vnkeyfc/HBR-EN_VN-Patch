@@ -1,0 +1,4 @@
+[Reacquire_Assets]
+アセットを再取得する=Tải lại tài nguyên
+頻繁にアプリが強制終了する方や、文字化けなどの不具合が発生する方は\r\n以下のボタンからアセットを再取得してください。\r=Nếu bạn gặp tình trạng ứng dụng bị sập liên tục hoặc xảy ra lỗi\nhiển thị chữ, vui lòng nhấn nút bên dưới để tải lại tài nguyên.\n
+※セーブデータは消去されません。\r\n※アセットの再取得に時間がかかるため、Wi-Fi環境をおすすめします。\n※アセットの再取得をしても不具合が解消されない場合は、運営までお問い合わせください。=※Dữ liệu lưu trữ (Save Data) sẽ không bị xóa. \n※Quá trình tải lại tài nguyên có thể mất nhiều thời gian, khuyến khích có kết nối mạng mạnh. \n※Nếu đã tải lại tài nguyên mà vẫn không khắc phục được sự cố, vui lòng liên hệ CSKH.

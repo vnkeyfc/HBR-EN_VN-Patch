@@ -1,0 +1,12 @@
+[Menu]
+メニュー=Menu
+User Interface=Menu
+お知らせ一覧=Thông báo
+お問い合わせ=Hỗ trợ người dùng
+キャッシュクリア=Xoá dữ liệu cache
+アセット再取得=Khôi phục tài nguyên
+セーブデータ修復=Khôi phục Save Data
+一括ダウンロード=Tải trước tài nguyên
+利用規約等=Điều khoản dịch vụ
+ライセンス=Chính sách quyền riêng tư
+応援レビュー=Tài khoản

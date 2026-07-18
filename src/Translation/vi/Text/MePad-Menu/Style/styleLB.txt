@@ -1,0 +1,12 @@
+[Limit_Break]
+CLv.上限=Giới hạn CLv.
+限界突破の器=Bình Đột Phá
+限界突破数=Số lần Đột phá
+Limit Break Lv. 1=Đột phá giới hạn Lv.1
+Limit Break Lv. 2=Đột phá giới hạn Lv.2
+Limit Break Lv. 3=Đột phá giới hạn Lv.3
+Limit Break Lv. 4=Đột phá giới hạn Lv.4
+Limit Break Lv. 5=Đột phá giới hạn Lv.5
+Limit Break Lv. 10=Đột phá giới hạn Lv.10
+Limit Break Lv. 20=Đột phá giới hạn Lv.20
+100% will be consumed through Limit Break level 2.\n200% will be consumed from Limit Break level 3 onwards.=Đột phá giới hạn đến Lv.2 tiêu hao 100%\nĐột phá giới hạn Lv.3 trở đi tiêu hao 200%

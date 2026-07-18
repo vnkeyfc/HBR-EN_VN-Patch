@@ -1,0 +1,146 @@
+{
+  "Schema": 1,
+  "Source": "TMP_Text.text fallback",
+  "MoviePath": "Assets/Contents/Movie/Story/MC01/MC01_EndingLive.usm.bytes",
+  "Notes": "Fallback dump from visible TMP text. Edit Text and Style fields. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {
+    "FontSize": 40
+  },
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 21.725,
+      "EndSecond": 32.325,
+      "OriginalText": "It's not like I have any special talent. What exactly am I being told to grasp onto?",
+      "Text": "Tớ chẳng có tài cán gì đặc biệt,\nvậy rốt cuộc họ bảo tớ phải nắm lấy điều gì đây?",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 32.324,
+      "EndSecond": 42.917,
+      "OriginalText": "Grasping vainly at straws, I just spend my days spinning my wheels, but oh, well.",
+      "Text": "Cứ quờ quạng giữa khoảng không rỗng tuếch,\nngày qua ngày chỉ toàn xoay vòng vô ích... mà thôi, kệ vậy.",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 42.929,
+      "EndSecond": 45.614,
+      "OriginalText": "Ah it's her wish, crazy for me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 45.626,
+      "EndSecond": 48.232,
+      "OriginalText": "I'll take a deep breath and get down to business.",
+      "Text": "Hít một hơi thật sâu, nào, ta bắt đầu thôi.",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 48.226,
+      "EndSecond": 50.929,
+      "OriginalText": "Ah it's her wish, quest for me undying",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 50.935,
+      "EndSecond": 55.625,
+      "OriginalText": "That's the stage I'll bet my life on.",
+      "Text": "Nơi ấy là sân khấu mà tớ đem cả mạng sống ra đặt cược",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 55.631,
+      "EndSecond": 58.025,
+      "OriginalText": "Even if I forget you,",
+      "Text": "Dẫu có quên mất cậu,",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 58.031,
+      "EndSecond": 61.025,
+      "OriginalText": "I'll still take you along",
+      "Text": "tớ vẫn sẽ mang cậu theo cùng",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 61.031,
+      "EndSecond": 63.322,
+      "OriginalText": "To the edge of isolation, a sea of imaginary numbers,",
+      "Text": "đến tận cùng cô độc, giữa biển số ảo,",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 63.334,
+      "EndSecond": 66.321,
+      "OriginalText": "Even if time should stop.",
+      "Text": "dẫu thời gian có ngừng trôi.",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 66.328,
+      "EndSecond": 68.824,
+      "OriginalText": "Is it heaven to wait?",
+      "Text": "Thứ chờ đợi ta là thiên đường?",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 68.824,
+      "EndSecond": 71.63,
+      "OriginalText": "Or is it hell?",
+      "Text": "Hay là địa ngục đây?",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 71.624,
+      "EndSecond": 74.231,
+      "OriginalText": "I can offer up my beating heart",
+      "Text": "Tớ sẽ dâng cả trái tim này",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 74.224,
+      "EndSecond": 77.23,
+      "OriginalText": "If it means I can burn up with you",
+      "Text": "Nếu được cháy rụi cùng cậu,",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 77.224,
+      "EndSecond": 80.224,
+      "OriginalText": "I give my blessing to budding life.",
+      "Text": "tớ sẽ trao lời chúc phúc cho mầm sống vừa chớm nở.",
+      "Style": {}
+    }
+  ]
+}

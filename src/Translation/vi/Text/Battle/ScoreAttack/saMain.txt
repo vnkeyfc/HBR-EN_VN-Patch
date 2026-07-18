@@ -1,0 +1,21 @@
+[Title]
+スコアアタック=Score Challenge
+
+[Menu]
+r:"^Before (\d+)/(\d+)/(\d+) (.+).$"=Diễn ra đến $2/$1/$3 - 13:59 (Theo giờ VN)
+
+[New]
+A powerful enemy from the event story has appeared in the Score Challenge!\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch mới xuất hiện tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Style S trở lên\ncùng nguyên liệu Introjection!
+
+[Old]
+A certain powerful enemy is back with a vengeance!\n\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch cũ đã quay lại tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Style S trở lên\ncùng nguyên liệu Introjection!
+
+r:^<style\=RubyPrefixTag></style>\nThis Score Challenge features a boss from the \"(.+)\" event\.\nIt is recommended that you attempt it after clearing the event story\. Are you sure you wish to continue\?$=<style\=RubyPrefixTag></style>\nScore Challenge này xuất hiện Boss từ sự kiện "$1".\nKhuyến khích tham gia sau khi hoàn thành cốt truyện sự kiện.\nBạn có chắc muốn tiếp tục không?
+
+期間外=<size\=80%>Đã kết thúc
+
+難易度=Độ khó
+敵ステータス=Chỉ số kẻ địch
+難易度スコア=Điểm độ khó
+グレード：=Grade:
+r:"^From (\d+)/(\d+) (\d+:\d+)\(UTC-7\) until (\d+)/(\d+) (\d+:\d+)\(UTC-7\)$"=Từ  $2/$1 - $3  đến  $5/$4 - $6  (UTC-7)

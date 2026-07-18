@@ -1,3 +1,0 @@
-やめる=Dừng lại
-再戦する=Tái khiêu chiến
-再戦しますか？=Bạn có muốn tái khiêu chiến?

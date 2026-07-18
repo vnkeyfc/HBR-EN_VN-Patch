@@ -1,0 +1,2 @@
+[Save_Data]
+<style\=RubyPrefixTag></style>\nWipes your progress in the current day, as well as any automatic battle data, and resets you to the Home screen.\n Try this if you encounter an error during gameplay and are left unable to progress.=<style\=RubyPrefixTag></style><br>Hệ thống sẽ xoá toàn bộ tiến trình trong ngày, cũng như\ndữ liệu chiến đấu tự động và đưa bạn về Màn hình chính\n\n<size\=80%>Hãy sử dụng chức năng này nếu bạn gặp lỗi hoặc không thể tiếp tục tiến trình</size>

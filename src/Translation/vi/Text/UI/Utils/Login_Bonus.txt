@@ -1,8 +1,0 @@
-r:"^Day (\d+)$"=Ngày $1
-※ログインボーナスは、毎日4:00にリセットされます。=*Quà điểm danh sẽ tự động reset vào 14:00 hằng ngày.
-
-[Nanami_Quote]
-Here is your allowance for today.=Đây là nhu yếu phẩm bổ sung của ngày hôm nay.
-Thank you for your service.=Cảm ơn vì đã luôn chăm chỉ.
-Please take care and do not push yourself\nif you feel sick or sleep-deprived.=Hãy hạn chế ra trận nếu bản thân đang\ncảm thấy không khỏe hoặc thiếu ngủ nhé.
-We have been waiting for you.\nPlease take this.=Tôi đã đợi bạn đến đấy.\nXin hãy nhận lấy thứ này.

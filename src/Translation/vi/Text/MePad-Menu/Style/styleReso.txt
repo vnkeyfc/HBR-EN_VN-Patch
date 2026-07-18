@@ -1,0 +1,16 @@
+サポートステータス=Chỉ số hỗ trợ
+共鳴アビリティは、SS<レゾナンス>スタイルのサポート枠に\r\nこのスタイルを編成したとき、効果を発揮します。\r\nメイン枠にこのスタイルを編成した場合は発揮されません。=<align\=justified>Kỹ năng Cộng hưởng sẽ phát huy hiệu quả khi bạn đưa Style này vào ô\nHỗ trợ của Style SS(Resonance). Nếu bạn thiết lập Style này vào ô Chính,\nhiệu quả sẽ không được phát huy.</align>
+初期=Mặc định
+※CLv.最大、限界突破/能力強化全開放、悠久のダフネ未使用時の数値です=※Đây là chỉ số khi tối đa CLv, Đột phá/Cường hóa và chưa sử dụng Thụy Hương Vĩnh Cửu.
+
+[Beat-Down,Rise-Up]
+r:"At the start of battle: Recover this unit's DP up to (\d+)%\n\(once per sortie\)."=Khi bắt đầu trận đấu, hồi phục DP của bản thân lên đến $1%\n(1 lần duy nhất xuyên suốt trận đấu)
+
+[Love-and-Peace]
+r:"For 3 turns at start of battle: \+(\d+)% DEF to self."=Tăng $1% phòng thủ của bản thân cho đến lượt 3 tính từ khi\nbắt đầu trận đấu.
+
+[Failure-Is-Not-An-Option]
+r:"\+(\d+) skill uses? for skills that deal damage to enemies\n\(does not apply to skills with limited uses\)."=Số lần sử dụng các kỹ năng gây sát thương lên kẻ địch +$1\n(Ngoại trừ các kỹ năng bị giới hạn số lần dùng)
+
+[Fly-High!]
+r:"Increases Devastation Rate inflicted and Skill ATK\nby this unit's skill attacks by (\d+)%."=Khi bản thân sử dụng kỹ năng tấn công, tăng $1% cho cả lượng \nTỉ lệ Phá hoại và sức công của kỹ năng.

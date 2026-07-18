@@ -1,0 +1,3 @@
+Crafting=Chế tạo phụ kiện
+
+錬成=Chế tạo

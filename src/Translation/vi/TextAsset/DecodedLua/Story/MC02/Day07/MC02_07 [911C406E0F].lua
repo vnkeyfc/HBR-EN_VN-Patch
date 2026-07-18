@@ -1,0 +1,20 @@
+ROUTINE()PrepareDay()
+Timebox("MC02_07_01_00","",function()
+Novel("Lua/Story/MC02/Day07/Novel/MC02_07_01_00")end)
+Timebox("MC02_07_06_00","",function()
+Novel("Lua/Story/MC02/Day07/Novel/MC02_07_06_00")ConfirmDeck()
+local A=ExpeditionWorld("Expedition.MC02","Lua/Story/MC02/Common/Expedition/Expedition_MC02_Phase02","MC02_Phase02","Area02","GatePoint_1")Sound.stopAllENV()
+if A==ExpeditionResult.TrueEnd then Log("ExpeditionResult: "..
+"ゴール！")
+SetFlag("MC02_07_Result",1)elseif A==ExpeditionResult.GoodEnd then
+Log("ExpeditionResult: ".."離脱！")SetFlag("MC02_07_Result",2)elseif A==ExpeditionResult.BadEnd then Log(
+"ExpeditionResult: ".."バトル敗北")
+SetFlag("MC02_07_Result",3)end;Novel("Lua/Story/MC02/Day07/Novel/MC02_07_06_02")end)
+Timebox("MC02_07_08_00","",function()
+World("Lua/Story/MC02/Day07/World/MC02_07_08_00","MainStreet","CafeteriaPoint")end)
+Timebox("MC02_07_09_00","",function()
+Novel("Lua/Story/MC02/Day07/Novel/MC02_07_09_00")end)
+Timebox("MC02_07_10_00","",function()
+Novel("Lua/Story/MC02/Day07/Novel/MC02_07_10_00")end)BathTimebox("MC02_07_11_00",false)
+Routine(function()
+Yield("Lua/Story/MC02/Common/TimeLimit")Exit()end)

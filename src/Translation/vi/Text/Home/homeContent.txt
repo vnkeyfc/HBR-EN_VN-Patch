@@ -1,0 +1,6 @@
+[Content]
+ライブ=Live 
+ギャラリー=Gallery 
+アーツバトル=Arts Battle 
+称号バッジ=Huy hiệu
+Roster=Hồ sơ

@@ -1,0 +1,3 @@
+[Dungeon]
+・ダンジョンでバトル終了時に部隊の並び順を保存する=・Ghi nhớ thứ tự đội hình khi kết thúc trận đấu trong Dungeon
+・ダンジョン内の移動速度をアップする=・Tăng tốc độ di chuyển trong Dungeon

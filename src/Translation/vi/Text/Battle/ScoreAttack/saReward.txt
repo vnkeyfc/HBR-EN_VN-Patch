@@ -1,0 +1,8 @@
+スコア：=Điểm số :
+達成=<size\=80%>Đạt được
+ループ報酬=Thưởng lặp
+ハイスコア=Điểm cao nhất
+累計スコア=<size\=75%>Điểm tích luỹ
+ハイスコア報酬=Phần thưởng điểm cao
+累計報酬=Phần thưởng tích luỹ
+ミッション報酬=Phần thưởng nhiệm vụ

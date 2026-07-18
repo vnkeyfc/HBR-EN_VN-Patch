@@ -1,0 +1,51 @@
+{
+  "Schema": 1,
+  "Source": "TMP_Text.text fallback",
+  "MoviePath": "Assets/Contents/Movie/Story/MC00/MC00_Prologue_Fix_SoundMix_211022.usm.bytes",
+  "Notes": "Edit Text and Style fields. StartSecond and EndSecond are reference values from the game. Vietnamese can be typed directly as UTF-8.",
+  "DefaultStyle": {
+    "FontSize": 40,
+    "LineSpacing": -8,
+    "Alignment": "Center",
+    "Color": "#FFFFFF",
+    "EnableWordWrapping": true
+  },
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 5.854,
+      "EndSecond": 11.519,
+      "OriginalText": "I have this really bad feeling...",
+      "Text": "Tớ có linh cảm xấu...",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 11.551,
+      "EndSecond": 17.518,
+      "OriginalText": "I usually have good vibes about everything.",
+      "Text": "Trước giờ tớ vốn chỉ toàn có những linh cảm tốt.",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 17.544,
+      "EndSecond": 21.56,
+      "OriginalText": "I'm that kind of carefree sort of person.",
+      "Text": "Một đứa vô lo vô nghĩ như tớ...",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 21.58,
+      "EndSecond": 25.07,
+      "OriginalText": "But this...just feels like something terrible's going to happen.",
+      "Text": "Vậy mà lúc này lại có dự cảm chẳng lành...",
+      "Style": {}
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[General]
+部隊一覧=Danh sách đội hình
+メイン編成中=Đội hình chính
+サポート編成中=Đang hỗ trợ
+編成中=<size\=70%>Trong đội</size>
+キャラクター選択=<size\=85%>Lựa chọn nhân vật</size>
+サポート選択=<size\=85%>Lựa chọn hỗ trợ</size>
+すべてはずす=<size\=85%>Gỡ toàn bộ</size>
+<style\=RubyPrefixTag></style>\nDiscarding formation data and returning to previous screen. Proceed?=<style\=RubyPrefixTag></style>\nHủy bỏ nội dung đang chỉnh sửa và quay về trạng thái cũ?
+編成\n=Đội\n
+Sortie=Xuất Trận
+
+[Title]
+Set Skills=<size\=80%>Thiết lập kỹ năng</size>
+Unit Details=<size\=80%>Chi tiết nhân vật</size>
+Memoria Details=<size\=80%>Chi tiết Style</size>
+Equip Boosters=<size\=80%>Trang bị Booster</size>
+Equip Accessories=<size\=80%>Trang bị phụ kiện</size>
+Support Unit Details=<size\=80%>Chi tiết hỗ trợ</size>
+
+[Option]
+スキル設定=<size\=90%>Thiết lập kỹ năng</size>
+キャラ詳細=<size\=90%>Chi tiết nhân vật</size>
+スタイル詳細=<size\=90%>Chi tiết Style</size>
+ブースター装備=<size\=90%>Trang bị Booster</size>
+アクセサリ装備=<size\=90%>Trang bị phụ kiện</size>
+サポート詳細=<size\=90%>Chi tiết hỗ trợ</size>
+
+[UI]
+一括選択=<size\=85%>Chọn nhanh</size>
+総合戦力=Lực chiến
+アクセサリLv.= Phụ kiện Lv.
+おすすめ編成=<size\=85%>Sắp xếp nhanh</size>
+おすすめサポート=<size\=85%>Hỗ trợ khuyến nghị</size>
+おすすめ装備=<size\=85%>Trang bị đề cử</size>
+Reorder=<size\=85%>Đổi vị trí</size>
+決定=Xác nhận
+一括編成=<size\=90%>Đổi nhanh</size>
+前回クリア部隊=<size\=90%>Đội hình trước</size>
+合計ステータス=Chỉ số tổng
+基礎ステータス=Chỉ số cơ bản
+スタイルステータス=Chỉ số Style
+設定可能=Có thể chọn
+はずす=<size\=80%>Gỡ bỏ</size>
+ストーリー状況と乖離しています=<size\=80%>Có đội viên không liên quan đến mạch truyện.
+This squad member cannot participate in this battle.=<size\=80%>Có đội viên không thể tham gia trận chiến này.
+Do not include units that diverge from the actual storyline.=Loại trừ nhân vật không liên quan đến mạch truyện
+このバトルには参加できないメンバーが含まれています\n編成から外してください=Đội hình có đội viên không thể tham gia trận chiến này.\nXin hãy thay thế bằng đội viên khác hoặc gỡ bỏ khỏi đội hình.
+
+[Switch]
+Main Formation=Đội hình chính
+Support Formation=Đội hình hỗ trợ
+タップでキャラクター編成、ドラッグ&ドロップで入れ替え=Nhấn vào để chọn nhân vật, kéo và thả để hoán đổi vị trí
+
+[Locked]
+Unlock by clearing Main Scenario: Chapter 3.=Hoàn thành Chính Truyện: Chương 3
+<style\=RubyPrefixTag></style>\nForbidden unit present=<style\=RubyPrefixTag></style>\nĐội hình có đội viên không hợp lệ
+
+[Utils]
+31A\n=31A 
+31B\n=31B 
+31C\n=31C 
+31D\n=31D 
+31E\n=31E 
+31F\n=31F 
+31X\n=31X 
+30G\n=30G 
+
+Overwrite this squad with the one you used to clear this assignment previously?=Thay đổi đội hình hiện tại với đội hình đã clear trước đó?
+
+r:"^<size\=32>Squad</size> <size\=48>(\d+)</size>$"=<size\=32>Đội hình</size> <size\=48>$1</size>
+
+r:"^<size\=20>Slot</size> (\d+)$"=Slot $1
+r:"^(\d+) use\(s\)$"=Sử dụng tối đa: $1 lần

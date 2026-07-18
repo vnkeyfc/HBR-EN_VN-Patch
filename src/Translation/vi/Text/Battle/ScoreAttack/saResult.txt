@@ -1,0 +1,12 @@
+ハイスコア更新!=Kỷ lục mới!
+挑戦グレード=Grade
+最終スコア=<size\=75%>Tổng điểm cuối
+合計スコア=Tổng số điểm
+r:"<size\=28>×</size>(.+)<size\=28> \(Intensity Bonus\)</size>"=<size\=28>×</size>$1<size\=23> (Grade Bonus)</size>
+r:"<size\=28>×</size>(.+)<size\=28> \((\d+) Turns Taken to Clear\)</size>"=<size\=28>×</size>$1<size\=23> (Hoàn thành nhanh nhất: $2 lượt)</size>
+ターン最大ダメージボーナス=Thưởng sát thương tối đa mỗi lượt
+ノーブレイクボーナス=Thưởng không bị BREAK
+スペシャルボーナス=Điểm thưởng đặc biệt
+ターゲット=Mục tiêu
+スコア結果=<size\=80%>Tổng kết
+Hope Devourer=<size\=70%>Kẻ Nuốt Chửng Hy Vọng

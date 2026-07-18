@@ -1,0 +1,69 @@
+やめる=Dừng lại
+再戦する=Tái khiêu chiến
+再戦しますか？=Bạn có muốn tái khiêu chiến?
+オーブボスⅢ=Orb Boss III
+オーブボスⅡ=Orb Boss II
+オーブボスⅠ=Orb Boss I
+r:"^Exo Observer (.+)$"=Exo Watcher $1
+r:"^Nihil Sinister and Nihil Rectus (.+)$"=Sinister & Rectus Nil $1
+オーブスキル習得状況=Tiến độ lĩnh hội Orb Skill
+オーブスキル=Orb Skill 
+熟練度=<size\=88%>Thông thạo
+Mastery=<size\=80%>Thông thạo
+習得済み=Đã lĩnh hội
+
+Orb of Criticality=Ngọc Bạo Kích
+Increases critical rate of this unit.=Tăng tỉ lệ bạo kích của bản thân.
+
+Orb of Restoration=Ngọc Phục Sinh
+Restoring Light=Repair Light
+Repairs broken shield and restores DP for this unit.=Khôi phục và hồi một lượng lớn DP.
+
+Orb of Impetus=Ngọc Động Lực
+Driving Force=Drive Gain
+Increases the Overdrive gauge.=Tăng thanh năng lượng Overdrive.
+
+Orb of Safeguarding=Ngọc Bảo Hộ
+Safeguard=Protection
+Slightly increases defense of this unit.=Tăng nhẹ phòng thủ của bản thân.
+
+Orb of Rage=Ngọc Cường Công
+Raging Attack=Attack Rise
+Draws out a single ally's hidden potential to raise the attack power of her skills.=Khai phá sức mạnh của một đồng minh và tăng sát thương kỹ năng.
+
+Orb of Concentration=Ngọc Tập Trung
+Slightly increases critical damage of this unit.=Tăng nhẹ sát thương bạo kích của bản thân.
+
+Orb of Skillfulness=Ngọc Sung Năng
+Skillful Means=Point Care
+Raises this unit's SP by 3.=Cộng thêm 3 SP cho bản thân.
+
+Orb of Aiding=Ngọc Trị Liệu
+Removes 1 debuff from this unit and moderately restores this unit's DP.=Giải trừ 1 hiệu ứng bất lợi và hồi một lượng vừa DP cho bản thân.
+
+Orb of Rending=Ngọc Nhuyễn Hoá
+Dampening=Softening
+Lowers the enemy's DEF.=Giảm sức phòng thủ của kẻ địch.
+
+Orb of Dampening=Ngọc Nhược Hoá
+Weakening=Weaken Power
+Removes 1 buff from an enemy unit and lowers their ATK.=Giải trừ 1 hiệu ứng có lợi và giảm sức công của kẻ địch.
+
+sr:"^Orb of (.+)bane$"=Ngọc Gia Trọng ($1)
+Firebane=Fire Graviton
+Slightly lowers an enemy's Ice DEF.\nDeals 10% of current HP damage (up to a max of 500.000) if the enemy has Ice vulnerability.=Giảm nhẹ phòng thủ thuộc tính Băng của kẻ địch.\nGây sát thương chuẩn 10% HP (tối đa 500.000) lên kẻ địch yếu Băng.
+
+Thunderbane=Thunder Graviton
+Slightly lowers an enemy's Thunder DEF.\nDeals 10% of current HP damage (up to a max of 500.000) if the enemy has Thunder vulnerability.=Giảm nhẹ phòng thủ thuộc tính Lôi của kẻ địch.\nGây sát thương chuẩn 10% HP (tối đa 500.000) lên kẻ địch yếu Lôi.
+
+Icebane=Ice Graviton
+Slightly lowers an enemy's Fire DEF.\nDeals 10% of current HP damage (up to a max of 500.000) if the enemy has Fire vulnerability.=Giảm nhẹ phòng thủ thuộc tính Hoả của kẻ địch.\nGây sát thương chuẩn 10% HP (tối đa 500.000) lên kẻ địch yếu Hoả.
+
+Darkbane=Dark Graviton
+Slightly lowers an enemy's Dark DEF.\nDeals 10% of current HP damage (up to a max of 500.000) if the enemy has Dark vulnerability.=Giảm nhẹ phòng thủ thuộc tính Ám của kẻ địch.\nGây sát thương chuẩn 10% HP (tối đa 500.000) lên kẻ địch yếu Ám.
+
+Lightbane=Light Graviton
+Slightly lowers an enemy's Light DEF.\nDeals 10% of current HP damage (up to a max of 500.000) if the enemy has Light vulnerability.=Giảm nhẹ phòng thủ thuộc tính Quang của kẻ địch.\nGây sát thương chuẩn 10% HP (tối đa 500.000) lên kẻ địch yếu Quang.
+
+
+sr:"^A mysterious orb imbued with a skill.\nGrants skill: (.+).$"=Viên bảo ngọc huyền bí chứa đựng sức mạnh.\nLĩnh hội kỹ năng: $1

@@ -1,0 +1,69 @@
+[Unit]
+{31A}
+[Ruka Kayamori]=[Kayamori Ruka]
+[Yuki Izumi]=[Izumi Yuki]
+[Megumi Aikawa]=[Aikawa Megumi]
+[Tsukasa Tojo]=[Tojo Tsukasa]
+[Karen Asakura]=[Asakura Karen]
+[Tama Kunimi]=[Kunimi Tama]
+
+{31B}
+[Erika Aoi]=[Aoi Erika]
+[Ichigo Minase]=[Minase Ichigo]
+[Sumomo Minase]=[Minase Sumomo]
+[Seika Higuchi]=[Higuchi Seika]
+[Kozue Hiiragi]=[Hiiragi Kozue]
+
+{31C}
+[Bon Ivar Yamawaki]=[Yamawaki Bon Ivar]
+[Yayoi Bungo]=[Bungo Yayoi]
+[Mari Satsuki]=[Satsuki Mari]
+[Adelheid Kanzaki]=[Kanzaki Adelheid]
+[Seira Sakuraba]=[Sakuraba Seira]
+[Miko Tenne]=[Tenne Miko]
+
+{31D}
+[Misato Nikaido]=[Nikaido Misato]
+[Akari Date]=[Date Akari]
+[Aina Mizuhara]=[Mizuhara Aina]
+[Risa Murofushi]=[Murofushi Risa]
+[Iroha Ishii]=[Ishii Iroha]
+[Fubuki Mikoto]=[Mikoto Fubuki]
+
+{31E}
+[Ichiko Ohshima]=[Ohshima Ichiko]
+[Niina Ohshima]=[Ohshima Niina]
+[Minori Ohshima]=[Ohshima Minori]
+[Yotsuha Ohshima]=[Ohshima Yotsuha]
+[Isuzu Ohshima]=[Ohshima Isuzu]
+[Muua Ohshima]=[Ohshima Muua]
+
+{31F}
+[Mion Yanagi]=[Yanagi Mion]
+[Kanata Maruyama]=[Maruyama Kanata]
+[Inori Natsume]=[Natsume Inori]
+[Shiki Hanamura]=[Hanamura Shiki]
+[Maki Kurosawa]=[Kurosawa Maki]
+[Chiroru Matsuoka]=[Matsuoka Chiroru]
+
+{30G}
+[Yuina Shirakawa]=[Shirakawa Yuina]
+[Miya Kiryu]=[Kiryu Miya]
+[Monaka Tsukishiro]=[Tsukishiro Monaka]
+[Satomi Kura]=[Kura Satomi]
+[Chie Sugawara]=[Sugawara Chie]
+[Hisame Ogasahara]=[Ogasahara Hisame]
+
+{31X}
+[Yingxia Li]=[Li Yingxia]
+
+{HQ}
+Saki Tezuka=Tezuka Saki
+[Nanami Nanase]=[Nanase Nanami]
+Makiko Asami=Asami Makiko
+
+{Angel Beats}
+[Kanade Tachibana]=[Tachibana Kanade]
+[Yuri Nakamura]=[Nakamura Yuri]
+[Miyuki Irie]=[Irie Miyuki]
+[Hisako Fuchita]=[Fuchita Hisako]

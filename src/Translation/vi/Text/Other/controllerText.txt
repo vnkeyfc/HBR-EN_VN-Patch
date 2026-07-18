@@ -1,0 +1,108 @@
+# Home Menu
+Move Cursor=Con trỏ
+Next Page=Tiếp tục
+Return=Trở về
+
+# Unit
+Copy Formation=Sao chép
+Squad List=Danh sách
+Switch Squads=Đội hình
+Edit Squad Name=Đặt tên
+Swap Multiple=Đổi nhanh
+選択/入れ替え=Chọn/Thay thế
+Previous Victors=Đội trước
+
+# Character
+Filter=Bộ lọc
+Sort By=Sắp xếp
+Ascending/Descending Order=Tăng dần/Giảm dần
+
+# Synthesis
+Auto-Select Settings=Thiết lập tự chọn
+Hold Down / Item Details=Nhấn giữ xem chi tiết
+
+# Sale
+Remove=Gỡ bỏ
+
+# Conversion
+Convert=Chuyển hoá
+
+# Theme
+Preview=Xem trước
+
+# Gacha
+Recruitment Probabilities/Details, Usage History=Chi tiết/Tỉ lệ, Lịch sử giao dịch
+Switch Screens=Đổi cảnh
+Bonus Gauge Details=Chi tiết về thưởng thanh tiến độ
+Exchange Details=Chi tiết về đổi thưởng
+Recruitment Probabilities/Details=Chi tiết / Tỉ lệ
+Usage History=Lịch sử giao dịch
+
+# Gift
+Verify=Xác nhận
+
+# Mission
+Claim=Nhận
+Claim All=Nhận nhanh
+
+# Exchange
+Exchange=Đổi
+About SS Memoria Exchange=Chi tiết về cửa hàng Style SS
+Confirm/Remove=Xắc nhận/Bỏ chọn
+
+# Craft
+Craft=Chế tạo
+
+# Style
+Switch Variants=Chuyển Style
+Display Illustration=Xem ảnh minh hoạ
+Details on MLv.=Chi tiết về SLv.
+Details on Limit Break=Chi tiết về Đột phá giới hạn
+Play Animation=Xem hoạt ảnh
+
+# Battle
+Activate Overdrive=Kích hoạt OVERDRIVE
+AUTO CONFIG SETTING=Cấu hình Điều chỉnh tự động
+Swap Units=Đội viên
+
+
+Recruit, Missions, Restore Life Points=Chiêu mộ, Nhiệm vụ, Hồi Life Point
+Recruit, Missions, Messages, Restore Life Points=Chiêu mộ, Nhiệm vụ, Tin nhắn, Hồi Life Point
+Next Period=Chuyển mốc thời gian
+End Training=Kết thúc tu luyện
+Hide UI=Ẩn UI
+Conversation Log=Back Log
+Settings=Cài đặt
+
+# Title Menu
+Display ID=Hiện ID
+
+Change Location=Chuyển vị trí
+Location Cursor=Địa điểm con trỏ
+Fast Travel:=Di chuyển nhanh
+HOME=Home
+
+# Model Viewing
+UI OFF=Ẩn UI
+Turn Character=Xoay nhân vật
+Move Character=Di chuyển nhân vật
+Zoom In=Phóng gần
+Zoom Out=Phóng xa
+Display 3D Model=Xem Model 3D
+
+Squad Formation Menu=Thiết lập đội hình
+Enable Audio=Phát thoại
+Details=Chi tiết
+Rwds.=Phần thưởng
+Start=Bất đầu
+
+Intensity On/Off=Chọn/Bỏ chọn Grade
+Attempt=Bắt đầu
+
+Prize List=Phần thưởng
+Token Exchange Details=Chi tiết
+Event Details=Chi tiết
+Help=Hỗ trợ
+Item Details=Chi tiết vật phẩm
+Receive=Nhận
+Recruit=Gacha

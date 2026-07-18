@@ -1,0 +1,14 @@
+ボーナススタイル=Style Bonus
+
+Fire-elementMemorias=Style mang thuộc tính Hoả
+Thunder-elementMemorias=Style mang thuộc tính Lôi
+Ice-elementMemorias=Style mang thuộc tính Băng
+Light-elementMemorias=Style mang thuộc tính Quang
+Dark-elementMemorias=Style mang thuộc tính Ám
+Slash-typeMemorias=Style thuộc hệ Trảm
+Pierce-typeMemorias=Style thuộc hệ Đột
+Crush-typeMemorias=Style thuộc hệ Đả
+
+※複数の条件を満たす場合、最も高い数値のみが適用されます=※Khi thỏa mãn nhiều điều kiện, chỉ áp dụng hiệu ứng có giá trị cao nhất.
+All Attributes+30=Mọi chỉ số +30
+All Attributes+15=Mọi chỉ số +15

@@ -1,0 +1,16 @@
+[Label]
+入手済=Đã nhận
+確認=Xác nhận
+進捗報酬=<size\=130%>Tiến độ</size>
+Event Missions=<size\=80%>Nhiệm vụ sự kiện</size>
+
+[Tab]
+Beginner Missions=Nhiệm vụ tân thủ
+Master Missions=Nhiệm vụ cao thủ
+Monthly Missions=Nhiệm vụ hằng tháng
+デイリー=Hằng ngày
+ウィークリー=Hằng tuần
+累計=Dài hạn
+チャレンジ\n=Thử thách
+期間限定=Giới hạn
+

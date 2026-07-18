@@ -1,0 +1,4 @@
+[Auto_Support]
+<style\=RubyPrefixTag></style>\nDo you want to assign support units automatically?=<style\=RubyPrefixTag></style>\nTự động thiết lập đội hình hỗ trợ khuyến nghị?
+
+Auto Support Formation complete.=Thiết lập Hỗ trợ khuyến nghị hoàn tất

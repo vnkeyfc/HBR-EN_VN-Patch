@@ -1,0 +1,7 @@
+[Label]
+才能開花=<line-height\=25px><size\=120%>Khai mở\nthiên phú</size>
+開花完了=Đã khai mở
+才能開花済です=Đã khai mở thiên phú
+演出再生=Xem lại hoạt ảnh
+
+どのレアリティのスタイルも才能開花が可能です\n才能開花は巻き戻すことはできません=<size\=120%>Style thuộc bất kỳ độ hiếm nào cũng có thể khai mở thiên phú.\nBạn không thể hoàn tác một khi đã khai mở thiên phú.

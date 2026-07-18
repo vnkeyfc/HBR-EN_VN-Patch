@@ -1,0 +1,9 @@
+[Asset_Download]
+DOWNLOAD ALL=Tất cả
+DOWNLOAD RECOMMENDED=Khuyến nghị
+DOWNLOAD ESSENTIAL=Cần thiết
+DOWNLOAD RECOMMENDATION=※Khuyến khích tải trong môi trường mạng kết nối mạnh.\n※Dữ liệu tài nguyên phụ có thể được tải thêm ở\n[Cài đặt > Tuỳ chỉnh trong game > Tải trước tài nguyên]
+PRE DOWNLOAD OPTIONS DESCRIPTION=Để mang lại trải nghiệm tốt nhất khi chơi game, hệ thống đã cung cấp các tuỳ chọn tải tài nguyên:\n\n<align\=left>             Cần thiết: Tải dữ liệu tài nguyên thiết yếu cho trò chơi, dữ liệu âm thanh sẽ được tải sau.\n             Khuyến nghị: Tải nội dung chính và âm thanh để mang lại trải nghiệm cốt truyện tốt hơn.\n             Tất cả: Toàn bộ dữ liệu của trò chơi sẽ được tải xuống.\n</align>
+GAME RESOURCE PRE DOWNLOAD=Tải trước tài nguyên trò chơi
+
+r:"<style\=RubyPrefixTag></style>\n(.+) assets require updating. Start download?"=<style\=RubyPrefixTag></style>\nCần cập nhật $1 dữ liệu tài nguyên. Bắt đầu tải xuống?

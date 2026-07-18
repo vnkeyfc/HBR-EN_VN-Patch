@@ -1,0 +1,16 @@
+[MePad]
+シックスセンス=<size\=75%><cspace\=4px>Lục Cảm
+お知らせ=Thông báo
+設定=Cài đặt
+着せ替え=Giao diện
+部隊=Đội hình
+キャラ=Nhân vật
+スタイル=Style
+持ち物=Túi đồ
+
+[Exit]
+ゲームを終了する=<size\=95%>Thoát game</size>
+<style\=RubyPrefixTag></style>\nEnd the game?=<style\=RubyPrefixTag></style><br>Thoát khỏi trò chơi?
+
+[Gacha]
+<size\=22>Featured Recruitment Now Available</size>=<size\=22>Chiêu mộ đặc biệt đang diễn ra</size>

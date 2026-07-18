@@ -1,0 +1,41 @@
+[Left_Side]
+詳細=Chi tiết
+CLv. =CLv. 
+CLv.=Clv. 
+ULv.=CLv.
+戦力=Lực chiến
+絆 Lv.=Thân mật
+絆Lv.=T.Mật Lv.
+転生=Tái sinh
+ステータス=Chỉ số
+
+[Clv.]
+あと=Còn
+獲得=Nhận
+Unable to use. Already at maximum unit level.=CLv. đã đạt giới hạn, không thể sử dụng
+Unable to use. Already at Lv.10 or higher.=Đã đạt từ Lv.10 trở lên, không thể sử dụng
+Unable to use. Already at Lv.20 or higher.=Đã đạt từ Lv.20 trở lên, không thể sử dụng
+Unable to use. Already at Lv.30 or higher.=Đã đạt từ Lv.30 trở lên, không thể sử dụng
+Unable to use. Already at Lv.40 or higher.=Đã đạt từ Lv.40 trở lên, không thể sử dụng
+Unable to use. Already at Lv.50 or higher.=Đã đạt từ Lv.50 trở lên, không thể sử dụng
+Unable to use. Already at Lv.60 or higher.=Đã đạt từ Lv.60 trở lên, không thể sử dụng
+Unable to use. Already at Lv.70 or higher.=Đã đạt từ Lv.70 trở lên, không thể sử dụng
+Unable to use. Already at Lv.80 or higher.=Đã đạt từ Lv.80 trở lên, không thể sử dụng
+Unable to use. Already at Lv.90 or higher.=Đã đạt từ Lv.90 trở lên, không thể sử dụng
+Unable to use. Already at Lv.100 or higher.=Đã đạt từ Lv.100 trở lên, không thể sử dụng
+
+[Bond]
+ノイズ解放 Lv.=Giảm nhiễu
+交流クリア数=<size\=85%>Giao lưu đã clear
+メモストクリア数=Memory Story đã clear
+交流=Giao lưu
+メモリーストーリー=Memory Story
+
+[Rebirth]
+転生巻き戻し=Hoàn tác Tái sinh
+スキル枠=Ô Skill
+Each time you revert a unit, their base stats gain reversion bonuses, and skill slots increase with multiple reversions.=Tái sinh sẽ cộng thêm các chỉ số của nhân vật.\nKhi tái sinh nhiều lần, số ô skill cũng sẽ tăng.
+転生数\n=<space\=25px>Số lần Tái sinh\n
+Revert=Tái sinh
+Upon undoing a reversion, the unit's reversion level will decrease, and a Miracle Bell will be refunded.=Khi hoàn tác tái sinh, số lần tái sinh sẽ bị giảm xuống,\nđổi lại bạn có thể nhận được Chuông Kỳ Diệu.
+Undo Reversion=Hoàn tác Tái sinh

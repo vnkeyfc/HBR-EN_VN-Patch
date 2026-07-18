@@ -1,0 +1,5 @@
+[Input]
+連続入力の速度設定=Cài đặt tốc độ Input liên tục
+・連続入力開始までの長押し時間=・Thời gian nhấn lâu cho đến khi bắt đầu nhập liên tục
+・連続入力の間隔=・Khoảng thời gian Input liên tục
+※カーソル移動や個数選択の速度が変わります=※Tốc độ di chuyển con trỏ và lựa chọn số sẽ thay đổi.

@@ -1,0 +1,25 @@
+local w0qyLbH="Event"..WorldLabel()function preload()
+EventScene("CountryTownArena1","Assets/Lua/Story/MC02/Day14/World/MC02_14_06_02.unity")end
+function init()refresh()end
+function refresh()Sound.playBGM("SB0008",1)
+Sound.playENV("EN_Arena_Startup_Loop")Field.setActiveWithTag("Gate",false)
+local nsgji=GetWorldEventStep(w0qyLbH)
+if nsgji==0 then EmptyEvent("YIzumi")EmptyEvent("MAikawa")
+EmptyEvent("TKunimi")EmptyEvent("IMinase")EmptyEvent("SMinase")
+EmptyEvent("Byakko")
+StartEvent(function()Yield(StartWorld)Sound.stopAllENV()Exit_World()end)end end
+function StartWorld()
+Field.setCameraCompositionEx(Vec(59.600,1.200,-8.700),Vec(0.000,345.000,0.000),30.00)Field.setLookAtTarget("TKunimi","Player")
+Field.playerComeIn("GatePoint_2Left",Vec(2))Field.changeAnimation("Player","FieldIdleAction")
+local bClTIa=Adv.characterAsync("RKayamori")local rDzL7SVO=Adv.characterAsync("MAikawa")
+Field.showAdvHudWrapper(function()Wait(2)
+Layout.show({bClTIa,"110202"})
+Adv.talkWithFacial(nil,nil,bClTIa,[[Ready for another day of guard duty?]],"VC_MC02_00674_v001_RKayamori")Layout.show()
+Field.setLookAtTarget("MAikawa","Player")Wait(0.3)Field.setLookAtTarget("Player","MAikawa")
+Wait(1)Layout.show({rDzL7SVO,"0102"})
+Adv.talkWithFacial(nil,nil,rDzL7SVO,[[Let's take it easy.]],"VC_MC02_00675_v001_MAikawa")Adv.fadeOut(0.5)Layout.hide()
+EmptyEvent("OctopusTail")
+Field.setCameraCompositionEx(Vec(40.000,2.000,-14.000),Vec(354.000,345.000,0.000),30.00)Wait(1)
+Field.setCameraCompositionEx(Vec(40.000,2.000,-14.000),Vec(348.000,345.000,0.000),30.00,6)Adv.fadeIn(1)
+Adv.talkWithIcon("YIzumi",[[Doesn't look like we have time to laze around.]],"VC_MC02_00676_v001_YIzumi")Transition.setSymbolEncountTransition(true)
+Transition.start()Wait(1)Sound.playBGM("SI0001")end)end

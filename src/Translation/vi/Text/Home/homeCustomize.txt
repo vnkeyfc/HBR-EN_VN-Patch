@@ -1,0 +1,7 @@
+Home Screen Customization=<size\=80%>Tuỳ chỉnh Màn hình chính
+Memorias=Style
+Illustration=Ảnh minh hoạ
+設定中=Đã chọn
+ホームセリフ表示=<size\=85%>Bóng thoại nhân vật
+Default=Mặc định
+Confirm home screen customization?=Xác nhận tuỳ chỉnh màn hình chính này?

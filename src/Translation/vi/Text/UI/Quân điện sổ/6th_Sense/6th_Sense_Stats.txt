@@ -1,6 +1,0 @@
-r:"^Charisma \+(\d+)!$"=Khí chất +$1!
-r:"^Eccentricity \+(\d+)!$"=Điên rồ +$1!
-r:"^Silliness \+(\d+)!$"=Ngây ngô +$1!
-r:"^Openness \+(\d+)!$"=Độ lượng +$1!
-r:"^Kindness \+(\d+)!$"=Nhân hậu +$1!
-r:"^Determination \+(\d+)!$"=Ý chí +$1!

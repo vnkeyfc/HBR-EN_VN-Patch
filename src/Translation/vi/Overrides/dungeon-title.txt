@@ -1,1 +1,4 @@
 /RootView/UI-Foreground/Main/UIExpeditionDetail/container/rightBox/title|'<size=85%>[Độ khó D] Hầm Ikebukuro</size>'|'[Độ khó D] Hầm Ikebukuro'
+/RootView/UI-Foreground/Main/UIExpeditionDetail/container/rightBox/title|'<size=85%>[Độ khó B] Hầm Ikebukuro</size>'|'[Độ khó B] Hầm Ikebukuro'
+
+/RootView/UI-Background/UIBG/UIGardenExpeditionMap/scrollView/Viewport/Content/template(Clone)/Windows/leftWindow/breakthroughLabel|'Tiến độ'|'<size=130%><voffset=10>Tiến độ</size>'

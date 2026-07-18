@@ -1,0 +1,23 @@
+ROUTINE()PrepareDay()
+Timebox("MC02_11_03_00","",function()
+Novel("Lua/Story/MC02/Day11/Novel/MC02_11_03_00")end)
+Timebox("MC02_11_04_00","",function()
+World("Lua/Story/MC02/Day11/World/MC02_11_04_00","School1F","ClassRoomBy31A")end)
+Timebox("MC02_11_06_00","",function()
+Novel("Lua/Story/MC02/Day11/Novel/MC02_11_06_00")
+World("Lua/Story/MC02/Day11/World/MC02_11_06_01","CountryTownArena1","GatePoint_2")
+local A=BattleWithoutPartySelect("MC02_11_Battle01","Lua/Story/MC02/Day11/Battle/MC02_11_06_02")if A~="Win"then SetFlag("MC02_11_Result",2)
+Novel("Lua/Story/MC02/Day11/Novel/MC02_11_06_06")end
+World("Lua/Story/MC02/Day11/World/MC02_11_06_03","CountryTownArena1","GatePoint_2")
+local A=BattleWithoutPartySelect("MC02_11_Battle02","Lua/Story/MC02/Day11/Battle/MC02_11_06_04")
+if A=="Win"then
+World("Lua/Story/MC02/Day11/World/MC02_11_06_05","CountryTownArena1","GatePoint_2")SetFlag("MC02_11_Result",1)else
+SetFlag("MC02_11_Result",2)end;Novel("Lua/Story/MC02/Day11/Novel/MC02_11_06_06")end)
+Timebox("MC02_11_08_00","",function()
+Novel("Lua/Story/MC02/Day11/Novel/MC02_11_08_01")ConfirmDeck()
+ExpeditionWorld("Expedition.MC02.SpecialPatrol","Lua/Story/MC02/Common/SpecialPatrol/SpecialPatrol_MC02","MC02_SpecialPatrol01","Area01","GatePoint_1")Sound.stopAllENV()
+Novel("Lua/Story/MC02/Common/SpecialPatrol/Novel/Novel_After_SpecialPatrol_MC02")end)
+Timebox("MC02_11_09_00","",function()
+World("Lua/Story/MC02/Day11/World/MC02_11_09_00","MainStreet","CafeteriaPoint")end)BathTimebox("MC02_11_10_00",false)
+Routine(function()
+Yield("Lua/Story/MC02/Common/TimeLimit")Exit()end)

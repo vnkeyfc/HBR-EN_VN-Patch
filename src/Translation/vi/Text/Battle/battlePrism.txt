@@ -1,0 +1,6 @@
+Flashback Battles=Prism Battle
+Gem Flashback Battles=Prism Gem
+最大到達階=<space\=-25px>Tầng đạt được:
+
+[Rating]
+sr:"^Recommended Rating: (.+)$"=Lực chiến đề cử: $1

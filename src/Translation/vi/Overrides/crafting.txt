@@ -1,0 +1,3 @@
+/RootView/UI-Foreground/Main/UIJewelShop/container/btn/normal/label|'Synthesis'|'Dung hợp'
+/RootView/UI-Foreground/Main/UIJewelShop/container/btn/active/label|'Synthesis'|'Dung hợp'
+/RootView/UI-Foreground/Main/UIJewelShop/container/btn/disabled/label|'Synthesis'|'Dung hợp'

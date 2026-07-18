@@ -1,0 +1,8 @@
+ROUTINE()
+local nsgji=Adv.characterAsync("RKayamori","Default")local bClTIa=Adv.characterAsync("YIzumi","Default")
+Battle.waitLoadEnd()Sound.playBGM("SI0001",1,0)
+Battle.waitStartEffectEnd()Battle.startEvent()
+Field.showAdvHudWrapper(function()
+Layout.show({nsgji,"070201"},{bClTIa,"040201"})
+Adv.talkWithFacial("070201",nil,nsgji,[[Let's take care of these Cancers first.]],"VC_MC02_00514_v001_RKayamori")
+Adv.talkWithFacial("040201",nil,bClTIa,[[Yes. That would be the first step.]],"VC_MC02_00515_v001_YIzumi")Layout.show()end)Battle.resumeEvent()Exit()

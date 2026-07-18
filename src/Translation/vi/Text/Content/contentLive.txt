@@ -1,0 +1,19 @@
+ライブ準備=Chuẩn bị
+r:"^Music Difficulty: (\d+)$"=Độ khó của bài: $1
+ライブ開始=Bắt đầu Live
+MVライブ=MV
+2Dライブ=2D
+背景=Nền khi lúc live
+クリア回数=Hoàn thành
+結果発表=Công bố kết quả
+部隊選択=Chọn đội hình
+スコア報酬=Thưởng điểm
+ライブ報酬=<size\=80%>Thưởng Live
+
+EASYをSランク以上でクリア=Hoàn thành độ khó EASY với Rank S trở lên
+NORMALをSランク以上でクリア=Hoàn thành độ khó NORMAL với Rank S trở lên
+HARDをSランク以上でクリア=Hoàn thành độ khó HARD với Rank S trở lên
+クリア回数目標達成=Đạt đủ chỉ tiêu số lần hoàn thành Live
+
+ライブフェス=<size\=80%><cspace\=-3px> LIVE FEST
+LIVE FES.= 

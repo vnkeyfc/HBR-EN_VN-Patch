@@ -1,0 +1,9 @@
+[Keyboard&Mouse]
+キーボード＆マウス=Bàn phím và chuột
+・キーコンフィグ=・Cấu hình phím tắt
+キーボード操作時のキーの設定を行います=※Cài đặt phím tắt cho thao tác bàn phím
+設定する=Cài đặt
+・マウスカーソルサイズ=・Kích thước con trỏ chuột
+小=Nhỏ
+大=Lớn
+・マウススクロールの感度=・Độ nhạy cuộn chuột

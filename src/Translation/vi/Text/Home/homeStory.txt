@@ -1,0 +1,7 @@
+[Story]
+メインストーリー=<size\=120%>Chính Truyện
+最新のショップ=Tạp hoá\nmới nhất
+最新のフリータイムへ=Free Time\ngần nhất
+続きから=Tiếp tục
+過去をたどる=Hồi tưởng
+交流/メモリーストーリー=Giao lưu / Memory Story

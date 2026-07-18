@@ -1,0 +1,18 @@
+[Other]
+サウンド設定=Cài đặt âm thanh
+ゲーム設定=Cài đặt trò chơi
+その他=Tuỳ chỉnh khác
+・ボイスの継続再生=・Phát giọng nói liên tục
+※ONの場合、音声の再生中に次の文章に進んでも再生を続けます=※Nếu được bật, âm thanh sẽ tiếp tục phát ngay cả khi chuyển sang thoại tiếp theo.
+・未読テキストもスキップする=・Bỏ qua thoại chưa đọc
+Copy UserID=Sao chép UserID
+・初期設定=・Cài đặt ban đầu
+初期設定に戻す=Khôi phục cài đặt mặc định
+タイトル画面に戻る=Quay lại màn hình tiêu đề
+・タイトル画面=・Màn hình tiêu đề
+・ライセンス=・Giấy phép
+・お問い合わせ=・Liên hệ với chúng tôi
+・応援レビュー=・Quản lý tài khoản
+・利用規約等=・Điều khoản sử dụng, v.v.
+
+<style\=RubyPrefixTag></style>\nReturn to title screen? Some progress may be lost.=<style\=RubyPrefixTag></style>\nQuay về Màn hình tiêu đề?\nMột số tiến trình trước đó có thể bị mất.

@@ -1,0 +1,35 @@
+[Title]
+Learn/Upgrade Skills=Học/Cường hoá kỹ năng
+Stat Increases I=Nâng cấp sức mạnh I
+Stat Increases II=Nâng cấp sức mạnh II
+Stat Increases III=Nâng cấp sức mạnh III
+Stat Increases IV=Nâng cấp sức mạnh IV
+Tear Enhancements=Cường hóa Bảo Ngọc
+
+Skill=Kỹ năng
+SkillLv.+=Kỹ năng Lv.+
+EX Skill (Exclusive)=Tuyệt Kỹ (Độc quyền)
+EX Skill (Exclusive)Lv.+=Tuyệt Kỹ (Độc quyền) Lv.+
+Stats (Exclusive)=Chỉ số (Độc quyền)
+Stats =Chỉ số
+
+All Attributes +1=Tất cả thuộc tính +1
+
+sr:"^(.+) Follow-Up Rate \+1%$"=Tỉ lệ Follow-Up cho hệ $1 +1% 
+
+必要Lv. =Yêu cầu Lv.
+
+Bulk Enhancement Complete!=Nâng cấp hoàn loạt thành công!
+
+強化結果=<size\=90%>Kết quả nâng cấp
+一括強化=Nâng cấp hàng loạt
+習得=Lĩnh hội
+
+Slash=Trảm
+Pierce=Đột
+Crush=Đả
+Fire=Hoả
+Thunder=Lôi
+Ice=Băng
+Dark=Ám
+Light=Quang

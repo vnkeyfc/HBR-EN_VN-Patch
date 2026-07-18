@@ -1,0 +1,11 @@
+[Battle]
+バトル=Trận chiến
+・速度=・Tốc độ trận chiến
+通常=Bình thường
+2倍速=Tốc độ x 2
+・オート=・Tự động
+・オート詳細設定=・Cài đặt chi tiết tự động
+・編成制限ダイアログ=・Thông báo giới hạn đội hình
+※編成がストーリーと乖離する場合お知らせします=※Hệ thống sẽ cảnh báo nếu đội hình không khớp với cốt truyện.
+表示=Hiển thị
+非表示=Ẩn

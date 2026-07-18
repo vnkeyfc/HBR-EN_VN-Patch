@@ -1,0 +1,6 @@
+[Camera]
+・カメラ操作 上下=・Thao tác camera lên xuống
+ノーマル=Bình thường
+リバース=Đảo ngược
+・カメラ操作 左右=・Thao tác camera trái và phải
+・カメラ操作の感度=・Độ nhạy camera

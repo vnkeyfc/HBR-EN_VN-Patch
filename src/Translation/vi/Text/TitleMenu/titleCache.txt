@@ -1,0 +1,3 @@
+[Cache]
+<style\=RubyPrefixTag></style>\nDeleting cache of sound data. Is it okay to proceed?=<style\=RubyPrefixTag></style><br>Bạn có muốn xoá dữ liệu âm thanh để giải phóng dung lượng?
+<style\=RubyPrefixTag></style>\nDeletion complete.=<style\=RubyPrefixTag></style><br>Đã xoá dữ liệu thành công

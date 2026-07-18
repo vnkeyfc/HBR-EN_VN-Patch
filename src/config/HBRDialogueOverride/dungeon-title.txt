@@ -1,1 +1,0 @@
-/RootView/UI-Foreground/Main/UIExpeditionDetail/container/rightBox/title|'<size=85%>[Độ khó D] Hầm Ikebukuro</size>'|'[Độ khó D] Hầm Ikebukuro'

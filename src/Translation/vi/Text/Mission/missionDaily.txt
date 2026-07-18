@@ -1,0 +1,12 @@
+[Daily_HomeLabel]
+Daily Missions 0/4=Nhiệm vụ hằng ngày 0/4
+Daily Missions 1/4=Nhiệm vụ hằng ngày 1/4
+Daily Missions 2/4=Nhiệm vụ hằng ngày 2/4
+Daily Missions 3/4=Nhiệm vụ hằng ngày 3/4
+Daily Missions 4/4=Nhiệm vụ hằng ngày 4/4
+
+[Daily_Missions]
+Use 1 life point.=Tiêu hao 1 Life Point
+Use 2 life points.=Tiêu hao 2 Life Point
+Use 3 life points.=Tiêu hao 3 Life Point
+Clear all daily missions.=Hoàn thành nhiệm vụ hằng ngày

@@ -1,3 +1,0 @@
-ミッションへ=Nhiệm vụ
-Limit Breaks=Đột phá
-Use the energy stored up in the delimiter device to perform Limit Breaks on SS Memorias.\nRaising the Memoria to Limit Break Level 2 will consume 100%, while raising the Memoria to Limit Break Level 3 will consume 200% of the amassed energy.=Test

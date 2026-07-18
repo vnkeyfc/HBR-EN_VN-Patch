@@ -1,6 +1,0 @@
-/UIPartyCharacterSelectLump(Clone)/container/left/members/member1/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
-/UIPartyCharacterSelectLump(Clone)/container/left/members/member2/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
-/UIPartyCharacterSelectLump(Clone)/container/left/members/member3/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
-/UIPartyCharacterSelectLump(Clone)/container/left/members/member4/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
-/UIPartyCharacterSelectLump(Clone)/container/left/members/member5/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
-/UIPartyCharacterSelectLump(Clone)/container/left/members/member6/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>

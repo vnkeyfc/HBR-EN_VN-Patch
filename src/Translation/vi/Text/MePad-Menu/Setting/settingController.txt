@@ -1,0 +1,7 @@
+[Controller]
+コントローラ=Điều khiển tay cầm
+・コントローラを使用する=・Sử dụng tay cầm
+※ONの場合、接続されたコントローラでゲームをプレイできます=※Nếu được bật, bạn có thể chơi trò chơi bằng tay cầm điều khiển.
+・コントローラの決定ボタンを入れ替える=・Thay đổi nút quyết định của tay cầm
+※コントローラの決定ボタンとキャンセルボタンを入れ替えます=※Đổi nút OK và nút Hủy của tay cầm.
+・ジオラマ編集中のポインター速度=・Tốc độ con trỏ trong Sa bàn

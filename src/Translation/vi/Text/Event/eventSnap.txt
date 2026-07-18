@@ -1,0 +1,9 @@
+r:"^Runs until (\d+)/(\d+)/(\d+) (.+).$"=Diễn ra đến $2/$1/$3 - 13:59 (Theo giờ VN)
+Receive 5 SS-Guaranteed Recruitment Scrips at Box 5!=Nhận 5x Mảnh chiêu mộ SS tại Box 5!
+
+Event Token Recruitment=Sự kiện Gacha Token
+Complete=Hoàn thành
+r:"^<size\=28>Time\(s\) Drawn:</size> <size\=40>(\d+)</size>$"=<size\=28>Số lần đã rút:</size> <size\=40>$1</size>
+PickUP!=Có thể nhận
+1 Time(s)=<size\=90%>  1 lần rút
+ 引く= Rút thăm

@@ -1,11 +1,4 @@
-Welcome to the world of Heaven Burns Red!=Chào mừng bạn đến với Heaven Burns Red!
-#This is the "Home" screen.\nIt has a variety of helpful features for your adventures.=
-#<style\=RubyPrefixTag></style>\nAlong the long path of destiny, you may need to make\noccasional detours.=<style\=RubyPrefixTag></style><br>Dọc theo hành trình dài của số phận, có đôi lúc chúng ta cần phải rẽ hướng sang những ngả đường khác.
 r:"^For (\d+) Days Only$"=Còn lại $1 ngày
-Start by claiming a reward.=Hãy bắt đầu bằng việc nhận thưởng.
-#Now try using the item you received to perform a recruitment draw.=Thử lấy quà đã nhận đi Gacha đi.
-#The squad members you take will level up during the battles that occur in this story.\nIt's wise to choose members you want to train when forming your squad in advance.=Nâng memoria để đi ải đi.
-#Once you are ready, you can start your Heaven Burns Red adventure from here.=Ừ
 
 Complete beginner missions to\nLimit Break Ruka Kayamori (SS)!=Hoàn thành nhiệm vụ tân thủ để\nđột phá Style SS của Kayamori Ruka!
 

@@ -1,1 +1,0 @@
-/RootView/UI-Foreground/Main/UIAdvChoice/container/balloonContainer/msgQuestion|'<style=RubyPrefixTag></style><br>Việc chuẩn bị đã hoàn tất rồi chứ?'|'<style=RubyPrefixTag></style><br>Sẵn sàng chưa?'

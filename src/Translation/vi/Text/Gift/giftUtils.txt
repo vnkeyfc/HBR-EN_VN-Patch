@@ -1,0 +1,13 @@
+ギフトボックス=<size\=80%>Hộp quà</size>
+受け取り=Nhận
+受け取る=<size\=65%><cspace\=-2px>Nhận</size>
+一括受け取り=<size\=80%>Nhận nhanh</size>
+受け取り履歴=Lịch sử nhận
+以下の報酬を受け取りました=Đã nhận thưởng vật phẩm dưới đây
+※受信日時から30日経過すると自動で消去されます。\n　一括受け取りは有効期間が短い順から受け取ります。\n　一度に受け取れるギフトは最大100件までです。=<space\=-25px>※Vật phẩm sẽ tự động xóa sau 30 ngày kể từ thời điểm nhận.\nƯu tiên nhận các vật phẩm sắp hết hạn khi chọn Nhận nhanh.\nSố lượng có thể nhận tối đa cùng một lúc là 100 vật phẩm.
+You claimed the following gift(s).=Đã nhận thưởng vật phẩm dưới đây
+The following gifts can't be claimed due to the quantity limit.=Không thể nhận vật phẩm dưới đây do đã đạt giới hạn sức chứa.
+以下のギフトは未受け取りです。=Những vật phẩm dưới đây chưa nhận thưởng.
+Claim all of the following gifts?=Nhận nhanh những vật phẩm dưới đây?
+You can only receive 100 gift items at a time.= Mỗi lần chỉ có thể nhận tối đa 100 vật phẩm.
+You claimed the following rewards:=Đã nhận những phần thưởng như sau:

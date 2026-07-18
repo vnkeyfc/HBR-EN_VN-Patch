@@ -1,0 +1,2 @@
+[Account]
+Confirm to switch to another account?=Chuyển đổi sang tài khoản khác?

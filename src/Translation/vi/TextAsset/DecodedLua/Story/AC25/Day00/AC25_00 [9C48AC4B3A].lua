@@ -1,0 +1,6 @@
+ROUTINE()PrepareDay()
+Timebox("AC25_00_03_00","",function()Sound.playEmptyBGM(0)
+Transition.finish()
+UI.showMessageDialog([[This event features Gig Mode sections that you must clear in order to progress.\nPlease choose your preferred Gig Mode difficulty level.\n\n(You may use auto mode.)]])UI.AC25_showEventDifficultyDialog()
+Transition.start()
+World("Lua/Story/AC25/Day00/World/AC25_00_03_00","City","StartPoint")end,true)Exit()

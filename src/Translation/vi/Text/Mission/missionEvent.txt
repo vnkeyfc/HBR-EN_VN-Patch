@@ -1,0 +1,6 @@
+[Event]
+Clear 1 anachrony.=Khiêu chiến Dị Thời Không 1 lần
+Clear 2 anachronies.=Khiêu chiến Dị Thời Không 2 lần
+Clear 3 anachronies.=Khiêu chiến Dị Thời Không 3 lần
+Clear 4 anachronies.=Khiêu chiến Dị Thời Không 4 lần
+Clear 5 anachronies.=Khiêu chiến Dị Thời Không 5 lần

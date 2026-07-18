@@ -1,0 +1,17 @@
+Earn tokens in Missions, Event Flashback Battles, Score Challenge, and Seraph Encounter Drills to exchange for items!=Nhận token thông qua các nhiệm vụ,\nkhiêu chiến Prism Event, Score Challenge và\nDiễn tập ứng chiến Seraph để đổi thưởng! 
+
+[Label]
+交換する=Đổi
+Claimed=Đã đổi
+残り=Còn lại
+
+[Confirm]
+Exchange Confirmation=Xác nhận đổi thưởng
+Amount=Số lượng
+所持数=Đang có:
+
+[Exchange]
+メダル所持数=<size\=85%> Token hiện có</size>
+
+[AmountToken]
+r:"Tokens Needed: (.+)"=Số token cần đổi: $1

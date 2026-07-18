@@ -1,0 +1,31 @@
+[Utils]
+Resets at 12 AM (UTC-7) on the first of each month.=<size\=130%>Reset lúc 14:00 vào\nmỗi ngày đầu tháng
+
+[Monthly_Missions]
+Log in for 2 days.=Đăng nhập 2 ngày
+Log in for 4 days.=Đăng nhập 4 ngày
+Log in for 6 days.=Đăng nhập 6 ngày
+Log in for 8 days.=Đăng nhập 8 ngày
+Log in for 10 days.=Đăng nhập 10 ngày
+Log in for 12 days.=Đăng nhập 12 ngày
+Log in for 14 days.=Đăng nhập 14 ngày
+Log in for 16 days.=Đăng nhập 16 ngày
+Log in for 18 days.=Đăng nhập 18 ngày
+Log in for 20 days.=Đăng nhập 20 ngày
+Log in for 22 days.=Đăng nhập 22 ngày
+Log in for 24 days.=Đăng nhập 24 ngày
+Clear 5 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 5 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 10 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 10 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 15 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 15 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 20 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 20 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 25 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 25 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 30 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 30 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 35 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 35 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 40 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 40 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 45 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 45 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 50 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 50 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 60 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 60 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 70 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 70 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 80 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 80 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 90 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 90 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+Clear 100 battles. (Arena/Hyperbolic Time Arena excluded.)=Hoàn thành 100 trận chiến\n(không tính Arena/Luyện Trường Thời Không)

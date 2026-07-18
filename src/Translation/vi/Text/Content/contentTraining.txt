@@ -1,0 +1,34 @@
+アリーナ訓練=<size\=80%>Huấn luyện Đấu trường
+アリーナ : <size\=28>アリーナ訓練</size>=<size\=30>Arena:</size> <size\=22>Huấn luyện Đấu trường</size>
+訓練に挑戦し、強化素材やGP、経験値を得ることができます。=Thử thách các bài huấn luyện để nhận nguyên liệu nâng cấp, GP và điểm kinh nghiệm.
+チャレンジ演習=<size\=80%>Diễn tập thử thách
+アリーナ : <size\=28>チャレンジ演習</size>=<size\=30>Arena:</size> <size\=24>Diễn tập thử thách</size>
+ミッション形式の訓練で、\n戦闘の腕を磨くことができます。=Bài huấn luyện theo dạng nhiệm vụ giúp bạn rèn giũa và nâng cao kỹ năng chiến đấu.
+バトル指南=<size\=80%>Hướng dẫn chiến đấu
+アリーナ : <size\=28>バトル指南</size>=<size\=30>Arena:</size> <size\=24>Hướng dẫn chiến đấu</size>
+戦闘に関する様々な要素について\n学ぶことができます。=Nơi bạn có thể học hỏi về cơ chế chiến đấu khác nhau.
+
+
+訓練場=<size\=80%>Phòng luyện tập
+アリーナ : <size\=28>訓練場</size>=<size\=30>Arena:</size> <size\=24>Phòng luyện tập</size>
+自由な設定で訓練を行えます。\n様々な連携や戦術を試してみましょう。=Tiến hành luyện tập với thiết lập tùy chỉnh. Hãy thử nghiệm chiến thuật khác nhau tại đây.
+訓練実績=Thành tích
+最大ダメージ=Sát thương tối đa
+属性設定=Thiết lập thuộc tính
+敵の耐性/弱点を設定できます=<size\=85%>Bạn có thể thiết lập kháng tính / điểm yếu của kẻ địch
+r:"^Maximum Devastation Rate: (\d+)%$"=Tỉ lệ Phá hoại tối đa: $1%
+<color\=#C3FFFC>Enemy Attacks:</color> None=<color\=#C3FFFC>Kẻ địch có thể tấn công:</color> Không
+<color\=#C3FFFC>Enemy Attacks:</color> Enabled=<color\=#C3FFFC>Kẻ địch có thể tấn công:</color> Có
+sr:"^<color\=#C3FFFC>Enemy's DP cannot drop below 1:</color> (.+)$"=<color\=#C3FFFC>DP của kẻ địch không bị BREAK:</color> $1
+sr:"^<color\=#C3FFFC>Allies take no damage:</color> (.+)$"=<color\=#C3FFFC>Đồng minh không nhận sát thương:</color> $1
+訓練設定=Thiết lập luyện tập
+破壊率上限=Tỉ lệ Phá hoại\ntối đa
+敵の攻撃=Kẻ địch có\nthể tấn công
+常に敵のDPを１残す=DP của kẻ địch không bị\nBREAK
+※HPは常に１残ります=※HP của kẻ dịch không thể giảm thấp hơn 1
+味方を無敵にする=Đồng minh không\nnhận sát thương
+
+時の修練場へ=<size\=145%><align\=left>Luyện Trường\nThời Không
+
+訓練開始=Bắt đầu huấn luyện
+出撃する=Xuất trận

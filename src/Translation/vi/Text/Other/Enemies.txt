@@ -1,0 +1,13 @@
+Skitterer=Hopper
+Crested Skitterer=Crest Hopper
+Healing Skitterer=Heal Hopper
+
+Medusa=Rotary Mole
+Vertex Crimson=Red Crimson
+Dendron=Feeler
+Dendron Terminus=Ultimate Feeler
+Apophis=Desert Dendron
+Skullplume=Skull Feather
+
+r:"^Nihil Rectus (.+)$"=Rectus Nil $1
+r:"^Nihil Sinister (.+)$"=Sinister Nil $1

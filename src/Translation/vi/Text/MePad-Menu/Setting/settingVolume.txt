@@ -1,0 +1,9 @@
+[Volume]
+全体音量設定=Âm lượng tổng thể
+<size\=40>MASTER</size>（マスターボリューム）=<size\=40>MASTER</size>  (Âm lượng chính)
+個別音量設定=Âm lượng riêng biệt
+<size\=40>ENV</size>（環境音）=<size\=40>ENV</size>  (Âm thanh môi trường)
+<size\=40>VOICE</size>（キャラクターボイス）=<size\=40>VOICE</size>  (Giọng nhân vật)
+<size\=40>SYSTEM</size>（システム音）=<size\=40>SYSTEM</size>  (Âm thanh hệ thống)
+<size\=40>SE</size>（効果音）=<size\=40>SE</size>  (Âm thanh hiệu ứng)
+<size\=40>BGM</size>（バックミュージック）=<size\=40>BGM</size>  (Nhạc nền)

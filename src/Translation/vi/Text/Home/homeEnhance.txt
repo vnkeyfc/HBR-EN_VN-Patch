@@ -1,0 +1,10 @@
+[Enhancement_Training]
+記憶の庭へ=Khu Vườn Ký Ức
+プリズムバトル=Prism Battle
+宝石プリズム=Prism Gem
+オーブボス=Orb Boss
+時計塔=Tháp đồng hồ
+The Astrarium=<size\=80%><cspace\=-2px><space\=-10>Truy Quét Hằng Tinh
+Anachronies=<size\=80%><cspace\=-2px><space\=-10>Dị Thời Không
+Score Challenge=<size\=80%><cspace\=-2px><space\=-10>Score Challenge
+Seraph Encounter Drill=<size\=80%><cspace\=-2px><space\=-10>Diễn Tập Ứng Chiến Seraph

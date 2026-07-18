@@ -1,0 +1,9 @@
+/RootView/UI-Foreground/Main/UIPartyDetailCharacterSecond/container/viewTypeRight/communicationLv/communicateContainer/communicaitionScrollView/Viewport/Content/template(Clone)/btnInformation/nomal/label|'Chi tiết'|'<size=85%><cspace=-2px>Chi tiết</cspace></size>'
+/RootView/UI-Foreground/Main/UIPartyDetailCharacterSecond/container/viewTypeRight/communicationLv/communicateContainer/communicaitionScrollView/Viewport/Content/template(Clone)/btnInformation/active/label|'Chi tiết'|'<size=85%><cspace=-2px>Chi tiết</cspace></size>'
+
+/RootView/UI-Foreground/Main/UIEnhanceCard/container/viewTypeRight/daphne/daphneContainer/daphneDevelopment/btnDaphne/disabled/label|'<line-height=25px><size=120%>Khai mở\nthiên phú</size>'|'Khai mở thiên phú'
+/RootView/UI-Foreground/Main/UIEnhanceCard/container/viewTypeRight/daphne/daphneContainer/daphneDevelopment/btnDaphne/normal/label|'<line-height=25px><size=120%>Khai mở\nthiên phú</size>'|'Khai mở thiên phú'
+/RootView/UI-Foreground/Main/UIEnhanceCard/container/viewTypeRight/daphne/daphneContainer/daphneDevelopment/btnDaphne/active/label|'<line-height=25px><size=120%>Khai mở\nthiên phú</size>'|'Khai mở thiên phú'
+
+/RootView/UI-Foreground/Main/UIPartyDetailCharacterSecond/container/viewTabLeft/leftTabButtonContainer/btnKizua/text/offContainer/off/labelKizuna|'T.Mật Lv.'|'Thân mật'
+/RootView/UI-Foreground/Main/UIPartyDetailCharacterSecond/container/viewTabLeft/leftTabButtonContainer/btnKizua/text/offContainer/offDissable/labelKizuna|'T.Mật Lv.'|'Thân mật'

@@ -1,0 +1,15 @@
+[Main]
+ガチャ=Gacha 
+ミッション=Nhiệm vụ
+ギフト=Quà
+コンテンツ=Content
+強化 / 育成=<size\=89%>Nâng cấp / Huấn luyện</size>
+交換所=Cửa hàng
+友達招待=Mời bạn bè
+イベント\n=<size\=120%%>Sự kiện</size>
+
+Tap Left Side to Go Back=Nhấn bên trái để quay lại
+Tap Right Side to Proceed=Nhấn bên phải để tiếp tục
+To Recruitment=Đi đến Gacha
+まとめて既読にする=Đánh dấu đã đọc tất cả
+News=Bản tin

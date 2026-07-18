@@ -1,0 +1,18 @@
+[Title]
+時間帯選択=<size\=80%><cspace\=-2px>Chọn mốc thời gian
+
+[Chapter]
+Prologue=Prologue\n- Mở đầu -
+Epilogue=Epilogue\n- Đoạn kết -
+Chapter\n1=Chương 1
+Chapter\n2=Chương 2
+Chapter\n3=Chương 3
+Chapter 4—Part 1=<size\=95%>Chương 4-Phần I
+Chapter 4—Part 2=<size\=95%>Chương 4-Phần II
+Chapter 5—Part 1=<size\=95%>Chương 5-Phần I 
+Chapter\n5—Part\n2=<size\=95%>Chương 5-Phần II
+r:"^Chapter (\d+)Day(\d+)$"=Chương $1 Ngày $2
+r:"^Chapter (\d+)—Part (\d+)Day(\d+)$"=Chương $1-Phần $2 Ngày $3
+
+ストーリー選択=<size\=80%><cspace\=-2px>Lựa chọn chương truyện
+Relive Memories=<cspace\=-3px>Hồi tưởng

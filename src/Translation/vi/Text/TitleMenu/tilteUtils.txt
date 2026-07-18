@@ -1,0 +1,5 @@
+タップしてIDを表示=Nhấn vào để xem ID
+r:"^Synchronizing data (\d+) / (\d+)$"=Đồng bộ dữ liệu  $1 / $2
+ver: 3.0.1(61)=Phiên bản: 3.0.1(61)
+
+r:"Performing setup \((\d+) / (\d+)\)"=Đang thiết lập ($1 / $2)

@@ -1,0 +1,20 @@
+プレビュー中=Xem trước
+所持済み=Đã sở hữu
+r:"Squad (\d+)-(.+) Logo"= Logo Đội $1$2
+Purple=Màu tím
+White=Màu trắng
+Red=Màu đỏ
+Lime Green=Màu xanh nõn chuối
+Pink=Màu hồng
+Yellow=Màu vàng
+Green=Màu xanh lục
+Blue=Màu xanh
+Orange=Màu cam
+Black & Gold=Màu đen vàng gold
+
+着せ替えショップ=Cửa hàng Ngoại trang
+<style\=RubyPrefixTag></style>\nUse this theme?=<style\=RubyPrefixTag></style>\nÁp dụng ngoại trang này cho sổ tay quân nhân điện tử?
+着せ替えポイント=Điểm Ngoại trang
+この着せ替えを購入しますか？=Bạn có muốn mua ngoại trang này không?
+<style\=RubyPrefixTag></style>\nInsufficient Theme Points.=<style\=RubyPrefixTag></style>\nKhông đủ điểm Ngoại trang
+<style\=RubyPrefixTag></style>\nRestore to default theme?=<style\=RubyPrefixTag></style>\nQuay về giao diện mặc định?

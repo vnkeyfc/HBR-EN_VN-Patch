@@ -1,0 +1,2 @@
+Premium Token Exchange=<size\=80%>Cửa hàng Token Premium
+毎月1日4時リセット=<size\=120%><line-height\=30px><voffset\=15px>Reset lúc 14:00 vào\nmỗi ngày đầu tháng

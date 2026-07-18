@@ -1,0 +1,6 @@
+[Auto_Formation]
+おすすめ編成の方針を選択してください=Vui lòng chọn hướng thiết lập đội hình tự động
+武器属性=Loại vũ khí
+元素属性=Thuộc tính
+
+Auto Formation complete=Thiết lập Sắp xếp nhanh hoàn tất

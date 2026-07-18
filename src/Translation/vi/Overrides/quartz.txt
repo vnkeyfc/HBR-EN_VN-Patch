@@ -1,0 +1,5 @@
+/UILotteryTop4(Clone)/container/lotteryShopHeader/consumeContainer/isVisibleGem/free|'Miễn phí'|'<size=85%>Miễn phí</size>'
+/UILotteryTop4(Clone)/container/lotteryShopHeader/consumeContainer/isVisibleGem/charge|'Có phí'|'<size=60%>Có phí</size>'
+
+/UIStaminaRecoveryDialog4(Clone)/container/front/recoveryBox/HCFlame/free/title|'Miễn phí'|'<size=75%>Miễn phí</size>'
+/UIStaminaRecoveryDialog4(Clone)/container/front/recoveryBox/HCFlame/paid/title|'Có phí'|'<size=80%>Có phí</size>'

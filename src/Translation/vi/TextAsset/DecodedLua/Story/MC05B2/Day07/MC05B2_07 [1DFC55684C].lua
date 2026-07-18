@@ -1,0 +1,40 @@
+ROUTINE()PrepareDay(false)
+local nsgji={"EAoi","IMinase","SMinase","SHiguchi","KHiiragi","Byakko","BIYamawaki","SSakuraba","MTenne","YBungo","AKanzaki","MSatsuki","MNikaido","IIshii","FMikoto","RMurohushi","ADate","AMizuhara","IcOhshima","NiOhshima","MiOhshima","YoOhshima","IrOhshima","MuOhshima","MYanagi","KMaruyama","SHanamura","CMatsuoka","INatsume","MKurosawa","CReaper","LShanhua","IRedmayne","VBalakrishnan","MdAngelis","CSkopovskaya","YShirakawa","MTsukishiro","MKiryu","CSugahara","HOgasawara","SKura"}local bClTIa=Domain.getCurrentTimebox()
+if
+
+
+
+bClTIa~="MC05B2_07_Yamawaki_00_00"and bClTIa~="MC05B2_07_Yamawaki_01_00"and bClTIa~=
+"MC05B2_07_Yamawaki_02_00"and
+bClTIa~="MC05B2_07_Yamawaki_03_00"and bClTIa~="MC05B2_07_Yamawaki_05_00"and bClTIa~="MC05B2_07_Yamawaki_10_00"then ValidateDeck()end
+Timebox("MC05B2_07_00_00","",function()
+Novel("Lua/Story/MC05B2/Day07/Novel/MC05B2_07_00_00")end)
+Timebox("MC05B2_07_01_00","",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_01_00","CafeteriaHole","StartPoint")
+Novel("Lua/Story/MC05B2/Day07/Novel/MC05B2_07_01_01")end)
+Timebox("MC05B2_07_02_00","",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_02_00","School1F_LateAutumn","CommanderRoomPoint")end)
+Timebox("MC05B2_07_06_00","",function()
+Novel("Lua/Story/MC05B2/Day07/Novel/MC05B2_07_06_00")end)
+Timebox("MC05B2_07_Yamawaki_00_00","",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_00_00","Base","StartPoint")
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_00_01","HuntingGround","StartPoint")
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_00_02","Base","StartPoint")end)
+Timebox("MC05B2_07_Yamawaki_01_00","SB0191",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_01_00","Base","StartPoint")end)
+Timebox("MC05B2_07_Yamawaki_02_00","",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_02_00","Beach_Part2","StartPoint")end)
+Timebox("MC05B2_07_Yamawaki_03_00","",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_03_00","HuntingGround_Boar","StartPoint")
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_03_01","Base","StartPoint")end)
+Timebox("MC05B2_07_Yamawaki_05_00","SB0191",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_05_00","Base","StartPoint")end)
+Timebox("MC05B2_07_Yamawaki_10_00","",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_Yamawaki_10_00","Base","StartPoint")end)
+TimeboxForcePrev("MC05B2_07_10_00","MC05B2_07_Yamawaki_10_00","",function()Domain.clearDeckRule()
+Novel("Lua/Story/MC05B2/Day07/Novel/MC05B2_07_10_00")
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_10_01","MainStreet_LateAutumn","StartPoint")end)
+Timebox("MC05B2_07_11_00","",function()
+Novel("Lua/Story/MC05B2/Day07/Novel/MC05B2_07_11_00")end)
+Timebox("MC05B2_07_12_00","",function()
+World("Lua/Story/MC05B2/Day07/World/MC05B2_07_12_00","ClassRoomMC05B","StartPoint")end)Exit()

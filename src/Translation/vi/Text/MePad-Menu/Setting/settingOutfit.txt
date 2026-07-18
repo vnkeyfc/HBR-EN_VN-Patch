@@ -1,0 +1,8 @@
+[Outfit]
+衣装着せ替え=Trang phục
+・部隊画面のサムネイル=・Thumbnail giao diện đội hình
+・バトル中のスキル選択画面のイラスト=・Artwork bảng chọn skill trong trận
+・バトル中のアイコン=・Icon trong trận đấu
+・探検・アーツバトル中のアイコン=・Icon khi thám hiểm trong Arts Battle
+オリジナル=Mặc định
+選択中の衣装=Đang chọn

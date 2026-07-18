@@ -1,24 +1,16 @@
-[Data_Download]
-r:"(\d+)MB assets require updating\. Start download\?"=<style\=RubyPrefixTag></style>\nCần cập nhật $1MB tài nguyên. Bắt đầu tải xuống?
-
 [Main_Story_Mission]
 r:"^Clear Chapter (\d+), Day (\d+).$"=Hoàn thành Chương $1, Ngày $2
 
 [Rank]
-r:"^Rank (\d+)$"=Cấp $1
 r:"^Day (\d+) Cleared$"=Hoàn thành Ngày $1
 
 [Beginner/Master_Mission]
 r:"^Board (\d+): Beginner Missions (\d+)/(\d+)$"=Bảng $1: Nhiệm vụ tân thủ $2/$3
-r:"^Board (\d+): Master Missions (\d+)/(\d+)$"=Bảng $1: Nhiệm vụ bậc cao $2/$3
+r:"^Board (\d+): Master Missions (\d+)/(\d+)$"=Bảng $1: Nhiệm vụ cao thủ $2/$3
 
 [Gacha]
 r:"^Remaining: (\d+)$"=Số lượt chiêu mộ còn lại: $1
-r:"^Available until (\d+)/(\d+)/(\d+) (\d+:\d+)\(UTC([+-]\d+)\)$"=Diễn ra đến $2/$1/$3 - 13:59
+r:"^Available until (\d+)/(\d+)/(\d+) (\d+:\d+)\(UTC([+-]\d+)\)$"=Diễn ra đến $2/$1/$3 - 13:59 (Theo giờ VN)
 
 [Mission]
-r:"^Use (\d+) life point."=Tiêu hao $1 Life Point
-r:"^Use (\d+) life points."=Tiêu hao $1 Life Point
 r:"^\[BEGINNER'S BOOST\] Campaign (\d+)/(\d+)"=[Hỗ Trợ Tân Thủ] $1/$2
-
-r:"Recommended Rating: ([\d,]+)$"=Lực chiến đề cử: $1

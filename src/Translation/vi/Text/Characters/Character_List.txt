@@ -1,3 +1,0 @@
-[UI]
-Bond Lv.=T.Mật Lv.
-キャラ一覧=<size\=80%>Danh sách nhân vật</size>

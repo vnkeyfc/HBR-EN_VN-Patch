@@ -1,0 +1,139 @@
+[Characters]
+{31A}
+Ruka Kayamori=Kayamori Ruka
+Yuki Izumi=Izumi Yuki
+Megumi Aikawa=Aikawa Megumi
+Tsukasa Tojo=Tojo Tsukasa
+Karen Asakura=Asakura Karen
+Tama Kunimi=Kunimi Tama
+
+{31B}
+Erika Aoi=Aoi Erika
+Ichigo Minase=Minase Ichigo
+Sumomo Minase=Minase Sumomo
+Seika Higuchi=Higuchi Seika
+Kozue Hiiragi=Hiiragi Kozue
+
+{31C}
+Bon Ivar Yamawaki=Yamawaki Bon Ivar
+Yayoi Bungo=Bungo Yayoi 
+Mari Satsuki=Satsuki Mari
+Adelheid Kanzaki=Kanzaki Adelheid
+Seira Sakuraba=Sakuraba Seira
+Miko Tenne=Tenne Miko
+
+{31D}
+Misato Nikaido=Nikaido Misato
+Akari Date=Date Akari
+Aina Mizuhara=Mizuhara Aina
+Risa Murofushi=Murofushi Risa
+Iroha Ishii=Ishii Iroha
+Fubuki Mikoto=Mikoto Fubuki
+
+{31E}
+Ichiko Ohshima=Ohshima Ichiko
+Niina Ohshima=Ohshima Niina
+Minori Ohshima=Ohshima Minori
+Yotsuha Ohshima=Ohshima Yotsuha
+Isuzu Ohshima=Ohshima Isuzu
+Muua Ohshima=Ohshima Muua
+
+{31F}
+Mion Yanagi=Yanagi Mion
+Kanata Maruyama=Maruyama Kanata
+Inori Natsume=Natsume Inori
+Shiki Hanamura=Hanamura Shiki
+Maki Kurosawa=Kurosawa Maki
+Chiroru Matsuoka=Matsuoka Chiroru
+
+{30G}
+Yuina Shirakawa=Shirakawa Yuina
+Miya Kiryu=Kiryu Miya
+Monaka Tsukishiro=Tsukishiro Monaka
+Satomi Kura=Kura Satomi
+Chie Sugawara=Sugawara Chie
+Hisame Ogasahara=Ogasahara Hisame
+
+{31X}
+Yingxia Li=Li Yingxia
+
+{HQ}
+Saki Tezuka=Tezuka Saki
+Nanami Nanase=Nanase Nanami
+Makiko Asami=Asami Makiko
+
+{Angel Beats}
+Kanade Tachibana=Tachibana Kanade
+Yuri Nakamura=Nakamura Yuri
+Miyuki Irie=Irie Miyuki
+Hisako Fuchita=Fuchita Hisako
+
+[Log-Nametag]
+{31A}
+<style\=RubyPrefixTag></style>\nRuka Kayamori=<style\=RubyPrefixTag></style>\nKayamori Ruka
+<style\=RubyPrefixTag></style>\nYuki Izumi=<style\=RubyPrefixTag></style>\nIzumi Yuki
+<style\=RubyPrefixTag></style>\nMegumi Aikawa=<style\=RubyPrefixTag></style>\nAikawa Megumi
+<style\=RubyPrefixTag></style>\nTsukasa Tojo=<style\=RubyPrefixTag></style>\nTojo Tsukasa
+<style\=RubyPrefixTag></style>\nKaren Asakura=<style\=RubyPrefixTag></style>\nAsakura Karen
+<style\=RubyPrefixTag></style>\nTama Kunimi=<style\=RubyPrefixTag></style>\nKunimi Tama
+
+{31B}
+<style\=RubyPrefixTag></style>\nErika Aoi=<style\=RubyPrefixTag></style>\nAoi Erika
+<style\=RubyPrefixTag></style>\nIchigo Minase=<style\=RubyPrefixTag></style>\nMinase Ichigo
+<style\=RubyPrefixTag></style>\nSumomo Minase=<style\=RubyPrefixTag></style>\nMinase Sumomo
+<style\=RubyPrefixTag></style>\nSeika Higuchi=<style\=RubyPrefixTag></style>\nHiguchi Seika
+<style\=RubyPrefixTag></style>\nKozue Hiiragi=<style\=RubyPrefixTag></style>\nHiiragi Kozue
+
+{31C}
+<style\=RubyPrefixTag></style>\nBon Ivar Yamawaki=<style\=RubyPrefixTag></style>\nYamawaki Bon Ivar
+<style\=RubyPrefixTag></style>\nYayoi Bungo=<style\=RubyPrefixTag></style>\nBungo Yayoi 
+<style\=RubyPrefixTag></style>\nMari Satsuki=<style\=RubyPrefixTag></style>\nSatsuki Mari
+<style\=RubyPrefixTag></style>\nAdelheid Kanzaki=<style\=RubyPrefixTag></style>\nKanzaki Adelheid
+<style\=RubyPrefixTag></style>\nSeira Sakuraba=<style\=RubyPrefixTag></style>\nSakuraba Seira
+<style\=RubyPrefixTag></style>\nMiko Tenne=<style\=RubyPrefixTag></style>\nTenne Miko
+
+{31D}
+<style\=RubyPrefixTag></style>\nMisato Nikaido=<style\=RubyPrefixTag></style>\nNikaido Misato
+<style\=RubyPrefixTag></style>\nAkari Date=<style\=RubyPrefixTag></style>\nDate Akari
+<style\=RubyPrefixTag></style>\nAina Mizuhara=<style\=RubyPrefixTag></style>\nMizuhara Aina
+<style\=RubyPrefixTag></style>\nRisa Murofushi=<style\=RubyPrefixTag></style>\nMurofushi Risa
+<style\=RubyPrefixTag></style>\nIroha Ishii=<style\=RubyPrefixTag></style>\nIshii Iroha
+<style\=RubyPrefixTag></style>\nFubuki Mikoto=<style\=RubyPrefixTag></style>\nMikoto Fubuki
+
+{31E}
+<style\=RubyPrefixTag></style>\nIchiko Ohshima=<style\=RubyPrefixTag></style>\nOhshima Ichiko
+<style\=RubyPrefixTag></style>\nNiina Ohshima=<style\=RubyPrefixTag></style>\nOhshima Niina
+<style\=RubyPrefixTag></style>\nMinori Ohshima=<style\=RubyPrefixTag></style>\nOhshima Minori
+<style\=RubyPrefixTag></style>\nYotsuha Ohshima=<style\=RubyPrefixTag></style>\nOhshima Yotsuha
+<style\=RubyPrefixTag></style>\nIsuzu Ohshima=<style\=RubyPrefixTag></style>\nOhshima Isuzu
+<style\=RubyPrefixTag></style>\nMuua Ohshima=<style\=RubyPrefixTag></style>\nOhshima Muua
+
+{31F}
+<style\=RubyPrefixTag></style>\nMion Yanagi=<style\=RubyPrefixTag></style>\nYanagi Mion
+<style\=RubyPrefixTag></style>\nKanata Maruyama=<style\=RubyPrefixTag></style>\nMaruyama Kanata
+<style\=RubyPrefixTag></style>\nInori Natsume=<style\=RubyPrefixTag></style>\nNatsume Inori
+<style\=RubyPrefixTag></style>\nShiki Hanamura=<style\=RubyPrefixTag></style>\nHanamura Shiki
+<style\=RubyPrefixTag></style>\nMaki Kurosawa=<style\=RubyPrefixTag></style>\nKurosawa Maki
+<style\=RubyPrefixTag></style>\nChiroru Matsuoka=<style\=RubyPrefixTag></style>\nMatsuoka Chiroru
+
+{30G}
+<style\=RubyPrefixTag></style>\nYuina Shirakawa=<style\=RubyPrefixTag></style>\nShirakawa Yuina
+<style\=RubyPrefixTag></style>\nMiya Kiryu=<style\=RubyPrefixTag></style>\nKiryu Miya
+<style\=RubyPrefixTag></style>\nMonaka Tsukishiro=<style\=RubyPrefixTag></style>\nTsukishiro Monaka
+<style\=RubyPrefixTag></style>\nSatomi Kura=<style\=RubyPrefixTag></style>\nKura Satomi
+<style\=RubyPrefixTag></style>\nChie Sugawara=<style\=RubyPrefixTag></style>\nSugawara Chie
+<style\=RubyPrefixTag></style>\nHisame Ogasahara=<style\=RubyPrefixTag></style>\nOgasahara Hisame
+
+{31X}
+<style\=RubyPrefixTag></style>\nYingxia Li=<style\=RubyPrefixTag></style>\nLi Yingxia
+
+{HQ}
+<style\=RubyPrefixTag></style>\nSaki Tezuka=<style\=RubyPrefixTag></style>\nTezuka Saki
+<style\=RubyPrefixTag></style>\nNanami Nanase=<style\=RubyPrefixTag></style>\nNanase Nanami
+<style\=RubyPrefixTag></style>\nMakiko Asami=<style\=RubyPrefixTag></style>\nAsami Makiko
+
+{Angel Beats}
+<style\=RubyPrefixTag></style>\nKanade Tachibana=<style\=RubyPrefixTag></style>\nTachibana Kanade
+<style\=RubyPrefixTag></style>\nYuri Nakamura=<style\=RubyPrefixTag></style>\nNakamura Yuri
+<style\=RubyPrefixTag></style>\nMiyuki Irie=<style\=RubyPrefixTag></style>\nIrie Miyuki
+<style\=RubyPrefixTag></style>\nHisako Fuchita=<style\=RubyPrefixTag></style>\nFuchita Hisako

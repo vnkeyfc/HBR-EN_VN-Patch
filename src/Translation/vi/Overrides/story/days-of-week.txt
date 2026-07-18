@@ -1,0 +1,26 @@
+# Days of week (UIHudEnvironment2-Main)
+/RootView/UI-Foreground/HudMenu/UIHudEnvironment2/Mode/*/dayFrame/day/dayOfWeek|'(Chủ Nhật)'|'<size=90%>(CN)'
+/RootView/UI-Foreground/HudMenu/UIHudEnvironment2/Mode/*/dayFrame/day/dayOfWeek|'(Thứ Hai)'|'<size=90%>(T.Hai)'
+/RootView/UI-Foreground/HudMenu/UIHudEnvironment2/Mode/*/dayFrame/day/dayOfWeek|'(Thứ Ba)'|'<size=90%>(T.Ba)'
+/RootView/UI-Foreground/HudMenu/UIHudEnvironment2/Mode/*/dayFrame/day/dayOfWeek|'(Thứ Tư)'|'<size=90%>(T.Tư)'
+/RootView/UI-Foreground/HudMenu/UIHudEnvironment2/Mode/*/dayFrame/day/dayOfWeek|'(Thứ Năm)'|'<size=90%>(T.Năm)'
+/RootView/UI-Foreground/HudMenu/UIHudEnvironment2/Mode/*/dayFrame/day/dayOfWeek|'(Thứ Sáu)'|'<size=90%>(T.Sáu)'
+/RootView/UI-Foreground/HudMenu/UIHudEnvironment2/Mode/*/dayFrame/day/dayOfWeek|'(Thứ Bảy)'|'<size=90%>(T.Bảy)'
+
+# Days of week (UIStoryDayTimeSelect)
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/dayOfWeek|'(Chủ Nhật)'|'<size=90%>(CN)'
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Hai)'|'<size=90%>(T.Hai)'
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Ba)'|'<size=90%>(T.Ba)'
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Tư)'|'<size=90%>(T.Tư)'
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Năm)'|'<size=90%>(T.Năm)'
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Sáu)'|'<size=90%>(T.Sáu)'
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Bảy)'|'<size=90%>(T.Bảy)'
+
+# Days of week (UIShowTimeboxEffect)
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/dayOfWeek|'(Chủ Nhật)'|'<size=90%>(CN)'
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Hai)'|'<size=90%>(T.Hai)'
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Ba)'|'<size=90%>(T.Ba)'
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Tư)'|'<size=90%>(T.Tư)'
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Năm)'|'<size=90%>(T.Năm)'
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Sáu)'|'<size=90%>(T.Sáu)'
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/dayOfWeek|'(Thứ Bảy)'|'<size=90%>(T.Bảy)'

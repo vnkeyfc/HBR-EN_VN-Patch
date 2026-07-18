@@ -1,0 +1,23 @@
+
+[Utils]
+ウィークリーPt=Điểm hằng tuần
+
+
+[Weekly_HomeLabel]
+Weekly Missions 0/6=Nhiệm vụ hằng tuần 0/6
+Weekly Missions 1/6=Nhiệm vụ hằng tuần 1/6
+Weekly Missions 2/6=Nhiệm vụ hằng tuần 2/6
+Weekly Missions 3/6=Nhiệm vụ hằng tuần 3/6
+Weekly Missions 4/6=Nhiệm vụ hằng tuần 4/6
+Weekly Missions 5/6=Nhiệm vụ hằng tuần 5/6
+Weekly Missions 6/6=Nhiệm vụ hằng tuần 6/6
+
+[Weekly_Missions]
+Advance the main story by 1 day (only unread).=Tiến thêm 1 Ngày trong Chính Truyện (chỉ tính phần chưa đọc)
+Advance the event story by 1 day (only unread).=Tiến thêm 1 Ngày trong cốt truyện Sự kiện (chỉ tính phần chưa đọc)
+Clear 30 battles. (Hyperbolic Time Arena excluded.)=Tham gia 30 trận chiến (không tính Luyện Trường Thời Không)
+Log in for 5 days.=Đăng nhập 5 ngày
+Clear the Score Challenge or Seraph Encounter Drill 1 time.=Tham gia Score Challenge hoặc Diễn Tập Ứng Chiến 1 lần
+Perform crafting on an accessory.=Chế tạo một phụ kiện
+Clear 500 Hyperbolic Time Arenas.=Tham gia 500 trận trong Luyện Trường Thời Không
+Use 20 life points.=Tiêu hao 20 Life Point

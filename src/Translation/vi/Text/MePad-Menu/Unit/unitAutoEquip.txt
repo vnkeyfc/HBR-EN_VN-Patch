@@ -1,0 +1,12 @@
+[Auto_Equip]
+おすすめ装備を実行しますか？=Tự động mang trang bị khuyến nghị?
+詳細設定=Chi tiết cài đặt
+デフォルトに戻す=<size\=95%>Khôi phục mặc định</size>
+優先するパラメータ=Ưu tiên chỉ số
+優先するアクセサリ属性=Ưu tiên thuộc tính phụ kiện
+スタイル属性=<size\=90%>Thuộc tính Style</size>
+なし=Không
+※現在の装備が外れる可能性があります。=※Trang bị hiện tại có thể sẽ bị gỡ ra
+設定完了=<size\=85%>Xác nhận</size>
+
+Auto-Equip complete=Thiết lập Trang bị đề cử hoàn tất

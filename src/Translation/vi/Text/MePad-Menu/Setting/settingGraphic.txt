@@ -1,0 +1,19 @@
+[Graphic]
+グラフィック=Thiết lập đồ họa
+・画質=・Chất lượng hình ảnh
+※高画質はGPU負荷が高くなります=※Chất lượng hình ảnh cao sẽ làm tăng tải GPU.
+低画質=Thấp
+標準画質=Tiêu chuẩn
+高画質=Cao
+・表示モード=・Chế độ hiển thị
+ウィンドウ=Cửa sổ
+フルスクリーン=Toàn màn hình
+・解像度=・Độ phân giải
+・垂直同期=・Đồng bộ dọc
+・アンチエイリアス=・Khử răng cưa
+・シャドウ品質=・Chất lượng bóng
+低=Thấp
+中=Trung bình
+高=Cao
+・ノベル解像度=・Đồ hoạ Visual Novel
+標準=Tiêu chuẩn

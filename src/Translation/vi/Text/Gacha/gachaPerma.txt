@@ -1,0 +1,15 @@
+[BeginnerGacha]
+Recruit with Scout Ticket=Gacha bằng vé chiêu mộ
+1 Beginner Recommended SS Memoria Guaranteed!\nAvailable now for 3,000 Paid Quartz!=Trả tiền để quay gacha tân thủ!
+Obtain Memorias with\n10-Roll Recruitment Tickets!=Xoay
+Use One S-or-Above 10-Roll Recruitment Tickets\nto obtain Memorias!=Xoay2
+SS Memorias are the 37 squadron members' normal outfits!\nReceive an SS-Guaranteed recruitment ticket\nwhen you recruit a total of 50 times!=Xoay3
+Obtain Memorias with\nStart Dash Recruitment Tickets!=Xoay4
+
+[RegularGacha]
+Acquire tickets from raising your Player Rank\nand clearing Weekly Missions!\nSelect four base-outfit SS Memorias to draw\nfrom a pool of all 48 squadron members.=<size\=23>Nhận vé từ việc nâng Rank và hoàn thành \nNhiệm vụ Hằng tuần! \nChọn 4 Style SS cơ bản có cơ hội nhận được 1 Style SS trong 48 đội viên.</size>
+
+[SA-GachaScrips]
+
+[Weekly-GachaScrips]
+Use 8 SS-Guaranteed Recruitment Scrips obtained from\nweekly missions to roll for an SS!\n*Resets with every version update.=Thu thập đủ 8 mảnh chiêu mộ từ Nhiệm vụ Hằng tuần \nđể nhận được 1 Style SS ngẫu nhiên!\n※Reset sau mỗi đợt cập nhật phiên bản.

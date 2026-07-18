@@ -1,0 +1,4 @@
+異時層=Dị Thời Không
+最速クリアターン=Số lượt nhanh nhất
+r:"Reset: (\d+) Day\(s\) Left"=Làm mới sau $1 ngày
+毎週月曜4:00更新で取得=\n<size\=140%><line-height\=30px>Làm mới vào lúc\n14:00 thứ Ba hằng tuần.
