@@ -1,5 +1,0 @@
-ROUTINE()Adv.shield()
-Routine(function()Wait(1)
-Transition.finish(nil,1)end)Adv.whiteOut(0,false,"BG")
-UI.playMovie("Assets/Contents/Movie/Story/MC00/MC00_Prologue_Fix_SoundMix_211022.usm.bytes",false)Transition.setWhite()Transition.start(0)
-Adv.whiteIn(0)Exit()

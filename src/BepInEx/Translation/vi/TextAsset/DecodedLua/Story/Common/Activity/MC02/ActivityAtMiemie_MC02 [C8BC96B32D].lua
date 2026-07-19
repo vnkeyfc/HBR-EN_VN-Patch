@@ -1,5 +1,0 @@
-ROUTINE()
-INCLUDE("Lua/Story/Common/Activity/MC02/ActivityAtMiemie_MC02_ADV")
-Field.goToMiemie(function()Field.startActivity()
-Field.stopTaskKey("Player")PurgeField()
-Field.startNovel(ActivityAtMiemie_MC02_ADV)Field.clearActivity()Exit_World()end,true,[[Hang out]],[[Leave]],[[Spend time at Miemie Spa today?]],[[Spend time at Miemie Spa to raise your Kindness.]])Exit()

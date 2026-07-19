@@ -1,5 +1,0 @@
-ROUTINE()
-INCLUDE("Lua/Story/Common/Activity/MC02/ActivityAtTheaterBattle9_MC02_ADV")
-Field.goToBattle9(function()Field.startActivity()
-Field.stopTaskKey("Player")PurgeField()
-Field.startNovel(ActivityAtTheaterBattle9_MC02_ADV)Field.clearActivity()Exit_World()end,true,[[Watch a movie]],[[Maybe next time]],[[Spend time at Battle 9 Theater?]],[[Watch a movie to raise your Eccentricity.]])Exit()

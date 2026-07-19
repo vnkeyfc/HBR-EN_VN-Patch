@@ -1,1 +1,0 @@
-function init()refresh()end;function refresh()end

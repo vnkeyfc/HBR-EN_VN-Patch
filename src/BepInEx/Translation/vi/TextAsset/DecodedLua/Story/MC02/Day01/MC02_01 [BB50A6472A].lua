@@ -1,5 +1,0 @@
-ROUTINE()PrepareDay()
-Timebox("MC02_01_09_00","",function()
-Novel("Lua/Story/MC02/Day01/Novel/MC02_01_09_00")end)
-Timebox("MC02_01_10_00","",function()
-World("Lua/Story/MC02/Day01/World/MC02_01_10_00","Dormitory1F","StartPoint")Novel("Lua/Story/MC02/Day01/Novel/MC02_01_10_01")end)Exit()

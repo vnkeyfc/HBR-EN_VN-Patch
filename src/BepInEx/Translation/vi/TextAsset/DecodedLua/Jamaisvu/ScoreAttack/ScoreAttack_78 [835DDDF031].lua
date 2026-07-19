@@ -1,5 +1,0 @@
-ROUTINE()Battle.waitLoadEnd()
-Sound.playBattleBGM("SV0004",0,0)
-Battle.specialStatus("RedCrimson_Black_scoreattack78_ResistUp_All",BattleTeam.Enemy)Battle.waitPreResult()Wait(1)
-Sound.playEmptyBGM(2,1)Field.waitTimeline("ResultBgmStart_ScoreAttack")
-Sound.playBattleBGM("SB0010_ALT")Exit()

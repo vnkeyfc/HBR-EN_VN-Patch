@@ -1,7 +1,0 @@
-ROUTINE()
-Adv.talkWithIcon("RKayamori",[[Nè nè, dãy số "008065300" ở bên dưới mặt đồng hồ kia là gì vậy?]],"VC_MC00_00_09_03_Novel_00000_RKayamori")
-Adv.talkWithIcon("NNanase",[[Đó là "Bộ đếm Nhân mạng". Nó biểu thị số người còn sống sót trên đất Nhật Bản.]],"VC_MC00_00_09_03_Novel_00001_NNanase")
-Adv.talkWithIcon("RKayamori",[[À, là cái mà cậu tình báo viên trước đó đã đề cập nhỉ.]],"VC_MC00_00_09_03_Novel_00002_RKayamori")
-Adv.talkWithIcon("YIzumi",[[Chính xác thì người nói là Tư lệnh cơ. Tojo chỉ lặp lại lời thôi.]],"VC_MC00_00_09_03_Novel_00003_YIzumi")
-Adv.talkWithIcon("KAsakura",[[Bị những con số này đập thẳng vào mắt như vậy... tự nhiên mình thấy hơi sợ...]],"VC_MC00_00_09_03_Novel_00004_KAsakura")
-Adv.talkWithIcon("TTojo",[[Bổn phận của chúng ta là phải bảo vệ và nâng cao con số này lên nhỉ...]],"VC_MC00_00_09_03_Novel_00005_TTojo")Exit()
