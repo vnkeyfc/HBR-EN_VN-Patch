@@ -16,15 +16,17 @@ Giúp người chơi theo dõi giao diện và nội dung cốt truyện bằng 
 
 </div>
 
+#
+
 > ⚠️<b>CẢNH BÁO:</b> Đây là dự án cộng đồng, không thuộc WRIGHT FLYER STUDIOS, VISUAL ARTS/Key hay Yostar Games. Việc sử dụng bản vá có thể không phù hợp với điều khoản dịch vụ của trò chơi. Bạn tự chịu trách nhiệm đối với tài khoản và dữ liệu của mình khi cài đặt.
 
----
+#
 
 ## <img src=".github/assets/nanami.png" width="40" align="absmiddle" alt=""> Nội dung
 
 - [Tổng quan](#-tổng-quan)
 - [Bản vá gồm những gì?](#-bản-vá-gồm-những-gì)
-- [Bắt đầu và cài đặt](#-bắt-đầu)
+- [Cài đặt](#-cài-đặt)
 - [Cập nhật](#cập-nhật)
 - [Gỡ cài đặt](#gỡ-cài-đặt)
 - [Cấu hình và tùy chỉnh](#-cấu-hình-và-tùy-chỉnh)
@@ -43,7 +45,7 @@ Bản vá hoạt động thông qua BepInEx và XUnity.AutoTranslator, đồng t
 - Một số plugin tùy chỉnh giúp cải thiện khả năng hiển thị và chất lượng bản dịch.
 - Các cấu hình cốt lõi đã được thiết lập sẵn cho Heaven Burns Red. Người chơi không nên tự ý thay đổi vì có thể khiến bản vá hoạt động không ổn định hoặc làm nội dung dịch hiển thị sai.
 
-## <img src=".github/assets/karerin.png" width="40" align="absmiddle" alt=""> Bắt đầu
+## <img src=".github/assets/karerin.png" width="40" align="absmiddle" alt=""> Cài đặt
 
 ### Yêu cầu
 
