@@ -1,0 +1,11 @@
+Break Booster=Break Burst
+Fires a salvo on all enemies [+30% DP Eff].=Khai hoả vào toàn bộ mục tiêu [+30% khi tấn công vào DP]
+
+Cross Cut=Cross Slash
+Slashes an enemy with twin blades [+30% HP Eff].=Chém mục tiêu bằng song kiếm [+30% khi tấn công vào HP]
+
+Enhancement=Cường hoá
+Draws out the frontline units' hidden potential, raising their Skill ATK.=Khai phá sức mạnh của tiền tuyến, tăng sát thương kỹ năng.
+
+Mayhem=Loạn Vũ
+Attacks repeatedly with wild scythe swings [High Devastation].=Tung chuỗi liên kích bằng lưỡi hái [Tỉ lệ Phá hoại: Cao]

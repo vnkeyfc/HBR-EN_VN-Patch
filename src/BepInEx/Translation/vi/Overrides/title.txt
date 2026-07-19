@@ -1,0 +1,41 @@
+# 6thSense
+/RootView/UI-Foreground/Main/UISixSense/container/title|'<size=75%><cspace=4px>Lục Cảm'|'Lục Cảm'
+
+# Event
+/RootView/UI-Foreground/Main/UIEventHeader/commonBg/title|'<size=120%%>Sự kiện</size>'|'<size=80%%>Sự kiện</size>'
+
+# Unit
+/RootView/UI-Foreground/Main/UIParty/container/commonBg/title|'Đội hình'|'<size=80%><cspace=-1px>Đội hình'
+
+# Belongings
+/RootView/UI-Foreground/Main/UIBelongings/container/commonBg/title|'Túi đồ'|'<size=80%>Túi đồ</size>'
+
+# Monthly Mission
+/RootView/UI-Foreground/Main/UIMonthlyMissionList/container/commonBg/title|'Nhiệm vụ hằng tháng'|'<size=80%>Nhiệm vụ hằng tháng'
+
+# Gacha
+/RootView/UI-Foreground/Main/UILotteryTop4/container/commonBg/title|'Gacha '|'<size=120%>Gacha</size>'
+
+# Gallery
+/RootView/UI-Foreground/Main/UIGallery2/commonBg/title|'Gallery '|'<size=80%>Gallery </size>'
+
+# Story Shop
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/scrollView/viewport/content/mapContents/SchoolSide/SchoolSideAll/ShopPoint/label|'<size=80%>Tạp hoá'|'Tạp hoá'
+
+# SA
+/RootView/UI-Foreground/Main/UIEventScoreAttack/scoreAttack/commonBg/title|'Score Challenge'|'<size=80%>Score Challenge</size>'
+
+# Synthesis
+/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/normal/label|'Synthesis'|'Dung hợp'
+/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/active/label|'Synthesis'|'Dung hợp'
+/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/disabled/label|'Synthesis'|'Dung hợp'
+
+# Shop
+/RootView/UI-Foreground/Main/UIEventLimitedExchangeShop/exchangeShop/commonBg/title|'Cửa hàng'|'<size=80%>Cửa hàng</size>'
+/RootView/UI-Foreground/Main/UIShop/container/commonBg/title|'Tạp hoá'|'<size=80%>Tạp hoá</size>'
+
+# Profile
+ /RootView/UI-Foreground/Main/UICharacterListProfile/container/commonBg/title|'Tiểu sử'|'<size=80%>Tiểu sử</size>'
+
+# Reward
+ /RootView/UI-Foreground/Main/UIDuelMissionList/container/commonBg/title|'Thưởng'|'<size=80%>Thưởng</size>'

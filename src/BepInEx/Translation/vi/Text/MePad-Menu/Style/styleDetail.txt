@@ -1,0 +1,24 @@
+[Tab]
+スキル=Kỹ năng
+ブースター=Bộ khuếch đại
+チップ=Vi mạch
+アクセサリ=Phụ kiện
+サポート=Hỗ trợ
+限界突破=Đột Phá
+アビリティ=Nội tại
+
+SLv.=SLv. 
+能力強化=Nâng Cấp
+強化=Nâng Cấp
+Next=Tiếp
+着せ替える=Thay trang phục
+
+[Slv.]
+Unable to use. Already at maximum Memoria level.=SLv. đã đạt giới hạn, không thể sử dụng
+Unable to use. Already at MLv.10 or higher.=Đã đạt từ SLv.10 trở lên, không thể sử dụng
+
+* Stats shown are for Memoria at max Limit Break and enhancement levels, without Eternal Daphne.\n* Skill uses displayed are for the skill at max level.=※Các chỉ số khi đã đạt Đột Phá Giới Hạn/Cường Hóa tối đa, và chưa dùng Thụy Hương Vĩnh Cửu.\n※Giới hạn số lần sử dụng kỹ năng là giá trị khi Kỹ năng đạt cấp độ tối đa.
+
+r:"^Unlocked at (\d+) reversion\(s\).$"=Mở khoá sau khi Tái Sinh $1 lần
+Unlocked at Title Rank 10=Mở khoá khi Cấp Huy Hiệu đạt Rank 10
+Unlocked via Talent Unlock=Mở khoá thông qua Khai Mở Thiên Phú

@@ -1,0 +1,72 @@
+﻿# HBRDialogueOverride
+# Format: path|'text_đã_dịch'|'text_muốn_thay'
+# Lưu ý: cột giữa là bản dịch XUnity đang hiển thị, không phải text gốc tiếng Nhật
+# Dùng \n cho xuống dòng nếu cần
+#
+# Ví dụ:
+# /RootView/.../title|'Trao đổi'|'Cửa hàng đổi thưởng'
+
+/RootView/UI-Foreground/Main/UICommunicationDetailDialog/front/playable/rewardBox/rewardTitle|'Thưởng'|'<size=60%>Thưởng</size>'
+
+/RootView/UI-Foreground/Main/UIPlayerRankDetailDialog/container/front/tab/btnMainStory/relatedLabel|'<size=120%>Chính Truyện'|'Chính Truyện'
+
+/RootView/UI-Foreground/Main/UITerminalHome/container/btnEvent/subTextLong|'Prologue\n- Mở đầu -'|'<space=7px><line-height=33px><size=20px>Prologue</size>\n- Mở đầu -'
+/RootView/UI-Foreground/Main/UITerminalHome/container/btnEvent/subTextLong|'Epilogue\n- Đoạn kết -'|'<space=7px><line-height=33px><size=20px>Epilogue</size>\n- Đoạn kết -'
+
+/RootView/UI-Foreground/Main/UIStoryChapterSelect/container/tabStory/mainStoryList/Viewport/Content/0/container/btnSelect/circle/mask/labelContainer/title|'Prologue\n- Mở đầu -'|'Mở đầu'
+/RootView/UI-Foreground/Main/UIStoryDaySelect/container/infoFrame/dayInfo/container/title|'Prologue\n- Mở đầu -'|'Mở đầu'
+/RootView/UI-Foreground/Main/UIStoryDaySelect/container/infoFrame/eventInfo/container/dayFrame/day|'Prologue\n- Mở đầu -'|'Mở đầu'
+/RootView/UI-Foreground/Main/UIStoryDaySelect/container/infoFrame/eventInfo/container/dayFrame/day|'Epilogue\n- Đoạn kết -'|'Đoạn kết'
+
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/normal/titleContainer/title|'Skullplume Final Form'|'Skull Feather\n<size=60%>- Hình thái cuối cùng -'
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/pressed/titleContainer/title|'Skullplume Final Form'|'Skull Feather\n<size=60%>- Hình thái cuối cùng -'
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/disabled/titleContainer/title|'Skullplume Final Form'|'Skull Feather\n<size=60%>- Hình thái cuối cùng -'
+/RootView/UI-Foreground/Main/UIStoryHardModeConfirmDialog3/container/enemyImage/container/titleContainer/title|'Skullplume Final Form'|'Skull Feather\n<size=60%>- Hình thái cuối cùng -'
+
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/normal/titleContainer/title|'Skullplume First Form'|'Skull Feather\n<size=60%>- Hình thái đầu tiên -'
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/pressed/titleContainer/title|'Skullplume First Form'|'Skull Feather\n<size=60%>- Hình thái đầu tiên -'
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/disabled/titleContainer/title|'Skullplume First Form'|'Skull Feather\n<size=60%>- Hình thái đầu tiên -'
+/RootView/UI-Foreground/Main/UIStoryHardModeConfirmDialog3/container/enemyImage/container/titleContainer/title|'Skullplume First Form'|'Skull Feather\n<size=60%>- Hình thái đầu tiên -'
+
+/RootView/UI-Foreground/Tutorial/UITutorial/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'<size=100%><align=left><cspace=-10px><b> ACTION START</b></cspace></align></size>'|'Bắt đầu hành động'
+
+/RootView/UI-Foreground/Main/UIOperationResult/container/score/operationScoreLabel|'<size=85%>Điểm thảo phạt'|'<size=85%><space=-2px>Điểm thảo phạt'
+
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<cspace=-3px>Hồi tưởng'|'Hồi tưởng'
+
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=80%><cspace=-2px><space=-10>Score Challenge'|'Score Challenge'
+
+/RootView/UI-Foreground/Main/UIOrbBossTop/commonBg/title|'Orb Boss'|'<size=80%>Orb Boss'
+
+/RootView/UI-Foreground/Main/UIGardenExpeditionTop/commonBg/title|'ダンジョン'|'<size=80%>Dungeon'
+
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Tua nhanh'
+
+/RootView/UI-Foreground/Main/UIPrismBattleDialog/ModalContainer/container/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Càn quét'
+
+/RootView/UI-Foreground/Main/UILiveMusicSelect/container/headerBtn/ratingContainer/ratingLabel|'Lực chiến\n'|'Rating'
+
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=80%>Chi tiết Style</size>'|'Chi tiết Style'
+
+/RootView/UI-Foreground/Main/UILotteryCardDetailDialog/ModalContainer/container/title|'<size=90%>Chi tiết Style</size>'|'Chi tiết Style'
+
+/RootView/UI-Foreground/Main/UILotteryCardDetailDialog/container/scrollView/Viewport/Content/cardItem(Clone)/btnDetail/*/label|'Chi tiết'|'<space=-55px><cspace=-30px>Chi tiết'
+
+/RootView/UI-Foreground/Main/UIParty/container/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Càn quét'
+
+/RootView/UI-Foreground/Main/UIEnhanceCard/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'Số lần đột phá'|'Đột phá giới hạn'
+
+/RootView/UI-Foreground/Main/UIBattleSkillMenu/defaultSkillContainer/skillName|'Đánh thường'|'<size=75%>Đánh thường'
+/RootView/UI-Foreground/Main/UIBattleSkillMenu/defaultSkillContainer/skillName|'Chỉ huy'|'<size=75%>Chỉ huy'
+
+/RootView/UI-Foreground/Main/UIThreeButtonDialog/container/battleDefeat/button/btnR/*/label|'<size=75%><cspace=-2px>Càn Quét</size>'|'<size=73%><cspace=-4px>Bỏ qua</size>'
+
+/RootView/UI-Foreground/Main/UIStoryLiveTotalResult/contener/dotTotalScore/totalScoreLabel|'Tổng số điểm'|'<size=85%>Tổng số điểm'
+
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/chapter|'Prologue\n- Mở đầu -'|'Mở đầu'
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/chapter|'Prologue\n- Mở đầu -'|'Mở đầu'
+
+/RootView/UI-Foreground/Main/UICharacterListProfile/container/viewType/profile/profileList/Viewport/Content/template(Clone)/status/birthplace/birthplaceData|'Unknown'|'Không rõ'
+/RootView/UI-Foreground/Loading/UITips2/Tips/CharacterTips/container/tipsFrame/tipsCharacterContainer/profile/profileList/birthplaceContainer/birthplaceData|'Unknown'|'Không rõ'
+
+/RootView/UI-Foreground/Main/UISecretBossDetailDialog/container/enemyDate/recommendElement/recommendElement|'Thuộc tính\nđề xuất'|'Thuộc tính đề xuất'

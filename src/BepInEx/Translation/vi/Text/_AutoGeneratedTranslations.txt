@@ -1,0 +1,8 @@
+﻿スタイルピース変換=<size\=85%>Chuyển hoá mảnh Style
+万能ピース変換=<size\=85%>Chuyển hoá mảnh Vạn năng
+ピースポイント変換=<size\=85%>Chuyển hoá điểm Mảnh Ghép
+
+変換可能なスタイルピースを所持していません=Bạn hiện không sở hữu mảnh Style nào có thể chuyển hoá
+
+10 more needed=Cần thêm 10 mảnh
+おすすめ=Khuyến nghị

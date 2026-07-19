@@ -1,0 +1,26 @@
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Phía trước Ký túc xá'|'<line-height=110%><size=90%>Phía trước\nKý túc xá</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Lối vào Ký túc xá'|'<line-height=110%><size=90%>Lối vào\nKý túc xá</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/scrollView/viewport/content/mapContents/*/*/LoungePoint/label|'Khu sinh hoạt chung'|'<line-height=75%><size=90%>Khu sinh hoạt\nchung</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Khu sinh hoạt chung'|'<line-height=110%><size=90%>Khu sinh hoạt\nchung</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Đài tưởng niệm'|'<line-height=110%><size=90%>Đài tưởng niệm</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Bãi đáp trực thăng'|'<line-height=110%><size=90%>Bãi đáp\ntrực thăng</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Phía trước Khu học xá'|'<line-height=110%><size=90%>Phía trước\nKhu học xá</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Lối vào Khu học xá'|'<line-height=110%><size=90%>Lối vào\nKhu học xá</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Đài quan sát Tháp đồng hồ'|'<line-height=110%><size=90%>Đài quan sát\nTháp đồng hồ</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/scrollView/viewport/content/mapContents/*/*/NarvySquarePoint/label|'Quảng trường Narby'|'<line-height=75%><size=90%>Quảng trường\nNarby</line-height>'
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Quảng trường Narby'|'<line-height=110%><size=90%>Quảng trường\nNarby</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/scrollView/viewport/content/mapContents/*/*/FountainPoint/label|'Quảng trường đài phun nước'|'<line-height=75%><size=90%>Quảng trường\nđài phun nước</line-height>'
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Quảng trường đài phun nước'|'<line-height=110%><size=90%>Quảng trường\nđài phun nước</line-height>'
+
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/scrollView/viewport/content/mapContents/*/*/Battle9Point/label|'Rạp chiếu dã chiến số 9'|'<line-height=75%><size=90%>Rạp chiếu\ndã chiến số 9</line-height>'
+/RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/buttonText|'Rạp chiếu dã chiến số 9'|'<line-height=110%><size=90%>Rạp chiếu\ndã chiến số 9</line-height>'

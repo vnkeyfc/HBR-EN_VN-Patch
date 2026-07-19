@@ -1,0 +1,17 @@
+r:"^For (\d+) Days Only$"=Còn lại $1 ngày
+
+Complete beginner missions to\nLimit Break Ruka Kayamori (SS)!=Hoàn thành nhiệm vụ tân thủ để\nđột phá Style SS của Kayamori Ruka!
+
+[Locked]
+<style\=RubyPrefixTag></style>\nUnlocked by advancing in the Main Scenario.=<style\=RubyPrefixTag></style><br>Mở khoá trong quá trình trải nghiệm Chính Truyện
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 1.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 1
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 1, Day 2.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Ngày 2 của Chương 1
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 1, Day 5.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Ngày 5 của Chương 1
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 1, Day 11.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Ngày 11 của Chương 1
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 2.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 2
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 3.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 3
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 3, Day 14.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 3, Ngày 14
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 3, Day 20.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 3, Ngày 20
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 3, Day 21.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 3, Ngày 21
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 4—Part 1.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 4 - Phần I
+<style\=RubyPrefixTag></style>\nUnlock by clearing Chapter 4—Part 1, Day 6.=<style\=RubyPrefixTag></style><br>Mở khoá sau khi hoàn thành Chương 4 - Phần I, Ngày 6

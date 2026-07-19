@@ -1,0 +1,4 @@
+Eternal Daphne =Thụy Hương Vĩnh Cửu 
+sr:"^\[(.+)\] Shard$"=Mảnh Ghép [$1]
+r:"^Crystal \((.+)\)$"=Pha lê ($1)
+sr:"^Protean Memoria Shard \((.+)\)$"=Mảnh Style Vạn năng ($1)

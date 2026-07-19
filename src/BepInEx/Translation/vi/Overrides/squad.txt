@@ -1,0 +1,13 @@
+# Quick Select
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/left/members/member1/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/left/members/member2/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/left/members/member3/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/left/members/member4/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/left/members/member5/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/left/members/member6/btnList/StrengthContent/Label|'Lực chiến'|'<size=70%>L.Chiến</size>
+
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/characterLevelContainer/ability|'Nâng Cấp'|'<space=7px><size=115%>Nâng Cấp</size>'
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/characterLevelContainer/limit|'Đột Phá'|'<space=7px><size=115%>Đột Phá</size>'
+
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/ability|'Nâng Cấp'|'<space=3px><size=85%>Nâng Cấp</size>'
+/RootView/UI-Foreground/Main/UIPartyCharacterSelectLump/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/limit|'Đột Phá'|'<space=-45px><size=85%>Đột Phá</size>'

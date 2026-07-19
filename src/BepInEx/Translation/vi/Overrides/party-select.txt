@@ -1,0 +1,19 @@
+# Main_Selection
+# [SS Style]
+/RootView/UI-Foreground/Main/UIPartyCharacterSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/ability|'Nâng Cấp'|'<space=3px><size=85%>Nâng Cấp</size>'
+/RootView/UI-Foreground/Main/UIPartyCharacterSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/limit|'Đột Phá'|'<space=-45px><size=85%>Đột Phá</size>'
+
+/UIPartyCharacterSelect(Clone)/container/righ/scrollView/Viewport/Content/PartyCharacterGrid/PartyCharacterCellList/PartyCharacterCell/styleImage/characterLevelContainer/ability|'Nâng Cấp'|'<space=7px><size=115%>Nâng Cấp</size>'
+/UIPartyCharacterSelect(Clone)/container/righ/scrollView/Viewport/Content/PartyCharacterGrid/PartyCharacterCellList/PartyCharacterCell/styleImage/characterLevelContainer/limit|'Đột Phá'|'<space=7px><size=115%>Đột Phá</size>'
+
+# Support_Selection
+# [S/A Style]
+/RootView/UI-Foreground/Main/UISupportCardSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/ability|'Nâng Cấp'|'<space=35px><size=85%>Nâng Cấp</size>'
+/RootView/UI-Foreground/Main/UISupportCardSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/cardLevelContainer/limit|'Đột Phá'|'<space=-20px><size=85%>Đột Phá</size>'
+
+/RootView/UI-Foreground/Main/UISupportCardSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/characterLevelContainer/ability|'Nâng Cấp'|'<size=110%>Nâng Cấp</size>'
+/RootView/UI-Foreground/Main/UISupportCardSelect/container/righ/scrollView/Viewport/Content/PartyCharacterGrid(Clone)/PartyCharacterCellList/PartyCharacterCell(Clone)/styleImage/characterLevelContainer/limit|'Đột Phá'|'<size=110%>Đột Phá</size>'
+
+# Switch Positton
+/RootView/UI-Foreground/Main/UIParty/container/partyScrollView/party/btnChangeOrder/active/label|'入れ替え'|'<size=85%>Đổi vị trí</size>'
+/RootView/UI-Foreground/Main/UIParty/container/partyScrollView/party/btnChangeOrder/disablel/label|'入れ替え'|'<size=85%>Đổi vị trí</size>'

@@ -1,0 +1,50 @@
+[Action]
+話しかける=Trò chuyện
+調べる=Điều tra
+拾う=Nhặt
+移動する=Di chuyển
+
+[UI_Story]
+メッセージ=Tin nhắn
+ホーム=Home 
+移動=<voffset\=-20px><size\=85%>Đi Đến</voffset>
+次の時間へ=<line-height\=24px>Chuyển mốc\nthời gian
+<style\=RubyPrefixTag></style>\nSkip the rest of this period and move on to the next?=<style\=RubyPrefixTag></style><br>Bỏ qua thời điểm hiện tại và chuyển đến mốc thời gian tiếp theo?
+選択済=Đã chọn
+デイリザルト=Kết quả trong ngày
+<style\=RubyPrefixTag></style>\nReturn to the Home screen?=<style\=RubyPrefixTag></style>\nQuay về Màn hình chính?
+
+[Multiple_Choice]
+質問=Câu hỏi
+That's it!=Chính là nó!
+Redo=Thử lại
+
+[Location]
+Main Street=Đường chính
+Union Street=Phố Giao Tình
+Academy Grounds=Căn cứ học viện
+Academy Building=Khu học xá
+Academy Entrance=Lối vào Khu học xá
+In Front of Academy Building=Phía trước Khu học xá
+Dormitories=Ký túc xá
+Dormitory Entrance=Lối vào Ký túc xá
+In Front of Dormitories=Phía trước Ký túc xá
+Clock Tower=Tháp đồng hồ
+Clock Tower Viewing Platform=Đài quan sát Tháp đồng hồ
+Dormitory Roof=Sân thượng
+Arena=Đấu trường
+Narby Square=Quảng trường Narby
+Mortuary=Đài tưởng niệm
+Heliport=Bãi đáp trực thăng
+Canteen=Căn tin
+Common Area=Khu sinh hoạt chung
+Cafeteria=Nhà ăn
+Munitions Store=Tạp hoá
+Miemie Spa=Spa Miemie
+Battle 9 Theater=Rạp chiếu dã chiến số 9
+Fountain Square=Quảng trường đài phun nước
+Flavor Street=Phố Hương Vị
+
+sr:"^<style\=RubyPrefixTag></style>\nGo to (.+)$"=<style\=RubyPrefixTag></style><br>Đi đến $1
+<style\=RubyPrefixTag></style>\nStay here=<style\=RubyPrefixTag></style><br>Ở lại
+sr:"^<style\=RubyPrefixTag></style>\nSpend time at (?:the )?(.+) to raise (.+).$"=<style\=RubyPrefixTag></style>\nDành thời gian tại $1 để tăng chỉ số $2?

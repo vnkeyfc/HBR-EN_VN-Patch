@@ -1,0 +1,64 @@
+[Days-of-week]
+Day\n=Ngày\n
+(Sun)=(Chủ Nhật)
+(Mon)=(Thứ Hai)
+(Tue)=(Thứ Ba)
+(Wed)=(Thứ Tư)
+(Thur)=(Thứ Năm)
+(Fri)=(Thứ Sáu)
+(Sat)=(Thứ Bảy)
+r:"<pos\=15%>Day\n<size\=40>(.+)</size>"=<pos\=15%>Ngày\n<size\=40>$1
+
+[dayInfoFrame]
+sr:"Day<size\=78>(\d+)</size><color\=#F6E5E5FF>(.+)</color>"=<voffset\=-10px><size\=35>Ngày<space\=7px><size\=60>$1</size><space\=5px><color\=#F6E5E5FF><size\=30>$2</color>
+
+[Period]
+Period 1=<size\=80%>Sáng 01</size>
+Period 2=<size\=80%>Sáng 02</size>
+Period 3=<size\=80%>Sáng 03</size>
+Period 4=<size\=80%>Sáng 04</size>
+Period 5=<size\=80%>Sáng 05</size>
+Evening 1=<size\=80%>Chiều 01</size>
+Evening 2=<size\=80%>Chiều 02</size>
+Evening 3=<size\=80%>Chiều 03</size>
+Evening 4=<size\=80%>Chiều 04</size>
+Evening 5=<size\=80%>Chiều 05</size>
+Night 1=<size\=80%>Tối 01</size>
+Night 2=<size\=80%>Tối 02</size>
+Night 3=<size\=80%>Tối 03</size>
+Night 4=<size\=80%>Tối 04</size>
+Night 5=<size\=80%>Tối 05</size>
+Early Morning=<size\=80%>Sáng sớm</size>
+Morning=<size\=80%>Sáng</size>
+Lesson Prep=<size\=80%>C.bị tiết học</size>
+Lunch=<size\=80%>Trưa</size>
+After School=<size\=80%>Sau giờ học</size>
+Evening=<size\=80%>Chiều</size>
+Late Night=<size\=80%>Đêm muộn</size>
+Free Time=<size\=80%>Giờ giải lao</size>
+Morning Acts=<size\=80%>H.đ sáng</size>
+Evening Acts=<size\=80%>H.đ chiều</size>
+
+<style\=RubyPrefixTag></style>\nPlay this day from the beginning?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ đầu?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 1"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 01"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 2"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 02"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 3"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 03"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 4"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 04"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 5"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 05"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Evening 1"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Chiều 01"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Evening 2"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Chiều 02"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Evening 3"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Chiều 03"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Evening 4"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Chiều 04"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Evening 5"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Chiều 05"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Night 1"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Tối 01"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Night 2"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Tối 02"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Night 3"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Tối 03"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Night 4"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Tối 04"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Night 5"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Tối 05"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Early Morning"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng sớm"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Morning"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Lesson Prep"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Chuẩn bị tiết học"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Lunch"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Trưa"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "After School"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sau giờ học"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Evening"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Chiều"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Late Night"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Đêm muộn"?

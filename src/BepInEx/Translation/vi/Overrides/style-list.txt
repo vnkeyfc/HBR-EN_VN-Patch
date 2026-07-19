@@ -1,0 +1,13 @@
+# SS Style
+/RootView/UI-Foreground/Main/UIEnhanceCardSelect/container/scrollView/Viewport/Content/enhanceCardTemplate(Clone)/image/cardLevelContainer/ability|'Nâng Cấp'|'<space=3px><size=85%>Nâng Cấp</size>'
+/RootView/UI-Foreground/Main/UIEnhanceCardSelect/container/scrollView/Viewport/Content/enhanceCardTemplate(Clone)/image/cardLevelContainer/limit|'Đột Phá'|'<space=-45px><size=85%>Đột Phá</size>'
+/RootView/UI-Foreground/Main/UIEnhanceCardSelect/container/scrollView/Viewport/Content/enhanceCardTemplate(Clone)/image/cardLevelContainer/sLevel|'SLv. '|'<space=2px><size=85%>SLv.</size>'
+
+# S/A Style
+/UIEnhanceCardSelect(Clone)/container/scrollView/enhanceCardTemplate/image/characterLevelContainer/ability|'Nâng Cấp'|'<space=7px><size=115%>Nâng Cấp</size>'
+/UIEnhanceCardSelect(Clone)/container/scrollView/enhanceCardTemplate/image/characterLevelContainer/limit|'Đột Phá'|'<space=7px><size=115%>Đột Phá</size>'
+
+/RootView/UI-Foreground/Main/UIExchangeStyle2/container/scrollView/Viewport/Content/exchangeStyleTemplate(Clone)/image/limitBreak/limit|'Đột Phá'|'<voffset=-5px><size=150%>Đột Phá</size>'
+
+/RootView/UI-Foreground/Main/UILotteryCardSelect/container/scrollView/Viewport/Content/lotteryCardTemplate(Clone)/image/limitBreak/limit|'Đột Phá'|'<voffset=-5px><size=150%>Đột Phá</size>'
+
