@@ -72,7 +72,7 @@ Lần khởi động đầu tiên có thể lâu hơn bình thường do BepInEx
 
 ### Trình cài đặt tự động
 
-Trình cài đặt tự động hiện vẫn trong giai đoạn thử nghiệm. Bạn có thể tải [ở đây](https://mega.nz/file/RIBl1QAA#R1tZKDH1m4C3NTlCjizb7gAUeP_JvYzkA3dGWujWj8g) để trải nghiệm trước.
+Trình cài đặt tự động hiện vẫn trong giai đoạn thử nghiệm. Bạn có thể tải [ở đây](https://github.com/quon-croissant/HBR-VN-Patch-Installer) để trải nghiệm trước.
 
 ## <img src=".github/assets/tojo.png" width="40" align="absmiddle" alt=""> Quản lý bản vá
 
