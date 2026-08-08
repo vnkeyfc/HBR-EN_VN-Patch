@@ -1,0 +1,26 @@
+Astral Battle=<size\=70%>Hằng Tinh Chiến
+r:"^Planetary Battle (\d+)$"=<size\=75%><line-height\=70%>Chiến trận\nHành tinh $1
+派遣部隊=Đội hình cử đi
+Turn Limit: None=Giới hạn số lượt: Không có
+特殊ルール=Quy tắc đặc thù
+撤退する=Rút lui
+r:"^Next Mission: Clear class (.+).$"=Nhiệm vụ: Hoàn thành Class $1
+r:"^Next Mission: Clear EX Mode Level (\d+)$"=Nhiệm vụ: Hoàn thành độ khó EX$1
+r:"^Class (.+) Astral Battle unlocked$"=Đã mở khoá Hằng Tinh Chiến Class $1
+EX Mode unlocked=Đã mở khoá chế độ khó EX
+最速クリア=Nhanh nhất
+EX MODE=<size\=80%>CHẾ ĐỘ KHÓ EX
+EX Level=Độ khó EX
+
+恒星戦報酬=Thưởng Hằng Tinh Chiến
+惑星戦報酬=Thưởng Chiến trận Hành tinh
+EX MODE報酬=Thưởng chế độ khó EX
+
+Astral Battle Results=<pos\=-40px>Kết quả Hằng Tinh Chiến
+クリアターン数=<size\=80%><pos\=11px>Số Lượt Hoàn Thành
+クラス撃破！=Hoàn tất!
+
+r:"^Clear class (.+).$"=Hoàn thành Class $1
+r:"^Clear class (.+) within (\d+) turns.$"=Hoàn thành Class $1 trong $2 lượt
+r:"^Cleared Planetary Battle (\d+)$"=Hoàn thành Chiến trận Hành tinh $1
+r:"^Clear EX Mode Level (\d+)$"=Hoàn thành độ khó EX$1

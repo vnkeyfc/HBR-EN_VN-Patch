@@ -15,4 +15,4 @@ r:"^Chapter (\d+)Day(\d+)$"=Chương $1 Ngày $2
 r:"^Chapter (\d+)—Part (\d+)Day(\d+)$"=Chương $1-Phần $2 Ngày $3
 
 ストーリー選択=<size\=80%><cspace\=-2px>Lựa chọn chương truyện
-Relive Memories=<cspace\=-3px>Hồi tưởng
+Relive Memories=<cspace\=-3px>Hồi Tưởng

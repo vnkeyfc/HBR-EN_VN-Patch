@@ -1,0 +1,7 @@
+Exchange Confirmation=Xác nhận đổi thưởng
+Points Required:=Số điểm cần đổi
+Exchange Points Possessed:=Số điểm hiện có:
+交換確認=Xác nhận đổi thưởng
+Exchange points for this item?=Đổi điểm hiện có để nhận vật phẩm này?
+取得済のスタイルのため、ピースに変換されました。=Style này sẽ được chuyển hoá thành Mảnh Ghép do bạn đã sở hữu nó.
+合計所持数=Tổng đang hiện có

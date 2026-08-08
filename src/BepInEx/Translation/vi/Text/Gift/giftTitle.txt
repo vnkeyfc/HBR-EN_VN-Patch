@@ -1,1 +1,9 @@
 Score Challenge Reward =Phần thưởng Score Challenge
+Item(s) acquired from Token Exchange=Vật phẩm từ Cửa hàng Token
+Item(s) acquired from Premium Token Exchange=Vật phẩm từ Cửa hàng Token Premium
+sr:"^(.+), (.+) Clear Reward$"=Thưởng hoàn thành $1, $2
+Apology Gift from the HBR Team=Quà đền bù từ đội ngũ HBR
+Gift From the HBR Team=Quà từ đội ngũ HBR
+Pre-Registration Campaign Gift=Quà từ sự kiện Đăng ký trước
+r:"^Daily Login Bonus: Day (\d+)$"=Quà điểm danh hằng ngày: Ngày $1
+Astrarium Clear Reward=Phần thưởng Truy Quét Hằng Tinh

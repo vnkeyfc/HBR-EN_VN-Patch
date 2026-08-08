@@ -11,3 +11,4 @@ The following gifts can't be claimed due to the quantity limit.=Không thể nh�
 Claim all of the following gifts?=Nhận nhanh những vật phẩm dưới đây?
 You can only receive 100 gift items at a time.= Mỗi lần chỉ có thể nhận tối đa 100 vật phẩm.
 You claimed the following rewards:=Đã nhận những phần thưởng như sau:
+受け取り可能なものはありません=Không có vật phẩm nào có thể nhận

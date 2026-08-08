@@ -2,6 +2,7 @@
 Currently Live=<size\=90%>Đang diễn ra</size>
 イベントミッション=<cspace\=2px>Nhiệm vụ sự kiện
 Archived=Đã lưu trữ
+報酬一覧=Thưởng
 振り返り=Xem lại
 シェア=Chia  sẻ
 イベントプリズム=Prism Event
@@ -33,8 +34,8 @@ Main Scenario: Interlude=Chính Truyện: Chương đệm
 [Dungeon]
 ダンジョン選択=<size\=80%><cspace\=-2px>Lựa chọn Dungeon</cspace></size>
 踏破率=Tiến độ
-推奨戦力=L.C đề cử
-推奨属性=Thuộc tính\nđề xuất
+推奨戦力=L.C đề cử:
+推奨属性=T.T đề cử:
 初回ボス討伐報酬=Thưởng diệt Boss lần đầu
 報酬はありません=Không có phần thưởng
 ダンジョンチケット=Vé Dungeon
@@ -45,8 +46,11 @@ An earnest feeling that remains in fleeting memories...\n\nDespite it being thei
 [DIFF B] Ikebukuro UG=<size\=85%>[Độ khó B] Hầm Ikebukuro</size>
 
 
-r:"<style\=RubyPrefixTag></style>\nUnlock Conditions:\nClear Main Scenario: Chapter (\d+)"=<style\=RubyPrefixTag></style>\nĐiều kiện mở khoá:\nHoàn thành Chính Truyện: Chương $1
-r:"Unlock Conditions\nClear Main Scenario: Chapter (\d+)"=Điều kiện mở khoá:\nHoàn thành Chính Truyện: Chương $1
-r:"Before (\d+)/(\d+) 23:59\(UTC-7\):"=Diễn ra đến $2/$1 - 13:59
-r:"^Featured! <size\="20">Until (\d+)/(\d+) 23:59</size>$"=NỔI BẬT! <size\="20">Cho đến $2/$1 - 13:59</size>
+r:"^<style\=RubyPrefixTag></style>\nUnlock Conditions:\nClear Main Scenario: Chapter (\d+)$"=<style\=RubyPrefixTag></style>\nĐiều kiện mở khoá:\nHoàn thành Chính Truyện: Chương $1
+r:"^<style\=RubyPrefixTag></style>\nUnlock Conditions\nClear Main Scenario: Chapter (\d+)$"=<style\=RubyPrefixTag></style>\nĐiều kiện mở khoá:\nHoàn thành Chính Truyện: Chương $1
 r:"^Featured! <size\="20">(\d+) Day\(s\) Left</size>$"=NỔI BẬT! <size\="20">Còn $1 ngày</size>
+r:"^Featured! <size\="20">(\d+) Hour\(s\) Left</size>$"=NỔI BẬT! <size\="20">Còn $1 giờ</size>
+
+COMPLETE=HOÀN THÀNH
+-UNLOCK-=-ĐÃ MỞ KHOÁ- 
+Tokens\n3x=Token\n×3

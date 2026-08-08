@@ -1,0 +1,15 @@
+/RootView/UI-Foreground/Tutorial/UITutorial/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'<size=100%><align=left><cspace=-10px><b> ACTION START</b></cspace></align></size>'|'Bắt đầu hành động'
+
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<cspace=-3px>Hồi Tưởng'|'Hồi Tưởng'
+
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=80%><cspace=-2px><space=-10>Score Challenge'|'Score Challenge'
+
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Tua nhanh'
+
+/RootView/UI-Foreground/Main/UIPrismBattleDialog/ModalContainer/container/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Càn quét'
+
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=80%>Chi tiết Style</size>'|'Chi tiết Style'
+
+/RootView/UI-Foreground/Main/UIParty/container/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Càn quét'
+
+/RootView/UI-Foreground/Main/UIEnhanceCard/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'Số lần đột phá'|'Đột Phá Giới Hạn'

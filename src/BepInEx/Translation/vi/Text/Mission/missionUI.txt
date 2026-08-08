@@ -3,6 +3,7 @@
 確認=Xác nhận
 進捗報酬=<size\=130%>Tiến độ</size>
 Event Missions=<size\=80%>Nhiệm vụ sự kiện</size>
+動画を見る=<size\=70%>Xem Video
 
 [Tab]
 Beginner Missions=Nhiệm vụ tân thủ

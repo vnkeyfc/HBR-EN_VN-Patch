@@ -1,0 +1,15 @@
+Player Rank EXP Acquired=Đã nhận thêm EXP
+ランク=Cấp bậc
+プレイヤーランク=Cấp Người Chơi
+プレイヤーランクUP！=Cấp Người Chơi đã tăng!
+プレイヤーランク ループ報酬達成！=Đã nhận phần thưởng lặp Cấp Người Chơi!
+Head to your Play Rank details to collect rewards=Hãy đến phần Chi tiết Cấp Người Chơi để nhận thưởng
+プレイヤーランク達成で以下の報酬が獲得できます=Gia tăng Cấp Người Chơi để nhận những phần thưởng sau:
+r:"^Rank (\d+)$"=Cấp bậc $1
+Loop Rewards=Thưởng lặp
+Continue gaining EXP when at maximum Player Rank to acquire.=<size\=70%>Tiếp tục nhận EXP khi đạt tối đa Cấp Người Chơi để nhận thưởng
+Feature unlocked: Squad slots increased from 15 to 20.=<size\=70%>Mở khoá tính năng: Số lượng đội hình thiết lập tăng từ 15 đến 20
+Feature unlocked: Squad slots increased from 10 to 15; Perform Dungeons, Orb Bosses, and Anachronies up to 4 times at once=<size\=80%>Mở khoá tính năng: Số lượng đội hình thiết lập tăng từ 15 đến 20.\nMở khoá tính năng: Có thể khiêu chiến Dungeon, Orb Boss, và Dị Thời Không 4 lần cùng một lúc.
+r:"^Feature unlocked: Perform Dungeons, Orb Bosses, and Anachronies up to (\d+) times at once$"=<size\=80%>Mở khoá tính năng: Có thể khiêu chiến Dungeon, Orb Boss, và Dị Thời Không $1 lần cùng một lúc.
+r:"^Feature unlocked: Perform Flashback Battles & Extracurricular Activities up to (\d+) times at once$"=<size\=80%>Mở khoá tính năng: Có thể khiêu chiến Prism Battle và tham gia hoạt động $1 lần cùng một lúc.
+r:"^Feature unlocked: Perform Flashback Battles & Extracurricular Activities up to (\d+) times at once; Complete 20 cleared Flashback Battles at once$"=<size\=80%>Mở khoá tính năng: Có thể khiêu chiến Prism Battle và tham gia hoạt động $1 lần cùng một lúc.\nMở khoá tính năng: Có thể khiêu chiến Prism Battle đã hoàn thành 20 lần cùng một lúc

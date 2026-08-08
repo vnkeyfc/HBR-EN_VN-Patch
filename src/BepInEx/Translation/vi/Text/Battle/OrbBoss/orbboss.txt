@@ -6,33 +6,43 @@
 オーブボスⅠ=Orb Boss I
 r:"^Exo Observer (.+)$"=Exo Watcher $1
 r:"^Nihil Sinister and Nihil Rectus (.+)$"=Sinister & Rectus Nil $1
-オーブスキル習得状況=Tiến độ lĩnh hội Orb Skill
-オーブスキル=Orb Skill 
+オーブスキル習得状況=Tiến độ lĩnh hội Ngọc Kỹ
+オーブスキル=Ngọc Kỹ
 熟練度=<size\=88%>Thông thạo
 Mastery=<size\=80%>Thông thạo
 習得済み=Đã lĩnh hội
+未習得=Chưa lĩnh hội
+Acquisition Progress=Tiến độ lĩnh hội
+オーブスキル習得数=Ngọc Kỹ đã lĩnh hội
+対象オーブ=Chi tiết về Ngọc
+対象オーブボス=Nhận Ngọc ở đâu
+Campaign On Now!=Gia tăng tỉ lệ!
+Mastery gain and Qualia drop rate increased!=Tăng tiến độ thông thạo và tỉ lệ rơi ra Qualia!
+Mastery Gains ↑=Tăng tiến độ thông thạo!
+Qualia drop rate increased!=Tăng tỉ lệ rơi ra Qualia!
+熟練度上昇値=Thông thạo:
 
 Orb of Criticality=Ngọc Bạo Kích
-Increases critical rate of this unit.=Tăng tỉ lệ bạo kích của bản thân.
+Increases critical rate of this unit.\n=Tăng tỉ lệ bạo kích của bản thân.
 
 Orb of Restoration=Ngọc Phục Sinh
 Restoring Light=Repair Light
-Repairs broken shield and restores DP for this unit.=Khôi phục và hồi một lượng lớn DP.
+Repairs broken shield\nand restores DP for this unit.=Khôi phục và hồi một lượng lớn DP.
 
 Orb of Impetus=Ngọc Động Lực
 Driving Force=Drive Gain
-Increases the Overdrive gauge.=Tăng thanh năng lượng Overdrive.
+Increases the Overdrive gauge.\n=Tăng thanh năng lượng Overdrive.
 
 Orb of Safeguarding=Ngọc Bảo Hộ
 Safeguard=Protection
-Slightly increases defense of this unit.=Tăng nhẹ phòng thủ của bản thân.
+Slightly increases defense of this unit.\n=Tăng nhẹ phòng thủ của bản thân.
 
 Orb of Rage=Ngọc Cường Công
 Raging Attack=Attack Rise
-Draws out a single ally's hidden potential to raise the attack power of her skills.=Khai phá sức mạnh của một đồng minh và tăng sát thương kỹ năng.
+Draws out a single ally's hidden potential to\nraise the attack power of her skills.=Khai phá sức mạnh của một đồng minh và tăng sát thương kỹ năng.
 
 Orb of Concentration=Ngọc Tập Trung
-Slightly increases critical damage of this unit.=Tăng nhẹ sát thương bạo kích của bản thân.
+Slightly increases critical damage of this unit.\n=Tăng nhẹ sát thương bạo kích của bản thân.
 
 Orb of Skillfulness=Ngọc Sung Năng
 Skillful Means=Point Care

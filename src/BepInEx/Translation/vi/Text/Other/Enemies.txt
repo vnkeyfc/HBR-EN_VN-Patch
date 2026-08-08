@@ -1,13 +1,47 @@
-Skitterer=Hopper
+[SmallCritters]
+Crusher=Knocker
+Abyssal Crusher=Abyss Knocker
+Abyssal Crusher S=Abyss Knocker S
+Razorwing=Needle Bird
+Razorwing S=Needle Bird S
+Chrysalis=Diamond Eye
+Chrysalis S=Diamond Eye S
+Skitterer=Small Hopper
+Gold Skitterer=Gold Hopper
 Crested Skitterer=Crest Hopper
 Healing Skitterer=Heal Hopper
+Bane Skitterer=Killer Hopper
+Chakram=Slasher
+Vespid=Valve Free
+Iron Stalker=Barrel Walker
+Lurker=Shrimp Crab
+Deep Lurker=Bully Crab
+Triad Claw=Tri-Claw
+Eikthyrnir=Giraffe High Low
+Corolla Stiletto=Corolla Cutter
+Corolla Severer=Corolla Knife
+Corolla Reaper=Corolla Scythe
+Gate of Irony=Irony Gate
+Gate of Repudiation=Bigotry Gate
+Gate of Renunciation=Objection Gate
+r:"^Hornpouncer (.+)$"=Cat Horn $1
+r:"^Lasher (.+)$"=Octopus Tail $1
+r:"^Lacerator (.+)$"=Wireframe $1
+r:"^Lamia (.+)$"=Slimy Serpent $1
 
+[Boss]
 Medusa=Rotary Mole
 Vertex Crimson=Red Crimson
 Dendron=Feeler
 Dendron Terminus=Ultimate Feeler
 Apophis=Desert Dendron
 Skullplume=Skull Feather
+Skullplume First Form=Skull Feather (Hình thái đầu tiên)
+Skullplume Final Form=Skull Feather (Hình thái cuối cùng)
+Skullplume (Head)=Skull Feather [Đầu]
+Skullplume (Tail)=Skull Feather [Đuôi]
+Commander Tezuka=Tư lệnh Tezuka
 
+[Orb]
 r:"^Nihil Rectus (.+)$"=Rectus Nil $1
 r:"^Nihil Sinister (.+)$"=Sinister Nil $1

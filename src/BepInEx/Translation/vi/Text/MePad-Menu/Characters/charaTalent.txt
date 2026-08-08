@@ -1,5 +1,5 @@
 [Label]
-才能開花=<line-height\=25px><size\=120%>Khai mở\nthiên phú</size>
+才能開花=<line-height\=25px><size\=120%>Khai Mở\nThiên Phú</size>
 開花完了=Đã khai mở
 才能開花済です=Đã khai mở thiên phú
 演出再生=Xem lại hoạt ảnh

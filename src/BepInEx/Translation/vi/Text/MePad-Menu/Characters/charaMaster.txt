@@ -1,0 +1,4 @@
+マスタースキル習得=Lĩnh hội Tinh Thông Kỹ
+sr:"^Raise (.+)'s Title Rank to (\d+).$"=Cấp Danh Hiệu của $1 là $2.
+
+Clear 121 battles with Sumomo Minase, Ichigo Minase, Seika Higuchi, Byakko, and Kozue Hiiragi in the party (Automatic battles excluded).=Tham gia 121 trận chiến cùng với Sumomo, Ichigo, Seika, Byakko và Kozue có trong đội hình. (Không tính khiêu chiến tự động)

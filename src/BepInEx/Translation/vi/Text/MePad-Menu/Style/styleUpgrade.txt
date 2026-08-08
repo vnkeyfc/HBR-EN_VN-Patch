@@ -6,12 +6,14 @@ Stat Increases III=Nâng cấp sức mạnh III
 Stat Increases IV=Nâng cấp sức mạnh IV
 Tear Enhancements=Cường hóa Bảo Ngọc
 
-Skill=<align\=center>Kỹ năng
-Skill (Orb)=<align\=center>Kỹ năng (Ngọc)
-Passive Skill (Master)=<align\=center>Kỹ năng nội tại (Master)
+Skill=Kỹ năng
+Skill (Exclusive)=Kỹ năng (Độc quyền)
+Skill (Orb)=Kỹ năng (Ngọc)
+Passive Skill (Master)=Kỹ năng nội tại (Master)
+Passive Skill (Exclusive)=Kỹ năng nội tại (Độc quyền)
 SkillLv.+=Kỹ năng Lv.+
-EX Skill=<align\=center>Tuyệt Kỹ
-EX Skill (Exclusive)=<align\=center>Tuyệt Kỹ (Độc quyền)
+EX Skill=Tuyệt Kỹ
+EX Skill (Exclusive)=Tuyệt Kỹ (Độc quyền)
 EX Skill (Exclusive)Lv.+=Tuyệt Kỹ (Độc quyền) Lv.+
 Stats (Exclusive)=Chỉ số (Độc quyền)
 Stats =Chỉ số
@@ -22,10 +24,8 @@ sr:"^(.+) Follow-Up Rate \+1%$"=Tỉ lệ Follow-Up cho hệ $1 +1%
 
 必要Lv. =Yêu cầu Lv.
 
-Bulk Enhancement Complete!=Nâng cấp hoàn loạt thành công!
-
 強化結果=<size\=90%>Kết quả nâng cấp
-一括強化=Nâng cấp hàng loạt
+一括強化=Nâng cấp nhanh
 習得=Lĩnh hội
 
 Slash=Trảm

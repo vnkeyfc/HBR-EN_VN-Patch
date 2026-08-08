@@ -1,32 +1,3 @@
-//[Kayamori-Ruka]
-//## 一気に片付けるぞ。
-//This'll be a piece of cake.=Dứt điểm trong một lượt nào.
-//## あたしらならやれるさ。
-//We've got this.=<size\=90%>Nếu là chúng ta thì dư sức làm được thôi.
-//## チャンスだ！
-//Now's our chance!=Cơ hội đây rồi!
-//## やるな！
-//Nice!=Được đấy!
-//## さっすが！
-//Woah, sick!=Quá đỉnh!
-//## やるね！
-//Sick moves!=
-//## その調子だ！
-//Lookin' good!=Cứ giữ đà đó nha!
-//## 一気に行こうぜ！
-//Let's go all out!=Xông lên một lượt luôn nào!
-//## よっ！ 待ってました！
-//You're a rock star!=Dô! Tớ đợi mãi đấy!
-//## くぅーいいねー！
-//That's the stuff!=Chàaaa, được đấy chứ!
-//## こいつはありがてー！
-//Thanks! You rock!=Cám ơn bồ nhé!
-//
-//Look at you!=Được đó!
-//## みんな、行くぜ！
-//It's time to rock n' roll!=Mọi người, lên nào!
-//
-//
 //[Izumi-Yuki]
 //## みんな、冷静にな。
 //Stay cool, everyone.=Mọi người, giữ cái đầu lạnh đấy.

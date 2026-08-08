@@ -8,6 +8,8 @@ ULv.=CLv.
 絆Lv.=T.Mật Lv.
 転生=Tái sinh
 ステータス=Chỉ số
+マスタースキル=<size\=120%>Tinh Thông Kỹ
+Mastery Skill=<size\=110%>Mastery Skill 
 
 [Clv.]
 あと=Còn
@@ -26,16 +28,17 @@ Unable to use. Already at Lv.100 or higher.=Đã đạt từ Lv.100 trở lên, 
 
 [Bond]
 ノイズ解放 Lv.=Giảm nhiễu
-交流クリア数=<size\=85%>Giao lưu đã clear
-メモストクリア数=Memory Story đã clear
-交流=Giao lưu
-メモリーストーリー=Memory Story
+交流クリア数=Giao Lưu
+メモストクリア数=Câu chuyện Hồi Ức
+交流=Giao Lưu
+メモリーストーリー=Câu chuyện Hồi Ức
 
 [Rebirth]
 転生巻き戻し=Hoàn tác Tái sinh
-スキル枠=Ô Skill
-Each time you revert a unit, their base stats gain reversion bonuses, and skill slots increase with multiple reversions.=Tái sinh sẽ cộng thêm các chỉ số của nhân vật.\nKhi tái sinh nhiều lần, số ô skill cũng sẽ tăng.
+スキル枠=Ô kỹ năng
+Each time you revert a unit, their base stats gain reversion bonuses, and skill slots increase with multiple reversions.=Tái sinh sẽ cộng thêm các chỉ số của nhân vật.\nKhi tái sinh nhiều lần, số ô kỹ năng cũng sẽ tăng.
 転生数\n=<space\=25px>Số lần Tái sinh\n
 Revert=Tái sinh
-Upon undoing a reversion, the unit's reversion level will decrease, and a Miracle Bell will be refunded.=Khi hoàn tác tái sinh, số lần tái sinh sẽ bị giảm xuống,\nđổi lại bạn có thể nhận được Chuông Kỳ Diệu.
+Upon undoing a reversion, the unit's reversion level will decrease, and a Miracle Bell will be refunded.=Số lần tái sinh sẽ giảm xuống sau khi hoàn tác,\nđồng thời hoàn trả lại Chuông Kỳ Diệu.
+Can be undone when reversion level is +1 or higher.=Có thể hoàn tác khi số lần tái sinh là +1 hoặc hơn
 Undo Reversion=Hoàn tác Tái sinh

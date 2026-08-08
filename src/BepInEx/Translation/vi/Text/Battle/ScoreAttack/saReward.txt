@@ -6,3 +6,6 @@
 ハイスコア報酬=Phần thưởng điểm cao
 累計報酬=Phần thưởng tích luỹ
 ミッション報酬=Phần thưởng nhiệm vụ
+
+r:"^Clear at Difficulty (\d+) or higher.$"=Hoàn thành thử thách ở Độ khó $1 hoặc cao hơn
+r:"^Clear at Difficulty (\d+) or higher and Intensity (\d+) or higher.$"=Hoàn thành thử thách ở Độ khó $1 và Grade $2 hoặc cao hơn

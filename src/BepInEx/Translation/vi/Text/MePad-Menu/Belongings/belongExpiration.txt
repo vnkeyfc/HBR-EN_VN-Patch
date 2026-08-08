@@ -1,0 +1,6 @@
+残数=Còn
+取得日時(JST)=Nhận vào lúc
+有効期限(JST)=Hết hạn vào
+有効期限を過ぎるとチケットは失われます。ご注意ください。=Lưu ý rằng vé/mảnh sẽ không còn giá trị sau khi hết hạn.
+有効期限確認=Kiểm tra hạn sử dụng
+Confirm Expiration Date=Kiểm tra hạn sử dụng

@@ -31,6 +31,11 @@ Support Unit Details=<size\=80%>Chi tiết hỗ trợ</size>
 Active Skill=Kỹ năng chủ động
 
 [UI]
+Story Squad=Đội hình cốt truyện
+ストーリー部隊=<size\=75%>Đội hình Cốt truyện
+通常部隊=<size\=75%>Đội hình thường
+Fixed Formation=Đội hình cố định
+Fixed=Cố định
 回=lần
 一括選択=<size\=85%>Chọn nhanh</size>
 総合戦力=Lực chiến
@@ -51,6 +56,9 @@ Reorder=<size\=85%>Đổi vị trí</size>
 This squad member cannot participate in this battle.=<size\=80%>Có đội viên không thể tham gia trận chiến này.
 Do not include units that diverge from the actual storyline.=Loại trừ nhân vật không liên quan đến mạch truyện
 このバトルには参加できないメンバーが含まれています\n編成から外してください=Đội hình có đội viên không thể tham gia trận chiến này.\nXin hãy thay thế bằng đội viên khác hoặc gỡ bỏ khỏi đội hình.
+ストーリー状況と乖離するメンバーが\n編成されていますがよろしいですか？=Đội hình có đội viên không liên quan đến mạch truyện.\nBạn có chắc chắn muốn tiếp tục không?
+毎回警告を出す=<size\=80%>Luôn hiện cảnh báo này mọi lúc
+チーム編成へ=Thiết lập đội hình
 
 [Switch]
 Main Formation=Đội hình chính

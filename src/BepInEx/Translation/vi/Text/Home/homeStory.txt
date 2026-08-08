@@ -3,5 +3,5 @@
 最新のショップ=Tạp hoá\nmới nhất
 最新のフリータイムへ=Free Time\ngần nhất
 続きから=Tiếp tục
-過去をたどる=Hồi tưởng
-交流/メモリーストーリー=Giao lưu / Memory Story
+過去をたどる=Hồi Tưởng
+交流/メモリーストーリー=Giao Lưu / Câu chuyện Hồi Ức

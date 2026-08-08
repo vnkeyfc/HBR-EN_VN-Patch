@@ -3,9 +3,17 @@
 ﻿アイテム=Vật phẩm
 入手方法=Nhận ở đâu
 成長素材=Nâng cấp
-ピース=Mảnh Ghép
+ピース=Mảnh ghép
+アイテム=Vật phẩm
 変換=<size\=70%><space\=-30px>Chuyển hoá</size>
 Items=Vật phẩm
-Crystal Exchange=<size\=80%>Cửa hàng Pha lê</size>
+Crystal Exchange=<size\=80%>Cửa hàng Pha Lê</size>
 Exchange Qty:=Số lượng
 Sale= 
+
+アクセサリを所持していません=Không có phụ kiện
+チップを所持していません=Không có vi mạch
+ブースターを所持していません=Không có bộ khuếch đại
+ピースを所持していません=Không có mảnh ghép
+成長素材を所持していません=Không có nguyên liệu nâng cấp
+アイテムを所持していません=Không có vật phẩm

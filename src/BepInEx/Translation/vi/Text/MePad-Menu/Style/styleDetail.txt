@@ -10,7 +10,7 @@
 SLv.=SLv. 
 能力強化=Nâng Cấp
 強化=Nâng Cấp
-Next=Tiếp
+Next=Tiếp theo
 着せ替える=Thay trang phục
 
 [Slv.]
@@ -22,3 +22,13 @@ Unable to use. Already at MLv.10 or higher.=Đã đạt từ SLv.10 trở lên, 
 r:"^Unlocked at (\d+) reversion\(s\).$"=Mở khoá sau khi Tái Sinh $1 lần
 Unlocked at Title Rank 10=Mở khoá khi Cấp Huy Hiệu đạt Rank 10
 Unlocked via Talent Unlock=Mở khoá thông qua Khai Mở Thiên Phú
+
+r:"^10 will be consumed through Limit Break level (\d+), and 20 will be consumed from Limit Break level (\d+) to (\d+).\n30 will be consumed from Limit Break level (\d+) onwards.$"=Lv.$1 trở xuống cần 10 mảnh, Lv.$2 ~ $3 cần 20 mảnh\nTừ Lv.$4 trở đi sẽ tiêu hao 30 mảnh
+10 will be consumed through Limit Break level 2.\n20 will be consumed from Limit Break level 3 onwards.=Lv.2 trở xuống cần tiêu hao 10 mảnh.\nTừ Lv.3 trở đi sẽ tiêu hao 30 mảnh.
+
+r:"^Limit Breaks: \((\d+)→<color\=#91EAF2>(\d+)</color>\)$"=Đột Phá Giới Hạn ($1→<color\=#91EAF2>$2</color>)
+r:"^Unit Max Lv. \((\d+)→<color\=#91EAF2>(\d+)</color>\)$"=CLv. tối đa ($1→<color\=#91EAF2>$2</color>)
+r:"^All Attributes <color\=#91EAF2>\+(\d+)%</color>$"=Tất cả chỉ số <color\=#91EAF2>+$1%</color>
+※専用ピースから消費されます　専用ピースが足りない場合、万能ピースが消費されます=※Ưu tiên tiêu hao Mảnh Ghép chuyên dụng trước.\nTrong trường hợp không đủ Mảnh Ghép chuyên dụng, hệ thống sẽ tiêu hao Mảnh Ghép Vạn Năng.
+r:"^Shards required: (\d+)$"=Số lượng mảnh yêu cầu: $1
+r:"^Limit Break successful! (\d+) → (\d+)$"=Đột Phá Giới Hạn hoàn tất!  $1 → $2

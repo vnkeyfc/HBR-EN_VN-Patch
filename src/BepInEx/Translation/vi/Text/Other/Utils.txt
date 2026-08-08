@@ -11,17 +11,51 @@ ON=Bật
 Off=Tắt
 On=Bật
 Continue=Tiếp tục
-Unlock Complete!=Mở khoá thành công!
+Unlock Complete!=Mở khoá hoàn tất!
 Zoom In/Out=Phóng to/nhỏ
+はじめる=Bắt đầu
+プレイ可能=<size\=70%>Có thể theo dõi
+詳 細=Chi tiết
+
+Reward(s) obtained=Đã nhận phần thưởng
 
 長押しでスタイル性能詳細を確認できます。=Nhấn giữ Style để xem chi tiết.
 Exchange for selected Memoria?=Xác nhận chọn Style này?
 
-Player Rank EXP Acquired=Đã nhận thêm EXP
-
 <style\=RubyPrefixTag></style>\nNot currently available.=<style\=RubyPrefixTag></style>\nHiện tại không khả dụng
 
+r:"^(\d+) left$"=<size\=90%>Còn $1 lần
+r:"^Acquired: (.+)$"=<space\=60px>Nhận được: $1
+
+Exchange Complete=Đổi thưởng hoàn tất
 Reward(s) Obtained=Đã nhận thưởng
+
+Conversion Complete=Chuyển hoá hoàn tất
+リセット対象=Có thể\nlàm mới
+Sold Out=Đã hết
+
+Bulk Enhancement complete!=Nâng cấp nhanh hoàn tất!
+
+PICKUP!=NỔI BẬT!
+
+sr:"^(.+) is now able to acquire "(.+)"!$"=$1 đã có thể lĩnh hội kỹ năng "$2"!
+sr:"^Skill level of (.+)'s \"(.+)\" has increased! (\d+) → (\d+)$"=Kỹ năng "$2" của $1 đã được tăng cấp!  $3 → $4
+
+月額パス=Thẻ tháng
+パック・クォーツ=Gói Quartz
+オトクにクォーツを購入しよう！=<cspace\=1px>Mua gói Quartz với giá ưu đãi!
+r:"No. Remaining:\n(\d+)"=Số lượng: $1
+利用規約=<size\=85%>Điều khoản dịch vụ
+Subscribe=Đăng ký
+r:"^(.+) / Month$"=$1 / Tháng
+Monthly Light Pass=Thẻ tháng Cơ Bản
+Monthly Premium Pass=Thẻ tháng Cao Cấp
+Three-Month Light Pass Pack=Gói Thẻ tháng Cơ Bản ×3
+Three-Month Premium Pass Pack=Gói Thẻ tháng Cao Cấp ×3
+20-Day Login Rebate Bundle=Gói hoàn trả đăng nhập 20 ngày
+購入=TRẢ PHÍ
+
+sr:"^(.+) Acquired$"=Đã nhận $1
 
 ATTACKER=<size\=120%>ATTACKER
 BREAKER=<size\=130%>BREAKER

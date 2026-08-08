@@ -5,11 +5,15 @@
 移動する=Di chuyển
 
 [UI_Story]
+マップ=<size\=80%>Bản đồ khu vực
+FastTravel=<size\=110%>FastTravel 
+Map=Map 
 メッセージ=Tin nhắn
 ホーム=Home 
-移動=<voffset\=-20px><size\=85%>Đi Đến</voffset>
+移動=<voffset\=-35px><cspace\=-2px><space\=-7px><size\=90%>Đi đến</voffset>
 次の時間へ=<line-height\=24px>Chuyển mốc\nthời gian
 <style\=RubyPrefixTag></style>\nSkip the rest of this period and move on to the next?=<style\=RubyPrefixTag></style><br>Bỏ qua thời điểm hiện tại và chuyển đến mốc thời gian tiếp theo?
+<style\=RubyPrefixTag></style>\nSkip the rest of this period and move on to the next? (Using the Relive Memories\nfeature to perform Socializations will consume Life Points.)=<style\=RubyPrefixTag></style><br>Bỏ qua thời điểm hiện tại và chuyển đến mốc thời gian tiếp theo?<br>(Thực hiện hoạt động Giao Lưu thông qua Hồi Tưởng sẽ tiêu hao Life Point)
 選択済=Đã chọn
 デイリザルト=Kết quả trong ngày
 <style\=RubyPrefixTag></style>\nReturn to the Home screen?=<style\=RubyPrefixTag></style>\nQuay về Màn hình chính?
@@ -22,6 +26,7 @@ Redo=Thử lại
 [Location]
 Main Street=Đường chính
 Union Street=Phố Giao Tình
+Library=Thư viện
 Academy Grounds=Căn cứ học viện
 Academy Building=Khu học xá
 Academy Entrance=Lối vào Khu học xá
@@ -33,6 +38,7 @@ Clock Tower=Tháp đồng hồ
 Clock Tower Viewing Platform=Đài quan sát Tháp đồng hồ
 Dormitory Roof=Sân thượng
 Arena=Đấu trường
+Arena Road=Đường trước Đấu trường
 Narby Square=Quảng trường Narby
 Mortuary=Đài tưởng niệm
 Heliport=Bãi đáp trực thăng
@@ -40,11 +46,23 @@ Canteen=Căn tin
 Common Area=Khu sinh hoạt chung
 Cafeteria=Nhà ăn
 Munitions Store=Tạp hoá
+The Woodway=Ngõ sau
 Miemie Spa=Spa Miemie
 Battle 9 Theater=Rạp chiếu dã chiến số 9
 Fountain Square=Quảng trường đài phun nước
 Flavor Street=Phố Hương Vị
+Shops=Cửa hàng
 
 sr:"^<style\=RubyPrefixTag></style>\nGo to (.+)$"=<style\=RubyPrefixTag></style><br>Đi đến $1
 <style\=RubyPrefixTag></style>\nStay here=<style\=RubyPrefixTag></style><br>Ở lại
 sr:"^<style\=RubyPrefixTag></style>\nSpend time at (?:the )?(.+) to raise (.+).$"=<style\=RubyPrefixTag></style>\nDành thời gian tại $1 để tăng chỉ số $2?
+sr:"^<style\=RubyPrefixTag></style>\nSpend time at (?:the )?(.+) to raise your (.+).$"=<style\=RubyPrefixTag></style>\nDành thời gian tại $1 để tăng chỉ số $2?
+sr:"^<style\=RubyPrefixTag></style>\nTrain at the Gym to raise (.+).$"=<style\=RubyPrefixTag></style>\nRèn luyện tại phòng Gym để tăng chỉ số $1?
+sr:"^<style\=RubyPrefixTag></style>\nWatch a movie to raise (.+).$"=<style\=RubyPrefixTag></style>\nTheo dõi một bộ phim để tăng chỉ số $1?
+sr:"^<style\=RubyPrefixTag></style>\nWatch a movie to raise your (.+).$"=<style\=RubyPrefixTag></style>\nTheo dõi một bộ phim để tăng chỉ số $1?
+* Maximum personality trait level reached. Life Points will not be expended.=※Đã đạt chỉ số tối đa của đặc tính. Life Point sẽ không tiêu hao.
+Maximum personality trait level reached. The following trait(s) will not gain points:=Đã đạt chỉ số tối đa của đặc tính.\nNhững đặc tính sau sẽ không được cộng thêm:
+Is this how you will spend time?=Bạn vẫn muốn tiếp tục chứ?
+<style\=RubyPrefixTag></style>\nContinuing beyond this point will cause the story to progress.\nProceed?=<style\=RubyPrefixTag></style>\nĐi qua điểm này sẽ tiếp tục tiến trình cốt truyện.\nBạn có muốn tiếp tục?
+<style\=RubyPrefixTag></style>\nContinuing beyond this point will cause the story to progress. Proceed?=<style\=RubyPrefixTag></style>\nĐi qua điểm này sẽ tiếp tục tiến trình cốt truyện.\nBạn có muốn tiếp tục?
+<style\=RubyPrefixTag></style>\nMove to specified location using auto-travel?=<style\=RubyPrefixTag></style>\nTự động di chuyển đến vị trí được chỉ định?

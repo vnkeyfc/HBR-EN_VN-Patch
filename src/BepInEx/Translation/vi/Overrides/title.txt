@@ -25,17 +25,28 @@
 # SA
 /RootView/UI-Foreground/Main/UIEventScoreAttack/scoreAttack/commonBg/title|'Score Challenge'|'<size=80%>Score Challenge</size>'
 
-# Synthesis
-/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/normal/label|'Synthesis'|'Dung hợp'
-/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/active/label|'Synthesis'|'Dung hợp'
-/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/disabled/label|'Synthesis'|'Dung hợp'
-
 # Shop
 /RootView/UI-Foreground/Main/UIEventLimitedExchangeShop/exchangeShop/commonBg/title|'Cửa hàng'|'<size=80%>Cửa hàng</size>'
 /RootView/UI-Foreground/Main/UIShop/container/commonBg/title|'Tạp hoá'|'<size=80%>Tạp hoá</size>'
 
 # Profile
- /RootView/UI-Foreground/Main/UICharacterListProfile/container/commonBg/title|'Tiểu sử'|'<size=80%>Tiểu sử</size>'
+/RootView/UI-Foreground/Main/UICharacterListProfile/container/commonBg/title|'Tiểu sử'|'<size=80%>Tiểu sử</size>'
 
 # Reward
- /RootView/UI-Foreground/Main/UIDuelMissionList/container/commonBg/title|'Thưởng'|'<size=80%>Thưởng</size>'
+/RootView/UI-Foreground/Main/UIDuelMissionList/container/commonBg/title|'Thưởng'|'<size=80%>Thưởng</size>'
+
+/RootView/UI-Foreground/Main/UIOrbBossTop/commonBg/title|'Orb Boss'|'<size=80%>Orb Boss'
+
+/RootView/UI-Foreground/Main/UIGardenExpeditionTop/commonBg/title|'ダンジョン'|'<size=80%>Dungeon'
+
+/RootView/UI-Foreground/Main/UILotteryCardDetailDialog/ModalContainer/container/title|'<size=90%>Chi tiết Style</size>'|'Chi tiết Style'
+
+/RootView/UI-Foreground/Main/UISecretBossDetailDialog/container/enemyDate/recommendValue/valueTitle|'L.C đề cử'|'<size=90%>Lực chiến đề cử'
+
+/RootView/UI-Foreground/Main/UIScoreAttackTop/container/rightBox/enemyData/bossDetailContainer/recommendValue/valueTitle|'L.C đề cử'|'Lực chiến đề cử'
+
+/RootView/UI-Foreground/Main/UILearnOrbSkills/container/header/subTitle|'Ngọc Kỹ'|''
+
+/RootView/UI-Foreground/Main/UISeasonScheduleDialog/container/righitContainer/pointBase/title|'Đã nhận Total'|'Tổng cộng'
+
+/RootView/UI-Foreground/Main/UIOrbSkillList/container/header/subTitle|'Ngọc Kỹ'|'Orb Skill '

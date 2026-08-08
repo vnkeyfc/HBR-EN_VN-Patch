@@ -1,4 +1,30 @@
-Eternal Daphne =Thụy Hương Vĩnh Cửu 
-sr:"^\[(.+)\] Shard$"=Mảnh Ghép [$1]
-r:"^Crystal \((.+)\)$"=Pha lê ($1)
-sr:"^Protean Memoria Shard \((.+)\)$"=Mảnh Style Vạn năng ($1)
+#Eternal Daphne =Thụy Hương Vĩnh Cửu 
+#sr:"^\[(.+)\] Shard$"=Mảnh Ghép [$1]
+#Recruitment (Duplicate Memoria Drawn)=<size\=80%>Gacha (Chiêu mộ trùng mảnh)
+#
+#r:"^Crystal \((.+)\)$"=Pha lê ($1)
+#Convert excess Memoria shards=<size\=80%>Chuyển hoá mảnh Style dư thừa
+#Convert excess Memoria shards\nToken Exchange=<size\=80%>Chuyển hoá mảnh Style dư thừa\nCửa hàng Token
+#Convert excess Memoria shards\nToken Exchange\nConvert Shard Points=<size\=80%>Chuyển hoá mảnh Style dư thừa\nCửa hàng Token\nChuyển hoá điểm Mảnh Ghép
+#
+#Protean Memoria Shard (A)=Mảnh Style Vạn Năng (A)
+#Protean Memoria Shard (S)=Mảnh Style Vạn Năng (S)
+#Protean Memoria Shard (SS)=Mảnh Style Vạn Năng (SS)
+#Protean Memoria Shard (SS <Resonance>)=Mảnh Style Vạn Năng (SS <Resonance>)
+#Convert excess Memoria shards\n=Chuyển hoá mảnh Style dư thừa
+#
+#10-Roll Recruitment Ticket=Vé Gacha ×10 lần
+#One S-or-Above 10-Roll Recruitment Ticket=Vé Gacha ×10 lần ra 1 Style độ hiếm S trở lên
+#Anachrony Pass=Vé Dị Thời Không
+#Nordstrom Nanocrystal=Tinh thể Nordstrom
+#Memoria Leveling Primer=Sách Cường Hoá Style
+#r:"^Leveling Primer \(Lv. (\d+)\)$"=Sách Cường Hoá (Lv.$1)
+#r:"^Glistening Polish (.+)$"=Xi Đánh Bóng Lấp Lánh $1
+#
+#r:"^Battle Report (.+)$"=Báo Cáo Chiến Đấu $1
+#r:"^Grants (.+) EXP.$"=Nhận $1 EXP.
+#Flashback Battles,\nOrb Bosses,\nGarden of Memories Shop, etc.=<size\=80%>Prism Battle\nOrb Boss\nCửa hàng Vườn Ký Ức,...
+#Flashback Battles\nOrb Bosses=<size\=80%>Prism Battle\nOrb Boss
+#
+#Exploration (Main Scenario)=<size\=80%>Thám hiểm (Chính Truyện)
+#Exploration (Main Scenario)\nToken Exchange=<size\=80%>Thám hiểm (Chính Truyện)\nCửa hàng Token

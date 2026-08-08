@@ -1,4 +1,6 @@
 Earn tokens in Missions, Event Flashback Battles, Score Challenge, and Seraph Encounter Drills to exchange for items!=Nhận token thông qua các nhiệm vụ,\nkhiêu chiến Prism Event, Score Challenge và\nDiễn tập ứng chiến Seraph để đổi thưởng! 
+Earn event tokens in Missions\nand Event Flashback Battles\nto exchange for items!=Nhận token thông qua các nhiệm vụ,\nvà khiêu chiến Prism Event để đổi thưởng! 
+※交換したクォーツはギフトに付与されます=※Số Quartz đã đổi thưởng sẽ được đưa về Hộp quà
 
 [Label]
 交換する=Đổi

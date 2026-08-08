@@ -57,7 +57,7 @@ Craft=Chế tạo
 Switch Variants=Chuyển Style
 Display Illustration=Xem ảnh minh hoạ
 Details on MLv.=Chi tiết về SLv.
-Details on Limit Break=Chi tiết về Đột phá giới hạn
+Details on Limit Break=Chi tiết về Đột Phá Giới Hạn
 Play Animation=Xem hoạt ảnh
 
 # Battle

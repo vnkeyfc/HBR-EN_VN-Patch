@@ -1,0 +1,4 @@
+# Synthesis
+/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/normal/label|'Synthesis'|'Dung hợp'
+/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/active/label|'Synthesis'|'Dung hợp'
+/RootView/UI-Foreground/Main/UIBelongings/container/header/headerViewType/btnContainer/btnContainer/disabled/label|'Synthesis'|'Dung hợp'

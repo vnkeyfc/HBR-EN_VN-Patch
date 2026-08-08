@@ -1,6 +1,6 @@
 アリーナ訓練=<size\=80%>Huấn luyện Đấu trường
 アリーナ : <size\=28>アリーナ訓練</size>=<size\=30>Arena:</size> <size\=22>Huấn luyện Đấu trường</size>
-訓練に挑戦し、強化素材やGP、経験値を得ることができます。=Thử thách các bài huấn luyện để nhận nguyên liệu nâng cấp, GP và điểm kinh nghiệm.
+訓練に挑戦し、強化素材やGP、経験値を得ることができます。\n=Thử thách các bài huấn luyện để nhận nguyên liệu nâng cấp, GP và điểm kinh nghiệm.
 チャレンジ演習=<size\=80%>Diễn tập thử thách
 アリーナ : <size\=28>チャレンジ演習</size>=<size\=30>Arena:</size> <size\=24>Diễn tập thử thách</size>
 ミッション形式の訓練で、\n戦闘の腕を磨くことができます。=Bài huấn luyện theo dạng nhiệm vụ giúp bạn rèn giũa và nâng cao kỹ năng chiến đấu.
@@ -27,8 +27,84 @@ sr:"^<color\=#C3FFFC>Allies take no damage:</color> (.+)$"=<color\=#C3FFFC>Đồ
 常に敵のDPを１残す=DP của kẻ địch không bị\nBREAK
 ※HPは常に１残ります=※HP của kẻ dịch không thể giảm thấp hơn 1
 味方を無敵にする=Đồng minh không\nnhận sát thương
-
+時の修練場=<size\=80%>Luyện Trường Thời Không
 時の修練場へ=<size\=145%><align\=left>Luyện Trường\nThời Không
 
+Additional Rewards!=Thưởng thêm!
+
 訓練開始=Bắt đầu huấn luyện
-出撃する=Xuất trận
+出撃する=Xuất Trận
+もう一度プレイする=Khiêu chiến lần nữa
+
+r:"^(\d+)体$"=<space\=-30px>$1 mục tiêu
+
+[ArenaTraining]
+この訓練にもう一度挑戦しますか？=Bạn có muốn thử lại bài huấn luyện này một lần nữa không?
+First Clear: 240 GP=Hoàn thành lần đầu: 240 GP
+戦闘対象=Đối tượng:
+※個数はバトル１回あたりの期待値です。=※Số lượng này là giá trị kỳ vọng cho một trận chiến.
+sr:"^\[Trainer\] (.+)\n\[Trainer\] (.+)$"=[Huấn luyện] $1\n[Huấn luyện] $2
+sr:"^\[Trainer\] (.+)\n\[Trainer\] (.+)\n\[Trainer\] (.+)$"=[Huấn luyện] $1\n[Huấn luyện] $2\n[Huấn luyện] $3
+sr:"^Beginner Lv. (\d+)$"=Sơ Cấp Lv.$1
+sr:"^Beginner Lv. (\d+) \((.+)\)$"=Sơ Cấp Lv.$1 ($2)
+sr:"^Intermediate Lv. (\d+) \((.+)\)$"=Trung Cấp Lv.$1 ($2)
+sr:"^Advanced Lv. (\d+) \((.+)\)$"=Nâng Cao Lv.$1 ($2)
+sr:"^Master Lv. (\d+) \((.+)\)$"=Tinh Anh Lv.$1 ($2)
+r:"^Expert Lv. (\d+)$"=Cực Hạn Lv.$1
+sr:"^Expert Lv. (\d+) \((.+)\)$"=Cực Hạn Lv.$1 ($2)
+sr:"^Elite Training (.+)$"=Huấn Luyện Đặc Biệt $1
+I've prepared some practice simulations for beginners.\nI'm sure you'll have no problem clearing these.=Tôi đã chuẩn bị bài huấn luyện để phù hợp với người mới.\nNếu là bạn thì việc vượt qua nó sẽ dễ dàng thôi.
+Skitterers have no resistances, so they're good for beginners, but please don't underestimate them.=Small Hopper không có chỉ số kháng và rất phù hợp cho người mới bắt đầu, nhưng xin đừng chủ quan lơ là nhé.
+Slash attacks, such as with blades and scythes, are effective.\nThis is an easy way to obtain upgrade materials for Slash-type Memorias.=Các đòn tấn công hệ Trảm từ đao và lưỡi hái sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Style mang hệ Trảm có thể nhận ở đây.
+Pierce attacks, such as with guns and cannons, are effective.\nThis is an easy way to obtain upgrade materials for Pierce-type Memorias.=Các đòn tấn công hệ Đột từ súng và pháo sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Style mang hệ Đột có thể nhận ở đây.
+Crush attacks, such as with broadswords and shields, are effective.\nThis is an easy way to obtain upgrade materials for Crush-type Memorias.=Các đòn tấn công hệ Đả từ trọng kiếm và khiên sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Style mang hệ Đả có thể nhận ở đây.
+Slash attacks are effective.\nTry training in Beginner Lv. 3 (Slash) first before attempting this.=Các đòn tấn công hệ Trảm rất có hiệu quả.\nHãy khiêu chiến sau khi đã bồi dưỡng sức mạnh ở Sơ cấp Lv.3 (Trảm).
+Pierce attacks are effective.\nTry training in Beginner Lv. 3 (Pierce) first before attempting this.=Các đòn tấn công hệ Đột rất có hiệu quả.\nHãy khiêu chiến sau khi đã bồi dưỡng sức mạnh ở Sơ cấp Lv.3 (Đột).
+Crush attacks are effective.\nTry training in Beginner Lv. 3 (Crush) first before attempting this.=Các đòn tấn công hệ Đả rất có hiệu quả.\nHãy khiêu chiến sau khi đã bồi dưỡng sức mạnh ở Sơ cấp Lv.3 (Đả).
+Slash attacks are effective.\nTry building a squad with Slash-type Memoria units.=Các đòn tấn công hệ Trảm rất có hiệu quả.\nHãy thử lập một tổ đội với các thành viên mang hệ Trảm xem.
+Pierce attacks are effective.\nTry building a squad with Pierce-type Memoria units.=Các đòn tấn công hệ Đột rất có hiệu quả.\nHãy thử lập một tổ đội với các thành viên mang hệ Đột xem.
+Crush attacks are effective.\nTry building a squad with Crush-type Memoria units.=Các đòn tấn công hệ Đả rất có hiệu quả.\nHãy thử lập một tổ đội với các thành viên mang hệ Đả xem.
+Try mixing things up with buffs and debuffs as you face your opponent.=Hãy chiến đấu bằng cách tận dụng tối đa các hiệu ứng buff và debuff.
+
+[BasicTraining]
+このバトルは固定編成での挑戦になります=Trận chiến sẽ được tiến hành bằng đội hình cố định.
+報酬はすべて取得済みです=<space\=-40px>Đã nhận toàn bộ phần thưởng
+1. I want to learn more about the basics of battle=1. Tôi muốn biết về nền tảng của chiến đấu
+1-1 Battle Basics=1-1 Cơ bản về chiến đấu
+Review the basics of battle.=Ôn tập lại các kiến thức cơ bản về chiến đấu.
+1-2 Using Overdrive=1-2 Tận dụng hệ thống OVERDRIVE
+Familiarize yourself with Overdrive to make battles easier.=Tìm hiểu về OVERDRIVE, hệ thống giúp mang lại lợi thế trong chiến đấu.
+1-3 Vulnerabilities and Resistances=1-3 Điểm yếu và Kháng tính
+Familiarize yourself with vulnerabilities and resistances.=Tìm hiểu về Điểm yếu và Kháng tính.
+1-4 Devastation Rate=1-4 Tỉ lệ Phá hoại
+Familiarize yourself with Devasation Rate, an important mechanic which increases damage dealt.=Tìm hiểu về [Tỷ lệ Phá hoại], một yếu tố quan trọng giúp\ngia tăng sát thương.
+2. I want to learn more about buffs and special effects=2. Tôi muốn biết về Buff và các hiệu ứng đặc biệt
+2-1 DP Restoration=2-1 Hồi phục DP
+Familiarize yourself with how to restore DP and survive in battle.=Tìm hiểu cách hồi phục DP và chiến đấu một cách ngoan cường.
+2-2 Powering Up with Buffs=2-2 Gia tăng sức mạnh bằng cách áp dụng Buff
+Familiarize yourself with Buffers' skills to enhance your Attackers' abilities.=Tìm hiểu cách phát huy tối đa sức mạnh của ATTACKER\nbằng cách sử dụng kỹ năng của BUFFER.
+2-3 Protecting Your Allies in Battle=2-3 Vừa chiến đấu vừa bảo vệ đồng đội
+Familiarize yourself with how to protect your comrades using the effects of Focused and Provoke.=Tìm hiểu cách bảo vệ đồng đội bằng hiệu ứng\n[Thu Hút] và [Khiêu Khích].
+2-4 The Multihit Increase Buff=2-4 Buff tăng số lượng đòn đánh
+Familiarize yourself with Multihit Increase, a powerful effect which increases the number of hits dealt by skills.=Tìm hiểu về hiệu ứng [Liên Kích], giúp gia tăng số đòn đánh và mang lại nhiều lợi ích khác nhau.
+2-5 Critical Hits=2-5 Bạo Kích
+Familiarize yourself with Critical Hits, which deal greatly increased damage.=Tìm hiểu về đòn tấn công Bạo Kích, giúp gia tăng đáng kể lượng sát thương.
+2-6 Fields=2-6 Field <size\=75%>(Hiệu ứng môi trường)
+Familiarize yourself with elemental-enhancing Fields, which continuously increase the strength of certain elements.=Tìm hiểu về Field, cơ chế giúp cường hóa liên tục cho các thuộc tính.
+2-7 Making the Best Use of Totems=2-7 Tận dụng Token
+Familiarize yourself with fighting using Memoria that utilize Totems.=Tìm hiểu về cách chiến đấu của các Style có sở hữu [Token].
+2-8 Tactical Vision=2-8 Tâm Nhãn
+Familiarize yourself with further increasing weakness-exploiting damage by using Tactical Vision.=Tìm hiểu về hiệu ứng [Tâm Nhãn], giúp gia tăng\nlượng sát thương khi đánh trúng điểm yếu.
+3. I want to learn more advanced strategies=3. Tôi muốn biết về các chiến thuật nâng cao
+3-1 Stacking Buffs=3-1 Cộng dồn Buff
+Familiarize yourself with how to make good use of buffs to deal even greater damage.=Tìm hiểu về cách tận dụng Buff để gây ra\nlượng sát thương cao hơn nữa.
+3-2 Stacking Debuffs=3-2 Cộng dồn Debuff
+Familiarize yourself with how to make good use of debuffs to deal even greater damage.=Tìm hiểu về cách tận dụng Debuff để gây ra\nlượng sát thương cao hơn nữa.
+
+[Challenge]
+勝利条件=Điều kiện:
+Free Formation=Đội hình tự do
+sr:"^Don't Let It Get Away! \((.+)\)$"=Đừng để nó trốn thoát! ($1)
+We've prepared a training unit with the same abilities as a Gold Skitterer.\nUse your skills to restrain and defeat it before it can run away.=Tôi đã chuẩn bị mục tiêu huấn luyện có năng lực tương đương với Gold Hopper.\nHãy sử dụng kỹ năng để khống chế kẻ địch, nhằm tiêu diệt trước khi nó kịp tẩu thoát nhé.
+Defeat the enemy before it escapes.=Đánh bại mục tiêu trước khi nó tẩu thoát.
+We've prepared a training unit with the same abilities as a Gold Skitterer.\nMake full use of hit counts and status effects to defeat the enemy before it can run away.=Tôi đã chuẩn bị mục tiêu huấn luyện có năng lực tương đương với Gold Hopper.\nHãy tận dụng số đòn đánh và hiệu ứng nhằm tiêu diệt mục tiêu trước khi nó kịp tẩu thoát nhé.

@@ -1,0 +1,20 @@
+/RootView/UI-Foreground/Main/UIPlayerRankDetailDialog/container/front/tab/btnMainStory/relatedLabel|'<size=120%>Chính Truyện'|'Chính Truyện'
+
+/RootView/UI-Foreground/Main/UITerminalHome/container/btnEvent/subTextLong|'Prologue\n- Mở đầu -'|'<space=7px><line-height=33px><size=20px>Prologue</size>\n- Mở đầu -'
+/RootView/UI-Foreground/Main/UITerminalHome/container/btnEvent/subTextLong|'Epilogue\n- Đoạn kết -'|'<space=7px><line-height=33px><size=20px>Epilogue</size>\n- Đoạn kết -'
+
+/RootView/UI-Foreground/Main/UIGallery2/container/ItemFrame/photoContainer/tabContainer/Story/Viewport/Content/ItemTemplate(Clone)/base/label|'Prologue\n- Mở đầu -'|'Chương mở đầu'
+
+/RootView/UI-Foreground/Main/UIStoryDaySelect/container/dialScroll/container/numContainer/containerframe/normal/dispFrame/dispText/label|'Epilogue\n- Đoạn kết -'|'Epilogue\n<size=70%>- Đoạn kết -'
+/RootView/UI-Foreground/Main/UIStoryDaySelect/container/dialScroll/container/numContainer/containerframe/normal/dispFrame/dispText/label|'Prologue\n- Mở đầu -'|'Prologue\n<size=70%>- Mở đầu -'
+
+/RootView/UI-Foreground/Loading/UIDayResult2/dispFrame/dispText/label|'Prologue\n- Mở đầu -'|'Prologue\n<size=50%>- Mở đầu -'
+/RootView/UI-Foreground/Loading/UIDayResult2/dispFrame/dispText/label|'Epilogue\n- Đoạn kết -'|'Epilogue\n<size=50%>- Đoạn kết -'
+
+/RootView/UI-Foreground/Main/UIStoryDayTimeSelect/timebox/dayFrame/Day/chapter|'Prologue\n- Mở đầu -'|'Mở đầu'
+
+/RootView/UI-Foreground/Loading/UIShowTimeboxEffect/timebox/dayFrame/Day/chapter|'Prologue\n- Mở đầu -'|'Mở đầu'
+
+/RootView/UI-Foreground/Main/UIStoryChapterSelect/container/tabStory/mainStoryList/Viewport/Content/*/container/btnSelect/circle/mask/labelContainer/title|'Prologue\n- Mở đầu -'|'Chương mở đầu'
+
+/RootView/UI-Foreground/Main/UIStoryDaySelect/container/infoFrame/dayInfo/container/title|'Prologue\n- Mở đầu -'|'Mở đầu'

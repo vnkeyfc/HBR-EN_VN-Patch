@@ -2,11 +2,12 @@
 アイテム購入\n（GP）=Mua vật phẩm\n(GP)
 アイテム購入\n（GGP）=Mua vật phẩm\n(GGP)
 アクセサリ錬成=Chế tạo Phụ kiện
-クリスタル交換所=<size\=80%>Cửa hàng Pha lê
-Badge Exchange=<size\=80%>Cửa hàng Huân chương
+クリスタル交換所=<size\=80%>Cửa hàng Pha Lê
+Badge Exchange=<size\=80%>Cửa hàng Huân Chương
 SS Memoria Exchange=<size\=80%>Cửa hàng Style SS
 プレミアメダル交換所=<size\=80%>Cửa hàng Token Premium
+シーズンメダル交換所=<size\=80%>Cửa hàng Token theo mùa
 
-Garden of Memories Shop=<size\=80%>Cửa hàng Khu vườn Ký ức
+Garden of Memories Shop=<size\=80%>Cửa hàng Vườn Ký ức
 
 r:"Refresh: (\d+) Day\(.+\) Left"=Làm mới sau $1 ngày

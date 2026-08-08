@@ -1,0 +1,9 @@
+Critical Rate=Bạo Kích
+Attributes Affected=Thuộc tính
+Chips=Vi mạch
+効果アップ=Hiệu quả thuộc tính
+Boosters=Bộ khuếch đại
+Accessories=Phụ kiện
+非ロック中=Chưa khoá
+ロック中=Đã khoá
+Recommended=Khuyến nghị

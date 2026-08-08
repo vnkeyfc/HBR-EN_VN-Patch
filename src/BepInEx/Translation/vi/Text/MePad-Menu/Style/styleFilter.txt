@@ -1,11 +1,15 @@
 [Label]
-Filter Off=Bộ lọc: OFF
-Filter On=Bộ lọc: ON
+Filter Off=Bộ lọc: TẮT
+Filter On=Bộ lọc: BẬT
 レアリティ=Độ hiếm
 ロール=Vai trò
 共鳴アビリティ=Hiệu ứng Cộng Hưởng
-Talent Unlock=Khai mở thiên phú
+Talent Unlock=Khai Mở Thiên Phú
 キャラLv.=Cấp nhân vật
+Repair Level=Giảm nhiễu
+Title Rank=Cấp huy hiệu
+Orb Skill=Ngọc Kỹ
+ノイズ解放Lv.=Mức độ giảm nhiễu
 
 [Tab]
 絞り込み=Bộ lọc

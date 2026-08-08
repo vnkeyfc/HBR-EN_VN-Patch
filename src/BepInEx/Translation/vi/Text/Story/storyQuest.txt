@@ -1,0 +1,5 @@
+QUEST=QUEST 
+r:"^Bond Lv. (\d+)$"=<space\=-70px>Thân Mật Lv.$1
+r:"^Current Bond Lv. (\d+)$"=<space\=-70px>Thân Mật Lv.$1
+報酬は取得済みです=Đã nhận phần thưởng
+※プレイ後絆Lv.は変化しません。=※Cấp độ Thân Mật sẽ không thay đổi sau khi hoàn thành

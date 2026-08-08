@@ -1,0 +1,9 @@
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/normal/titleContainer/title|'Skullplume Final Form'|'Skull Feather\n<size=60%>- Hình thái cuối cùng -'
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/pressed/titleContainer/title|'Skullplume Final Form'|'Skull Feather\n<size=60%>- Hình thái cuối cùng -'
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/disabled/titleContainer/title|'Skullplume Final Form'|'Skull Feather\n<size=60%>- Hình thái cuối cùng -'
+/RootView/UI-Foreground/Main/UIStoryHardModeConfirmDialog3/container/enemyImage/container/titleContainer/title|'Skullplume Final Form'|'Skull Feather\n<size=60%>- Hình thái cuối cùng -'
+
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/normal/titleContainer/title|'Skullplume First Form'|'Skull Feather\n<size=60%>- Hình thái đầu tiên -'
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/pressed/titleContainer/title|'Skullplume First Form'|'Skull Feather\n<size=60%>- Hình thái đầu tiên -'
+/RootView/UI-Foreground/Main/UIStoryHardModeTop/contents/scrollView/Viewport/Content/enemyIconTemplate(Clone)/buttonNormal/disabled/titleContainer/title|'Skullplume First Form'|'Skull Feather\n<size=60%>- Hình thái đầu tiên -'
+/RootView/UI-Foreground/Main/UIStoryHardModeConfirmDialog3/container/enemyImage/container/titleContainer/title|'Skullplume First Form'|'Skull Feather\n<size=60%>- Hình thái đầu tiên -'

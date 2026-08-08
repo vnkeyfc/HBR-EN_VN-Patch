@@ -1,8 +1,8 @@
 [Fight]
 行動開始=<size\=100%><align\=left><cspace\=-10px><b> ACTION START</b></cspace></align></size>
 Start Action=<cspace\=-2><size\=98%><b>Bắt đầu hành động</b></size></cspace>
-Normal Attack=Đánh thường
-Fleet Command=Chỉ huy
+Normal Attack=Đánh Thường
+Fleet Command=Chỉ Huy
 AUTO CONFIG=<size\=80%>Điều chỉnh tự động</size>
 対象を選択=Chọn mục tiêu 
 
@@ -29,17 +29,20 @@ LEVEL3=MỨC 3
 r:"(\d+) Turn\(s\)"=$1 Lượt
 
 [Result_Screen]
-リザルト=Kết quả thảo phạt
+リザルト=<size\=90%>Kết quả thảo phạt
 バトルリザルト=Kết quả trận chiến
 獲得討伐点=Điểm thảo phạt đạt được
+獲得報酬なし=Không có phần thưởng
 獲得GP=GP nhận được
 獲得アイテム=Vật phẩm
 一部のアイテムは所持上限を超えるため破棄されました=Vật phẩm đạt giới hạn sức chứa đã được loại bỏ
 *Items exceeding the maximum limit have been discarded.=※Vật phẩm đạt giới hạn sức chứa đã được loại bỏ
 
 [Other]
+発動=<size\=80%>Kích hoạt
 発動中=<size\=80%>Hiệu lực
 ENERGY=<size\=130%><voffset\=10px>THỂ LỰC
+討伐点報酬=Thưởng điểm thảo phạt
 討伐点=<size\=85%>Điểm thảo phạt
 TurnMaxDamage=Sát thương cao nhất
 最大ダメージ更新！=<size\=80%>Kỷ lục sát thương mới!
@@ -66,6 +69,7 @@ r:"^BONUS<cspace\=0.1em><size\=36>(\d+)</size>/(\d+)</cspace>$"=BONUS <cspace\=0
 r:"^EXTRA<cspace\=0.1em><size\=36>(\d+)</size>/(\d+)</cspace>$"=EXTRA <cspace\=0.1em><size\=36>$1</size>/$2</cspace>
 TARGET=MỤC TIÊU
 
+sr:"^\[Experimental\] (.+)$"=[Thử nghiệm] $1
 sr:"^\[Trainer\] (.+)$"=[Huấn luyện] $1
 sr:"^\[DIFF (.+)\] (.+)$"=[Độ khó $1] $2
 sr:"^\[DIFF (.+) (.+)\] (.+)$"=[Độ khó $1$2] $3
@@ -74,11 +78,13 @@ Passive Powers=Nội tại Style
 Fixed Passive Powers=Nội tại Style mặc định
 Skill Effects Increased=Hiệu ứng Cường Kỹ
 <size\=24>Skill Effects Increased</size>=<size\=24>Hiệu ứng Cường Kỹ</size>
-Passive Skill=<align\=center>Kỹ năng nội tại
+Passive Skill=Kỹ năng nội tại
 Field Effects=Hiệu ứng môi trường
-Weak./Res.=Suy yếu / Kháng
+Weak./Res.=Điểm yếu / Kháng tính
 Stats Details=Chi tiết thông số
 Change Order=Thay đổi vị trí
+
+sr:"^Damage taken from (.+)-type increased by <color\=#FF7C7C>(\d+)%</color>.$"=Sát thương nhận từ đòn tấn công hệ $1 tăng <color\=#FF7C7C>$2%</color>
 
 特になし=Trống
 

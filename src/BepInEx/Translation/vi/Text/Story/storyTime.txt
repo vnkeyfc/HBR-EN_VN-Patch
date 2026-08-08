@@ -13,6 +13,8 @@ r:"<pos\=15%>Day\n<size\=40>(.+)</size>"=<pos\=15%>Ngày\n<size\=40>$1
 sr:"Day<size\=78>(\d+)</size><color\=#F6E5E5FF>(.+)</color>"=<voffset\=-10px><size\=35>Ngày<space\=7px><size\=60>$1</size><space\=5px><color\=#F6E5E5FF><size\=30>$2</color>
 
 [Period]
+Before Period 1=<size\=80%>T.Sáng 01</size>
+After Period 1=<size\=80%>S.Sáng 01</size>
 Period 1=<size\=80%>Sáng 01</size>
 Period 2=<size\=80%>Sáng 02</size>
 Period 3=<size\=80%>Sáng 03</size>
@@ -41,6 +43,8 @@ Evening Acts=<size\=80%>H.đ chiều</size>
 
 <style\=RubyPrefixTag></style>\nPlay this day from the beginning?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ đầu?
 <style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 1"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 01"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "Before Period 1"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Trước Sáng 01"?
+<style\=RubyPrefixTag></style>\nPlay this Day starting from "After Period 1"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sau Sáng 01"?
 <style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 2"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 02"?
 <style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 3"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 03"?
 <style\=RubyPrefixTag></style>\nPlay this Day starting from "Period 4"?=<style\=RubyPrefixTag></style>\nTheo dõi ngày này từ "Sáng 04"?

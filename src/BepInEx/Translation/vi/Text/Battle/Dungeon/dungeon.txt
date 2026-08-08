@@ -1,4 +1,19 @@
 Caverns of Cultivation=Hồi Lang Cường Hoá
+Caverns of Fire=Viêm chi Hồi Lang
+Caverns of Ice=Băng chi Hồi Lang
+Caverns of Thunder=Lôi chi Hồi Lang
+Caverns of Light=Quang chi Hồi Lang
+Caverns of Darkness=Ám chi Hồi Lang
+Gold Skitterer Hive=Sào huyệt Gold Hopper
 Oubliette of Tears=Mê Cung Đá Quý
 Farthest Reached=Độ sâu
 宝珠の迷宮=<size\=80%>Mê Cung Đá Quý</size>
+スキップ=Càn quét
+
+Patrol Mission=Nhiệm vụ Tuần tra
+解放率=Khám phá
+<style\=RubyPrefixTag></style>\nReturn to base?=<style\=RubyPrefixTag></style>\nQuay về căn cứ?
+
+r:"^L(\d+)$"=B$1
+sr:"^L(\d+)~L(\d+)$"=B$1 -  B$2
+sr:"^(.+) L(\d+)~L(\d+) Unlocked$"=Mở khoá $1 tầng B$2 - B$3

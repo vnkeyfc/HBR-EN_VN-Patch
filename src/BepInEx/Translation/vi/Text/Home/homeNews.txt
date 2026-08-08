@@ -1,0 +1,3 @@
+r:"^Battle Season\n(\d+),(\d+)-(\d+)$"=<size\=90%>Battle Season\n<size\=80%>Tháng $2 ~ $3, $1
+開催中=Đang diễn ra
+Total Acquired=Tổng cộng

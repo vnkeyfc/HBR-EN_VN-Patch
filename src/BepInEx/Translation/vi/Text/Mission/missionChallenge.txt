@@ -1,0 +1,5 @@
+sr:"^\[BEGINNER'S BOOST\] Clear Main Scenario: (.+), (.+). \((\d+)/(\d+)\)$"=[Hỗ Trợ Tân Thủ] Hoàn thành Chính Truyện: $1, $2  ($3/$4)
+sr:"^Clear Oubliette of Tears (.+).$"=Hoàn thành tầng $1 ở Mê Cung Đá Quý
+sr:"^\[ORB BOSSES\] Defeat (?:an? )?(.+).$"=[Orb Boss] Đánh bại $1
+sr:"^\[ORB BOSSES\] Defeat a (.+) and a (.+) pairing.$"=[Orb Boss] Đánh bại Sinister Nil và $2
+sr:"^\[GEM FLASHBACKS\] Defeat (?:an? )?(?:Lv\. \d+ )?(.+?)\.?$"=[Prism Battle] Đánh bại $1
