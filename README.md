@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/logo.png" width="60%" alt="Heaven Burns Red Vietnamese Patch">
+<img src=".github/assets/logo.png" width="90%" alt="Heaven Burns Red Vietnamese Patch">
 
 <br>
 
