@@ -16,11 +16,11 @@ Giúp người chơi theo dõi giao diện và nội dung cốt truyện bằng 
 
 </div>
 
-#
+---
 
 > ⚠️<b>CẢNH BÁO:</b> Đây là dự án cộng đồng, không thuộc WRIGHT FLYER STUDIOS, VISUAL ARTS/Key hay Yostar Games. Việc sử dụng bản vá có thể không phù hợp với điều khoản dịch vụ của trò chơi. Bạn tự chịu trách nhiệm đối với tài khoản và dữ liệu của mình khi cài đặt.
 
-#
+---
 
 ## <img src=".github/assets/nanami.png" width="40" align="absmiddle" alt=""> Nội dung
 
@@ -32,11 +32,15 @@ Giúp người chơi theo dõi giao diện và nội dung cốt truyện bằng 
 - [Cấu hình và tùy chỉnh](#-cấu-hình-và-tùy-chỉnh)
 - [Hỗ trợ và đóng góp](#-hỗ-trợ-và-đóng-góp)
 
+---
+
 ## <img src=".github/assets/ruka.png" width="40" align="absmiddle" alt=""> Tổng quan
 
 Đây là bản vá không chính thức dành cho phiên bản PC quốc tế của [Heaven Burns Red](https://heavenburnsred.yo-star.com/). Dự án hướng tới việc Việt hóa giao diện, hội thoại và các nội dung liên quan để trải nghiệm trò chơi thuận tiện hơn với người dùng tiếng Việt.
 
 Bản vá hoạt động thông qua BepInEx và XUnity.AutoTranslator, đồng thời bổ sung một số plugin riêng để xử lý những thành phần đặc thù của trò chơi.
+
+---
 
 ## <img src=".github/assets/yuki.png" width="40" align="absmiddle" alt=""> Bản vá gồm những gì?
 
@@ -44,6 +48,8 @@ Bản vá hoạt động thông qua BepInEx và XUnity.AutoTranslator, đồng t
 - Font, texture và các thiết lập cần thiết được đóng gói sẵn.
 - Một số plugin tùy chỉnh giúp cải thiện khả năng hiển thị và chất lượng bản dịch.
 - Các cấu hình cốt lõi đã được thiết lập sẵn cho Heaven Burns Red. Người chơi không nên tự ý thay đổi vì có thể khiến bản vá hoạt động không ổn định hoặc làm nội dung dịch hiển thị sai.
+
+---
 
 ## <img src=".github/assets/karerin.png" width="40" align="absmiddle" alt=""> Cài đặt
 
@@ -73,6 +79,8 @@ Lần khởi động đầu tiên có thể lâu hơn bình thường do BepInEx
 ### Trình cài đặt tự động
 
 Trình cài đặt tự động hiện vẫn trong giai đoạn thử nghiệm. Bạn có thể tải [ở đây](https://github.com/quon-croissant/HBR-VN-Patch-Installer) để trải nghiệm trước.
+
+---
 
 ## <img src=".github/assets/tojo.png" width="40" align="absmiddle" alt=""> Quản lý bản vá
 
@@ -109,6 +117,8 @@ Thư mục game sau khi gỡ sẽ có cấu trúc tương tự hình dưới đ�
 
 <img src=".github/assets/vanila_state.png" alt="Cấu trúc thư mục game nguyên bản">
 
+---
+
 ## <img src=".github/assets/megumi.png" width="43" align="absmiddle" alt=""> Cấu hình và tùy chỉnh
 
 Dự án sử dụng bản Bleeding Edge của [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) cùng một bản fork của [bbepis/XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator). Mã nguồn của bản fork đã được điều chỉnh và tối ưu riêng cho Heaven Burns Red nhằm cải thiện khả năng nhận diện, xử lý và hiển thị nội dung dịch trong game.
@@ -118,6 +128,8 @@ Bạn có thể tham khảo các tùy chọn cấu hình tại:
 - [Các tùy chọn của XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator#configuration)
 
 Chỉ nên thay đổi những thông số bạn hiểu rõ. Một cấu hình không tương thích có thể khiến bản dịch không xuất hiện hoặc làm plugin hoạt động sai.
+
+---
 
 ## <img src=".github/assets/tama.png" width="43" align="absmiddle" alt=""> Hỗ trợ và đóng góp
 
