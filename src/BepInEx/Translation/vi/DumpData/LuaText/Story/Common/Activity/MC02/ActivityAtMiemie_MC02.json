@@ -1,0 +1,21 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtMiemie_MC02",
+  "Entries": [
+    {
+      "Context": "Field.goToMiemie:2",
+      "Original": "Hang out",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToMiemie:4",
+      "Original": "Spend time at Miemie Spa today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToMiemie:5",
+      "Original": "Spend time at Miemie Spa to raise your Kindness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

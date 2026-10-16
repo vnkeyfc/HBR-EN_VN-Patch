@@ -1,0 +1,100 @@
+{
+  "Script": "Story/AC01/Day03/Expedition/AC01_03_00_01",
+  "Entries": [
+    {
+      "Context": "Expedition.setTitle:0",
+      "Original": "Ikebukuro Underground",
+      "Vietnamese": "Tầng hầm Ikebukuro"
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Suspend the event and return to the home screen?",
+      "Vietnamese": "Bạn có muốn tạm dừng sự kiện và quay về màn hình chính không?"
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B1",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B2",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B3",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC01_00464_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We're definitely going to find them today!",
+      "Vietnamese": "Ngày hôm nay, tụi mình nhất định phải tìm ra họ!"
+    },
+    {
+      "Key": "VC_Z_900600079_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "There are cracks all over... We gotta hurry.",
+      "Vietnamese": "Nứt hết cả rồi... Không nhanh là toang đấy."
+    },
+    {
+      "Key": "VC_Z_900600075_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah...",
+      "Vietnamese": "Ừ!"
+    },
+    {
+      "Key": "VC_AC01_00465_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Mngh?!",
+      "Vietnamese": "...!?"
+    },
+    {
+      "Key": "VC_AC01_00466_MSatsuki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "*gasp*!",
+      "Vietnamese": "...!!"
+    },
+    {
+      "Key": "VC_AC01_00467_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "More shaking...",
+      "Vietnamese": "Lại rung nữa rồi..."
+    },
+    {
+      "Key": "VC_AC01_00468_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do we do, Ruka?",
+      "Vietnamese": "Làm sao đây, Ruka."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What's the plan?",
+      "Vietnamese": "Làm sao đây?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Proceed|Retreat",
+      "Vietnamese": "Tiến lên|Không tiến lên"
+    },
+    {
+      "Key": "VC_AC01_00469_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's go.",
+      "Vietnamese": "Đi thôi."
+    },
+    {
+      "Key": "VC_AC01_00469_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Let's go.",
+      "Vietnamese": "Đi thôi."
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Continuing beyond this point will cause the story to progress.\\nProceed?",
+      "Vietnamese": "Mạch truyện sẽ tiến triển. Bạn muốn tiến lên chứ?"
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,202 @@
+{
+  "Script": "Story/MC02/Day04/Novel/MC02_04_04_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In this time slot, you will learn how to perform the basic duties expected of a soldier.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your first lesson will be ironing clothes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00002_RKayamori",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "Pft... Ha ha ha!\\nNice try, Commander!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00003_MAikawa",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "Ironing?!\\nWe ain't no housewives!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00004_MAikawa",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "Ah ha ha ha ha!\\nHeroes ain't got time for chores!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is no joke. As members of the military, your appearance must always be impeccable.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00006_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "WHAAAT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00007_MAikawa",
+      "Context": "Adv.showCutIn:1",
+      "Original": "WHAAAT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanase will instruct you. I trust in your ability to master the task.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The seams aren't aligned and the pocket is wrinkled. Try again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00011_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Regulations dictate that edges are folded straight and sharp, like a razor. This sleeve is wrinkled, so please fold it again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00012_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For real?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00013_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep your hands moving.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Instructor, I feel like I'm about to lose my mind!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00015_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry. You won't.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can feel myself slipping away!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aaa-AAAHHH! See, see?! My hands are moving on their own!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Where are they headed?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "To tear out Yukkie's hair!|To fondle Yukkie's breasts!|To poke Yukkie's eyes out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie! I'm coming to tear out your hair!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why MINE?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because I don't want to be bald.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00021_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "And you think I do, for some reason?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie! I'm coming to grope your boobs!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why MINE?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because it'd be awkward if I tried to cop a feel on Nanamin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00025_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And it's not awkward if you cop a feel on me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie! My needle is coming to poke your eyes out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00027_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why me, of all people?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because it would hurt if I poked myself in the eyes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00029_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Oh, but it won't hurt if you poke out mine?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_04_00_Novel_00030_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I feel pain too, you know!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

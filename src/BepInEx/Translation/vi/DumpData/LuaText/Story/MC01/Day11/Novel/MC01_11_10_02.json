@@ -1,0 +1,84 @@
+{
+  "Script": "Story/MC01/Day11/Novel/MC01_11_10_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie, count us in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well...here goes nothing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "One, two... One, two, three!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(I haven't felt this way in ages!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(There's really nothing quite like music.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Oh, the crowd's getting into it!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Let's keep this party rocking!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00007_STezuka",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Have you all lost your marbles, you dum-dums?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Commander?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Great. We've really done it now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00010_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "She's really puttin’ us on full blast in front o’ everyone...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00011_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "But I was having so much fun...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_02_Novel_00012_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Me too...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

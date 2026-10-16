@@ -1,0 +1,273 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtNarvySquare_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Okay, let's see...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Talk with a Narby|Sniff a Narby|Teach tricks to a Narby",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll try talking to them. Maybe they’ll respond.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(But a normal conversation would be boring, so...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Bonjour, Narby! Enchanté!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00005_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Me, Ruka. Narby, friend, shape...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00007_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nope, no response despite my efforts.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleTalk:1",
+      "Original": "Bloop, bloop.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Oh, a reaction! Maybe I just needed to speak normally?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The mystery of Narbies deepens further...!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I wonder what Narbies smell like? Might as well give one a sniff.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hey there, li'l Narby, gonna get in your personal space for a bit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00014_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "*sniff*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Smells like sunshine...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00016_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Narbies are about as soft as boobies, so they'd probably be awesome pillows.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00017_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm one step closer to understanding Narbies!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm going to teach this Narby a trick!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hey there pal. When I say ‘BANG’, you're going to roll over for me, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Here goes, BANG!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00022_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "BANG!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00024_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(No reaction, let's try just one more time.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "BANG!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00027_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00029_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The Narby never rolled over and just blobbled away...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Maybe it's impossible to teach a Narby tricks.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00031_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oy, what're ya doing there?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "BANG!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00033_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gah! Ya got me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huhhh?! Did I just shoot Megumin?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00036_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah...! Sorry, that was by reflex.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What does that mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00038_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...S'just how Kansai people are.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh...I guess Kansai people like to live dangerously...so, here's another BANG!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00040_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "N-No...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00042_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Hey! Stop makin' me do that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow...you can do tricks! That makes you smarter than a Narby!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00044_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ya tryin' to pick a fight with me, girl?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess it's about time to head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Adios, Narbies!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

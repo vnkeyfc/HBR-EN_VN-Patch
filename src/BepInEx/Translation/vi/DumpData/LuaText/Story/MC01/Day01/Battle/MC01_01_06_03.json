@@ -1,0 +1,26 @@
+{
+  "Script": "Story/MC01/Day01/Battle/MC01_01_06_03",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press the L2 button to open a sub-menu where you can set the battle speed.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButtonRect:4",
+      "Original": "Auto-Battle Mode Sub Menu",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press this button to adjust the battle speed.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the up directional button to adjust the battle speed.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

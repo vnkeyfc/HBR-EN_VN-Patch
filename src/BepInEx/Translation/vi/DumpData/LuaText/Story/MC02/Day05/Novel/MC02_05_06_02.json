@@ -1,0 +1,186 @@
+{
+  "Script": "Story/MC02/Day05/Novel/MC02_05_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome back, cadets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You successfully secured the route to Point Beta and completed Phase One.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woo-hoo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00003_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Piece of cake!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00004_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You said it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didya see that, Yukkie?! I knocked it outta the park!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you bragging to me? I was right there fighting alongside you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone in 31-A, thank you so much!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00009_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah. We were the ones that did all the work!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00010_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow. You tell her, Sis.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00011_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I d-didn't get in anyone's way, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00012_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How tiresome... If only there'd been some kind of accident.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nicely done. Thanks to both squads voicing their opinions and requests, you were able to devise a clear plan of action and work together in harmony.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00014_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That concludes your training for the day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00015_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great job, cadets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00000_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome back, cadets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00017_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were unable to reach today's objective, Point Beta. Training failed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00366_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you are struggling with Phase One, I fear for the future. Consider reevaluating your combat team.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Th-This can't be... I won't accept this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00021_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, you will.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00000_NNanase#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome back, cadets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00024_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A. You were defeated in simulated combat. Your broken formation led to Cancers surrounding and defeating 31-B.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00018_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00366_v001_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you are struggling with Phase One, I fear for the future. Consider reevaluating your combat team.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00020_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Th-This can't be... I won't accept this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00021_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, you will.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_02_Novel_00022_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

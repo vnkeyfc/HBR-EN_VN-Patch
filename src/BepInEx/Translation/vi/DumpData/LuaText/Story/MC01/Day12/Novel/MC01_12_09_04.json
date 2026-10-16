@@ -1,0 +1,204 @@
+{
+  "Script": "Story/MC01/Day12/Novel/MC01_12_09_04",
+  "Entries": [
+    {
+      "Key": "VC_MC01_00307_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori, a word.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00308_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? Yeah?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00309_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I need 31-A to put on a concert. I hate to ask you so soon after the mission, but could you give us a show?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00310_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What? Why now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00311_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "After the most recent attack on Shinjuku Dome, HQ gave us a directive to pacify the dome dwellers, who are surely quite anxious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00312_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uhh, pacify? Directive?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00313_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "In other words, offer comfort. The music you've been practicing is sure to do the trick.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00314_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uh... But that's...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00315_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Will you? Or won't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00316_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We will! We'll comfort their socks off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00317_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I see. Thank you. I'll leave the preparations to you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00318_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And that's why we're putting on a concert for everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00319_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So, everyone in?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00320_v002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I'm in. What kind of savior doesn't also save everyone's hearts 'n minds?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00321_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Megumin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00322_v002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "The S.S. Groove is about to set sail!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00323_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Cappy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00324_v002_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I'm a little nervous, but I'll do my best!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00325_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Karerin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00326_v002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "You have my support.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00327_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Tsukassie! Alright, let's get this show on the road!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00328_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey. I still haven't answered.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00329_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What? You're not gonna join us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00330_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ugh... Of course I am, dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00331_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Heck yeah, our first show! Let's give the dome dwellers the concert of their lives!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00332_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? All these people...the commander must've spread the word.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00333_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And that camera drone's broadcasting this all across Japan...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_04_Novel_00010_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "My heart's beating like crazy! Like it'll leap out any moment!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_04_Novel_00011_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Haahh, deep breaths...I need to calm down...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_04_Novel_00012_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "AHH!!! I don't remember how to move my fingers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_04_Novel_00013_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Forget yer fingers and just rock the hell out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_04_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "This is it, girls. Let's jam!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600113_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Are you ready?! This is \"Burn My Soul\"!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

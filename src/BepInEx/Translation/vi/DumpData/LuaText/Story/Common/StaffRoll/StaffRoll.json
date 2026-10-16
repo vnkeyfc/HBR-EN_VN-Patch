@@ -1,0 +1,2681 @@
+{
+  "Script": "Story/Common/StaffRoll/StaffRoll",
+  "Entries": [
+    {
+      "Context": "Adv.staffRollTextAuto:0",
+      "Original": "Original Concept & Main Scenario",
+      "Vietnamese": "Ý tưởng gốc & Kịch bản chính"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:1",
+      "Original": "Jun Maeda",
+      "Vietnamese": "Maeda Jun"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:0",
+      "Original": "Character Design & Original Concept",
+      "Vietnamese": "Thiết kế nhân vật & Ý tưởng gốc"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:1",
+      "Original": "Yuugen",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "Cast",
+      "Vietnamese": "Dàn nhân vật"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Squad 31-A",
+      "Vietnamese": "Đội 31A"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Ruka Kayamori",
+      "Vietnamese": "Kayamori Ruka"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Tomori Kusunoki",
+      "Vietnamese": "Kusunoki Tomori"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Vocals: XAI",
+      "Vietnamese": "Giọng ca: XAI"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Yuki Izumi",
+      "Vietnamese": "Izumi Yuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Ryoko Maekawa",
+      "Vietnamese": "Maekawa Ryoko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Megumi Aikawa",
+      "Vietnamese": "Aikawa Megumi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Anju Inami",
+      "Vietnamese": "Inami Anju"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Tsukasa Tojo",
+      "Vietnamese": "Tojo Tsukasa"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Yurina Amami",
+      "Vietnamese": "Amami Yurina"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Karen Asakura / Karrie",
+      "Vietnamese": "Asakura Karen / Karen"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Yu Serizawa",
+      "Vietnamese": "Serizawa Yu"
+    },
+    {
+      "Context": "Adv.staffRollText{}:13",
+      "Original": "Vocals: Konomi Suzuki / Ayumu (Serenity In Murder)",
+      "Vietnamese": "Giọng ca: Suzuki Konomi / Ayumu (Serenity In Murder)"
+    },
+    {
+      "Context": "Adv.staffRollText{}:14",
+      "Original": "Tama Kunimi",
+      "Vietnamese": "Kunimi Tama"
+    },
+    {
+      "Context": "Adv.staffRollText{}:15",
+      "Original": "Aoi Koga",
+      "Vietnamese": "Koga Aoi"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Squad 31-B",
+      "Vietnamese": "Đội 31B"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Erika Aoi",
+      "Vietnamese": "Aoi Erika"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Saki Miyashita",
+      "Vietnamese": "Miyashita Saki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Ichigo Minase",
+      "Vietnamese": "Minase Ichigo"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Aimi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Sumomo Minase",
+      "Vietnamese": "Minase Sumomo"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Yuyu Shoji",
+      "Vietnamese": "Shoji Yuyu"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Seika Higuchi",
+      "Vietnamese": "Higuchi Seika"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Aya Yamane",
+      "Vietnamese": "Yamane Aya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Kozue Hiiragi",
+      "Vietnamese": "Hiiragi Kozue"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Ari Ozawa",
+      "Vietnamese": "Ozawa Ari"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Byakko!",
+      "Vietnamese": "Byakko"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Squad 31-C",
+      "Vietnamese": "Đội 31C"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Bon Ivar Yamawaki",
+      "Vietnamese": "Yamawaki Bon Ivar"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Sayaka Sembongi",
+      "Vietnamese": "Sembongi Sayaka"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Seira Sakuraba",
+      "Vietnamese": "Sakuraba Seira"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Masumi Tazawa",
+      "Vietnamese": "Tazawa Masumi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Miko Tenne",
+      "Vietnamese": "Tenne Miko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Tamako Miyazaki",
+      "Vietnamese": "Miyazaki Tamako"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Yayoi Bungo",
+      "Vietnamese": "Bungo Yayoi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Renka Shirahana",
+      "Vietnamese": "Shirahana Renka"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Adelheid Kanzaki",
+      "Vietnamese": "Kanzaki Adelheid"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Nene Hieda",
+      "Vietnamese": "Hieda Nene"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Mari Satsuki",
+      "Vietnamese": "Satsuki Mari"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Yume Miyamoto",
+      "Vietnamese": "Miyamoto Yume"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Squad 30-G",
+      "Vietnamese": "Đội 30G"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Yuina Shirakawa",
+      "Vietnamese": "Shirakawa Yuina"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Yumiri Hanamori",
+      "Vietnamese": "Hanamori Yumiri"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Monaka Tsukishiro",
+      "Vietnamese": "Tsukishiro Monaka"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Sara Matsumoto",
+      "Vietnamese": "Matsumoto Sara"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Miya Kiryu",
+      "Vietnamese": "Kiryu Miya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Aguri Onishi",
+      "Vietnamese": "Onishi Aguri"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Chie Sugawara",
+      "Vietnamese": "Sugawara Chie"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Miyari Nemoto",
+      "Vietnamese": "Nemoto Miyari"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Hisame Ogasahara",
+      "Vietnamese": "Ogasahara Hisame"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Tomomi Mineuchi",
+      "Vietnamese": "Mineuchi Tomomi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Satomi Kura",
+      "Vietnamese": "Kura Satomi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Mikako Izawa",
+      "Vietnamese": "Izawa Mikako"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Squad 31-D",
+      "Vietnamese": "Đội 31D"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Misato Nikaido",
+      "Vietnamese": "Nikaido Misato"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Karin Nanami",
+      "Vietnamese": "Nanami Karin"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Iroha Ishii",
+      "Vietnamese": "Ishii Iroha"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Yuuki Kuwahara",
+      "Vietnamese": "Kuwahara Yuuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Fubuki Mikoto",
+      "Vietnamese": "Mikoto Fubuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Haruna Asami",
+      "Vietnamese": "Asami Haruna"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Risa Murofushi",
+      "Vietnamese": "Murofushi Risa"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Sakura Nakamura",
+      "Vietnamese": "Nakamura Sakura"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Akari Date",
+      "Vietnamese": "Date Akari"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Yuko Ono",
+      "Vietnamese": "Ono Yuko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Aina Mizuhara",
+      "Vietnamese": "Mizuhara Aina"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Mio Hoshitani",
+      "Vietnamese": "Hoshitani Mio"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Squad 31-E",
+      "Vietnamese": "Đội 31E"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Ichiko Ohshima",
+      "Vietnamese": "Ohshima Ichiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Aoi Hinata",
+      "Vietnamese": "Hinata Aoi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Niina Ohshima",
+      "Vietnamese": "Ohshima Niina"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Sayaka Kaneko",
+      "Vietnamese": "Kaneko Sayaka"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Minori Ohshima",
+      "Vietnamese": "Ohshima Minori"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Yuki Nakashima",
+      "Vietnamese": "Nakashima Yuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Yotsuha Ohshima",
+      "Vietnamese": "Ohshima Yotsuha"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Mari Uchiyama",
+      "Vietnamese": "Uchiyama Mari"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Isuzu Ohshima",
+      "Vietnamese": "Ohshima Isuzu"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Saima Nakano",
+      "Vietnamese": "Nakano Saima"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Muua Ohshima",
+      "Vietnamese": "Ohshima Muua"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Mirii Fukushima",
+      "Vietnamese": "Fukushima Mirii"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Squad 31-F",
+      "Vietnamese": "Đội 31F"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Mion Yanagi",
+      "Vietnamese": "Yanagi Mion"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Maaya Torigoe",
+      "Vietnamese": "Torigoe Maaya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Kanata Maruyama",
+      "Vietnamese": "Maruyama Kanata"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Hiyori Kono",
+      "Vietnamese": "Kono Hiyori"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Shiki Hanamura",
+      "Vietnamese": "Hanamura Shiki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Kaori Tokisawa",
+      "Vietnamese": "Tokisawa Kaori"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Chiroru Matsuoka",
+      "Vietnamese": "Matsuoka Chiroru"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Yui Kojima",
+      "Vietnamese": "Kojima Yui"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Inori Natsume",
+      "Vietnamese": "Natsume Inori"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Sonoka Tsukiyama",
+      "Vietnamese": "Tsukiyama Sonoka"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Maki Kurosawa",
+      "Vietnamese": "Kurosawa Maki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Yuko Kurose",
+      "Vietnamese": "Kurose Yuko"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Squad 31-X",
+      "Vietnamese": "Đội 31X"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Carole Reaper",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Anna Yamaki",
+      "Vietnamese": "Yamaki Anna"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Yingxia Li",
+      "Vietnamese": "Li Yingxia (Lý Ánh Hạ)"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Shieri Togo",
+      "Vietnamese": "Togo Shieri"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Irene Redmayne",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Marika",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Yurie Kozakai",
+      "Vietnamese": "Kozakai Yurie"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Maria de Angelis",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Yune Azuki",
+      "Vietnamese": "Azuki Yune"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Charlotta Skopovskaya",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Saya Aizawa",
+      "Vietnamese": "Aizawa Saya"
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "HQ",
+      "Vietnamese": "Bộ Tư lệnh"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Saki Tezuka",
+      "Vietnamese": "Tezuka Saki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Asami Seto",
+      "Vietnamese": "Seto Asami"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Nanami Nanase",
+      "Vietnamese": "Nanase Nanami"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Shu Uchida",
+      "Vietnamese": "Uchida Shu"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Makiko Asami",
+      "Vietnamese": "Asami Makiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Miharu Hanai",
+      "Vietnamese": "Hanai Miharu"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Other",
+      "Vietnamese": "Khác"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Hiroki Ichinose",
+      "Vietnamese": "Ichinose Hiroki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Yuki Konashi",
+      "Vietnamese": "Konashi Yuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Erina Suzumori",
+      "Vietnamese": "Suzumori Erina"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Sakurako Toyonaga",
+      "Vietnamese": "Toyonaga Sakurako"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Narumi Yaosaka",
+      "Vietnamese": "Yaosaka Narumi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Eri Yamada",
+      "Vietnamese": "Yamada Eri"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Original Characters Concept",
+      "Vietnamese": "Ý tưởng gốc về nhân vật"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Na-Ga",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Humuyun",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Maroyaka",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:8",
+      "Original": "Scenario Assistants",
+      "Vietnamese": "Trợ lý kịch bản"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Kai",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Tomotaka Fujii",
+      "Vietnamese": "Fujii Tomotaka"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:14",
+      "Original": "Scenario Cooperation",
+      "Vietnamese": "Hợp tác sản xuất kịch bản"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:15",
+      "Original": "Syusei Sakagami",
+      "Vietnamese": "Sakagami Syusei"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:17",
+      "Original": "Hasama",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:19",
+      "Original": "Shinichi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:0",
+      "Original": "Scenario Cooperation",
+      "Vietnamese": "Hợp tác sản xuất kịch bản"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "TeamNGX",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Imasina Rio",
+      "Vietnamese": "Rio Imasina"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:4",
+      "Original": "Elephante Ltd.",
+      "Vietnamese": "Công ty CP Elephante"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Ryoichi Seto",
+      "Vietnamese": "Seto Ryoichi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Tuna Harima",
+      "Vietnamese": "Harima Tuna"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Yuki Ono",
+      "Vietnamese": "Ono Yuki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Project Crew",
+      "Vietnamese": "Đội ngũ dự án"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Rai Kimoto",
+      "Vietnamese": "Kimoto Rai"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Shun Sayuki",
+      "Vietnamese": "Sayuki Shun"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "He Du",
+      "Vietnamese": "Du Hà"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Project Manager",
+      "Vietnamese": "Quản lý dự án"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Kazuma Takata",
+      "Vietnamese": "Takata Kazuma"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Lyrics & Composition & Produced by",
+      "Vietnamese": "Sáng tác lời, nhạc và sản xuất âm nhạc"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Jun Maeda",
+      "Vietnamese": "Maeda Jun"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Music Development",
+      "Vietnamese": "Sản xuất âm nhạc"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "MANYO",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText:0",
+      "Original": "Sound Production",
+      "Vietnamese": "Sản xuất âm thanh"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "AZ CREATIVE",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Yoshiki Sakamoto",
+      "Vietnamese": "Sakamoto Yoshiki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Ayano Hotta",
+      "Vietnamese": "Hotta Ayano"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Recording Engineers",
+      "Vietnamese": "Kỹ sư thu âm"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "MANYO",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Tomotaka Saka",
+      "Vietnamese": "Saka Tomotaka"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Takashi Ota",
+      "Vietnamese": "Ota Takashi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:8",
+      "Original": "Recording Studios",
+      "Vietnamese": "Phòng thu âm"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Pastoral Sound",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Sounduno",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "VISUALARTS Studio",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:16",
+      "Original": "Mixing Engineers",
+      "Vietnamese": "Kỹ sư phối âm"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:17",
+      "Original": "Tomotaka Saka",
+      "Vietnamese": "Saka Tomotaka"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:19",
+      "Original": "Hiroaki Ohgushi",
+      "Vietnamese": "Ohgushi Hiroaki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:0",
+      "Original": "Artist Management",
+      "Vietnamese": "Quản lý nghệ sĩ"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "INCS toenter Co.,ltd",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Mari Fujie",
+      "Vietnamese": "Fujie Mari"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:4",
+      "Original": "TOHO ENTERTAINMENT CO., LTD.",
+      "Vietnamese": "Công ty Trách nhiệm Hữu hạn Toho"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Yosuke Hayajiri",
+      "Vietnamese": "Hayajiri Yosuke"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Seita Takahashi",
+      "Vietnamese": "Takahashi Seita"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Kanami Sato",
+      "Vietnamese": "Sato Kanami"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:12",
+      "Original": "Digital Double Inc.",
+      "Vietnamese": "Công ty CP Digital Double"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "Shojiro Matsuo",
+      "Vietnamese": "Matsuo Shojiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Audio Director",
+      "Vietnamese": "Đạo diễn âm thanh"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Donmaru",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:4",
+      "Original": "Screaming Direction",
+      "Vietnamese": "Giám đốc hét sĩ"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Freddy",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:8",
+      "Original": "Project Management",
+      "Vietnamese": "Quản lý dự án"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Donmaru",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Everlasting Night\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:0",
+      "Original": "Lyrics by",
+      "Vietnamese": "Lời"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:1",
+      "Original": "Jun Maeda",
+      "Vietnamese": "Maeda Jun"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:2",
+      "Original": "Composed by",
+      "Vietnamese": "Sáng tác"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:3",
+      "Original": "Jun Maeda",
+      "Vietnamese": "Maeda Jun"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:4",
+      "Original": "Arranged by",
+      "Vietnamese": "Biên khúc"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:5",
+      "Original": "MANYO",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:6",
+      "Original": "Performed by",
+      "Vietnamese": "Thể hiện"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:7",
+      "Original": "yanaginagi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Indigo in Blue\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:0",
+      "Original": "Chorus",
+      "Vietnamese": "Điệp khúc"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:1",
+      "Original": "Noriko Mitose",
+      "Vietnamese": "Mitose Noriko"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:3",
+      "Original": "Mami Yanagi",
+      "Vietnamese": "Yanagi Mami"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:5",
+      "Original": "KOCHO",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:7",
+      "Original": "Ayaka Kitazawa",
+      "Vietnamese": "Kitazawa Ayaka"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:9",
+      "Original": "ENA",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:11",
+      "Original": "Hiroaki Takeuchi",
+      "Vietnamese": "Takeuchi Hiroaki"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:13",
+      "Original": "Naoto Fuga",
+      "Vietnamese": "Fuga Naoto"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:15",
+      "Original": "Ryutaro Oono",
+      "Vietnamese": "Oono Ryutaro"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:16",
+      "Original": "Guitar",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:17",
+      "Original": "Kenichi Watanabe",
+      "Vietnamese": "Watanabe \"nabeken\" Kenichi"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:18",
+      "Original": "Bass",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:19",
+      "Original": "Yasuyuki Ishii",
+      "Vietnamese": "Ishii Yasuyuki"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Sad Creature\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:1",
+      "Original": "Mami Yanagi",
+      "Vietnamese": "Yanagi Mami"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:3",
+      "Original": "KOCHO",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:5",
+      "Original": "Ayaka Kitazawa",
+      "Vietnamese": "Kitazawa Ayaka"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:7",
+      "Original": "ENA",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:9",
+      "Original": "Hiroaki Takeuchi",
+      "Vietnamese": "Takeuchi Hiroaki"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:11",
+      "Original": "Naoto Fuga",
+      "Vietnamese": "Fuga Naoto"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:13",
+      "Original": "Ryutaro Oono",
+      "Vietnamese": "Oono Ryutaro"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:14",
+      "Original": "Guitar",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:15",
+      "Original": "Kenichi Watanabe",
+      "Vietnamese": "Watanabe \"nabeken\" Kenichi"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:16",
+      "Original": "Bass",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:17",
+      "Original": "Yasuyuki Ishii",
+      "Vietnamese": "Ishii Yasuyuki"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:18",
+      "Original": "Drums",
+      "Vietnamese": "Chơi trống"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:19",
+      "Original": "Masanori Yabuki",
+      "Vietnamese": "Yabuki Masanori"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:20",
+      "Original": "Violin",
+      "Vietnamese": "Vĩ cầm"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:21",
+      "Original": "Anzu Suhara",
+      "Vietnamese": "Suhara Anzu"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"White Spell\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:0",
+      "Original": "Guitar",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:1",
+      "Original": "Kenichi Watanabe",
+      "Vietnamese": "Watanabe \"nabeken\" Kenichi"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Hoshi no Bohyo\" (\"Celestial Gravestone\")",
+      "Vietnamese": "\"Hoshi no Bohyo\""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Kimi no Yokogao\" (\"Your Face in Profile\")",
+      "Vietnamese": "\"Kimi no Yokogao\""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:2",
+      "Original": "Bass",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:3",
+      "Original": "Yasuyuki Ishii",
+      "Vietnamese": "Ishii Yasuyuki"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Before I Rise\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:0",
+      "Original": "Violin",
+      "Vietnamese": "Vĩ cầm"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:1",
+      "Original": "Anzu Suhara",
+      "Vietnamese": "Suhara Anzu"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Burn My Universe\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:14",
+      "Original": "Piano",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:15",
+      "Original": "kidlit",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:20",
+      "Original": "Drums",
+      "Vietnamese": "Chơi trống"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:21",
+      "Original": "Masanori Yabuki",
+      "Vietnamese": "Yabuki Masanori"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:22",
+      "Original": "Violin",
+      "Vietnamese": "Vĩ cầm"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:23",
+      "Original": "Anzu Suhara",
+      "Vietnamese": "Suhara Anzu"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"After You Sleep\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:7",
+      "Original": "rionos",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:0",
+      "Original": "Piano",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:1",
+      "Original": "kidlit",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:2",
+      "Original": "Guitar",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:3",
+      "Original": "Kenichi Watanabe",
+      "Vietnamese": "Watanabe \"nabeken\" Kenichi"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:4",
+      "Original": "Violin",
+      "Vietnamese": "Vĩ cầm"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:5",
+      "Original": "Anzu Suhara",
+      "Vietnamese": "Suhara Anzu"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Burn My Soul\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:5",
+      "Original": "Minoru Yoshida",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:7",
+      "Original": "Ruka Kayamori (Vo.: XAI)",
+      "Vietnamese": "Kayamori Ruka(Vo.: XAI)"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:9",
+      "Original": "Karen Asakura (Vo.: Konomi Suzuki)",
+      "Vietnamese": "Asakura Karen (Vo.: Suzuki Konomi)"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:10",
+      "Original": "Scream",
+      "Vietnamese": "Hét sĩ"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:11",
+      "Original": "Karrie (Ayumu from [Serenity In Murder])",
+      "Vietnamese": "Karen (Ayumu [Serenity In Murder])"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Bass",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Toru Hebiishi",
+      "Vietnamese": "Hebiishi Toru"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Drums",
+      "Vietnamese": "Chơi trống"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Hiroki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Various Instruments & Programming",
+      "Vietnamese": "Nhạc cụ khác & Lập trình"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Minoru Yoshida",
+      "Vietnamese": "Yoshida Minoru"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Dance! Dance! Dance!\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Arifureta Battle Song ～Itsumo Sentou wa Mendou da～\"\\n(\"Just Another Battle Song—Endless Battle's Such a Drag—\")",
+      "Vietnamese": "\"Arifureta Battle Song～Itsumo Sentou wa Mendou da～\""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:12",
+      "Original": "Chorus",
+      "Vietnamese": "Điệp khúc"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:13",
+      "Original": "Yuki Izumi (Voiced by Ryoko Maekawa)",
+      "Vietnamese": "Izumi Yuki (CV. Maekawa Ryoko)"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:15",
+      "Original": "Megumi Aikawa (Voiced by Anju Inami)",
+      "Vietnamese": "Aikawa Megumi(CV. Inami Anju)"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:17",
+      "Original": "Tsukasa Tojo (Voiced by Yurina Amami)",
+      "Vietnamese": "Tojo Tsukasa (CV. Amami Yurina)"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:19",
+      "Original": "Tama Kunimi (Voiced by Aoi Koga)",
+      "Vietnamese": "Tama Kunimi (CV. Koga Aoi)"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Chapter 4 Song T.B.D.\"",
+      "Vietnamese": "\"Nhạc Chương 4, chưa rõ tên, chưa phát hành\""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:7",
+      "Original": "XAI",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:9",
+      "Original": "Konomi Suzuki",
+      "Vietnamese": "Asakura Karen (Vo.: Suzuki Konomi)"
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:11",
+      "Original": "Ayumu (Serenity In Murder)",
+      "Vietnamese": "Karen (Ayumu [Serenity In Murder])"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Special Thanks",
+      "Vietnamese": "Cám ơn"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Tatsuki Shiraya",
+      "Vietnamese": "Shiraya Tatsuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "VISUALARTS ALL STAFF",
+      "Vietnamese": "Các nhân sự của VISUALARTS"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Executive Producers",
+      "Vietnamese": "Điều hành sản xuất"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Takahiro Baba",
+      "Vietnamese": "Baba Takahiro"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "Wright Flyer Studios",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Lead Game Designers",
+      "Vietnamese": "Trưởng nhóm thiết kế trò chơi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Ryota Sasagawa",
+      "Vietnamese": "Sasagawa Ryota"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Naomichi Youda",
+      "Vietnamese": "Youda Naomichi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Karin Fukuzawa",
+      "Vietnamese": "Fukuzawa Karin"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:8",
+      "Original": "Main Programmer",
+      "Vietnamese": "Lập trình"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Norifumi Okumura",
+      "Vietnamese": "Okumura Norifumi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Art Director",
+      "Vietnamese": "Giám đốc minh hoạ"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Aya Okanda",
+      "Vietnamese": "Okanda Aya"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:4",
+      "Original": "Lead Concept Artists",
+      "Vietnamese": "Trưởng nhóm hoạ sĩ ý tưởng"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Takahito Exa",
+      "Vietnamese": "Exa Takahito"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Chihiro Gomi",
+      "Vietnamese": "Gomi Chihiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:10",
+      "Original": "Lead UI Artist",
+      "Vietnamese": "Trưởng nhóm Hoạ sĩ UI"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Jiro Nagasaki",
+      "Vietnamese": "Nagasaki Jiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Game Designers",
+      "Vietnamese": "Thiết kế trò chơi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Aya Yamada",
+      "Vietnamese": "Yamada Aya"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Yuto Nakaishi",
+      "Vietnamese": "Nakaishi Yuto"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Naoto Enomoto",
+      "Vietnamese": "Enomoto Naoto"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Kazuya Suzuki",
+      "Vietnamese": "Suzuki Kazuya"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Shinki Unten",
+      "Vietnamese": "Unten Shinki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Toshiyuki Aiko",
+      "Vietnamese": "Aiko Toshiyuki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "Ryoichi Tanioka",
+      "Vietnamese": "Tanioka Ryoichi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Scripters",
+      "Vietnamese": "Biên kịch"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Yuki Iwami",
+      "Vietnamese": "Iwami Yuki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Soushi Saitou",
+      "Vietnamese": "Saitou Soushi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Megumi Takeda",
+      "Vietnamese": "Takeda Megumi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Ken Iwata",
+      "Vietnamese": "Iwata Ken"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Takashi Sugiyama",
+      "Vietnamese": "Sugiyama Takashi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Aimi Sunaga",
+      "Vietnamese": "Sunaga Aimi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "Atsushi Ogawa",
+      "Vietnamese": "Ogawa Atsushi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:15",
+      "Original": "Shohei Takeda",
+      "Vietnamese": "Takeda Shohei"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:17",
+      "Original": "Kaori Nagasaka",
+      "Vietnamese": "Nagasaka Kaori"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:19",
+      "Original": "Kazuaki Ichinohe",
+      "Vietnamese": "Ichinohe Kazuaki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:21",
+      "Original": "Kazuhiko Kobari",
+      "Vietnamese": "Kobari Kazuhiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Client Engineers",
+      "Vietnamese": "Kỹ sư Client"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Shinya Sato",
+      "Vietnamese": "Sato Shinya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Noriaki Kitamatsu",
+      "Vietnamese": "Kitamatsu Noriaki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Fumiya Amano",
+      "Vietnamese": "Amano Fumiya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Keita Uchida",
+      "Vietnamese": "Uchida Keita"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Himawari Ichikawa",
+      "Vietnamese": "Ichikawa Himawari"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Masaya Yabe",
+      "Vietnamese": "Yabe Masaya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:13",
+      "Original": "Makoto Nishimura",
+      "Vietnamese": "Nishimura Makoto"
+    },
+    {
+      "Context": "Adv.staffRollText{}:15",
+      "Original": "Koji Nakamaru",
+      "Vietnamese": "Nakamaru Koji"
+    },
+    {
+      "Context": "Adv.staffRollText{}:17",
+      "Original": "Eiji Itou",
+      "Vietnamese": "Itou Eiji"
+    },
+    {
+      "Context": "Adv.staffRollText{}:19",
+      "Original": "GODEN TAKESHI",
+      "Vietnamese": "Takeshi Goden"
+    },
+    {
+      "Context": "Adv.staffRollText{}:21",
+      "Original": "Tomoya Saida",
+      "Vietnamese": "Saida Tomoya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:23",
+      "Original": "Akihiro Noguchi",
+      "Vietnamese": "Noguchi Akihiro"
+    },
+    {
+      "Context": "Adv.staffRollText{}:25",
+      "Original": "Hikari Mori",
+      "Vietnamese": "Mori Hikari"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Ryosuke Nishida",
+      "Vietnamese": "Nishida Ryosuke"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Masatoshi Takayama",
+      "Vietnamese": "Takayama Masatoshi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Takahisa Wada",
+      "Vietnamese": "Wada Takahisa"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Server Engineers",
+      "Vietnamese": "Kỹ sư máy chủ"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Kazuki Itou",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Yoshinori YOSHIDA",
+      "Vietnamese": "Yoshida Yoshinori"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Takakazu Muroi",
+      "Vietnamese": "Muroi Takakazu"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Takahiro Fujita",
+      "Vietnamese": "Fujita Takahiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Kohei Asami",
+      "Vietnamese": "Asami Kohei"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Ryuichi Sakairi",
+      "Vietnamese": "Sakairi Ryuichi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "Tomoya Mikami",
+      "Vietnamese": "Mikami Tomoya"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:15",
+      "Original": "Kazuki Cho",
+      "Vietnamese": "Cho Kazuki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:18",
+      "Original": "Infrastructure Engineers",
+      "Vietnamese": "Kỹ sư hạ tầng"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:19",
+      "Original": "Shinji Horiguchi",
+      "Vietnamese": "Horiguchi Shinji"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:21",
+      "Original": "Yutaka Matsuzawa",
+      "Vietnamese": "Matsuzawa Yutaka"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:23",
+      "Original": "Yuta Ishimatsu",
+      "Vietnamese": "Ishimatsu Yuta"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Concept Artist",
+      "Vietnamese": "Hoạ sĩ ý tưởng"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Erina Oshio",
+      "Vietnamese": "Oshio Erina"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "2D Artists",
+      "Vietnamese": "Hoạ sĩ 2D"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Aya Kodama",
+      "Vietnamese": "Kodama Aya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Yuriko Nemoto",
+      "Vietnamese": "Nemoto Yuriko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Yuri Kumaki",
+      "Vietnamese": "Kumaki Yuri"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Katoroku",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:13",
+      "Original": "Aimi Kiryu",
+      "Vietnamese": "Kiryu Aimi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:15",
+      "Original": "Aiko Yamamoto",
+      "Vietnamese": "Yamamoto Aiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:17",
+      "Original": "Non Ashimura",
+      "Vietnamese": "Ashimura Non"
+    },
+    {
+      "Context": "Adv.staffRollText{}:19",
+      "Original": "Takaaki Maeda",
+      "Vietnamese": "Maeda Takaaki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:21",
+      "Original": "Nakamura Serika",
+      "Vietnamese": "Serika Nakamura"
+    },
+    {
+      "Context": "Adv.staffRollText{}:23",
+      "Original": "Yuya Suzuki",
+      "Vietnamese": "Suzuki Yuya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:25",
+      "Original": "Yoshimi Harada",
+      "Vietnamese": "Harada Yoshimi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Keiko Sakurai",
+      "Vietnamese": "Sakurai Keiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Ryo Ueno",
+      "Vietnamese": "Ueno Ryo"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Leon Higa",
+      "Vietnamese": "Higa Leon"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Miyuki Akazai",
+      "Vietnamese": "Akazai Miyuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:12",
+      "Original": "Tamiko Miyake",
+      "Vietnamese": "Miyake Tamiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Background Artists",
+      "Vietnamese": "Hoạ sĩ phông nền"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Keigo Kikuchi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Akinori Kumada",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Makoto Watabe",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Yumi Nakamura",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Masami Iwanaga",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Yuta Kamimura",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:13",
+      "Original": "Michie Watanabe",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:15",
+      "Original": "Kanae Yokoyama",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:17",
+      "Original": "Suduku Ishiwatari",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:19",
+      "Original": "Kazuyuki Mori",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:21",
+      "Original": "Satomi Ehara",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:23",
+      "Original": "Takahiro Yoneda",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:25",
+      "Original": "Chihiro Yamaguchi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "3D Artists",
+      "Vietnamese": "Hoạ sĩ 3D"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Chika Kawaguchi",
+      "Vietnamese": "Kawaguchi Chika"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Hikaru Chonan",
+      "Vietnamese": "Chonan Hikaru"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "yu yamamoto",
+      "Vietnamese": "Yamamoto Yu"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Sachio Furuya",
+      "Vietnamese": "Furuya Sachio"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "kitamura yuusuke",
+      "Vietnamese": "Yuusuke Kitamura"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Cinematic Director",
+      "Vietnamese": "Đạo diễn điện ảnh"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Taju Takemata",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:4",
+      "Original": "Animation Director",
+      "Vietnamese": "Đạo diễn hoạt ảnh"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Keisuke Minami",
+      "Vietnamese": "Minami Keisuke"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:8",
+      "Original": "Animation / Cinematics",
+      "Vietnamese": "Hoạt ảnh / Điện ảnh"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Kayo Haga",
+      "Vietnamese": "Haga Kayo"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Toshiyuki Nukanobu",
+      "Vietnamese": "Nukanobu Toshiyuki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:14",
+      "Original": "Animation",
+      "Vietnamese": "Hoạt ảnh"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:15",
+      "Original": "Minori Watanabe",
+      "Vietnamese": "Watanabe Minori"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:17",
+      "Original": "Hiroyuki Hamada",
+      "Vietnamese": "Hamada Hiroyuki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:20",
+      "Original": "Effects",
+      "Vietnamese": "Hiệu ứng"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:21",
+      "Original": "Niika Akiba",
+      "Vietnamese": "Akiba Niika"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:23",
+      "Original": "Yuta Takimoto",
+      "Vietnamese": "Takimoto Yuta"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Technical Artists",
+      "Vietnamese": "Hoạ sĩ kỹ thuật"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Takashi Iwamoto",
+      "Vietnamese": "Iwamoto Takashi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Yaxuan Mao",
+      "Vietnamese": "Mao Yaxuan"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Takahiro Ono",
+      "Vietnamese": "Ono Takahiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:8",
+      "Original": "UI Artists",
+      "Vietnamese": "Hoạ sĩ UI"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Kozue Hiruta",
+      "Vietnamese": "Hiruta Kozue"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Fumitaka Hirukawa",
+      "Vietnamese": "Hirukawa Fumitaka"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "Yasuhiro Otsui",
+      "Vietnamese": "Otsui Yasuhiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:15",
+      "Original": "Nanae Hosokawa",
+      "Vietnamese": "Hosokawa Nanae"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:17",
+      "Original": "Kanji Uemura",
+      "Vietnamese": "Uemura Kanji"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:19",
+      "Original": "Mai Teranishi",
+      "Vietnamese": "Teranishi Mai"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:21",
+      "Original": "Ly Choi",
+      "Vietnamese": "Choi Ly"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:23",
+      "Original": "Yoshiro Omura",
+      "Vietnamese": "Omura Yoshiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Sound Designers",
+      "Vietnamese": "Thiết kế âm thanh"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Kaori Ohshima",
+      "Vietnamese": "Ohshima Kaori"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Takeshi Yamagami",
+      "Vietnamese": "Yamagami Takeshi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Kan Inoue",
+      "Vietnamese": "Inoue Kan"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Masaki Takeuchi",
+      "Vietnamese": "Takeuchi Masaki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Yuka Itou",
+      "Vietnamese": "Itou Yuka"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:12",
+      "Original": "Voice Mastering",
+      "Vietnamese": "Hậu kỳ giọng nói"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "Studio A-tone",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Marketing Producer",
+      "Vietnamese": "Tiếp thị sản xuất"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Yoshihide Koizumi",
+      "Vietnamese": "Koizumi Yoshihide"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:4",
+      "Original": "Marketing",
+      "Vietnamese": "Tiếp thị"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Misato Igarashi",
+      "Vietnamese": "Igarashi Misato"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Kosuke Kato",
+      "Vietnamese": "Kato Kosuke"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Mai Watanabe",
+      "Vietnamese": "Watanabe Mai"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Ayaki Suzuki",
+      "Vietnamese": "Suzuki Ayaki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "Anna Noro",
+      "Vietnamese": "Noro Anna"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:15",
+      "Original": "Kotaro Shirai",
+      "Vietnamese": "Shirai Kotaro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:17",
+      "Original": "Mamiko Yoshioka",
+      "Vietnamese": "Yoshioka Mamiko"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "GameLib Engineers",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Rui Nagai",
+      "Vietnamese": "Nagai Rui"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Taku Omi",
+      "Vietnamese": "Omi Taku"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Yong Qin",
+      "Vietnamese": "Tần Vĩnh"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Tomoaki Nosaka",
+      "Vietnamese": "Nosaka Tomoaki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Gijun Han",
+      "Vietnamese": "Han Gijun"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Tatsuya Endo",
+      "Vietnamese": "Endo Tatsuya"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:13",
+      "Original": "Masashi Kudo",
+      "Vietnamese": "Kudo Masashi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:16",
+      "Original": "Data Engineers",
+      "Vietnamese": "Kỹ sư dữ liệu"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:17",
+      "Original": "Masahiro Gunji",
+      "Vietnamese": "Gunji Masahiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:19",
+      "Original": "Maya Takatsuka",
+      "Vietnamese": "Takatsuka Maya"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:22",
+      "Original": "Data Analyst",
+      "Vietnamese": "Phân tích dữ liệu"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:23",
+      "Original": "Takashi Shiratori",
+      "Vietnamese": "Shiratori Takashi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:25",
+      "Original": "Takuma Sakaki",
+      "Vietnamese": "Sakaki Takuma"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Customer Support",
+      "Vietnamese": "Hỗ trợ khách hàng"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Yukito Ono",
+      "Vietnamese": "Ono Yukito"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Miku Awazu",
+      "Vietnamese": "Awazu Miku"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Yoshihisa Mitome",
+      "Vietnamese": "Mitome Yoshihisa"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "QA",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Masatoshi Nomoto",
+      "Vietnamese": "Nomoto Masatoshi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Satoshi Horigome",
+      "Vietnamese": "Horigome Satoshi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:13",
+      "Original": "Daisuke Teshigawara",
+      "Vietnamese": "Teshigawara Daisuke"
+    },
+    {
+      "Context": "Adv.staffRollText{}:15",
+      "Original": "Satsuki Suzuki",
+      "Vietnamese": "Suzuki Satsuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:17",
+      "Original": "Masahiko Yubisui",
+      "Vietnamese": "Yubisui Masahiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:19",
+      "Original": "Kota Fujiwara",
+      "Vietnamese": "Fujiwara Kota"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "App Review",
+      "Vietnamese": "Kiểm định ứng dụng"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Kei Saegusa",
+      "Vietnamese": "Saegusa Kei"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Yoko Yamazaki",
+      "Vietnamese": "Yamazaki Yoko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Nami Tsurumi",
+      "Vietnamese": "Tsurumi Nami"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Maki Oguro",
+      "Vietnamese": "Oguro Maki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Project Management",
+      "Vietnamese": "Quản lý dự án"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Daisuke Iwamoto",
+      "Vietnamese": "Iwamoto Daisuke"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Tomoya Inoue",
+      "Vietnamese": "Inoue Tomoya"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Ryo Miyase",
+      "Vietnamese": "Miyase Ryo"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "Promotion",
+      "Vietnamese": "Hợp tác quảng bá"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "AH Project Team",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Yuichiro Naganawa",
+      "Vietnamese": "Naganawa Yuichiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Shojiro Miyata",
+      "Vietnamese": "Miyata Shojiro"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Kodai Fukushima",
+      "Vietnamese": "Fukushima Kodai"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "Kazutaka Nagasawa",
+      "Vietnamese": "Nagasawa Kazutaka"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:9",
+      "Original": "Ryosuke Kagata",
+      "Vietnamese": "Kagata Ryosuke"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:11",
+      "Original": "Yoshifumi Isono",
+      "Vietnamese": "Isono Yoshifumi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:14",
+      "Original": "IROKOTO, Inc.",
+      "Vietnamese": "Công ty CP IROKOTO"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:15",
+      "Original": "Kensuke Hokari",
+      "Vietnamese": "Hokari Kensuke"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:17",
+      "Original": "Ayako Kanahashi",
+      "Vietnamese": "Kanahashi Ayako"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:19",
+      "Original": "Nozomi Yamada",
+      "Vietnamese": "Yamada Nozomi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:21",
+      "Original": "Masashi Otsuka",
+      "Vietnamese": "Otsuka Masashi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:23",
+      "Original": "Hiroki Kanbayashi",
+      "Vietnamese": "Kanbayashi Hiroki"
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "Production Cooperation",
+      "Vietnamese": "Hợp tác sản xuất"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "GREE Business Operations, Inc.",
+      "Vietnamese": "Công ty CP GREE Business Operations"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Mariko Tamura",
+      "Vietnamese": "Tamura Mariko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Hideyuki Asakawa",
+      "Vietnamese": "Asakawa Hideyuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Takehiro Takata",
+      "Vietnamese": "Takata Takehiro"
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Takako Nishiki",
+      "Vietnamese": "Nishiki Takako"
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Hiroki Aihara",
+      "Vietnamese": "Aihara Hiroki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Fumiya Amano",
+      "Vietnamese": "Amano Fumiya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:13",
+      "Original": "Yumiko Ninomiya",
+      "Vietnamese": "Ninomiya Yumiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:15",
+      "Original": "Kohei Fujita",
+      "Vietnamese": "Fujita Kohei"
+    },
+    {
+      "Context": "Adv.staffRollText{}:17",
+      "Original": "Yuki Tsuruyama",
+      "Vietnamese": "Tsuruyama Yuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:19",
+      "Original": "Kosuke Ebihara",
+      "Vietnamese": "Ebihara Kosuke"
+    },
+    {
+      "Context": "Adv.staffRollText{}:21",
+      "Original": "Yuki Yokota",
+      "Vietnamese": "Yokota Yuki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:23",
+      "Original": "Katsuhiro Morofushi",
+      "Vietnamese": "Morofushi Katsuhiro"
+    },
+    {
+      "Context": "Adv.staffRollText{}:25",
+      "Original": "Osamu Shinmyo",
+      "Vietnamese": "Shinmyo Osamu"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Pole To Win, Inc.",
+      "Vietnamese": "Công ty CP Pole To Win"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "I-rori Entertainment Co., Ltd.",
+      "Vietnamese": "Công ty CP I-rori Entertainment"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:2",
+      "Original": "ARROWS Corp.",
+      "Vietnamese": "Công ty CP ARROWS"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "INAZUMA Animation Studio",
+      "Vietnamese": "Công ty CP Inazuma Animation Studio"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:4",
+      "Original": "MUGENUP Inc.",
+      "Vietnamese": "Công ty CP MUGENUP"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "DIGITAL WORKS Entertainment Inc.",
+      "Vietnamese": "Công ty CP DIGITAL WORKS Entertainment"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:6",
+      "Original": "Cre-p Co., Ltd.",
+      "Vietnamese": "Công ty CP Cre-p"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:7",
+      "Original": "G-angle co., ltd.",
+      "Vietnamese": "Công ty CP G-angle"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:8",
+      "Original": "SHIFT Inc.",
+      "Vietnamese": "Công ty CP SHIFT"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:10",
+      "Original": "CGCG Studio Inc.",
+      "Vietnamese": "Công ty CP CGCG Studio"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:12",
+      "Original": "ORENDA Inc.",
+      "Vietnamese": "Công ty CP ORENDA"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:14",
+      "Original": "Polygon Pictures Inc.",
+      "Vietnamese": "Công ty CP Polygon Pictures"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:16",
+      "Original": "R.I.S.U. Inc.",
+      "Vietnamese": "Công ty CP R.I.S.U."
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:18",
+      "Original": "Samurai Pictures Inc.",
+      "Vietnamese": "Công ty CP Samurai Pictures"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:20",
+      "Original": "GEMBA",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:22",
+      "Original": "Solid Sphere, Inc.",
+      "Vietnamese": "Công ty CP Solid Sphere"
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Yoshikazu Tanaka",
+      "Vietnamese": "Tanaka Yoshikazu"
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Sanku Shino",
+      "Vietnamese": "Shino Sanku"
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Eiji Araki",
+      "Vietnamese": "Araki Eiji"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "naoya tomita",
+      "Vietnamese": "Tomita Naoya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Tomoya Kuriyama",
+      "Vietnamese": "Kuriyama Tomoya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Taku Watanabe",
+      "Vietnamese": "Watanabe Taku"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Ken Kamiya",
+      "Vietnamese": "Kamiya Ken"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Motoshi Abe",
+      "Vietnamese": "Abe Motoshi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Tetsuya Sasano",
+      "Vietnamese": "Sasano Tetsuya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:12",
+      "Original": "Kaori Aoyama",
+      "Vietnamese": "Aoyama Kaori"
+    },
+    {
+      "Context": "Adv.staffRollText{}:14",
+      "Original": "Yoshiko Okitsu ",
+      "Vietnamese": "Okitsu Yoshiko"
+    },
+    {
+      "Context": "Adv.staffRollText{}:16",
+      "Original": "Yamaguchi kae",
+      "Vietnamese": "Kae Yamaguchi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:18",
+      "Original": "Tetsuya Okuwa",
+      "Vietnamese": "Okuwa Tetsuya"
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Yoshiki Yamada",
+      "Vietnamese": "Yamada Yoshiki"
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Hidetoshi Nishizume",
+      "Vietnamese": "Nishizume Hidetoshi"
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Hao Sun",
+      "Vietnamese": "Tôn Hạo"
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Rong Li",
+      "Vietnamese": "Lý Dung"
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Taketo Nozawa",
+      "Vietnamese": "Nozawa Taketo"
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Toru Kiyota",
+      "Vietnamese": "Kiyota Toru"
+    },
+    {
+      "Context": "Adv.staffRollText{}:12",
+      "Original": "Jungsun Lee",
+      "Vietnamese": "Lee Jungsun"
+    },
+    {
+      "Context": "Adv.staffRollText{}:14",
+      "Original": "Yuta Itou",
+      "Vietnamese": "Itou Yuta"
+    },
+    {
+      "Context": "Adv.staffRollText{}:16",
+      "Original": "Tomoyuki Isaka",
+      "Vietnamese": "Isaka Tomoyuki"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Yota Yanagihara",
+      "Vietnamese": "Yanagihara Yota"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Yuta Maeda",
+      "Vietnamese": "Maeda Yuta"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:5",
+      "Original": "Daisuke Murano",
+      "Vietnamese": "Murano Daisuke"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Development Manager / Game Design",
+      "Vietnamese": "Quản lý phát triển / Thiết kế trò chơi"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Shota Shimoda",
+      "Vietnamese": "Shimoda Shota"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:0",
+      "Original": "Producer",
+      "Vietnamese": "Sản xuất"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:1",
+      "Original": "Yohei Kakinuma",
+      "Vietnamese": "Kakinuma Yohei"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:0",
+      "Original": "Director",
+      "Vietnamese": "Giám đốc"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto:1",
+      "Original": "Katsunori Onuma",
+      "Vietnamese": "Onuma Katsunori"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:0",
+      "Original": "Publisher",
+      "Vietnamese": "Nhà phát hành"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "Yostar",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:2",
+      "Original": "EN Production Cooperation",
+      "Vietnamese": "Đội ngũ phát triển bản dịch EN"
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:3",
+      "Original": "Vast Visual",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

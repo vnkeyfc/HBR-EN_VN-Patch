@@ -1,0 +1,97 @@
+{
+  "Script": "Jamaisvu/Garden/Gate",
+  "Entries": [
+    {
+      "Context": "Adv.question:1",
+      "Original": "Go to Flavor Street|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "You've unlocked Flavor Street!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "It seems you aren't able to go there yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Unlock by raising squad's accessories to Lv. 170 or above.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Go to Union Street|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Go to the woodway|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Unlocked.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Unlock by clearing Chapter 4—Part 1, Day 6.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Unlock by raising your Squad's Accessory Level to Lv. 250 or higher.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Clock Tower",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Art Gallery",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "FastTravelPointEvent:2",
+      "Original": "Art Gallery",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "PrismEvent:2",
+      "Original": "Event Flashbacks",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "PrismEvent:2",
+      "Original": "Gem Flashbacks",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "PrismEvent:2",
+      "Original": "Orb Bosses",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00069_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Looks like you can't attempt that just yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Unlock by clearing Chapter 3, Day 14.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Do a gig|Stay here",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

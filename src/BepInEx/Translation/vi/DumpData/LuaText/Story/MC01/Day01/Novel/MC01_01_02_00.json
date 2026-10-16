@@ -1,0 +1,60 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_02_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That was a fine meal indeed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All right. Next up...this way?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00002_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't it this way?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, Kayamori. It's over here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But...I was going to take a quick breather first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't tell me... Are you a smoker? I'm kinda disappointed to hear that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? These are just candy cigarettes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So you just wanted dessert?! Save it for later. We're going.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_02_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Tch... Fiiine.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

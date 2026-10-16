@@ -1,0 +1,497 @@
+{
+  "Script": "Story/MC02/Common/Expedition/Expedition_MC02_Phase02",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "CaveB1.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Phase Two",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, this is the spot for Phase Two, huh? And Point Beta's just up ahead?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00076_v001_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stuck on backup duty, huh? Sumomo, don'tcha think we coulda cleared this way faster?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00077_v001_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All I know is that it's best if I get to rely on my instincts, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00078_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone, please support 31-A like we were ordered to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00079_v001_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, yeah. Whatever...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00080_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're so at odds with each other, it's kinda worrying...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn, we're moving at a snail's pace!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's all this mountain's fault! Stupid uphill climb, getting in our way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00081_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yesterday, we cleared our objective. Let's do the same today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00082_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But man...this uphill climb is KILLING me. We'll never make it at this rate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00046_v001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00084_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Byakko looks unfazed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00085_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In that case, Byakko can lead the way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00086_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't think anyone can keep up... We'll get separated if Byakko strays too far ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00087_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That fast, huh? We'll just have to follow behind as fast as we can then!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00088_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we were that fast, we might as well all join the Olympics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00089_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, how fast IS a tiger?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00090_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They can run faster than 50 kilometers per hour.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00091_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka is SHOOK!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap the mini-map in the top right to fast travel to checkpoints you have already reached.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, crap! It's already the last day!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And we still haven't reached Point Beta! We REALLY gotta kick it into high gear!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00092_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I second that! As they say, \"When the going gets tough, the tough get going!\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00093_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eeek! But I could pass out at any second!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00094_v001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How is that any different than usual?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today's the last day, huh? We're a little behind schedule, but not too bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We just need our second wind, and then we'll show them what we're made of. Whaddya say?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00092_v001_EAoi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I second that! As they say, \"When the going gets tough, the tough get going!\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00093_v001_KHiiragi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eeek! But I could pass out at any second!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00094_v001_SHiguchi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How is that any different than usual?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoo, we're making great progress! Easy-peasy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00098_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, don't get carried away now. The commander will throw a fit if we don't pass.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00099_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah... It'd be pretty lame to fail right at the end. Let's stay sharp and keep up the pace.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Continuing further will conclude training for the day.\\nDo you wish to proceed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00012_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey. The first checkpoint for Phase Two should be around here, yeah?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00100_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, it would seem so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pheeew. I'm beat. Let's take a breather.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00101_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That seems good with me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00014_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're done here, aren't we? No point resting around here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00102_v001_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, right. We don't have time to be dragging our asses. Get up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00103_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "R-Right...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Route fully secured!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase01_00017_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Training complete! Let's head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase01_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We made up for yesterday! Just a little bit more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase01_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We made up for two days ago! Just a little bit more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00019_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So this is the second checkpoint, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cool beans. Oh, hey, Sumomo. Did you mark your territory yet?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00104_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "M-Mark her territory?! Would Sumomo really—?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00105_v001_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you two losers making fun of me, meow?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00106_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "N-No, I would never. I was just caught off guard by the thought...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00107_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, yeah, I know. It was in poor taste.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00108_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you knew that, then you shouldn't have said it. Think before you speak.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase01_00017_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Training complete! Let's head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase01_00018_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We made up for yesterday! Just a little bit more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00109_v001_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold up. Is that thing a Cancer, too? Gross...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00110_v001_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Doesn't matter what it looks like, meow. It's an enemy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00111_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please be careful! We have no idea what kind of attacks it can use!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00112_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I found it in the database. Looks like it attacks with laser beams.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00113_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's spooky...but we gotta do this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00114_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "EEHYAAAH! GET READY TO MEET YOUR MAKER IN THE FIERY INFERNO! THAT'S MY SPECIALTY!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00115_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is everyone okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00116_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's still standing! Attack, incoming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00117_v001_EAoi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Activating defenses!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00118_v001_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Whoaaa! She blocked it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00119_v001_Karen",
+      "Context": "Adv.showCutIn:1",
+      "Original": "LEAVE THE REST TO SCARY KARRIE!\\nHEEEHYAAAH!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00120_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, that was close. Could've been a disaster, but thanks to Aoi, we all made it out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00121_v001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did someone say disaster?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00122_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "D-D-Don't say that like you WANT one to happen!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00123_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So that Seraph weapon can block anything, eh? It's almost too good to be true.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00124_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not everything, no... I'm just glad I was able to activate it in time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00125_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me too. Let's hurry to the checkpoint, yeah?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Point Gamma",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00126_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If my calculations are correct, this is Point Gamma.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00127_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then below us should be Kashima Shrine, right? Sweet, that's all for training. Let's pay it a visit for some good fortune!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00128_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can simulated shrines even offer real blessings?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase02_00026_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe...did you know? When you pray at a shrine, you need to bow twice, clap twice, then bow again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00129_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll put that in my notes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00130_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once again, you know only the most useless trivia, Intel Agent.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00131_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The gods DO deserve a bit of respect, you know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00132_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right, right, my humblest apologies. How dare I treat the simulated gods that way in this simulated shrine?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Phase Two: Complete!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

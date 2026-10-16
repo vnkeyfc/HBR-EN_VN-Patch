@@ -4,10 +4,12 @@
 アクセサリ錬成=Chế tạo Phụ kiện
 クリスタル交換所=<size\=80%>Cửa hàng Pha Lê
 Badge Exchange=<size\=80%>Cửa hàng Huân Chương
-SS Memoria Exchange=<size\=80%>Cửa hàng Style SS
+SS Memoria Exchange=<size\=80%>Cửa hàng Hồi Ức SS
 プレミアメダル交換所=<size\=80%>Cửa hàng Token Premium
 シーズンメダル交換所=<size\=80%>Cửa hàng Token theo mùa
+Season Token Exchange=<size\=80%>Cửa hàng Token theo mùa
 
 Garden of Memories Shop=<size\=80%>Cửa hàng Vườn Ký ức
+毎月１日４時リセット=Làm mới vào lúc 14:00 vào mỗi tháng đầu tiên.
 
 r:"Refresh: (\d+) Day\(.+\) Left"=Làm mới sau $1 ngày

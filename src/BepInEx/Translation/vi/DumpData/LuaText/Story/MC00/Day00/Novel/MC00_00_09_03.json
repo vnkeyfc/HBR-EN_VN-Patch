@@ -1,0 +1,42 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_09_03",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_09_03_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Hey, uh... What's that number beneath the clock? 008065300?",
+      "Vietnamese": "Nè nè, dãy số \"008065300\" ở bên dưới mặt đồng hồ kia là gì vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_09_03_Novel_00001_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "That's the Population Tracker. It signifies the total number of people currently left remaining in Japan.",
+      "Vietnamese": "Đó là \"Bộ đếm Nhân mạng\". Nó biểu thị số người còn sống sót trên đất Nhật Bản."
+    },
+    {
+      "Key": "VC_MC00_00_09_03_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Ah, so this is what our intel agent was talking about?",
+      "Vietnamese": "À, là cái mà cậu tình báo viên trước đó đã đề cập nhỉ."
+    },
+    {
+      "Key": "VC_MC00_00_09_03_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I think you mean the commander. Tojo only parroted her.",
+      "Vietnamese": "Chính xác thì người nói là Tư lệnh cơ. Tojo chỉ lặp lại lời thôi."
+    },
+    {
+      "Key": "VC_MC00_00_09_03_Novel_00004_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It's kinda scary, all our lives represented as a number like this...",
+      "Vietnamese": "Bị những con số này đập thẳng vào mắt như vậy... tự nhiên mình thấy hơi sợ..."
+    },
+    {
+      "Key": "VC_MC00_00_09_03_Novel_00005_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It's our duty to protect and increase that number.",
+      "Vietnamese": "Bổn phận của chúng ta là phải bảo vệ và nâng cao con số này lên nhỉ..."
+    }
+  ],
+  "Inserts": []
+}

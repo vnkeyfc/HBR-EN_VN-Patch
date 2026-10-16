@@ -1,0 +1,16 @@
+{
+  "Script": "Foundation/domain_custom",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Skip this dungeon course's item collection?\nSkip it and the previous week's item collection results will be used instead.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Item collection has been skipped. The previous week's results will be used.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

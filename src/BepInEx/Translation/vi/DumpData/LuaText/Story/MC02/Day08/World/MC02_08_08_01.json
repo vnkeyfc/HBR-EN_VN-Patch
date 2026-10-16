@@ -1,0 +1,295 @@
+{
+  "Script": "Story/MC02/Day08/World/MC02_08_08_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Kill some time around town!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Take Aoi to her room!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Uhh...they're not over here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Alright, Aoi, follow me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00002_EAoi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Um... Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00003_EAoi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What are we doing here?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Well, that was fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Time to head back",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Time to head back|Keep exploring",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say hello to the open-air hot springs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It takes a lot of courage to enter these...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I want to go in one with you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00506_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies... I need to think on this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oof, my heart.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine. Next time it's you 'n' me, buddy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They sure have a lot of trendy goods.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00012_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's so cute!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00014_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I need to focus on training and the operation, not this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_01_Novel_00197_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vrrawr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're girls. I don't think there's anything wrong with us having a little fun every now and then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00017_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't that right, Byakko?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like a café.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00507_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a little small, but the art and decor are really chic.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I could totally go for a parfait.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You too, Byakko?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00025_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, they even have parfaits?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've never ordered one, but any café without parfaits is a total rip-off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00027_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Diners and other chain restaurants might tend to have them, but cafés are a different story.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko#5",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess I'll have one next time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko#6",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, looks like that poster's caught Byakko's attention.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_Z900100020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Humanity's in peril. Do we really have time for movies?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_Z900100021_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In the Gulf War, the government sent portable games as part of their aid package. I guess even soldiers need their downtime.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_Z900100022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, I didn't know that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's weird how we have a convenience store in these times.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00036_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The dome dwellers are experiencing hardship, yet we're in the lap of luxury...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, if we save everyone, we'll have earned it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00038_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grrar vrraaar.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See? Even Byakko agrees!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00040_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then let's hope we succeed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00041_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Okay, let's go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_01_World_00042_EAoi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Let's go...where, exactly?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_02_00001_Byakko",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Vrrr?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

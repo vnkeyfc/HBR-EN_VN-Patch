@@ -1,0 +1,156 @@
+{
+  "Script": "Story/MC02/Day23/Novel/MC02_23_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Oh hey, it's the girls from 31-B.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Are they doing okay?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00002_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Aoi. You're the squad leader, so stop spacing out already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies. There's something I wanted to give everyone...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00004_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is it? Some extra spending money? That'd be great!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh no, it's not money. It's...these!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00006_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00007_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00008_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It looks like trash.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00009_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, this must be a charm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00010_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A charm? For what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're...charms for safety and peace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00012_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah. So a relic of a more peaceful time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00013_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's no way we can live peacefully, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00014_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I made them with the hope that they'll keep everyone safe... Is it okay if I ask you all to accept them?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00015_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wonder if these even do anything. But, hey. I'll take it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00996_v001_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whatever, I'll take one too, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00017_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sumomo, you're grinning.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500027_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't be stupid, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00018_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's one for me too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00019_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course there is!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00020_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00021_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shouldn't we be the one thanking you, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(They're being tough as usual, but now that I know their story...they look really happy.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_09_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I'm going to wish for their safety, too. Stay safe, everyone.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,114 @@
+{
+  "Script": "Story/AC01/Day02/Novel/AC01_02_10_01",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00426_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's everyone gathered.",
+      "Vietnamese": "Thế là gom đủ mọi người rồi nhỉ."
+    },
+    {
+      "Key": "VC_AC01_00427_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I couldn't have done it without you. Thank you.",
+      "Vietnamese": "Tất cả là nhờ Kayamori-san đấy. Cảm ơn cậu nhiều."
+    },
+    {
+      "Key": "VC_AC01_00428_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not true. It's because you were so persistent that they listened.",
+      "Vietnamese": "Đâu có. Vì Marie đã dốc hết sức mình thôi."
+    },
+    {
+      "Key": "VC_AC01_00429_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I couldn't have convinced everyone by myself.",
+      "Vietnamese": "Không đâu, nếu chỉ có một mình, tôi chắc chắn không thể thuyết phục được mọi người."
+    },
+    {
+      "Key": "VC_AC01_00430_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm really grateful...",
+      "Vietnamese": "Mình thực sự..."
+    },
+    {
+      "Key": "VC_AC01_00431_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Save it till after we bring everyone home safe.",
+      "Vietnamese": "Chữ \"thực sự\" đó cứ giữ lại đến khi mọi việc êm xuôi hẵng nói."
+    },
+    {
+      "Key": "VC_AC01_00432_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. You're right.",
+      "Vietnamese": "Ừ. Cậu nói phải."
+    },
+    {
+      "Key": "VC_AC01_00433_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Oh, Yukkie. You're up late. Wanna go get some greasy ramen?",
+      "Vietnamese": "Ồ, Yukki. Cú đêm nhỉ. Có muốn đi làm bát ramen Iekei không?"
+    },
+    {
+      "Key": "VC_AC01_00434_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I just had some earlier. Just how many calories do you consume before bed?",
+      "Vietnamese": "Vừa mới nhồi một đống vào bụng lúc nãy xong. Cậu định ép tôi tiêu thụ bao nhiêu calo trước khi ngủ nữa đây."
+    },
+    {
+      "Key": "VC_AC01_00435_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where would you even find a ramen shop on this base? And even if there is one, I do not want to eat all those calories this late at night.",
+      "Vietnamese": "Trong cái căn cứ này đào đâu ra tiệm ramen Iekei chứ. Mà kể cả có thì giữa đêm hôm tôi cũng chẳng muốn đớp cái món ngập ngụa calo đó đâu."
+    },
+    {
+      "Key": "VC_AC01_00436_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I feel like you can just lose those calories with some training, but if you're not hungry, why not go to sleep?",
+      "Vietnamese": "Tớ có cảm giác đống huấn luyện bầm dập cũng đốt sạch đống calo đó dễ như bỡn vậy, nhưng mà, tớ cũng chả đói bụng lắm, thôi đi ngủ vậyyy."
+    },
+    {
+      "Key": "VC_AC01_00437_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tomorrow morning, a senior squad is set to depart on the rescue mission.",
+      "Vietnamese": "Nghe bảo sáng mai, đội tiền bối sẽ bắt đầu đi cứu hộ đấy."
+    },
+    {
+      "Key": "VC_AC01_00438_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah. That's good news.",
+      "Vietnamese": "Ồ. Một thông tin cực kỳ bùi tai nha."
+    },
+    {
+      "Key": "VC_AC01_00439_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you still going despite that?",
+      "Vietnamese": "Dù vậy cậu vẫn định đi sao?"
+    },
+    {
+      "Key": "VC_AC01_00440_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course I am. They're our friends, after all.",
+      "Vietnamese": "Tất nhiên, tớ sẽ đi. Vì họ là những người đồng đội quan trọng cơ mà."
+    },
+    {
+      "Key": "VC_AC01_00441_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haaah... That's so like you.",
+      "Vietnamese": "Hờ... Đúng là phong cách của cậu."
+    },
+    {
+      "Key": "VC_AC01_00442_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry. I'll stay with you through thick and thin.",
+      "Vietnamese": "Tôi hiểu rồi. Tôi sẽ theo cậu đến cùng."
+    },
+    {
+      "Key": "VC_AC01_00443_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I knew you'd say that, Yukkie.",
+      "Vietnamese": "Chuẩn Yukki có khác."
+    }
+  ],
+  "Inserts": []
+}

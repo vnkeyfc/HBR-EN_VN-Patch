@@ -3,7 +3,7 @@
 ミッション=Nhiệm vụ
 ギフト=Quà
 コンテンツ=Nội dung
-強化 / 育成=<size\=89%>Nâng cấp / Huấn luyện</size>
+強化 / 育成=<size\=90%>C.Hoá/H.Luyện
 交換所=Cửa hàng
 友達招待=<size\=80%>Mời bạn bè
 イベント\n=<size\=120%%>Sự kiện</size>

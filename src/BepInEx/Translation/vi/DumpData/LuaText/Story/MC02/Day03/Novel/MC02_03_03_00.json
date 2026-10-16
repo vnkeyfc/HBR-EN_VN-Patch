@@ -1,0 +1,192 @@
+{
+  "Script": "Story/MC02/Day03/Novel/MC02_03_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good, you're all here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Starting today, you will all undergo specialized operation maneuvers training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew...finally. The hard part is over.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It only gets harder from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00004_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "No waaay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What did you expect? It would just be a joyride from here on out?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But with instruments, the hardest part is learning how to play at the start!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00007_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't group the two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes ma'am.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00009_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operational maneuvers are broken into phases, each with its own objective.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gotcha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00011_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phases may have multiple goals to accomplish, with set action protocols to follow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00012_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This training will drill the mindset you need to act with prudence in the field.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You will work alongside other Seraph squads. Never forget that your actions influence whether they live or die.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00015_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good. Moving on. We will be conducting training for each individual phase.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00016_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For each phase, you will be assessed on both your attendance and performance, with a target score you must reach to pass. Do not miss any sessions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00319_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Upon reaching the target, you will progress to the next phase. Remember, you are on a timeline.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All right! Let's see how close we can cut it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00320_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait. What happens if we don't reach the target score?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00321_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You will be deemed lacking in further potential and may be discharged.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00021_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Discharged?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00022_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But if I get kicked out, I'll have nowhere to go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00023_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I would be in quite the pickle, myself...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00024_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We really can't afford to slack off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00025_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Exactly. Do not squander your free time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00026_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your daily schedule from this point forward will consist of morning classes followed by afternoon training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We still have classes, too?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00322_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Make sure to gather at the arena for training in the afternoon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00029_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You will be briefed on the details of your training when the time arrives.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_03_00_Novel_00030_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dismissed.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

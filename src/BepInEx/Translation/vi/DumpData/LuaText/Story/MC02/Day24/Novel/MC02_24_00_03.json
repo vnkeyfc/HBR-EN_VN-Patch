@@ -1,0 +1,114 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_00_03",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00000_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I haven't been outside the city in forever...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we're just bein' sent out to the front lines, like soldiers from way back in the old days.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's all make it back in one piece.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00003_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's okay! You have me at your side! People used to call me the Sea Angel!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't that a clione? The weird, squishy little sea creature?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00005_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YO, Tama!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00006_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-Yes!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00007_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Angel's a bit fancy, don't ya think? Let's go with monkey. A Sea Monkey!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's even weaker. Do you even know what those things are?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yikes... I'm getting uncharacteristically nervous now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is pretty weird for you of all people.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about you, Yukkie? You seem pretty calm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I'm just as scared as you. We're putting our lives on the line here...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see, I see. If you're that scared, then it means that it's perfectly normal for me to be nervous, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not sure why you find that reassuring, but whatever works...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It just means I trust you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh... Stop with the gushy stuff. You're making me feel weirdly reassured too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_03_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't that awesome, then?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

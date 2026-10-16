@@ -1,0 +1,78 @@
+{
+  "Script": "Story/MC01/Day02/Novel/MC01_02_07_04",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00000_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Good work, everyone. Kayamori's team is victorious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00001_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "We did it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00002_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Eee heheheheh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Man, I'm good! Better luck next time, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Dammit. I never thought I'd be on the receiving end of those words. How wrong I was...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00005_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Still gettin' the hang of mixing psychic powers with Seraph abilities...but it won't be much longer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00006_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Next: Kayamori, Asakura, and Kunimi vs. Izumi, Aikawa, and Tojo. Take your positions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00007_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Yaaay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00008_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "HEY, TAMA! Why're you so happy?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00009_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, we have a literal killer on our team...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_05_Novel_00010_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Eheh eheh eheh EHEHEH!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_03_Novel_00004_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please hold up your mePads and recite your Seraph Codes!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

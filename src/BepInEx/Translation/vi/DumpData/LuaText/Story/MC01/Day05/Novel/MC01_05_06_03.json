@@ -1,0 +1,198 @@
+{
+  "Script": "Story/MC01/Day05/Novel/MC01_05_06_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_05_07_00_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Excellent work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_07_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Praise, at long last!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_07_00_Novel_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, your tactics are still haphazard at best. I know you are capable of more refined combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00237_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You still have a long way to go. If this were active combat, you would be dead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00238_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "If this is the best you can do, tomorrow's aptitude test will be all but impossible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00239_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "She's angry for once!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00240_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "For once? Did you forget all the other times?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00241_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "There is still time. I want you to train like your life depends on it today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_07_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, we still have a ton of room to grow. We're all so young!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_07_00_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You must be doing this on purpose.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00242_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "May I continue? The stronger your enemies are, the more essential healing becomes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00243_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "When forming your squad, you must be mindful of both damage output and defensive capabilities.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00244_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Healing, huh? Cappy, you're on deck! Soon as we have free time, it's you and me in the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00245_v002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Why just the two of us? Isn't it better if the whole squad is there?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00246_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, when you start putting marriage on the table, spending quality time together becomes more important than ever before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00247_v002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "But if you're already happy together, why would you need to worry about that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00248_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's the problem with love—it's never that simple.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00249_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Once you hit the three-year mark, you fall into a rut, and one side or the other tends to want to break up. They have a term for this, the three-year itch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00250_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We can't pretend it won't happen to us. After three years, my beloved Cappy might leave my side, and then we won't have a healer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00251_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We need to take our relationship seriously starting now, so we can make it past that hurdle when the time comes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00252_v002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I see, I see. We need to build a solid foundation so our relationship doesn't fall apart in three years! It all makes sense now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00253_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's my Cappy, quick on the uptake.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00254_v002_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "But we're not dating!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00255_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00256_v002_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I said <i>we're not dating</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00257_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's true, we're not.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00258_v002_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "So none of what you said makes any sense!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00259_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Correctomundo! Nice hacking, Cappy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00260_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm the hacker, dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00261_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The aptitude test is coming up tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00262_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Use your free time wisely, and do not slack off on training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_07_00_Novel_00005_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That concludes today's training. Good work, everyone.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

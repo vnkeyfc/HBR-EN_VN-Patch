@@ -1,0 +1,42 @@
+{
+  "Script": "Story/MC02/Day04/Novel/MC02_04_10_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_04_10_00_Novel_00000_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can go out at night, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_00_Novel_00001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There aren't any rules against it, as far as I know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sweet! Let's prowl the streets!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That phrasing has bad connotations. Just say \"go for a stroll.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let us sally forth into the unsleeping city!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a base, not a city.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

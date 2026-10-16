@@ -1,0 +1,368 @@
+{
+  "Script": "Story/MC02/Day04/Novel/MC02_04_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's everyone accounted for. Today, you will be training alongside the members of 31-B.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A, hello again. We look forward to training with you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, you made it! Let's do this thing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shall we start with some quick introductions?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A sound suggestion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00006_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am the squad leader, Erika Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:0",
+      "Original": "Ichigo Minase",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:1",
+      "Original": "Assassin and older sister of Sumomo Minase.\nFavorite sport is baseball.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00007_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Name's Ichigo Minase.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Sumomo Minase",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "Assassin and younger sister of Ichigo Minase.\nDangerous when angered.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00008_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow. I'm Sumomo Minase.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Then that means...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Ichigo and Sumomo are...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Sisters|A comedy duo",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're sisters!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00011_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, and? You got a problem with that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "N-Nope... N-No problems here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're THAT scared? She barely said anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're a comedy duo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00015_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you're saying our names sound comedic, is that it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's pointing a gun at you! Is that thing real?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00017_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why don't we find out?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I come in peace!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00019_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cadet Ichigo, control yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00020_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ow! She grabbed me just now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Be glad that's all that happened.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00007_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grrrar!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, it's Byakko! Missed you, fluffy. Have you been a good kitty?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_02_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00026_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Byakko's being friendly?! I must be seeing things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00027_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You want me to introduce myself too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00028_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Seika Higuchi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "Researcher in the science and technology labs on base.\nHer passion for research borders on obsession.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00029_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How tiresome... I'm Seika Higuchi, the genius taking care of your Seraphim.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What exactly are you doing on the front lines?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00031_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh...it's part of my research...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00032_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Th-That just leaves me, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00033_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you would!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:0",
+      "Original": "Kozue Hiiragi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:1",
+      "Original": "A girl who can see ghosts.\nAfflicted with a case of chuunibyou.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00034_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm Kozue Hiiragi. N-N-Nice to meet you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00035_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you so scared of?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00036_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's everyone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00324_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, if only we'd met you gals sooner... We could've really hit it off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00325_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If that's how you really feel, then there's nothing stopping you from hitting it off now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00039_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Moving on. From now on, you will need to pay attention both to your own squad and the squad accompanying you as you proceed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00040_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In yesterday's training, 31-A successfully secured the route leading to Afuri Shrine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00041_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today's objective is to advance to Point Alpha at Yabitsu Pass, securing the route from the shrine in the process.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00326_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A will lead the way while 31-B follows behind and guards their flanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00043_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Remember, the route leading to Afuri Shrine is secure, so you can move about freely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00044_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00045_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "First, please finish securing the rest of the route leading to Afuri Shrine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00046_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then, move on to today's objective: continuing on to Point Alpha at Yabitsu Pass, securing the route from the shrine in the process.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00326_v001_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A will lead the way while 31-B follows behind and guards their flanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00048_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00049_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_01_Novel_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're on it.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

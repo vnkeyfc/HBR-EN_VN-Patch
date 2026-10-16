@@ -7,3 +7,5 @@ Gift From the HBR Team=Quà từ đội ngũ HBR
 Pre-Registration Campaign Gift=Quà từ sự kiện Đăng ký trước
 r:"^Daily Login Bonus: Day (\d+)$"=Quà điểm danh hằng ngày: Ngày $1
 Astrarium Clear Reward=Phần thưởng Truy Quét Hằng Tinh
+Anachronies Clear Reward=Phần thưởng Dị Thời Không
+Item(s) exceeding inventory capacity limit =Vật phẩm đạt giới hạn sức chứa

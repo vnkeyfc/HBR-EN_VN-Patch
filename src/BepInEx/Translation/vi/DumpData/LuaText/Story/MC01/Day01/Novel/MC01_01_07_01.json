@@ -1,0 +1,150 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_07_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00011_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The numbers were merely within our predicted parameters.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Meaning what, exactly? I've got a good feeling about this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I think you mean \"bad feeling.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00014_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Going forward, you must increase your baseline fitness level.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Told you so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00123_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "We will change locations shortly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00124_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There's so much to learn...like how Yukkie's boobs are so unreasonably big...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00125_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Just because you can say something doesn't mean you should.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00126_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "In no time at all, you will be engaging in active combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00127_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, as it stands, you will be at the mercy of your Seraph's power.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00128_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "To prevent this, you will undergo a special training program.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00129_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No one warned us about this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00130_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your current goal is to pass an aptitude test involving real combat. You have five days.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00131_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "It will be leagues above the battles you fought today. I expect you to give it your all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00132_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Aw, maaan...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00030_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I'll leave the rest to you, Nanase.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00031_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "This way to the gym.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "By the way...before the battle, was it just me, or did anyone hear that scary Seraph Code?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00034_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Did you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Must be hearing things...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00036_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Less talking, more walking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeesh, it's like we're in the military or something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00038_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You ARE in the military.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

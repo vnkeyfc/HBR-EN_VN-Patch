@@ -1,0 +1,246 @@
+{
+  "Script": "Story/MC02/Day08/World/MC02_08_08_03",
+  "Entries": [
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00000_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Get set... Go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.bubble_ANGRY_noWait:1",
+      "Original": "Grarrr!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00002_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Byakko's too fast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00003_TKunimi",
+      "Context": "Adv.showCutIn:1",
+      "Original": "There's no way we can keep up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00004_Karen",
+      "Context": "Adv.showCutIn:1",
+      "Original": "My killer instincts failed?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00005_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I won't lose here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00006_EAoi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Incredible! They're almost neck and neck!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00007_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "GOOOAL!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_01_00001_Byakko",
+      "Context": "Adv.showCutIn:1",
+      "Original": "GRRAR!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tell us who won!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00010_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It looked like a draw.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00011_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So that means...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00012_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need a tiebreaker.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00014_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She says she won't hold back this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh. Guess I'll have to do the same.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00016_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Get set... Go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00017_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Here I GOOO!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00018_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "GOOOAL!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_01_00001_Byakko#2",
+      "Context": "Adv.showCutIn:1",
+      "Original": "GRRAR!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did it work?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00021_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "By a hair's breadth... Byakko!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00022_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Byakko, you won!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00023_Byakko",
+      "Context": "Adv.bubble_ANGRY:1",
+      "Original": "GRRAWR!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00024_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were so close!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00025_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, good game!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dang iiit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00027_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you can run that fast, you should do it more often.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey. Don't forget dinner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's that time already?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00030_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was short, but we had a blast. Thanks for showing us around.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why stop now? Let's hang more after dinner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00033_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't. That's when I do my nightly training routine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey now, don't be like that. Let me show you there are more fun things to do than training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00035_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not doing it because it's fun, though...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "By the way, do you play any instruments?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00037_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I learned the violin and was all right. I won a few prizes here and there, but never managed to get first place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's great!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_03_Novel_00039_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't like where this is headed... Whatever it is, leave me out of it.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

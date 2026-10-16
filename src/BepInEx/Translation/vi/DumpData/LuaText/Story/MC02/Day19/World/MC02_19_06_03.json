@@ -1,0 +1,12 @@
+{
+  "Script": "Story/MC02/Day19/World/MC02_19_06_03",
+  "Entries": [
+    {
+      "Key": "VC_Z_900600071_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Woo hoo! That's time! All clear!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,18 @@
+{
+  "Script": "Story/MC02/Day09/World/MC02_09_04_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_09_04_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Huh? It's Karerin. Is this the boutique?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Guess I'll have a look.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

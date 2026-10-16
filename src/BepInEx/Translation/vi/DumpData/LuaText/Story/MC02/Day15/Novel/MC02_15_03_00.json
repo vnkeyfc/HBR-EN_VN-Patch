@@ -1,0 +1,162 @@
+{
+  "Script": "Story/MC02/Day15/Novel/MC02_15_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00000_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is so difficult, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00001_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Agh! Look! You assign ze variable here, and then you can solve it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00002_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, you're right, <i>snip</i>! Everything makes sense now, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, hey. You seem to be doing well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00004_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who dares approach, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00005_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you here to bother us?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, I was just thinking we're all in the same boat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00007_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In terms of dumbness, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00008_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you've come to ridicule us, is that it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I never said anything about dumbness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00010_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think anyone put in the same category as you is going to think they're being called stupid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oof, ouchie...my feelings. Girls, help me out here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00012_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is this...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00013_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Amazing! Look at all that cheese!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00014_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you put honey on it, it's practically a dessert!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00015_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a proper meal and a sweet treat at the same time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "They're having fun all on their own!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00017_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vhat a pitiful fool.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, what's going on here?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We were just talking about how this cheese naan is super delicious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You are chatting it up about naan while your leader's being dissed?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not our fault you're getting made fun of when you act the way you do all the time. You reap what you sow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awww, c'mon...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whatever, I'm gonna chow down on some naan too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00024_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "That's crazy! Did you see how she switched her mood so quickly, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_03_00_Novel_00025_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...let's not get involved with that one.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

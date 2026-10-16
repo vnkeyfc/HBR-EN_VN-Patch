@@ -1,0 +1,95 @@
+{
+  "Script": "Story/MC01/Day05/World/MC01_05_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_05_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Going the wrong way comes as naturally as breathing for me... But not today, Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Don't tell me this is becoming an addiction. Bad Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "All right, time to work up an appetite in the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, hey.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "They wouldn't tell me the details of today's training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Better be prepared for anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If you're all set, let's go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00007_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "...That is ze gist of it.\\nA formidable formation, no?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00008_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "You're so smart, Master! <i>snip<i>",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00009_SSakuraba",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00010_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Let's try it out today!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00011_AKanzaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Our victory is guaranteed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_00_World_00012_MTenne",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "How tedious...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00005_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "If you're all set, let's go.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

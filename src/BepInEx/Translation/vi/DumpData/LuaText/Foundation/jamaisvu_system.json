@@ -1,0 +1,56 @@
+{
+  "Script": "Foundation/jamaisvu_system",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "Go to",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Main Street",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Union Street",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Academy Building",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Flavor Street",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Clock Tower Viewing Platform",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "The Woodway",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "{1} {0}| Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Exit {0}?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Leave|Stay",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

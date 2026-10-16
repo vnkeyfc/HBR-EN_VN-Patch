@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC02/Day18/World/MC02_18_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00801_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ha ha! This time'll be easy as pie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00802_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Careful, you don't want to jinx anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600078_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See? We're already under attack.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

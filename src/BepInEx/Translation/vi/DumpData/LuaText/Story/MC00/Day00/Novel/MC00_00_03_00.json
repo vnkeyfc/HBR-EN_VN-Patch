@@ -1,0 +1,352 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00000_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hey, you.",
+      "Vietnamese": "Ơi, này."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh?",
+      "Vietnamese": "Hửm?"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Did I doze off?)",
+      "Vietnamese": "(Mình vừa ngủ gật à...?)"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00004_STezuka",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Commander",
+      "Vietnamese": "Tư lệnh"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00004_STezuka",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "...As such, our base operates as a military academy. Your instructors will explain the details later, so be sure to pay attention to them.",
+      "Vietnamese": "...Như vậy, căn cứ này được thiết lập theo mô hình học viện quân sự. Chi tiết sẽ được giáo quan phụ trách của các cô giải thích sau, nhớ chú ý nghe kỹ đấy."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "The commander seems awfully fond of her own voice...",
+      "Vietnamese": "Mấy người có chức có quyền phát biểu dông dài thế chứ lại..."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00006_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00006_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Want to chat? Any more of this and I'll fall asleep.",
+      "Vietnamese": "Chán chết đi được, phiếm chuyện chút không? Cứ thế này không khéo tôi ngủ luôn mất..."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Talk with her?",
+      "Vietnamese": "Phiếm chuyện chút không?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Sure|Sleep",
+      "Vietnamese": "Cũng được thôi|Đánh một giấc"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'm game. What about?",
+      "Vietnamese": "Cũng được thôi, như chuyện gì nào?"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00008_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00008_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "This academy gathers people with incredible talents, right? So I'm curious. What's yours?",
+      "Vietnamese": "Có vẻ như chốn này tập hợp toàn nhân tài xuất chúng thì phải.\\nTôi tò mò điểm lợi hại của cậu là gì đấy."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "My talent? I don't have one. I'm just an everyday, ordinary human being, same as anyone else. Except...",
+      "Vietnamese": "Lợi hại á? Tớ thì có gì đâu mà lợi hại. Cũng chỉ bình thường như bao người khác thôi. Có điều..."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00010_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00010_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Except?",
+      "Vietnamese": "Có điều?"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "My passion for music is second to none. That's about it.",
+      "Vietnamese": "Chỉ nói riêng về nhiệt huyết dành cho âm nhạc thì tớ chẳng ngán một ai đâu. Thế thôi."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Aaah, one of those. You have perfect pitch, or can detect soundwaves imperceptible to the human ear. Something to that effect?",
+      "Vietnamese": "À... ra là kiểu đó. Chắc là cảm âm siêu việt này, hay là thính đến mức nghe được cả những tần số mà người thường chịu chết không nghe nổi, đại loại thế đúng không?"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nah, nothing that cool. I love music. That's all.",
+      "Vietnamese": "Làm gì có năng lực nào ghê gớm cỡ đó chứ. Tớ chỉ đơn thuần là yêu âm nhạc, thế thôi."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I highly doubt they would've brought you here if that's all you're capable of.",
+      "Vietnamese": "Tôi không nghĩ là chỉ nhờ bấy nhiêu tài cán đó mà cậu có mặt ở đây đâu."
+    },
+    {
+      "Key": "VC_MC00_Z00000045_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The only thing I'm good at is belting out songs and rocking out on the guitar. I was the lead vocalist in my band, you know.",
+      "Vietnamese": "Tớ chỉ giỏi mỗi khoản là vừa gảy guitar vừa hát thôi. Hồi đó tớ làm guitar kiêm hát chính trong ban nhạc mà."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hah... Perhaps you're the entertainment for the entrance ceremony.",
+      "Vietnamese": "Hay thật, tâm thế như đi diễn văn nghệ ở trường mà cũng vào được đây sao..."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nap time.",
+      "Vietnamese": "Đánh một giấc vậy."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "That sounds like a great idea.",
+      "Vietnamese": "Cũng đúng, ngủ quách cho rồi..."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Wait a second! That's precisely what I'm trying to avoid!",
+      "Vietnamese": "Ơ kìa, tôi bắt chuyện là để không bị ngủ gật kia mà!"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz... *snore*",
+      "Vietnamese": "Khòò..."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You're already asleep?!",
+      "Vietnamese": "Ngủ luôn rồi?!"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00022_STezuka",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Commander",
+      "Vietnamese": "Tư lệnh"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00022_STezuka",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You there. This isn't nap time, you know.",
+      "Vietnamese": "Đằng kia, đừng có ngang nhiên ngủ ngáy như thế!"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Sorry, I think she's anemic... Hey, wake up!",
+      "Vietnamese": "À, hình như bạn này bị thiếu máu... Này, dậy mau!"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? I feel so refreshed! I could pull an all-nighter!",
+      "Vietnamese": "Hửm...? Bỗng thấy đầu óc tỉnh táo hẳn ra! Đêm nay khỏi ngủ luôn cũng được!"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00025_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00025_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "What are you, a professional power napper?",
+      "Vietnamese": "Mới chớp mắt thôi mà cậu đã say giấc nồng thật luôn đấy à...?"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wide awake I am. Let's talk about something.",
+      "Vietnamese": "Tỉnh như sáo rồi. Phiếm chuyện chút không?"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00027_YIzumi",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00027_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "What do you think I was trying to do earlier?",
+      "Vietnamese": "Cái đó vốn dĩ là do tôi đề nghị trước mà..."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00008_YIzumi#2",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00008_YIzumi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "This academy gathers people with incredible talents, right? So I'm curious. What's yours?",
+      "Vietnamese": "Có vẻ như chốn này tập hợp toàn nhân tài xuất chúng thì phải.\\nTôi tò mò điểm lợi hại của cậu là gì đấy."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00009_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "My talent? I don't have one. I'm just an everyday, ordinary human being, same as anyone else. Except...",
+      "Vietnamese": "Lợi hại á? Tớ thì có gì đâu mà lợi hại. Cũng chỉ bình thường như bao người khác thôi. Có điều..."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00010_YIzumi#2",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00010_YIzumi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Except?",
+      "Vietnamese": "Có điều?"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00011_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "My passion for music is second to none. That's about it.",
+      "Vietnamese": "Chỉ nói riêng về nhiệt huyết dành cho âm nhạc thì tớ chẳng ngán một ai đâu. Thế thôi."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00012_YIzumi#2",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00012_YIzumi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Aaah, one of those. You have perfect pitch, or can detect soundwaves imperceptible to the human ear. Something to that effect?",
+      "Vietnamese": "À... ra là kiểu đó. Chắc là cảm âm siêu việt này, hay là thính đến mức nghe được cả những tần số mà người thường chịu chết không nghe nổi, đại loại thế đúng không?"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00013_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "Nah, nothing that cool. I love music. That's all.",
+      "Vietnamese": "Làm gì có năng lực nào ghê gớm cỡ đó chứ. Tớ chỉ đơn thuần là yêu âm nhạc, thế thôi."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00014_YIzumi#2",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00014_YIzumi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I highly doubt they would've brought you here if that's all you're capable of.",
+      "Vietnamese": "Tôi không nghĩ là chỉ nhờ bấy nhiêu tài cán đó mà cậu có mặt ở đây đâu."
+    },
+    {
+      "Key": "VC_MC00_Z00000045_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "The only thing I'm good at is belting out songs and rocking out on the guitar. I was the lead vocalist in my band, you know.",
+      "Vietnamese": "Tớ chỉ giỏi mỗi khoản là vừa gảy guitar vừa hát thôi. Hồi đó tớ làm guitar kiêm hát chính trong ban nhạc mà."
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00016_YIzumi#2",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Girl with Glasses",
+      "Vietnamese": "Thiếu nữ đeo kính"
+    },
+    {
+      "Key": "VC_MC00_00_03_00_Novel_00016_YIzumi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hah... Perhaps you're the entertainment for the entrance ceremony.",
+      "Vietnamese": "Hay thật, tâm thế như đi diễn văn nghệ ở trường mà cũng vào được đây sao..."
+    }
+  ],
+  "Inserts": []
+}

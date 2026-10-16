@@ -1,8 +1,10 @@
 [Enhancement_Training]
+アリーナ\n=Đấu trường
 記憶の庭へ=Khu Vườn Ký Ức
 プリズムバトル=Prism Battle
 宝石プリズム=Prism Gem
 オーブボス=Orb Boss
+アクセサリ合成=Dung hợp phụ kiện
 時計塔=Tháp đồng hồ
 The Astrarium=<size\=80%><cspace\=-2px><space\=-10>Truy Quét Hằng Tinh
 Anachronies=<size\=80%><cspace\=-2px><space\=-10>Dị Thời Không

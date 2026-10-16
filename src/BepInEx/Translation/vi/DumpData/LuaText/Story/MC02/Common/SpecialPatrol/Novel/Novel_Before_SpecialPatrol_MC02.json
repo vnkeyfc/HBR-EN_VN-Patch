@@ -1,0 +1,225 @@
+{
+  "Script": "Story/MC02/Common/SpecialPatrol/Novel/Novel_Before_SpecialPatrol_MC02",
+  "Entries": [
+    {
+      "Key": "VC_Z_900600115_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I guess they haven't found the Medusa yet.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600116_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(We were told to stay put until we get the order, but what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Head out|Stay put",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600117_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Nah, let's just stay put for today.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00168_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, are we going on patrol today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|Nah",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00169_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup. Let's get ready to head out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00170_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00171_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, not today. Let's go grab dinner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00172_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You sure? Well, whatever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00168_v001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, are we going on patrol today?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00169_v001_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup. Let's get ready to head out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00170_v001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00171_v001_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, not today. Let's go grab dinner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00177_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shouldn't we start thinking about heading out? We only have today left.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00178_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, you're right. Let's go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00179_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00180_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, I think we're still good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00181_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't say I didn't warn you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00182_v001_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "31-A, prepare for deployment and head to the commander's office immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00183_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh, I've got all the good feelings about this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00184_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's with you and that positivity? It's kind of amazing, in a way. At this point, I'm even kind of starting to respect your unwavering positive-mindedness in the middle of all this chaos in the world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00185_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't know what that's all about, but should we be headin' out quick?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00186_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're absolutely right. Why am I spending a whole minute monologuing about how I respect her stupidly positive outlook? Wait... This is pretty long too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00187_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'mon, let's just go!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Commander's Office",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00188_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is everyone here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00189_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, ma'am.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00190_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One of the squads out on patrol found the Medusa.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00191_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, darn. They got to it first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00192_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you saying? It's thanks to your previous efforts that they were able to narrow down the search area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00193_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was just thinking we just got further away from a promotion. You know, with our own personal rooms and bathrooms.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00194_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are no personal rooms for Seraph Squadron members.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00195_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A, you will now head out to the designated point in the Ariake Area to defeat the Medusa.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00196_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00197_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just say \"understood,\" dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00198_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

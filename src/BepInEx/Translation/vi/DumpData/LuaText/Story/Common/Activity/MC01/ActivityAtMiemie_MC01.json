@@ -1,0 +1,175 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtMiemie_MC01",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtMiemie_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Okay, which bath should I try first?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Which type of bath?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Open-air hot springs|Sauna|Jacuzzi",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(This is different from usual, so it feels kinda exciting...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I feel so free with the big wide sky right above.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Ahh...all of that pent-up stress and fatigue is just melting away...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whew...this feels amazing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I hear it's good for your health to sweat it out in the sauna.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's like all the bad stuff in my body is just draining out with the sweat...I'm being cleansed from the inside!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Plus, the longer I sit, the more I feel like I'm winning in a battle against myself.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whew...I'm gonna completely detox and sweat all the bad stuff out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00009_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Oh. It seems there's someone already here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hey Nanamin, you got some bad things writhing inside you too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00011_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Please don't phrase it like that, you make me sound like some kind of horrific creature.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00012_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It's time to put water on the coals, so I came to air it with a towel.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Not sure what that is, but go on ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00014_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I will proceed, then. *fwuf fwuf*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00016_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Wooooooah! I'm sweating like crazy from this hot air!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00017_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "*fwuf fwuf*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "This is AMAZING!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Awww yesss! The bubbles are relaxing the sore spots in my muscles.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's like getting a full body massage...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Good for shy people too, since the bubbles hide everything!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Ahh, this is nice...I could stay here forever.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmm, that was super relaxing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I should probably head back now.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToMiemie:2",
+      "Original": "Hang out",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToMiemie:4",
+      "Original": "Spend time at Miemie Spa today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToMiemie:5",
+      "Original": "Spend time at Miemie Spa to raise your Kindness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

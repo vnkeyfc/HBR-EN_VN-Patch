@@ -1,0 +1,65 @@
+{
+  "Script": "Story/MC02/Day02/World/MC02_02_06_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Chase the tiger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Nope! I've got a tiger to chase!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That tiger looks familiar...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What was that?! Better check it out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00004_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka! A tiger just dashed right by me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00005_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "What's a tiger doing here? I have to find out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00006_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Huh, a tiger? Well, I did see SOMETHING large and animal-like headed towards Union Street...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00007_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I don't know what's happening, but I'm coming too! A tiger is no match for yours truly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka, what on earth is going on?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_00_World_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "A giant creature just ran into the gym...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

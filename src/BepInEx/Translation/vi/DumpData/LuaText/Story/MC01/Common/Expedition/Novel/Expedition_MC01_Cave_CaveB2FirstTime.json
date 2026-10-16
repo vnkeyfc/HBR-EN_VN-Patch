@@ -1,0 +1,36 @@
+{
+  "Script": "Story/MC01/Common/Expedition/Novel/Expedition_MC01_Cave_CaveB2FirstTime",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB2FirstTime_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We finally made it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB2FirstTime_Novel_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "This must be the second level.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB2FirstTime_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The air feels different here...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB2FirstTime_Novel_00003_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "It's so dark and dreary...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB2FirstTime_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "C'mon, let's get going!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

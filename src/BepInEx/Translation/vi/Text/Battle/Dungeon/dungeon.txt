@@ -5,9 +5,9 @@ Caverns of Thunder=Lôi chi Hồi Lang
 Caverns of Light=Quang chi Hồi Lang
 Caverns of Darkness=Ám chi Hồi Lang
 Gold Skitterer Hive=Sào huyệt Gold Hopper
-Oubliette of Tears=Mê Cung Đá Quý
+Oubliette of Tears=Mê Cung Bảo Ngọc
 Farthest Reached=Độ sâu
-宝珠の迷宮=<size\=80%>Mê Cung Đá Quý</size>
+宝珠の迷宮=<size\=80%><cspace\=-3px>Mê Cung Bảo Ngọc
 スキップ=Càn quét
 
 Patrol Mission=Nhiệm vụ Tuần tra
@@ -16,4 +16,5 @@ Patrol Mission=Nhiệm vụ Tuần tra
 
 r:"^L(\d+)$"=B$1
 sr:"^L(\d+)~L(\d+)$"=B$1 -  B$2
+sr:"^(.+) L(\d+)~L(\d+)$"=$1  B$2 - B$3
 sr:"^(.+) L(\d+)~L(\d+) Unlocked$"=Mở khoá $1 tầng B$2 - B$3

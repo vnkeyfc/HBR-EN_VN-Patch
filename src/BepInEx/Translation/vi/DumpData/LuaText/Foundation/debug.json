@@ -1,0 +1,11 @@
+{
+  "Script": "Foundation/debug",
+  "Entries": [
+    {
+      "Context": "Debug.lapElapsedTimer:0",
+      "Original": "Timer stopped.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

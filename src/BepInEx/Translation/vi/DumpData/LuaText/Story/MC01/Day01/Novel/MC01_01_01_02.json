@@ -1,0 +1,664 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_01_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No breakfast buffet this time. And no dessert, either.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Sweets at this hour? I don't think so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'm a teenage girl, of course I want sweets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Have an orange.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Do I look like an old geezer to you?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then what do you want?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Let's think about this first...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:0",
+      "Original": "For breakfast, it's gotta be...",
+      "Vietnamese": "Món mình muốn ăn vào bữa sáng là...",
+      "ListOrder": [
+        1,
+        0
+      ]
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "Rolled|Honey-soaked|Curry-flavored",
+      "Vietnamese": "...cuộn|...đẫm mật ong|...vị cà ri"
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "cake|jello|rice crackers",
+      "Vietnamese": "Bánh...|Thạch...|Bánh gạo..."
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Rolled cake!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So a Swiss roll?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, that. The swirly-whirly one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "\"Swirly-whirly\"? No. Just \"swirly\" will do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But swirly-whirly sounds so much tastier!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00018_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Are we even imagining the same thing right now? Somehow, I don't think so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Rolled jello!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Never seen that before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's why I wanna try it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00022_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How would you even roll it to begin with?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Rolled rice crackers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00024_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why do they have to be rolled?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "To give them a unique texture!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No need to go changing the texture of rice crackers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Say that to the moist soy sauce ones, I dare you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00028_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, I forgot about those... I guess rolling them might work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Told you so!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Honey-soaked cake!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Now that I could eat.",
+      "Vietnamese": "No way. Why would you mix that? And why would you want a main entrée for dessert?"
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00032_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "One bite, and the honey comes pouring out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00033_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "From the inside? I was thinking it'd be drizzled on top.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That'd be too normal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Norms exist for a reason. It'd be tastier with whipped cream or fruit inside.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00036_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "You're right!\\nNiiice hackiiing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00037_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'd hardly call that hacking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Honey-soaked jello!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That might taste good, but I'd rather not find out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00040_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'll make some for you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're not even listening. If you want it so badly, start your own cooking show and make it yourself!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00042_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Okaaay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Honey-soaked rice crackers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That combo sounds disgusting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00045_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I bet it's damn delicious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00046_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then start your own cooking show and make it yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Curry-flavored cake!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00048_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No way. Why would you mix that? And why would you want a main entrée for dessert?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00049_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because cake makes everything better.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00050_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then just have a normal cake. For my sake.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00051_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Curry-flavored jello!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00052_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That could be a thing, but no thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00053_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I bet it's damn delicious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00046_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "Then start your own cooking show and make it yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00055_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Curry-flavored rice crackers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00056_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's a thing people already eat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00057_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's more like a snack than a dessert, anyways. Wait until snack time if you want it so bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00058_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00059_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, what're y'all yappin' about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00060_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "You're making no sense!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00061_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "They're in their own little world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00062_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "They must be close.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00063_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No, we're not! Less talking, more eating!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_merge_00001",
+      "Context": "Adv.talk:0",
+      "Original": "Ruka/Megumi/Tama/Karen/Tsukasa/Yuki",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_merge_00001",
+      "Context": "Adv.talk:1",
+      "Original": "Let's dig in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00070_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "I've just received word from the commander. After your meal, please report to classroom 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00071_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey there, little Miss Pops-Outta-Nowhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00072_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Are you referring to me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00073_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, who else? If you're gonna continue popping out of nowhere, at least tell us your name.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00074_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Officer Nanami Nanase, at your service.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00075_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Not a bad name you've got there. From now on, I dub thee \"Nanamin\".",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00076_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "I see...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00077_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Off you go now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00078_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00079_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hold up, why don't we try askin' her?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00080_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00081_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, right! Hey, Nanamin, there's something I've gotta ask you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00082_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What've you got to ask her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Why are there no boys here?|Why was there no breakfast buffet?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00083_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why was there no breakfast buffet?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00084_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Wrong question, genius.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00085_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Last night's meal was a special welcome feast. Going forward, you'll receive regular, assigned meals.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00086_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Dinner, too?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00087_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00088_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Forever and ever?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00089_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. Only lunch will have multiple options.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00090_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There was so much good grub on offer, but I stuffed my tummy full with nothing but Salisbury steak curry and carbonara!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00003_v003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There was so much good grub on offer, but I stuffed my tummy full with nothing but curry seaweed rice and carbonara!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00094_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ha, good fer you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00095_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I want a buffeeet! Gimme gimme gimme!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00096_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't throw a tantrum like a kid, you're in public... Remind me, why are you our leader again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00097_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't there another question you should be asking?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00098_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, wow, true. I can't believe you're the one keeping us on track.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00099_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Why are there no boys here?|You know what knife-cut noodles are, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00100_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You know what knife-cut noodles are, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00101_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Wrong question, genius.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00102_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Oh. Do you mean the ones where you stand in front of a boiling pot of water, a knife in one hand, dough in the other, and slice them nice and thin until they're boiled?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00103_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "What in tarnation... Did ya just copy-paste her line? I swear, that was word-for-word!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00104_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ha, it just means that's common knowledge.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00105_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't there another question you should be asking?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00098_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, wow, true. I can't believe you're the one keeping us on track.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00107_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh yeah, I did.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00108_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Tell me whyyy, ain't got us any boys here. Tell me baby, 'cause I need to know now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00109_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Were those song lyrics just now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00110_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Each base is separated by gender.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00111_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "So much for mysteries. It really is just a gender thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00112_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "What a relief!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00113_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "In other words, this military must be quite massive. So large, I can't even fathom it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00114_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "At least try to, Intel Agent.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_02_Novel_00115_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "I'll take my leave now.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

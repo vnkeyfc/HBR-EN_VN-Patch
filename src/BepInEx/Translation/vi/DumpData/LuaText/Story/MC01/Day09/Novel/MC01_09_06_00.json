@@ -1,0 +1,106 @@
+{
+  "Script": "Story/MC01/Day09/Novel/MC01_09_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whew... The helicopter ride over is nice, but the dungeon's such a slog.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00001_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Everything's slower on land!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If this is enough to get you whining, I worry for the future.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's my Yukkie. So much stamina built up from all those nights banging away at the keyboard.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're the one who was lugging around a heavy guitar every day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00005_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "We lost track of 31-C yesterday. How far should we go this time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Good question.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "How far will we go today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Just the first floor|Let's tackle the second floor",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Just the first floor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Playing it safe, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yep. Let's take it easy today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Sure, I guess. It's not like we're in a competition or anything...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's tackle the second floor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, expected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We still haven't found the entrance to the second floor yet, by the way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_06_00_Novel_00013_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Let us go forth and conquer!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

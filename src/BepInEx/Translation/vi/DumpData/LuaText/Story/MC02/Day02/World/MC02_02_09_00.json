@@ -1,0 +1,41 @@
+{
+  "Script": "Story/MC02/Day02/World/MC02_02_09_00",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "New boosters, in stock now! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "They are a little more expensive this time... ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "But as always, you get what you pay for! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Come on in and check out this amazing deal! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Take a look?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Munitions Store",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,256 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtStudio_MC01_ADV",
+  "Entries": [
+    {
+      "Key": "VC_Activity_00001_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's see, what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Take a nap|Vocal training|Practice announcing",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00002_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(This is kind of like a secret hideout.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00003_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(No one comes by here, so it's a great place to take a nap.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00004_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A place where all you're free from all obligation.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00005_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Basically, a vacation home!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00006_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00007_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00008_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Mmh...? Is there someone there?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00009_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The sound of footsteps...or more like, something heavy approaching...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00010_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll peek my eyes open just a bit...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00011_v002_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vrrawr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00012_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A TIGER! A WHITE TIGER!!!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00013_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Why is there a huge meat-eating predator here?! It this a dream?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00014_v002_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sniff sniff*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00015_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh god its breath is so warm! The teeth are RIGHT THERE! Am I going to get eaten?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00007_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grrawr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00017_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Aaahhhh, it decided to sleep next to me?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00018_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's so fluffy! Everything but my racing mind feels so soothed!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00019_v002_Byakko",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Zzz... Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00020_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(You know what, I'm going to make up my mind and...sleep!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00021_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00022_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mnnm, fluffy... that was a nice nap. OH WAIT, TIGER ALERT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00023_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Huh? No tiger? I guess it really was just a dream.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00024_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm, that was a nice nap! I'm feeling refreshed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00025_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll do some vocal training while no one's here.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00026_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Maybe I'll practice doing long tones today.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00027_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's a vocal training method where you keep holding the same note. It improves you lung capacity, and doesn't hurt the throat.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00028_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Breathe in, breathe out...breathe iiin...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00029_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Laaa~",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00030_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(If you do it while pacing around, it helps relax the muscles.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00031_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Laaaaaaa~",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00032_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm not super confident as an announcer.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00033_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(But I'll practice anyways, since we might need it during a show.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00034_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Ah ah. Mic check. Aaah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00035_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Welcome one and all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00036_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Welcome to...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00037_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Welcome to the...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00038_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Welcome to the She is Legend Stand-up Comedy Hour!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00039_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Why...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00040_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Okay, it's about time to head back.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

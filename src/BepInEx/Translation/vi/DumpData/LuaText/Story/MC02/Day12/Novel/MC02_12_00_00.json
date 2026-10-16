@@ -1,0 +1,106 @@
+{
+  "Script": "Story/MC02/Day12/Novel/MC02_12_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Beginning oral drills. Please repeat after me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "An emergency has been reported. Effective immediately, cease all operations. All squads must fall back and retreat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Now what do I say?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What should I say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Acknowledged. Emergency ongoing, ceasing all operations. All squads will now begin retreating|Acknowledged. Emergency surprise ongoing, ceasing all operations. All squads will now join in on the flash mob",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Acknowledged. Emergency ongoing, ceasing all operations. All squads will now begin retreating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_merge_00001",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Acknowledged. Emergency ongoing, ceasing all operations. All squads will now begin retreating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, just like that. Be sure to repeat each and every word exactly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A compliment! That had to have boosted one of my stats!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Acknowledged. Emergency surprise ongoing, ceasing all operations. All squads will now join in on the flash mob.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_merge_00018",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Acknowledged. Emergency surprise ongoing, ceasing all operations. All squads will now join in on the flash mob.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00013_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your entire squad would perish if you were to do so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's right. Ugh, how embarrassing...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00015_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's take that again from the top.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00003_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Acknowledged. Emergency ongoing, ceasing all operations. All squads will now begin retreating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_merge_00019",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Acknowledged. Emergency ongoing, ceasing all operations. All squads will now begin retreating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_00_00_Novel_00009_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, just like that. Be sure to repeat each and every word exactly.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

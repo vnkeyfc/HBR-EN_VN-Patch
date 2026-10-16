@@ -1,0 +1,270 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_05_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's like they say, food tastes better when you're together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Mmhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00003_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, sure. As if that'd make a difference.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh! I just thought of something awesome!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I doubt it's awesome, but go ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If we each share a small portion of our meals, we end up with pork-cutlet curry Salisbury steak penne pizza pork-cutlet sashimi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00007_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "You're right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Are you aware that sounds absolutely disgusting? And multiple pork cutlets are redundant.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00009_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "You're right!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If you're going to agree, at least take a side. You're all over the place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00011_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "YO, TAMA!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00012_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Y-Yes?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00013_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You can keep the sashimi, 'kay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Too bad. The sashimi's mine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00015_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ha! Chatting like a bunch of schoolgirls. Do you REALLY think you stand a chance against us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, it's Wakkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00017_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Hold your tongue! Who calls a girl something so uncouth?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00018_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Are you trying to imply I'm crazy?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's your nickname. Wakkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00020_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I am <i>not</i> a \"wacky\" individual, thank you very much.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No, no. It's \"Wakkie.\" You know, from Yama-WAKI.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00022_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "So you're calling me Wakkie?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00024_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "That would only work as a nickname if my name started with \"Waki,\" like \"Wakita\" or \"Wakitani\"! And it sounds too much like an insult to be appropriate for a girl!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's rich, Wakkie. You're the one who just called us a bunch of schoolgirls as an insult.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00026_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I've been had!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00027_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Yamawaki isn't very smart, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00028_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Should her lackey be saying that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00029_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Don't you know the Great Yamawaki is a brilliant mad scientist, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00030_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? This exchange... Why does it feel so familiar?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00031_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Vhat you are feeling right now is none other than...ze placebo effect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I think you mean déjà vu.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00033_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh...she's good, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Your rivalry has devolved into a competition to see who has the lowest IQ. Just saying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00035_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "You vill vitness our true might soon enough, peasants.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00036_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Can't wait, Wakkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00038_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, it's on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00039_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Likewise, girls. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00040_MTenne",
+      "Context": "Adv.talk:1",
+      "Original": "I want to get back to my experiments...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00041_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "They can wait!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00042_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "I am not particularly invested either way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_05_01_Novel_00043_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Impressive how many different pages they're on.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

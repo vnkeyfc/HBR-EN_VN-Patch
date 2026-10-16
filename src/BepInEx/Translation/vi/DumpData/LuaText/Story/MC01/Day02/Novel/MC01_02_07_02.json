@@ -1,0 +1,36 @@
+{
+  "Script": "Story/MC01/Day02/Novel/MC01_02_07_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_07_03_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "We'll be changing up the teams next: Kayamori, Asakura, and Tojo vs. Izumi, Aikawa, and Kunimi. Take your positions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_03_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "This time, yer goin' DOWN!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_03_Novel_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Prepare to get whaled on!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_03_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Save me now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_03_Novel_00004_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please hold up your mePads and recite your Seraph Codes!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

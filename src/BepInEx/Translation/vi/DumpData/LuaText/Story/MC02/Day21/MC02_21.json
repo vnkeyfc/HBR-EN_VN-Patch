@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC02/Day21/MC02_21",
+  "Entries": [
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "[Trainer] Ivory Sculler\\nRecommended Rating: 6,000\\nVulnerabilities: Crush\\nResistances: None",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,17 @@
+{
+  "Script": "Story/MC01/Day11/World/MC01_11_10_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head back to the dorms!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Looks like everyone headed back. Guess I will, too.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,294 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtFountain_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Okay, what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Pantomime|Juggling|Sell bananas",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Let's try pantomiming.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I’m supposed to be completely silent, aren’t I?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I'm going to give my best impression of a pro guitarist!)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "Wow!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*clap clap*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Nice, people like it. I wanna say thanks, but I'm pantomiming right now.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Not being able to talk when you want to is kind of frustrating.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait...this isn't a pantomime, it's an air guitar!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, whoops. I ended up speaking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00014_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll try juggling balls. Don't really know how, but I'll wing it...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "One, and a two, and a three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00016_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hmm, just juggling is a bit boring. I'll trying using my feet!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00017_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "A three, and a four, and a five!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Huh? Wait, this IS juggling, but it's the soccer kind!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Also, my undies are totally peeking. Not that I care, so it's fine.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm going to sell some bananas!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hey hey! Come one, come all, take a gander at these babies here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We've got a bunch of bargain bananas! Get 'em while they're ripe!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hey, ladies! How bout trying these bananas, huh? No?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(They're not selling at all...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00028_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you don't have someone to banter with, you're just hawking at an uncaring crowd! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00029_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shall I teach you how to get these bananas to sell like hot cakes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00030_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*whisper whisper...*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00032_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's try it out, then! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gather around, everybody! You're in for a lucky treat today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "These bad boys here are no ordinary fruit! They're magical bananas! One bite, and you'll be in for a real surprise!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00035_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But aren't they expensive?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're usually 10,000 GP per banana, but they're currently available for the low, low price of 10,000 GP per BUNCH!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "No way! Get outta here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00038_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's too expensive. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, then I guess I'll have to go lower.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Raise your hand if the price is right! Let's start off with 5,000 GP.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00041_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's still too expensive, give us a better discount! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay then, how about 2,000 GP? 1,000? 800! Do we hear 750? No???",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00043_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Make it dirt cheap! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How about 500! Or even 300... thousand!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00045_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoops, you almost had me there! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "Hahaha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00047_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew, they really all sold. I guess it's important to have a shill in the crowd.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00048_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm glad I could be of help. See you around! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh well, guess I'll just eat 'em.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Nom nom. Tasty.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I guess I should appreciate the fact I get all this deliciousness to my self.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00050_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I'm satisfied now. Let's head back.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

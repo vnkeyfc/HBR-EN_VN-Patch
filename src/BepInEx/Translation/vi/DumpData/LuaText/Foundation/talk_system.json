@@ -1,0 +1,51 @@
+{
+  "Script": "Foundation/talk_system",
+  "Entries": [
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "morning glow",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Mezameta Asa ni (Up in the Morning)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Country Train",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Boys Don't Cry",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Sea, You & Me",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Kakeru (Run)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Tabi (Journey)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Natsukage (Summer Lights)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Fuyu no Hanabi (Winter Fireworks)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

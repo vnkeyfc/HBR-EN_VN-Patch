@@ -4,4 +4,4 @@
 才能開花済です=Đã khai mở thiên phú
 演出再生=Xem lại hoạt ảnh
 
-どのレアリティのスタイルも才能開花が可能です\n才能開花は巻き戻すことはできません=<size\=120%>Style thuộc bất kỳ độ hiếm nào cũng có thể khai mở thiên phú.\nBạn không thể hoàn tác một khi đã khai mở thiên phú.
+どのレアリティのスタイルも才能開花が可能です\n才能開花は巻き戻すことはできません=<size\=120%>Hồi Ức thuộc bất kỳ độ hiếm nào có thể khai mở thiên phú.\nBạn không thể hoàn tác một khi đã khai mở thiên phú.

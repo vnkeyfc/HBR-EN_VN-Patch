@@ -1,0 +1,95 @@
+{
+  "Script": "Story/AC01/Day01/World/AC01_01_03_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go into the general store!",
+      "Vietnamese": "Hãy vào cửa hàng tạp hóa!"
+    },
+    {
+      "Key": "VC_AC01_00030_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Death Slug...fighting it would have been a good chance for me to try out my new formula.",
+      "Vietnamese": "Death Slug... Đó vốn là cơ hội tuyệt vời để ta thử nghiệm loại thuốc mới của mình vậy mà..."
+    },
+    {
+      "Key": "VC_AC01_00031_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The stars were aligned for 31-A this time. We would probably have died in vain.",
+      "Vietnamese": "...Những vì sao đã nghiêng về phía 31A. Chúng ta mà ra trận thì cũng chỉ chết vô ích thôi."
+    },
+    {
+      "Key": "VC_AC01_00032_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, Sakuraba, try this one.",
+      "Vietnamese": "Tốt lắm Sakuraba, dùng loại thuốc này đi."
+    },
+    {
+      "Key": "VC_AC01_00033_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, thank you.",
+      "Vietnamese": "...Tôi xin kiếu."
+    },
+    {
+      "Key": "VC_AC01_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're here!",
+      "Vietnamese": "Tới nơi rồi!"
+    },
+    {
+      "Key": "VC_AC01_00035_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are still so many shops I haven't been to before.",
+      "Vietnamese": "Có vẻ vẫn còn nhiều cửa hàng tụi mình chưa biết tới."
+    },
+    {
+      "Key": "VC_AC01_00036_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we move as one group, we won't get much done before nightfall. Let's split up and look for things that would benefit the whole squad.",
+      "Vietnamese": "Đi cùng nhau thế này thì đến tối mất. Chia nhau ra tìm xem có món nào có ích cho cả đội đi."
+    },
+    {
+      "Key": "VC_AC01_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good call, Yukkie! Let's do that.",
+      "Vietnamese": "Ý hay đấy! Quyết vậy đi."
+    },
+    {
+      "Key": "VC_AC01_00038_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I'll start with the general store.",
+      "Vietnamese": "Trước mắt tớ sẽ ghé qua cửa hàng tạp hóa xem sao..."
+    },
+    {
+      "Key": "VC_AC01_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Weekend special—a bunch of anime episodes where people spontaneously start playing baseball? Is that actually fun to watch?",
+      "Vietnamese": "Chuyên mục ngày lễ: Lễ hội các tập anime đột ngột chuyển sang chơi bóng chày? Chỉ xem mấy cái đó thôi thì có gì vui chứ..."
+    },
+    {
+      "Key": "VC_AC01_00041_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They even sell bassoons...but who would buy those?",
+      "Vietnamese": "Bán cả kèn Bassoon nữa này... ai mà mua chứ."
+    },
+    {
+      "Key": "VC_AC01_00040_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tomato falci salad...what the heck is that?!",
+      "Vietnamese": "Salad Farcie... Cái gì thế này!!"
+    },
+    {
+      "Key": "VC_AC01_00039_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, this is kinda cute...",
+      "Vietnamese": "A, bộ đồ này dễ thương quá..."
+    },
+    {
+      "Key": "VC_AC01_00043_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, a Loyly sauna. Might be good for building concentration.",
+      "Vietnamese": "Ồ, có cả dịch vụ tắm xông hơi Loyly cơ à. Có khi lại tốt cho việc rèn luyện sự tập trung đấy chứ."
+    }
+  ],
+  "Inserts": []
+}

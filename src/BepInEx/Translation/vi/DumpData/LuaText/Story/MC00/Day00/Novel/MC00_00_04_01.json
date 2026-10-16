@@ -1,0 +1,42 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_04_01",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_04_01_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? What's that noise?",
+      "Vietnamese": "Hở? Tiếng ồn gì kia?"
+    },
+    {
+      "Key": "VC_MC00_00_04_01_Novel_00001_NNanase",
+      "Context": "Adv.AddBackLog:0",
+      "Original": "Officer",
+      "Vietnamese": "Sĩ quan"
+    },
+    {
+      "Key": "VC_MC00_00_04_01_Novel_00001_NNanase",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "All students, please take to your defensive positions.",
+      "Vietnamese": "Tất cả đơn vị hãy chuyển sang trạng thái phòng thủ."
+    },
+    {
+      "Key": "VC_MC00_00_04_01_Novel_00001_NNanase#2",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Officer",
+      "Vietnamese": "Sĩ quan"
+    },
+    {
+      "Key": "VC_MC00_00_04_01_Novel_00001_NNanase#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "All students, please take to your defensive positions.",
+      "Vietnamese": "Tất cả đơn vị hãy chuyển sang trạng thái phòng thủ."
+    },
+    {
+      "Key": "VC_MC00_00_04_01_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"Defensive positions\"? Has a battle broken out or something?",
+      "Vietnamese": "\"Trạng thái phòng thủ\"? Chiến tranh nổ ra hay gì à?"
+    }
+  ],
+  "Inserts": []
+}

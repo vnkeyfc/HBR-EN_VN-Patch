@@ -1,0 +1,334 @@
+{
+  "Script": "Story/MC02/Day17/Novel/MC02_17_11_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heyyy, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? You haven't gone to bed yet?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you have anyone you like?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously? This isn't a sleepover.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, do you?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How about before? Any past romances?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope. I've always just been focused on hacking.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "So Yukkie doesn't have someone she likes...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "I'm relieved!|I'm worried!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew, thank goodness...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you acting all relieved?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, if you did have someone you like, I'd have been up all night wondering what kind of person they are!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good for you. Go to bed. Sleep nice and sound like a log.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00013_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you ever have someone you liked, Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaa?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why're you so surprised about it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm worried...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "About what.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your future, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why does it come to that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm worried you might not be able to experience a normal romance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I'm not even interested in the first place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00022_RKayamori",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Not interested?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00025_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "You ain't?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00026_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Not even a little?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00023_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Nothing?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00024_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "None at all?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00027_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, stop! Stop! Why are you getting surprised all at once?! You're kind of freaking me out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00028_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've always had an inkling that you might perhaps swing that way...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop with the weird look! I just mean that, with how the world is now, it's not really the time to be thinking about romance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why do I even have to get so worked up over stuff like this right before I sleep?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00031_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you ever have someone you liked, Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, so this is going to keep going...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00033_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You've been on television before, so that kind of makes you a celebrity, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00034_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That means you could trade numbers with other celebrities.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00035_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true... Did you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've never really thought about that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00037_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even though you were surrounded by famous people?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Back then, all that was ever on my mind was how my music was going to be heard by people all over... That's what got my heart pumping.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00039_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah, seriously? That's silly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But Megumin, don't you ever get super excited when lots of people see that your psychic powers are real?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00041_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You bet I do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you <i>do</i> understand where she's coming from.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think everyone's like that when other people get to see just how serious you are about something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00044_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me too! The first day I set sail as a captain, I was so excited!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's what I mean.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our abilities are going to be tested and proven on the battlefield, too. The real deal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00047_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... That is kind of exciting, in a way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. If you think about things like this, life's a bit more fun, don't you think?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00049_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You know, you might be onto something there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00050_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This has been a very enlightening discussion!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00051_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And now I gotta sleep! Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_11_00_Novel_00052_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She never fails to go out like a light...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

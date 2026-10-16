@@ -1,0 +1,17 @@
+{
+  "Script": "Story/MC02/Day25/World/MC02_25_00_05",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Defeat the enemies and keep moving forward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_06_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Up there!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

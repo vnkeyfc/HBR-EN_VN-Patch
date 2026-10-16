@@ -1,0 +1,12 @@
+{
+  "Script": "Story/MC02/Day10/World/MC02_10_06_05",
+  "Entries": [
+    {
+      "Key": "VC_Z_900600067_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We finally made it!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

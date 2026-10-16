@@ -1,0 +1,186 @@
+{
+  "Script": "Story/MC02/Day09/Novel/MC02_09_10_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00000_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "あれ…こんなところに居たんですか。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "普段人気者なぶん、たまにひとりで黄昏れたくなるのさ。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00002_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "そうですね。いつも３１Ａの中心には茅森さんが居ますもんね。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "ユッキーとか、あたしのミーハーなファンだからなー。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "出会って間もないのに？",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "や、あたし、アーティストやってたからさ。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00006_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "…あれ！？\u3000茅森さんの名前、どこかで見たような。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She is Legendのボーカル。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00008_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "電子軍人手帳で譜面を調べた時、偶然だろうな…と流したのに、本物だったぁーーーーーーー！！",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "そ、そうでしたか…あ、改めまして…蒼井えりかです…。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "いきなり緊張するのやめてくれない？",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "ゆ、有名人と会うとこうなりますよ…。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "ま、シガレットチョコレートで一服して、落ち着きな。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00013_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "は、はい、ありがとうございます。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "ふぅーー、生き返るねぇ…。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00015_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "はい…。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00016_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "実際、カカオは末梢血管を拡張し、血流の流れを良くしてくれるので、怪我を治す効果もありますしね。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "さっすが、ハイパーサイメシア人！",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00018_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "人は要りません。ハイパーサイメシアです。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "落ち着いてきたかな？",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00020_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "はい。おかげさまで。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00511_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "ふぅーーっ…で、蒼井自身はあれからどうだ？",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00512_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "なかなか難しいですが、前よりは前向きになれています。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00513_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "いいね。その調子、その調子！",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00024_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "はい。茅森さんの言葉のおかげです。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00025_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "と同時に、She is Legendのボーカルの茅森月歌さんからの言葉だったんだ…あわわ…。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "もう現役じゃないから。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00027_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "そうでしたね…。",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "あたしだけじゃなく、３１Ｂのみんなも蒼井のこと信じていると思うよ？",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00029_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "そうだと嬉しいです…。",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

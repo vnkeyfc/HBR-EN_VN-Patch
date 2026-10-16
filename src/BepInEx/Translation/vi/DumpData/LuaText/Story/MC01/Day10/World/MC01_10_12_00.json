@@ -1,0 +1,177 @@
+{
+  "Script": "Story/MC01/Day10/World/MC01_10_12_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go to the restroom!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "My bladder's gonna burst...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Follow Yamawaki!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Better see where she's going.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "See what Yamawaki's up to!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00002_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Not this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The situation's critical... I gotta get myself to the restroom!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Is that...Wakkie?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(What could she be up to at this hour?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(She went to Main Street. Might as well follow her.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm barely keeping it in, but I can't contain my curiosity!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(That's 31-C. Huh? But Bun-chan is nowhere in sight.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00009_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You're still on the fence about it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00010_AKanzaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "In my humble opinion, becoming 31-A is as good as a death wish.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00011_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "What is this cowardly drivel?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00012_SSakuraba",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "...Will this truly help us achieve our goal?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00013_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You too?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00014_MSatsuki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "She's right. It's not like we have any proof it will work, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00015_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Oh, but we do. Tenne?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00016_MTenne",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I have yet to find anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00017_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "WHAT?! Did you even try?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00018_MTenne",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yes. Even to the point of halting my research.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00019_MSatsuki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "That's a lot, coming from Miko...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00020_AKanzaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Then there really is no evidence, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00021_MTenne",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I have wasted my precious time long enough. Tomorrow, let me return to my research.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00022_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Fine, suit yourself. It's my turn next. <i>I</i>'ll take it from here. We meet here again tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(What was <i>that</i> all about?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00024_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Meeting adjourned.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_11_00_World_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll bust this case...<i>after</i> I find a toilet!)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

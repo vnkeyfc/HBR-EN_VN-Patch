@@ -1,0 +1,239 @@
+{
+  "Script": "Story/AC01/Day03/Novel/AC01_03_00_06",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00633_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We did it!",
+      "Vietnamese": "Đánh bại được nó rồi...!!"
+    },
+    {
+      "Key": "VC_AC01_00634_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We got 'em!",
+      "Vietnamese": "Làm được rồi!"
+    },
+    {
+      "Key": "VC_AC01_00635_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah, no surprise there!",
+      "Vietnamese": "Tui mà lị...!"
+    },
+    {
+      "Key": "VC_AC01_00636_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our big gamble paid off. It's a miracle.",
+      "Vietnamese": "Canh bạc này lớn thế mà thắng được... quả là phép màu..."
+    },
+    {
+      "Key": "VC_AC01_00637_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's keep going.",
+      "Vietnamese": "Tiến lên thôi..."
+    },
+    {
+      "Key": "VC_AC01_00638_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We should avoid any further combat, so tread quietly.",
+      "Vietnamese": "Từ đây tốt nhất là không nên giao chiến nữa, nên đi nhẹ nhàng thôi..."
+    },
+    {
+      "Key": "VC_AC01_00639_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...",
+      "Vietnamese": "Ừ..."
+    },
+    {
+      "Key": "VC_AC01_00640_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Wakkie... Bun-chan...? Are you there?!",
+      "Vietnamese": "Này, Wakki... Bun-chaaan... hai người ở đâuuu..."
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "Ieeek!",
+      "Vietnamese": "Pigiiii!"
+    },
+    {
+      "Key": "VC_AC01_00641_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You should give up already, <i>snip</i>!",
+      "Vietnamese": "Mau ngoan ngoãn đầu hàng đi-gesu!"
+    },
+    {
+      "Key": "VC_AC01_00642_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "There they are!",
+      "Vietnamese": "Đây rồi...!"
+    },
+    {
+      "Key": "VC_AC01_00643_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "The two of them are...playing together?",
+      "Vietnamese": "Hai người họ đang... chơi đùa cùng nhau...?"
+    },
+    {
+      "Key": "VC_AC01_00644_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "So she managed to catch up to her.",
+      "Vietnamese": "Bồ ấy thực sự đã đuổi kịp con bé rồi..."
+    },
+    {
+      "Key": "VC_AC01_00645_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What a cunning li'l thing, <i>snip</i>!",
+      "Vietnamese": "Cái đứa xảo quyệt này-gesu...!"
+    },
+    {
+      "Key": "VC_AC01_00646_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How much longer are you going to mess around vith zhat sing? And you call yourself my reliable minion?",
+      "Vietnamese": "Ngươi định tốn bao nhiêu thời gian cho một đối thủ còm nhom như vậy hả, thế mà cũng tự xưng là sứ ma của ta sao...?"
+    },
+    {
+      "Key": "VC_AC01_00647_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wanted to defeat it properly and offer it to you, Master!",
+      "Vietnamese": "Em muốn gải quyết nó gọn gàng, và dâng thủ cấp của nó cho Yamawaki-sama-gesu...!"
+    },
+    {
+      "Key": "VC_AC01_00648_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But it keeps fleeing everywhere... Master, I'm getting tired...",
+      "Vietnamese": "Nhưng mà, nó cử động lắt choắt quá... em cũng mệt rồi-gesu..."
+    },
+    {
+      "Key": "VC_AC01_00649_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you vant to keep your place as my underling, you'll have to put on some more stamina!",
+      "Vietnamese": "Thể lực kém cỏi nhường ấy mà dám tự nhận là sứ ma của ta thì ta không tha thứ đâu...!"
+    },
+    {
+      "Key": "VC_AC01_00650_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "She was playing make-believe...with a little Cancer?",
+      "Vietnamese": "Hai người đang chơi trò nhập vai... trước một con Cancer nhỏ xíu..."
+    },
+    {
+      "Key": "VC_AC01_00651_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So it seems. The two have always been like this.",
+      "Vietnamese": "Đúng vậy... Hai người họ lúc nào cũng sống như vậy đấy..."
+    },
+    {
+      "Key": "VC_AC01_00652_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh?",
+      "Vietnamese": "Ồ...?"
+    },
+    {
+      "Key": "VC_AC01_00653_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh. Took you lot long enough to come help us.",
+      "Vietnamese": "Hừ... Chậm chạp quá đấy. Cuối cùng viện binh cũng tới rồi sao."
+    },
+    {
+      "Key": "VC_AC01_00654_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was just about to give up...",
+      "Vietnamese": "Chỉ một chút nữa thôi là tôi chịu thua rồi..."
+    },
+    {
+      "Key": "VC_AC01_00655_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You found Bun-chan after all. Nice job, Wakkie.",
+      "Vietnamese": "Bồ đã tìm thấy Bun-chan rồi. Quả là Wakki có khác."
+    },
+    {
+      "Key": "VC_AC01_00656_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. Phew...",
+      "Vietnamese": "Đúng vậy. Phù..."
+    },
+    {
+      "Key": "VC_AC01_00657_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "She found a little Cancer that looked just like a doll she used to play with, and followed it into this place.",
+      "Vietnamese": "Nó tìm thấy một con Cancer cỡ nhỏ giống hệt con gấu bông mà chúng tôi thường hay chơi hồi trước, thế là bị lạc vào đây..."
+    },
+    {
+      "Key": "VC_AC01_00658_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Then realized that freakishly huge Cancer was skulking around. Since it was too dangerous to move, she had to stay put. And her mePad couldn't get a signal either.",
+      "Vietnamese": "Sau đó tôi phát hiện ra con Cancer khổng lồ ngu ngốc kia đang đi tuần tra... Không thể manh động nên đành phải ở lỳ đây... Sóng của sổ tay quân nhân điện tử cũng không tới nơi..."
+    },
+    {
+      "Key": "VC_AC01_00659_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "The little Cancer she was playing with isn't strong enough to hurt anyone. Thank heavens.",
+      "Vietnamese": "May sao con Cancer nhỏ chơi cùng với nó không đủ sức để làm hại con người... Đúng là vừa đẹp..."
+    },
+    {
+      "Key": "VC_AC01_00660_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ahhh! It's trying to run away! Wait, <i>snip</i>!",
+      "Vietnamese": "A...!! Nó định chuồn-gesu...! Đứng lại-gesu...!!"
+    },
+    {
+      "Key": "VC_AC01_00661_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold it! You don't have to chase it anymore!",
+      "Vietnamese": "Đứng lại! Không cần đuổi theo nữa!!"
+    },
+    {
+      "Key": "VC_AC01_00662_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyhow, have some water and food!",
+      "Vietnamese": "Quan trọng bây giờ là nước và thức ăn này...!!"
+    },
+    {
+      "Key": "VC_AC01_00663_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, it's been a while since I had any.",
+      "Vietnamese": "À, lâu lắm rồi tôi mới được..."
+    },
+    {
+      "Key": "VC_AC01_00664_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, Minion. You can take a break now! You must be tired!",
+      "Vietnamese": "Này, sứ ma, ngươi cũng được nghỉ ngơi rồi đó! Chiến đấu mệt mỏi rồi phải không!"
+    },
+    {
+      "Key": "VC_AC01_00665_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Does that mean that my test is finally over, Master?",
+      "Vietnamese": "Nghĩa là thử thách của Yamawaki-sama cuối cùng cũng kết thúc rồi sao-gesu..."
+    },
+    {
+      "Key": "VC_AC01_00666_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Zhat's right, it's over! Now, drink up! And eat!",
+      "Vietnamese": "Đúng vậy, kết thúc rồi! Nào, uống đi, và ăn đi!"
+    },
+    {
+      "Key": "VC_AC01_00667_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you, Master. This test was the hardest one yet, <i>snip</i>...",
+      "Vietnamese": "Thật đội ơn người-gesu... Thử thách lần này chông gai quá-gesu..."
+    },
+    {
+      "Key": "VC_AC01_00668_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So refreshing, <i>snip</i>... So tasty, <i>snip</i>...",
+      "Vietnamese": "Đã khát quá-gesu... Ngon quá-gesu..."
+    },
+    {
+      "Key": "VC_AC01_00669_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry for taking so long.",
+      "Vietnamese": "Xin lỗi vì đến muộn..."
+    },
+    {
+      "Key": "VC_AC01_00670_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm just...so glad you two were okay.",
+      "Vietnamese": "Nhưng cả hai vẫn bình an vô sự... Thật mừng quá..."
+    }
+  ],
+  "Inserts": []
+}

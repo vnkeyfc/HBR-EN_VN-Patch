@@ -1,0 +1,288 @@
+{
+  "Script": "Story/MC02/Day22/Novel/MC02_22_06_05",
+  "Entries": [
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That concludes all of the training tasks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good job, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's finally over! At laaast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With these results, you should be able to take on the real mission without issue.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The operation will begin the day after tomorrow from 09:00. Please gather your equipment and report to the heliport by 08:00.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's all for today. Dismissed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00007_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeeehaaaw! We did it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So this marks the end of training, huh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00010_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not too shabby, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00011_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But next time, be a little quicker about giving out commands. The longer we stand around, the more likely we're gonna get eaten by those things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00012_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Staaarrreee.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00013_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow. She has that thousand-yard stare again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00963_v001_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00014_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pull yourself together already!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00016_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eep!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, back off! Aoi sometimes has a habit of spacing out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, you're the one that needs to back off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00019_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's always running off to her little fantasy daydream world! The moment I mentioned getting eaten, she went and blanked out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00020_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You get it, don't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00021_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is her defense mechanism to protect herself from hyperthymesia!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It...is?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you know what you need to do, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, I'll leave it to you two then...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. That'd be for the best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00027_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi! Hey, Aoi! Wake up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00028_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00029_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No matter what kind of hell you went through, you need to keep your eyes on what's in front of you now! Face reality head on!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00030_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're not...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00031_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...going to leave me behind, are you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00032_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you don't want that to happen, we'll need your command! Keep pulling us forward as our leader! Please!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00033_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our lives are in your paws, Aoi. It's up to you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00035_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey! Don't go spacing out again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00036_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We don't want to regret going this far for you, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00037_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously, I'm begging you here... You're our squad leader.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00038_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00039_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I understand. I'll keep trying my best for you all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00040_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow, that's what we want to hear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00041_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're counting on you, Squad Leader!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00042_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alrighty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00043_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You too, Byakko!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_02_Novel_00044_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's thanks to you we've come this far, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600054_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(With this, I hope 31-B can start moving forward...)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

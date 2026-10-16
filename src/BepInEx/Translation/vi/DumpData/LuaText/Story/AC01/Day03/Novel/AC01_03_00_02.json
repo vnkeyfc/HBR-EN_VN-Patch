@@ -1,0 +1,324 @@
+{
+  "Script": "Story/AC01/Day03/Novel/AC01_03_00_02",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00470_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's dark here. We should proceed with caution...",
+      "Vietnamese": "Trời tối lắm, đi cẩn thận vào..."
+    },
+    {
+      "Key": "VC_AC01_00471_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": "Rõ..."
+    },
+    {
+      "Key": "VC_AC01_00472_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Freaky...",
+      "Vietnamese": "Sợ quá..."
+    },
+    {
+      "Key": "VC_AC01_00473_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I did not come prepared for this, wearing this...",
+      "Vietnamese": "Thật không ngờ ta lại đến một nơi thế này với bộ dạng cồng kềnh quá mức cho phép..."
+    },
+    {
+      "Key": "VC_AC01_00474_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I never thought my crystal ball would be a hindrance to me.",
+      "Vietnamese": "...Lần đầu tiên tôi thấy quả cầu pha lê vướng víu đến vậy."
+    },
+    {
+      "Key": "VC_AC01_00475_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It'll be okay... Just come with me.",
+      "Vietnamese": "Không sao đâu... cứ đi theo tôi."
+    },
+    {
+      "Key": "VC_AC01_00476_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Another earthquake?!",
+      "Vietnamese": "Lại động đất nữa!?"
+    },
+    {
+      "Key": "VC_AC01_00477_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This one's big!!!",
+      "Vietnamese": "Lần này mạnh lắm!!"
+    },
+    {
+      "Key": "VC_AC01_00478_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Crap, it's starting to crumble! Run!",
+      "Vietnamese": "Bỏ mẹ, bắt đầu sập rồi! Chạy mau!"
+    },
+    {
+      "Key": "VC_AC01_00479_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Run where?!",
+      "Vietnamese": "Hướng nào!?"
+    },
+    {
+      "Key": "VC_AC01_00480_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Ack...",
+      "Vietnamese": "Ui da..."
+    },
+    {
+      "Key": "VC_AC01_00481_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is everyone okay?!",
+      "Vietnamese": "Mọi người không sao chứ!?"
+    },
+    {
+      "Key": "VC_AC01_00482_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Adel's not...",
+      "Vietnamese": "Adel-chan bị..."
+    },
+    {
+      "Key": "VC_AC01_00483_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What happened?!",
+      "Vietnamese": "Sao thế!?"
+    },
+    {
+      "Key": "VC_AC01_00484_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's hurt her leg...",
+      "Vietnamese": "Cậu ấy bị thương ở chân..."
+    },
+    {
+      "Key": "VC_AC01_00485_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was incautious...",
+      "Vietnamese": "Tại hạ bất cẩn quá-degozaru..."
+    },
+    {
+      "Key": "VC_AC01_00486_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn!",
+      "Vietnamese": "Chết tiệt..."
+    },
+    {
+      "Key": "VC_AC01_00487_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And I don't see anyone from 31-A either.",
+      "Vietnamese": "Với lại không thấy mọi người bên 31A đâu cả..."
+    },
+    {
+      "Key": "VC_AC01_00488_YIzumi",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Ruka! Can you hear me?!",
+      "Vietnamese": "Ruka!! Nghe không!!"
+    },
+    {
+      "Key": "VC_AC01_00489_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's Yukkie's voice. But it's muffled by something.",
+      "Vietnamese": "Giọng Yukki... Nhưng nghe bị nghẹt như bị chặn bởi thứ gì ấy..."
+    },
+    {
+      "Key": "VC_AC01_00490_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have one wounded over here! Are you okay?!",
+      "Vietnamese": "Bên này có một người bị thương! Bên đó không sao chứ!?"
+    },
+    {
+      "Key": "VC_AC01_00491_YIzumi",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Yeah, but we're separated by rubble! I can't find any gaps to slip through! What is the status of the injured?",
+      "Vietnamese": "Ừ! Có điều bị gạch đá chắn đường chia cắt rồi! Không tìm thấy khe hở nào chui qua được! Tình trạng người bị thương bên đó sao rồi!?"
+    },
+    {
+      "Key": "VC_AC01_00492_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Merry, how bad is it?",
+      "Vietnamese": "Marie, tình hình sao rồi?"
+    },
+    {
+      "Key": "VC_AC01_00493_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The bone isn't broken. It's just a sprain.",
+      "Vietnamese": "Không gãy xương. Chỉ bị bong gân thôi."
+    },
+    {
+      "Key": "VC_AC01_00494_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Adel's got a sprained ankle!",
+      "Vietnamese": "A-san bị bong gân!"
+    },
+    {
+      "Key": "VC_AC01_00495_YIzumi",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "So she can't move for a while... Just stay there for now!",
+      "Vietnamese": "Tức là tạm thời không di chuyển được... Tóm lại cứ ở yên đó đi!"
+    },
+    {
+      "Key": "VC_AC01_00496_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": "Biết rồi!"
+    },
+    {
+      "Key": "VC_AC01_00497_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is not looking good.",
+      "Vietnamese": "...Chuyện này e là rắc rối rồi đây."
+    },
+    {
+      "Key": "VC_AC01_00498_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How is it that the only one who go hurt is the ninja?",
+      "Vietnamese": "Cái nền là ninja mà sao mi lại là người duy nhất bị thương được hả."
+    },
+    {
+      "Key": "VC_AC01_00499_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am still in training...",
+      "Vietnamese": "Tại hạ vẫn đang trong quá trình tu luyện-degozaru..."
+    },
+    {
+      "Key": "VC_AC01_00500_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't get how I was uninjured despite wearing this unwieldy getup.",
+      "Vietnamese": "Cớ sao ta đây với cái bộ đồ nặng nề này lại bình an vô sự, thật không thể hiểu nổi."
+    },
+    {
+      "Key": "VC_AC01_00501_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was an accident. So it's not something we can control.",
+      "Vietnamese": "Chỉ là sự cố thôi, có tránh cũng không được..."
+    },
+    {
+      "Key": "VC_AC01_00502_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what do we do now?",
+      "Vietnamese": "Từ đây, chúng ta tính làm gì."
+    },
+    {
+      "Key": "VC_AC01_00504_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since Adel is injured, all we can do is wait for rescue by the seniors.",
+      "Vietnamese": "Adel-chan đã bị thương, nên chúng ta chỉ còn cách chờ đội tiền bối đến cứu hộ thôi..."
+    },
+    {
+      "Key": "VC_AC01_00505_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess we're stuck here then, huh...",
+      "Vietnamese": "Sẽ kẹt ở đây một lúc sao..."
+    },
+    {
+      "Key": "VC_AC01_00506_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Leave me here, it's okay.",
+      "Vietnamese": "Mọi người cứ bỏ tại hạ lại đây đi-degozaru..."
+    },
+    {
+      "Key": "VC_AC01_00507_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not okay!",
+      "Vietnamese": "Sao mà làm thế được!"
+    },
+    {
+      "Key": "VC_AC01_00508_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You would come all this way just to leave the two of them to their fates?!",
+      "Vietnamese": "Đã đến tận đây mà cậu định bỏ mặc Yamawaki-dono và Bungo-dono hay sao hử-degozaru!?"
+    },
+    {
+      "Key": "VC_AC01_00509_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Perhaps we should not have even come in the first place...",
+      "Vietnamese": "Có lẽ ngay từ đầu chúng ta không nên hành động..."
+    },
+    {
+      "Key": "VC_AC01_00510_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The senior have probably started their search. What if they find the other two, and we're left out here to die?",
+      "Vietnamese": "Ngay lúc này, các tiền bối chắc cũng đang tìm kiếm rồi. Nếu may mắn hai người họ được cứu, còn chúng ta lại chết mòn ở đây thì sao."
+    },
+    {
+      "Key": "VC_AC01_00511_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then I'll carry you out myself.",
+      "Vietnamese": "Vậy thì để tớ cõng bồ đi."
+    },
+    {
+      "Key": "VC_AC01_00512_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Cancers in this area aren't so weak as to let you out while carrying someone on your back.",
+      "Vietnamese": "Cõng thêm một người mà đòi vượt qua thì bầy Cancer quanh đây không dễ xơi thế đâu-degozaru..."
+    },
+    {
+      "Key": "VC_AC01_00513_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was a close battle even getting to this point. And that was with the aid of 31-A.",
+      "Vietnamese": "...Cố lết được đến tận đây cũng chật vật lắm rồi. Đó là còn nhờ có sự trợ giúp của 31A."
+    },
+    {
+      "Key": "VC_AC01_00514_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And now we're separated from them.",
+      "Vietnamese": "...Vậy mà giờ lại bị chia cắt với 31A."
+    },
+    {
+      "Key": "VC_AC01_00515_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are five of them and we have no idea how they are.",
+      "Vietnamese": "Chỉ còn lại năm người chúng ta, bên kia thì sống chết thế nào còn chưa biết."
+    },
+    {
+      "Key": "VC_AC01_00516_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Those five are fine, trust me.",
+      "Vietnamese": "Năm người bên đó thì không sao đâu."
+    },
+    {
+      "Key": "VC_AC01_00517_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How can you be so confident?",
+      "Vietnamese": "Sao mi dám khẳng định như thế?"
+    },
+    {
+      "Key": "VC_AC01_00518_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look, they've got Yukkie. As long as everyone is unharmed and Yukkie's there, they'll be fine.",
+      "Vietnamese": "Vì bên đó có Yukki mà. Mọi người đều ổn, chỉ cần có Yukki thì dù hoàn cảnh nào cũng không lo đâu."
+    },
+    {
+      "Key": "VC_AC01_00519_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So then, we just have to wait here patiently to be rescued.",
+      "Vietnamese": "Vậy thì bên này chỉ đành nằm dài chờ người tới cứu thôi."
+    },
+    {
+      "Key": "VC_AC01_00520_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Why did this have to happen.",
+      "Vietnamese": "...Sao cơ sự lại thành ra thế này."
+    },
+    {
+      "Key": "VC_AC01_00521_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am so sorry...",
+      "Vietnamese": "Thật đáng hổ thẹn-degozaru..."
+    },
+    {
+      "Key": "VC_AC01_00523_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm going to look around.",
+      "Vietnamese": "Tôi sẽ đi dò thám xung quanh một chút."
+    },
+    {
+      "Key": "VC_AC01_00524_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll come too. It's dangerous to go alone.",
+      "Vietnamese": "Tớ đi với. Một mình đi nguy hiểm lắm."
+    }
+  ],
+  "Inserts": []
+}

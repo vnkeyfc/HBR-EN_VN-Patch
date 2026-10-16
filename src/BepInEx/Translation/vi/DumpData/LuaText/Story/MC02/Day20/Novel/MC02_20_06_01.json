@@ -1,0 +1,54 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00901_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No Cancers in sight, and uneventful as usual.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00902_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't take that as an excuse to nap.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00903_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It'd be nice if something exciting happened... I'm really going to fall asleep at this rate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00904_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "HOW ABOUT I SLIT YOUR THROAT BEFORE THE CANCER DO?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00905_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guh?! I'm definitely awake now!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00906_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think that was pretty thoughtful for a serial killer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00907_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Enemy incoming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00908_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Perfect! Just what I was waiting for!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

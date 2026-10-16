@@ -1,0 +1,114 @@
+{
+  "Script": "Story/MC01/Day12/World/MC01_12_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_07_06_World_00000_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "What...is that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Is that...the Death Slug?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "It's huge!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00003_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "No way... We can't fight that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00004_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "This is bad, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00005_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Even with all our training, we don't stand a chance! This one's best left to the seniors. Fall back, and go around it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00006_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00007_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "31-A! You better get a move on, too, unless you want to die!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She's right! We should fall back!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But where are all the seniors? At this rate, that thing'll reach the dome in no time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You really think...we can fight that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We've got to believe in ourselves, in <i>us</i>! To protect what's important! Who's with me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00012_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hah! Count me in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00013_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm on board!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Do you even have to ask?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00015_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "I was WAITING for this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00016_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_06_World_00017_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Alright, everyone, let's go!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,172 @@
+{
+  "Script": "Story/MC00/Day00/World/MC00_00_06_00",
+  "Entries": [
+    {
+      "Context": "UI.showLocationTitle:0",
+      "Original": "A-1 Buffer Zone",
+      "Vietnamese": "Vùng Đệm A1"
+    },
+    {
+      "Context": "UI.showLocationTitle:1",
+      "Original": "Buffer Zone A-1",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Wow, it's a real wasteland out here.",
+      "Vietnamese": "Ra tận chỗ hoang tàn phát ớn này luôn cơ à."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Rest assured, this is not the front lines.",
+      "Vietnamese": "Thả lỏng đi, đây chưa phải là tuyến đầu giao tranh đâu."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00003_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Today, you shall only be serving in a support capacity.",
+      "Vietnamese": "Vai trò của các cô hôm nay, suy cho cùng chỉ là hỗ trợ hậu phương."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As long as you stay focused, you will not die here.",
+      "Vietnamese": "Miễn là luôn giữ tập trung cao độ thì các cô sẽ không phải bỏ mạng."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's hardly reassuring.",
+      "Vietnamese": "Mấy lời đó nghe chẳng giống trấn an gì cả..."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00006_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Wait, over there!",
+      "Vietnamese": "...Từ từ, thứ đằng kia lẽ nào là...?!"
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00000_STezuka",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Proceed with caution.",
+      "Vietnamese": "Nhớ phải đề cao cảnh giác khi tiếp cận chúng."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Heyyy...",
+      "Vietnamese": "Này..."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What is that thing?",
+      "Vietnamese": "Cái thứ ngay trước mắt chúng ta là..."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00009_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That is your enemy. The Cancer.",
+      "Vietnamese": "Đó chính là kẻ địch của các cô, Cancer đấy."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I've only seen them in data files. So witnessing one firsthand—it's enormous...",
+      "Vietnamese": "Trước giờ chỉ biết qua dữ liệu thôi, nhưng đúng là tận mắt chứng kiến rồi mới thấy nó to thật đấy..."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "How do you even fight something like that?",
+      "Vietnamese": "Đối đầu với một thứ như thế thì biết phải chiến đấu bằng cái gì cơ chứ?"
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Come this way. I will show you.",
+      "Vietnamese": "Lại đây với tôi. Tôi sẽ dạy các cô cách kháng cự chúng."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The weapons you will be using are called Seraphim. We have already prepared one for each of you.",
+      "Vietnamese": "Chúng tôi đã lo liệu mọi thứ để các cô có thể sử dụng được loại vũ khí gọi là Seraph."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00014_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Summoning them is as simple as holding up your Military Electronic Personal Assistant Device—mePad, for short—and calling out your Seraph Code.",
+      "Vietnamese": "Việc còn lại chỉ là giơ cao sổ tay quân nhân điện tử lên trời và hô to mã hiệu Seraphim Code. Khi đó, vũ khí Seraph sẽ giáng xuống bên cạnh các cô."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Woah... Those words sounded like they came straight out of a middle schooler's fever dream.",
+      "Vietnamese": "Bỗng đâu mớ từ ngữ sặc mùi ảo tưởng sức mạnh cứ tuôn ra ào ào thế này..."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00016_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your personal Seraph Code is registered to your mePad. Go on, try it out.",
+      "Vietnamese": "Seraphim Code đã được chép sẵn trong sổ tay quân nhân điện tử của các cô, nhanh triệu hồi xem sao đi."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You mean...like this?",
+      "Vietnamese": "Đầu tiên là giơ lên như thế này á...?"
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00018_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Let's see here... My Seraph Code is...\\n\"Hello world.\"",
+      "Vietnamese": "Seraphim Code của mình là cái này sao...?\\n\"Hello world\"."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "W-Woooaah!!!",
+      "Vietnamese": "Oái! Oa oa oa oa oa————!!"
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sweet... A black hole? And something's coming out of it. Looks like a weapon of some kind.",
+      "Vietnamese": "Cái gì thế, là hố đen à? Có vật gì đang rơi từ đó ra kìa. Trông hình dáng cũng giống vũ khí phết chứ lị."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Are you seeing this?! I mean, you're correct, but how are you so calm about it?! What even IS that?!",
+      "Vietnamese": "Bình tĩnh dữ vậy trời!! Cảnh tượng bá đạo thế kia mà!! Dù công nhận cậu nói đúng...!!"
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00022_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That is your weapon against the Cancer, and humanity's last defense: a Seraph.",
+      "Vietnamese": "Đó chính là trang bị chiến đấu của các cô... Vũ khí tối hậu Seraph."
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Seraph Code, Seraph Code... Is this it? \"My legend begins now.\"",
+      "Vietnamese": "Seraphim Code của mình là... ừm, cái này à?\\n\"Huyền thoại về tôi bắt đầu từ đây.\""
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It worked! Hey, why is my code so freaking lame?!",
+      "Vietnamese": "Xuất hiện rồi kìa!! Ê mà, cái quái gì thế, thứ Seraphim Code sến súa phát tởm đó là sao hả?!"
+    },
+    {
+      "Key": "VC_MC00_00_06_00_World_00025_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your Seraphim are at your command. Take your positions!",
+      "Vietnamese": "Nếu là các cô, chắc chắn có thể tùy nghi điều khiển chúng.\\nGiờ thì xuất kích!"
+    }
+  ],
+  "Inserts": []
+}

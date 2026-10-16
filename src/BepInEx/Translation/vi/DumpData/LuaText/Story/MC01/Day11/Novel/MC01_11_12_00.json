@@ -1,0 +1,303 @@
+{
+  "Script": "Story/MC01/Day11/Novel/MC01_11_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "After a hard day's work, there's nothing I love more than this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What do you mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That is, uh...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:0",
+      "Original": "What was it again?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "Drinking...|Showering in...|Pouring in...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "coffee milk|tomato juice|bubbles",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Drinking coffee milk after bath time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're such a kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00011_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "But, I get what you mean. It really hits the spot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Drinking tomato juice after bath time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How healthy of you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Drinking bubbles after bath time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Spit it out. Do I need to do the Heimlich maneuver?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Showering in coffee milk after bath time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You'd just need another bath.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Showering in tomato juice after bath time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Careful, you'll look like a murderer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Showering in bubbles after bath time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You'd just need another bath.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Pouring coffee milk into the bath!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, I'm going to stop you right there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Pouring tomato juice into the bath!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The water's going to be red, gross, and kind of creepy...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Pouring in bubbles into the bath!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's silly, but a part of me wants to believe in the health benefits of those bubble bath powders.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00028_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "True. It's hard not to buy into it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00029_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Tomorrow marks the final day of our face-off with 31-C!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00030_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You bet it does!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00031_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I must say, all these battles are awfully tiring...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00032_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Mm... No matter how much sleep I get, I'm still exhausted.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00033_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We've come this far. All that remains is doing what we can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00034_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Could ya be any more passive? Victory is for the takin', not for the waitin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You really don't want to lose, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00036_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Losin' ain't in my vocabulary!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00037_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I humbly agree with that sentiment!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00038_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "But consider this: if we lose, we don't have to be in the Assault Squad anymore.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00039_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "That would be a big change for us and our futures.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00040_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "But if not us, who the hell's gonna stand on the front lines and protect humanity’s future?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Fair point...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka, thoughts?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I wanna win. I wanna be up there on the front line.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You heard her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00045_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Well, we sure as hell ain't winnin' at this pace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00046_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "It's good that this isn't as tiring as training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00047_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Is that really a good thing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00048_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We've come this far. All that remains is doing what we can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00049_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Since it's the last day, let's give 'em hell!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00050_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Let's go get 'em!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00051_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, maybe I'll give about fifty percent. Better safe than sorry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_10_00_Novel_00052_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You'd better not mess this one up for the rest of us, ya hear?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

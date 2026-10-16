@@ -1,0 +1,172 @@
+{
+  "Script": "Story/MC01/Day06/Novel/MC01_06_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Today, we will not be using the emulator.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Come at me with everything you've got.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? What's that supposed to mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00003_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Exactly what it sounds like. Come at me with everything you've got.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uhh, by \"everything we've got,\" you mean...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "She means...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "So...fight you with everything we've got?|So...squeeze your boobies with everything we've got?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So...fight you with everything we've got?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00006_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So...squeeze your boobies with everything we've got?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00008_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Oh? You still have room for jokes, do you? This should be fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No dum-dum outburst?! Then that means she's actually serious!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Serious about my passionate love?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00011_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU A DUM-DUM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh great, now I'M saying it... The commander's serious about fighting us, dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "As concerning as it is that you weren't joking and actually asked that genuinely, it's even scarier that the commander wasn't even fazed by it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah... If you're going to praise me, save it for later. Looks like she's really serious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That wasn't praise.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00017_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? So what're we doin'?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00018_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Go on, fight me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, wait. Wait a sec!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well aren't you carefree?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00022_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Have you lost the nerve to fight?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's right. I'm terrified. I need time to brace myself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00024_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Let's take a breather outside, girls.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_00_Novel_00025_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Make it quick.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

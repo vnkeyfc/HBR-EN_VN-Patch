@@ -1,0 +1,805 @@
+{
+  "Script": "Story/MC01/Day07/Novel/MC01_07_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What?! 31-C's here, too?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Y'all wanna go, ya weirdos?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00002_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I'd like to see you try! Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00003_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Bring it on, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The only thing on their minds is fighting... You <i>are</i> aware of who summoned us here, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00005_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Settle down. The commander has an announcement.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00006_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, right, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Damn!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00008_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Y'all got lucky <i>this</i> time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00009_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "That's <i>my</i> phrase!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You lot should go form the dum-dum squad together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00011_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You all will be dungeon crawling as part of your training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What's with the sudden video game lingo?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The \"dungeon\" is what we call the cave systems by the training grounds, just north of the base. They are riddled with Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00014_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Starting tomorrow and ending Friday, the group that reaches the deepest level wins the letter \"A\".",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00015_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Heh. Zis should be fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There's no losing this one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00017_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "We'll snip you to shreds! Right, Master?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00018_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "And I'll zap that grin off yer face!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Just fight together, yeesh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00020_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Nanase will guide you to the entrance, but you'll be fighting on your own after that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00021_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "A squad of senior cadets will be patrolling nearby, so contact them in case of an emergency.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00022_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "This will be your first taste of active combat. Exercise the utmost caution.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00023_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I'm FIRED UP! Move out, squad!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00024_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Right behind you, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00025_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "Moderation in all things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00026_MTenne",
+      "Context": "Adv.talk:1",
+      "Original": "I want to get back to my experiments...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Once again, their enthusiasm is all over the place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Now's my chance to rally the squad to battle!)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:0",
+      "Original": "I should say something to rally the squad!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "We'll definitely|We'll craftily|We'll breezily",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "win!|lay a trap for them!|join forces with the Cancer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll definitely win!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00036_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Damn straight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00037_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Well, I don't like losing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00038_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Let's go get 'em!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00039_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I mean, I'll do what I can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00041_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Go me! Now the squad's all unified!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You sure about that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll definitely lay a trap for them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00044_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll definitely join forces with the Cancer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00045_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And bring about our own doom...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00046_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll craftily win!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00047_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Win fair and square, dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00048_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah! Don'tcha know tricks're for kids?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00049_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Aww. That sounded better in my head.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00050_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What were you expecting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00051_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll craftily lay a trap for them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00052_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "You dastardly coward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00053_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "We heard that, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00054_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "...We'll craftily lay a trap for them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00055_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Too late to whisper now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00056_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll craftily join forces with the Cancer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00057_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "You dastardly coward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00058_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll breezily win!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00059_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Stupid peasants! How dare you look down on us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00060_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "We'll make you regret that, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00061_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, did that just boost their morale?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00050_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "What were you expecting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00063_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll breezily lay a trap for them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00064_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We'll breezily join forces with the Cancer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00065_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There's nothing \"breezy\" about it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00047_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "Win fair and square, dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00067_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah! Don'tcha know tricks're for kids?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00068_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, you'll have to use your ace in ze hole to have any hope of victory. Very perceptive, peasants.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00069_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "You tell 'em, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00070_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Aww. That sounded better in my head.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00050_YIzumi#3",
+      "Context": "Adv.talk:1",
+      "Original": "What were you expecting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00072_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "No matter what methods you employ, please remember that they prey on intelligent life forms.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00073_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What if we cover ourselves in Cancer-y fluids?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00074_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Not possible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00075_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "NOOOooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00076_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Are you stupid?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00077_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The enemy's crabsolutely pathetic, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00078_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ouch, my heart.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00079_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You reap what you sow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00080_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That is all. Kayamori, you stay behind. Everyone else, dismissed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00081_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I've got a good feeling about this. Catch ya later!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00082_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "For the last time, it's \"bad feeling\"!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00083_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Have fun in hell.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00084_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That just gets me fired up even more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00085_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're definitely not getting out unscathed...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00086_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Deets please!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00087_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "We will now commence your special squad leader training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00088_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Does that mean...studying?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00089_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Correct. Lives are on the line, meaning slacking will not be tolerated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00090_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00091_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "After undergoing this same lesson, Yamawaki was unable to stand and had to be carried to her room on a stretcher.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00092_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's scary...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00093_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "When your squad faces off against the Cancer, your instructions have two goals.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00094_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The first is to clearly determine each member's course of action.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00095_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "This is covered in basic training, so we will not go over it here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00096_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The second goal is determining which direction all members should face.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00097_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That sounds tricky enough already...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00098_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori. Suppose you were told \"enemy to the front left.\" What would you do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00099_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "To the front left? I guess I'd turn that way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00100_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Now what would happen if you told this to Izumi, who's standing behind you with her head turned?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00101_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uhh, her head's turned, so...behind me? Wait, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00102_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Quite confusing, no? In order to avoid this during combat, we rely on a directional analogy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00103_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "It's called \"clock position.\" Perhaps you've heard of it before?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Does clock position sound familiar?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Nope|I know guys adjust the position of their d**ks",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00104_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nope.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00105_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I know guys adjust the position of their d**ks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00106_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That is <i>not</i> what I am talking about.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00107_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Imagine standing on top of a perfectly flat clock face, facing 12 o'clock.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00108_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "With this analogy, you can instruct all members by referring to the direction of the hour hand at various points.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00109_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Because an enemy could attack at any moment, from any direction, it is vital to master clock positioning.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00110_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00111_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "There is one more rule. \"12 o'clock\" is \"forward\" assuming everyone is facing the same direction.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00112_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, if you were to say \"Izumi, enemy at 12 o'clock,\" that would be directly forward from Izumi's perspective.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00113_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "And you and Izumi will not always be facing the same direction.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00114_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I hereby retire as squad leader.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00115_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "No can do. Commit this to heart. Going forward, you operate not only as 31-A, but work in tandem with other squads.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00116_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You do not want to be a burden, do you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00117_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I can't DO it! It's too haaard!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00118_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That is exactly why this knowledge has to be beaten into you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00119_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Someone, help meee!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00120_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uhhh...three o'clock!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00121_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Too slow! What will you do if the enemy attacks while you're thinking?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00122_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Umm...nine o'clock!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00123_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Much too slow! Do you WANT your friends to die?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00124_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Eighteen o'clock!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00125_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Does that sound like a clock position to you?! It's six o'clock!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00126_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Urgh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00127_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "On to the next!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00128_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That's as far as we'll go. It is up to you to teach the rest of your squad clock positioning. You must set an example as squad leader.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00129_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Good work today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00130_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No...more...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00131_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Like I said, you weren't getting out of there unscathed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00132_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "One o'clock... ten o'clock... four o'clock... eight o'clock...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00133_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "What is she muttering to herself?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_03_00_Novel_00134_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "A little food, and she'll be back to normal in no time.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

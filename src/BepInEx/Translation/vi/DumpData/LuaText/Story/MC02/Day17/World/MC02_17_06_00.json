@@ -1,0 +1,168 @@
+{
+  "Script": "Story/MC02/Day17/World/MC02_17_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_17_06_00_World_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait... The arena's not open?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_World_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Indeed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_World_00002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose Officer Nanase isn't here right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_World_00003_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe she's takin' a bathroom break?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_World_00004_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm... It doesn't seem like she's coming back anytime soon!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00797_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess we're just going to have to find a way inside by ourselves.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold up. Who's going to operate the emulator?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've got you, Yukkie. Duh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm here to train, just like everyone else. Do you really think I have the authority to operate the emulator in Nanase's place?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00008_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's also no point in training with just five of us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're right... That means we'll need to get the commander to join our training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What kind of weird situation are you imagining in that brain of yours?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, you'd be doing the operating, and us six would be doing the training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, not happening. She'd yell at you for even suggesting that. She would be a strong ally to have, though...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00013_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's also probably very busy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh well. I guess that means we need Nanamin in the end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00015_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No sign of her comin' back yet, so maybe she ain't at the bathroom after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00016_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What should we do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We could split up and search for her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00018_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose that's all we can do right now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, everyone! Let's start searching places Nanamin might go to!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00021_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00020_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00022_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00023_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Ya got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_00_Novel_00024_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye!!!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

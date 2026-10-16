@@ -1,0 +1,204 @@
+{
+  "Script": "Story/MC02/Day12/Novel/MC02_12_09_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's really get in gear today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why put that much effort into band practice?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Cause it's really suffocating if it's just training, training, training all the time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And people seem to really like our band.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I guess that's true...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00005_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have the real deal in our band, too!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's probably the most incredible part of all this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awww, you're gonna make me blush!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00008_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what's the plan today? Am I gon' be on guitar?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah, my apologies! I'm a little late!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's noise duty for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00011_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Noise, huh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00012_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How am I supposed to be playin' and timin' the noise, anyways?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Imagine something industrial, like the sound of a construction site.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00014_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's that supposed to mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anything works, as long as it's a sound effect. Like on the intro, you could make a huge BOOM, or KA-CLASH, or DODODODO!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00016_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll be darned. You're terrible at explainin' anythin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00017_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm so sorry. I guess I've complicated things by becoming the guitarist...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00018_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ain't never had much interest in instruments, so don't sweat it. I'm just lookin' for new ways to use my psychic powers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00019_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, Megumi, you're so cool!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00020_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah! Save them compliments 'til I save the world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00021_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00022_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In that case, I'll play the guitar without any reservations.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00023_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We should get serious about this, too. Asakura, you've been off pitch a bit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00024_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh? Sorry, I didn't realize...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry. We're not aiming to be professionals, so I don't think we need to be that accurate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00026_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll do my best to stay as accurate as I can, though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00027_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "True, that would be the ideal result.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess the rhythm team needs to be putting in effort, too...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00029_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00030_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi, you're basically just keepin' the rhythm, so all ya gotta do is follow those two's lead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00031_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_09_01_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like we're really shaping up as a band lately.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

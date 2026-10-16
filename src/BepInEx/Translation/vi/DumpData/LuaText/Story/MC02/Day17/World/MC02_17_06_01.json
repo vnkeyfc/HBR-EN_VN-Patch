@@ -1,0 +1,816 @@
+{
+  "Script": "Story/MC02/Day17/World/MC02_17_06_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Look for Nanamin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "We probably shouldn't head this way yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "She's probably not anywhere past the bridge...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Academy Building",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Arena Road",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "In Front of Arena",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the Commander's Office!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I wonder where everyone else is searching.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I give up...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Keep searching|Give up",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00003_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I give up...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I don't think we'll find her near Union Street...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hmm...what to do... Should I stop searching?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I'll keep searching a little more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00003_RKayamori#3",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I give up...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00005_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I don't think we'll find her near Union Street...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00006_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hmm...what to do... Should I stop searching?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00007_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I'll keep searching a little more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00798_v001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I give up...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey Karerin, how's your search going?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00014_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was trying to look around places she might go to, but I just realized something...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Realized what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00016_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The fact that I have no idea where Officer Nanase might go in the first place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah...so you realized that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. We all seemed so confident when we split up to search, but I was starting to wonder if any of us actually had a clear idea of where to look.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00019_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup. That's why I'm just kind of wandering around aimlessly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00021_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is the instructors' lounge, so it wouldn't be strange to find her here... But if she <i>was</i> here, I'd wonder why she forgot about the training session.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "True, true. She's definitely not the type to just do a no-show.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00023_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think for now, I'll just try asking around.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds like a plan.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00025_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Have you seen Officer Nanase around here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00026_mob",
+      "Context": "Adv.talkNoCharacter:0",
+      "Original": "Female Officer",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00026_mob",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "No, I haven't.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00027_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not much to work off of, huh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Tsukassie is in the commander's office...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heya, Tsukassie. How's it going?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00031_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I just realized...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Realized what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00033_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have no idea where Officer Nanase would go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah...so you realized that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00035_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We split up so confidently, that I didn't want to be awkward and ask where... I bet everyone except me had an idea of where to go...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, don't worry, I've got no clue either. I'm just wandering around aimlessly myself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00037_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, thank goodness! It wasn't just me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even Karerin went straight to the instructors' lounge. Kind of the most basic guess, y'know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00039_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That puts my mind at ease, at least!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...this is the commander's office.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00041_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is probably the second-most basic place anyone would guess!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, yeah. If she was summoned by the commander, she'd definitely prioritize that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00043_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At this point, I'm not sure if it would be better if she was here or not!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No no, it'd 100% be better if she was here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00045_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you...want to go in, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00047_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh? It's not budging.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like it's locked.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00049_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess that means...no one's here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00050_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seems like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00051_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, thank goodness... Or maybe not...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00052_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can't train like this, so nah...probably not thank goodness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00053_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Megumin, how's the search?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00054_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, I just realized somethin'...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, everyone's having epiphanies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00056_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've got no clue where she'd go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even though you sped off confidently like you knew what you were doing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00058_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, give me some slack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00059_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you think she'd be in a classroom like this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00060_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She could be!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00061_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's completely silent inside, though?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00062_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe she wanted to hide somewhere quiet and cry or somethin'! Ya never know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00063_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanamin, you here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00065_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's completely silent inside, though?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00066_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah yeah, I get it! I didn't think things through!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00067_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, Yukkie. Have you realized it too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00068_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Realized what? Shouldn't you be asking how my search is going?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00069_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, everyone had the same realization, so I figured you did too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00070_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As usual, I have no clue what you're going on about.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00071_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mean, you came to the arena to search, right? A super basic, generic guess...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00072_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you mean by basic? She could be here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00073_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, true.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00799_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But nothing's open.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00075_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep. Seems so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00076_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, now that I think about it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00077_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah? What's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00078_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have no idea where Officer Nanase would go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00079_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YESSS! There we go! That's what I wanted!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00080_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you that ecstatic when we haven't even found her yet?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00081_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See, I've been trying to get those words out of everyone's mouth. It's kind of, like, my personal game right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00082_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Man, I can't believe you said it too, Yukkie...even though you seemed so confident when we all split up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00083_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's with you? You trying to pick a fight or something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00084_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo! Yukkie, you're being scary!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00085_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, Cappy. We don't need any words. I know exactly what you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00087_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's sleeping!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00088_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah girl, it's not sleepy time yet! If you doze now, you won't be able to fall asleep at night!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00089_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wuhh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00090_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was I asleep?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00091_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup, you were about to go nocturnal! So I woke you up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00092_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry! Thanks for waking me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00093_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what were you doing here, Cappy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00094_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, well, this is the most comfortable place on base.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00095_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I figured it wouldn't be strange if she decided to come here to take a break.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00096_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I dunno, I don't think Nanamin's the type to shirk her duties just to chill out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00097_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00098_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So it looks like we all just didn't realize it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00099_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Realize what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00100_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, y'know. Nanamin's not here in the end, so...you get it, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00101_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh no! Did she pass by me while I was asleep?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00102_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I don't think she'd come here in the first place. Because we...we didn't realize...right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00103_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm so sorry! It was just so nice and breezy up here, and I ended up dozing off...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00104_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, no, that's not it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00105_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait. Are you saying we...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00106_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah? Yeah? You're getting somewhere with this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00107_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We <i>all</i> fell asleep?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00108_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "NOOOOOOOOOO!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00109_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why do you look like the world just ended?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00110_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I guess the world technically IS in danger right now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00111_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! That's exactly why we need to keep working as hard as we can! Let's find Officer Nanase so we can get back to training!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00112_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mean, yeah... You're absolutely right...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00113_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I'm different from the others... I've spent the most time getting close with Nanamin.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00114_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I won't fail like the rest of them!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00115_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you doing here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00116_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? I just figured I'd find her here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00117_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, after all that smack you gave us...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00118_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00119_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? What? Why are all of you ganging up on me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00120_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were acting all high-and-mighty, telling us to go search for her. But what about you? <i>This</i> is where you were looking?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00121_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She ain't nowhere here, that's fer sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00122_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00123_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm so sorry!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00124_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What should we do now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00125_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wanna just play hooky?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00126_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's the last thing we should be doing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00127_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can we try the commander's office one more time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00128_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I guess asking the commander directly would be the quickest solution.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00129_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was locked before, though...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_01_World_00130_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We don't have anywhere else to go, so let's do it!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

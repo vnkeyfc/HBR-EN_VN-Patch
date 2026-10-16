@@ -1,0 +1,216 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_01_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00000_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please count off for roll call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "One.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00002_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00004_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Four.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00005_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00006_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Six.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00007_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Excellent. From now on, your squad leader will report, \"All six members present and accounted for.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hmmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00009_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Not \"hmmm.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00011_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Not \"whaaat.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ya got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00013_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Not \"Ya got it!\" either.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00015_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00016_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "An army squad can have dozens, even hundreds of troops.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00017_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Going into battle without confirming your numbers can cause you to overestimate your capabilities.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00018_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "As such, it is vital to establish how many troops are present via regular roll calls. Do not neglect this duty.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But I'm laaazy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00020_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "What was that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00021_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Naw, she ain't said nothin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00022_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "On that note, please clean your room and reconvene at the cafeteria by 06:30.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What did she mean by \"clean\"? Check for dust on the window frame with your finger?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00024_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What are you, someone's mother-in-law? You grab a duster and dust.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'm sure they have like, flying Roombas for that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00026_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Unfortunately, technology has yet to progress that far.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Come on, she was just joking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way! They still can't fly?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00029_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You were being serious?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Then, what if we used those Seraph weapons? Couldn't we make a sweep of everything in a jiffy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The dust would get cleared out, sure—along with the entirety of our room.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00032_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ugh, military life is such a paaain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00033_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "My ears!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How long are you planning to keep that up?!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

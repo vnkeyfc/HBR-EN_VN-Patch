@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC02/Day20/MC02_20",
+  "Entries": [
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "[Trainer] Razorwing\\nRecommended Rating: 6000\\nVulnerabilities: Pierce\\nResistances: None",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

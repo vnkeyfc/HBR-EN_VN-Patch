@@ -1,0 +1,198 @@
+{
+  "Script": "Jamaisvu/Garden/Garden",
+  "Entries": [
+    {
+      "Key": "VC_Jamaisvu_00004_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "This \"Garden of Memories\" contains powers that will help you reach your destiny.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00005_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "You might not be able to do much here yet, but the garden will gradually grow as you do.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Try your hand at the flashback battles\nfound nearby the cafeteria.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00007_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "The Garden of Memories seems to have grown along with your experience.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "You are now able to travel to both Union Street and the woodway!\nAttempt the new flashback battles there to gain valuable upgrade materials for crush- and pierce-type Memorias.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can dramatically increase your squad's rating\nby equipping the accessories obtained from flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "If your squad's rating is not making the grade,\nthen try gathering better accessories for each of your squad's units.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can return to the Home screen from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can return to the Home screen by pressing the L1 button.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00011_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "How may I be of assistance?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What are you in need of help with?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Buy Stuff|Let's shoot the breeze",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Buy Stuff|I wanna do some crafting|Let's shoot the breeze",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00031_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Here in this Garden of Memories, you can purchase items from me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00032_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Some of them are quite useful, so be sure to check out my wares from time to time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00035_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Give me a shout whenever you feel like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00017_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Are you making full use of chips and boosters?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00018_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "It may serve you well to revisit the past and stop by the munitions store every now and then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00019_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Are your Memorias enhanced enough?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00020_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "It may serve you well to revisit the past and train in the arena every now and then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00025_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Engage in flashback battles to become even stronger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00026_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Collect valuable crafting materials to upgrade your Memorias.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00029_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Go exploring on patrol missions available from the heliport to become even stronger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00030_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Collect accessories as you explore different areas, then equip them to strengthen your squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00025_#2",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Engage in flashback battles to become even stronger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00026_#2",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "To grow even further, I suggest you partake in gem flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00029_#2",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Challenge Orb Bosses in the dormitories to become even stronger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00030_#2",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Increase the amount of skills you can use and widen your options in battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00031_#2",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "By spending gems, you can craft powerful accessories.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00032_#2",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Attributes are randomized, so keep tweaking them to find your new favorite bling.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Crafting allows you to make powerful accessories.\nChallenge gem flashback battles to acquire the necessary gems.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00035_#2",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Give me a shout whenever you feel like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "You appear to be able to participate in Score Challenges.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "You can gain experience-boosting items from them.\\nSo don't hesitate to participate in such challenges.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

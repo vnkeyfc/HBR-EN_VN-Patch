@@ -1,0 +1,29 @@
+{
+  "Script": "Story/MC02/Day09/World/MC02_09_11_02",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Return to your room!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_01_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Guess it's time to call it a day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_01_World_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyway, I'm glad you're doing okay. Let's give those Cancers what for!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_01_World_00002_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

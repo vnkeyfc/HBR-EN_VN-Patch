@@ -1,0 +1,29 @@
+{
+  "Script": "Story/AC01/Day01/World/AC01_01_06_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the heliport!",
+      "Vietnamese": "Hãy đến sân đỗ trực thăng!"
+    },
+    {
+      "Key": "VC_AC01_00147_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "There's no time for detours, huh.",
+      "Vietnamese": "Giờ không phải lúc la cà nữa rồi."
+    },
+    {
+      "Key": "VC_AC01_00147_RKayamori#2",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "There's no time for detours, huh.",
+      "Vietnamese": "Giờ không phải lúc la cà nữa rồi."
+    },
+    {
+      "Key": "VC_AC01_00148_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I hope everyone in 31-C is okay...",
+      "Vietnamese": "Không biết mọi người ở đội 31C có sao không..."
+    }
+  ],
+  "Inserts": []
+}

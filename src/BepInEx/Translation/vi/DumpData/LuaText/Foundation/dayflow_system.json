@@ -1,0 +1,26 @@
+{
+  "Script": "Foundation/dayflow_system",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "Return to Home Screen",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Gig Prep",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showThreeButtonDialog:0",
+      "Original": "Gig Failed",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showThreeButtonDialog:1",
+      "Original": "During Gig Prep you are able to adjust your squad formation and select the difficulty.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

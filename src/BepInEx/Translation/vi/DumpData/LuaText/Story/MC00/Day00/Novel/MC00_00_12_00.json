@@ -1,0 +1,394 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wheeew, best bath ever! It's basically like a hot spring here!",
+      "Vietnamese": "Phù———tắm đã quá đi mất. Nhà tắm công cộng mà cứ như là suối nước nóng thực thụ vậy, đỉnh chóp luôn!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "They even have coffee milk. It's perfect.",
+      "Vietnamese": "Có cả sữa tươi cà phê luôn nè, đúng là hoàn hảo miễn chê."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Phew... I'm still hot, even out here.",
+      "Vietnamese": "Phù... Vừa bước ra khỏi phòng tắm xong thấy nực quá đi mất..."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're wearing too many layers. Just take off your cape.",
+      "Vietnamese": "Mặc chồng mấy lớp áo thế kia không nóng mới lạ, cởi bớt đồ ra đi."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00004_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "No, that's WRONG!",
+      "Vietnamese": "Sai quá trời quá đất luôn rồi ạ!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What's wrong about it? I'd say my assessment is right.",
+      "Vietnamese": "Phản đòn bậy chỗ rồi! Rõ rành rành điều tôi vừa nói là lẽ hiển nhiên thôi mà!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00006_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Something's off...",
+      "Vietnamese": "...Lạ thật đấy."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What's this all about?",
+      "Vietnamese": "Gì vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00008_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Quite peculiar indeed, isn't it?",
+      "Vietnamese": "Nè, mọi người không cảm thấy có điều gì đó bất thường sao?"
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Is something peculiar?",
+      "Vietnamese": "Có gì kỳ lạ à...?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Don't think so|Guess so",
+      "Vietnamese": "Tớ không nghĩ vậy|Tớ cũng nghĩ thế"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Don't think so.",
+      "Vietnamese": "Tớ không nghĩ vậy."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00010_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, must be my imagination. Coffee milk, anyone?",
+      "Vietnamese": "Thế thì chắc là do tôi tưởng tượng rồi. Làm một chai sữa cà phê cái đã."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00011_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Trust your instincts, Intel Agent!",
+      "Vietnamese": "Tự tin vào trực giác của mình chút đi chứ, tình báo viên!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00012_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Who? Me?",
+      "Vietnamese": "Ủa? Tôi á?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, you! Out with it! What was so peculiar?!",
+      "Vietnamese": "Chứ còn ma nào nữa! Nói nghe coi, rốt cuộc là cậu thấy cái gì bất thường hả?!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00014_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, it's nothing important.",
+      "Vietnamese": "Có gì đâu, chuyện vặt vãnh ấy mà."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Guess so.",
+      "Vietnamese": "Tớ cũng nghĩ thế."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00016_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "So you noticed, too?",
+      "Vietnamese": "Cậu cũng phát hiện ra điểm bất thường à?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, there are no ping-pong tables.",
+      "Vietnamese": "Ờ, ở đây chẳng có chỗ nào để chơi bóng bàn hết."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00018_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Precisely. Ping-pong is ALWAYS at hot spring resorts. Coffee milk, anyone?",
+      "Vietnamese": "Phải đó. Đi suối nước nóng thì phải có dịch vụ kèm theo chứ nhỉ. Mà cứ làm một chai sữa cà phê cái đã."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00019_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Was that really what bothered you, Intel Agent?!",
+      "Vietnamese": "Nghi vấn của cậu có ăn nhập gì với cái\ntrò bóng bàn đó không hả, tình báo viên?!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00020_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Who? Me?",
+      "Vietnamese": "Ủa? Tôi á?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, you! What was so peculiar?! Because I know for a FACT it wasn't the lack of ping-pong!",
+      "Vietnamese": "Chứ còn ma nào nữa! Nói nghe coi cậu thấy kỳ lạ chỗ nào?! Chắc chẳng phải vụ không có chỗ chơi bóng bàn đâu nhỉ?!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00022_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "You're right, but it's not important.",
+      "Vietnamese": "Thì đúng là không phải vụ đó, nhưng thật sự chẳng có gì to tát cả đâu mà."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Look. No matter how trivial it is, you can't just start to say something then bail halfway. Now we're curious. Just say it.",
+      "Vietnamese": "Chắc là thế thật, nhưng cái kiểu ăn nói lỡ dở làm tôi ứa gan lắm, nói cho bằng hết giùm cái đi."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00024_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Umm, what was it again?",
+      "Vietnamese": "Để xem... rốt cuộc là chuyện gì ấy nhỉ..."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00025_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Right. Isn't it...quite peculiar?",
+      "Vietnamese": "Đúng rồi! Mọi người ơi… có chuyện này bất thường lắm nhé."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It may not be important, but just try us. Go on.",
+      "Vietnamese": "Biết thừa là chuyện chẳng đáng để tâm rồi, nhưng tôi đang rảnh nên nghe thử xem sao. Nói nốt ra đi."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00027_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "We haven't encountered a single man since we arrived.",
+      "Vietnamese": "Từ lúc tới đây, tụi mình chưa chạm mặt một mống con trai nào cả."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woah. You're right.",
+      "Vietnamese": "Ờ há? Chí phải."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00029_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That was incredibly perceptive!",
+      "Vietnamese": "Lạy hồn, cái thắc mắc này hệ trọng tới chấn động luôn kìa———!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00030_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "This is the military, yes? Why are all the members women?",
+      "Vietnamese": "Nhưng đây vốn là quân doanh cơ mà? Tại sao tất tần tật mọi người đều là nữ thế chứ?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00031_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I'll tell ya why.",
+      "Vietnamese": "Cái đó dễ ẹt chứ gì đâu, chuyện nhỏ như con thỏ."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00032_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What's this all about?",
+      "Vietnamese": "Là sao vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00033_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "'Cause we have more potential, that's why.",
+      "Vietnamese": "Thì tại tài năng của tụi mình ăn đứt mấy khứa con trai chứ sao nữa!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00034_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Potential, huh... I guess that means we're not a bunch of lost causes after all.",
+      "Vietnamese": "Hợp lý dữ ta... tụi mình xem ra cũng đâu có phải dạng vừa đâu mà."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00035_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "DON'T JUST BELIEVE EVERYTHING YOU HEAR!!",
+      "Vietnamese": "HỢP LÝ CÁI CON KHỈ KHÔ Á———!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00036_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And here I was about to praise you for actually asking a question that's actually intel-agent-worthy!",
+      "Vietnamese": "Mới nãy còn ra dáng điệp viên xuất chúng lắm, tôi vốn tính khen \"Xuất sắc\" rồi, vậy mà chưa gì đã bung bét hết trơn———!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If you're so smart, then tell us, Yukkie.",
+      "Vietnamese": "Vậy chứ theo ý bồ thì lý do là tại làm sao hả, Yukki?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00038_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What's your deal? And why are you calling me that?",
+      "Vietnamese": "Gì vậy, cái tên \"Yukki\" đó là sao?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00039_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I mean, your name's Yuki Izumi, right? So why not Yukkie?",
+      "Vietnamese": "Bồ là Izumi Yuki mà đúng không? Gọi là Yukki thì có sao đâu."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is a nickname really necessary here?",
+      "Vietnamese": "Ý cậu là nickname đó hả...?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00041_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup. And you can just call me Ruka.",
+      "Vietnamese": "Phải. Bồ cứ gọi tớ là Ruka cũng được rồi."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "*sigh*... What's your deal anyway, acting like we're friends all of a sudden...",
+      "Vietnamese": "Hở... Gì vậy trời, nghe cứ như thể chúng ta là bạn chí cốt luôn ấy..."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We're not? Weren't you the one who talked to me first?",
+      "Vietnamese": "Chẳng phải bồ là người chủ động bắt chuyện với tớ trước à?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Haha. Guess so.",
+      "Vietnamese": "Haha... Đúng là vậy nhỉ."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00045_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Shall I continue?",
+      "Vietnamese": "Quay lại chủ đề chính được chưa?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00046_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I never thought you'd be the one to keep us on track. Oh, how the mighty have fallen.",
+      "Vietnamese": "Không ngờ có ngày tôi lại bị cậu nhắc nhở đấy. Cảm giác chua chát thật mà."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So why aren't there any guys around?",
+      "Vietnamese": "Hỏi tại sao chỉ có con gái thôi á?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00048_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Maybe they're staying in a separate dorm.",
+      "Vietnamese": "Chẳng phải chỉ vì khu ký túc xá nam nằm ở chỗ khác thôi sao?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00049_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "But to go so far as conducting separate entrance ceremonies?",
+      "Vietnamese": "Nói vậy thì đến cả ngày nhập ngũ mà họ cũng phân chia nam nữ riêng ra à?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00050_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're right... There wasn't a single guy there.",
+      "Vietnamese": "Nhắc mới nhớ, ngay cả lúc đó cũng chẳng có mống con trai nào hết nhỉ."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00051_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "The US Military has long been co-ed. In fact, separating by gender was criticized, because it led to more sexual assault. Will the world really allow this?",
+      "Vietnamese": "Quân đội Mỹ từ lâu đã sắp xếp để nam nữ phục vụ chung đơn vị rồi. Trái lại, tách riêng theo giới còn từng bị chỉ trích vì làm gia tăng các vụ xâm hại tình dục. Liệu thế giới có thật sự để yên chuyện này không?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00052_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, you're actually starting to sound like an intel agent. Keep going.",
+      "Vietnamese": "Cậu của bây giờ trông sặc mùi tình báo viên ưu tú luôn đấy. Làm ơn giữ luôn cái phong độ đó đi nhé."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00053_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What are you trying to get at?",
+      "Vietnamese": "Vậy chứ cậu bảo là vì cái gì mới được?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00054_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "There is only one logical explanation...",
+      "Vietnamese": "Có một khả năng khả dĩ duy nhất mà tôi có thể nghĩ tới..."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00055_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, that's it! Blow us all away!",
+      "Vietnamese": "Nó đó, tới luôn đi! Đấm thẳng mặt \"góc khuất\" luôn xem nào!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00056_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Without a doubt, the six of us...",
+      "Vietnamese": "Sáu đứa tụi mình ở đây..."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00057_TTojo",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Are going to save the world as an idol group?",
+      "Vietnamese": "...là một nhóm thần tượng được cử đi bảo vệ Trái Đất ấy nhỉ?"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00058_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "NOOOOooo!!! You were so CLOSE!",
+      "Vietnamese": "<size=95%>AAAAAAAAAAAAAAhhhhhh——————!!\nĐầu đất quả nhiên vẫn hoàn đầu đất mà!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00059_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Not a chance in hell. At least I got a pretty face when I keep my mouth shut, not like Miss Rock Star over here who reeks of country bumpkin from head to toe.",
+      "Vietnamese": "Hổng có cửa làm idol đâu nha! Tui mà im lặng thì còn ra dáng mỹ thiếu nữ, chứ cái bà rocker đằng kia nhìn từ cổ xuống ngón chân chỉ sặc mùi một nhỏ gái quê nhà lồng chính hiệu!"
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00060_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The coffee milk is hotter than you are...",
+      "Vietnamese": "Hóa ra cậu vẫn chịu công nhận cái mặt nhỏ này đẹp cơ đấy..."
+    },
+    {
+      "Key": "VC_MC00_Z900000029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, we start training tomorrow, so we can just ask the instructor about the lack of dudes when we get a chance.",
+      "Vietnamese": "Mà thôi, ngày mai là bắt đầu khóa huấn luyện rồi, cứ chớp thời cơ rồi hỏi thẳng quân giáo xem sao là biết ngay ấy mà."
+    },
+    {
+      "Key": "VC_MC00_00_10_01_Novel_00062_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I get the feeling she won't talk that easily...",
+      "Vietnamese": "Tôi thì không tin là họ sẽ dễ dàng khai toẹt ra vậy đâu đấy..."
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,725 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Is everyone accounted for?",
+      "Vietnamese": "Toàn quân ổn cả chứ?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00001_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "No casualties to report.",
+      "Vietnamese": "Tất cả đơn vị đều an toàn."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I am pleased to hear that.",
+      "Vietnamese": "Làm tốt lắm."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I've gotta say, that was pretty metal...",
+      "Vietnamese": "Cảm giác hệt như một màn diễn rock ấy nhỉ..."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00004_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Are you kidding me?!",
+      "Vietnamese": "Rock con khỉ khô——!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We just risked our lives out there!",
+      "Vietnamese": "Vô duyên vô cớ bị đẩy đi thực chiến, lại còn là sinh tử chiến nữa chứ!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're really loud, you know that?",
+      "Vietnamese": "Cứ oang oang nhặng xị cả lên suốt, bồ ồn ào thật đấy."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, shush! You normally blast your music louder than that!",
+      "Vietnamese": "Bình thường cậu toàn nghe cái thứ nhạc còn ồn gấp vạn lần cơ mà!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And strangely calm about the weirdest things.",
+      "Vietnamese": "Ba cái vụ phản đòn này thì công nhận bồ tỉnh phết đấy."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I didn't ask for your admiration!!",
+      "Vietnamese": "Không mượn cậu khen!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00010_KAsakura",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Black-haired Girl",
+      "Vietnamese": "Thiếu nữ tóc đen"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00010_KAsakura",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Phew... I didn't expect to get thrown into something that intense.",
+      "Vietnamese": "Phù... bất thình lình quá làm mình hết cả hồn luôn."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You... Weren't you the one who leapt wildly into the fray? The one with bloodlust in her eyes...",
+      "Vietnamese": "Này... chẳng phải cậu là người tỏa sáng nhất trận sao? Tôi thấy hình như cậu đâm chém hăng máu lắm luôn mà..."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah. But, seeing you now...",
+      "Vietnamese": "Nhưng mà, nhìn kỹ lại thì..."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Seeing you now...",
+      "Vietnamese": "Nhìn kỹ lại thì..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "You're freakin' cute!|You're gorgeous!|You're so dainty!",
+      "Vietnamese": "Dễ thương dữ!|Là mỹ nhân!|Dáng thon ghê!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're freakin' cute!",
+      "Vietnamese": "Dễ thương dữ!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're gorgeous!",
+      "Vietnamese": "Là mỹ nhân!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're so dainty!",
+      "Vietnamese": "Dáng thon ghê!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Right... You're like a completely different person. Why do I have a bad feeling about this?",
+      "Vietnamese": "Ừ... Nhìn lại mới thấy cứ như hai người khác hẳn nhau... Cảm giác sai sai thế nào ấy...?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00017_KAsakura",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Black-haired Girl",
+      "Vietnamese": "Thiếu nữ tóc đen"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00017_KAsakura",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I pale in comparison to you two.",
+      "Vietnamese": "Mình sánh thế nào được với hai cậu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why, my lady, you flatter me.",
+      "Vietnamese": "Người đâu mà khiêm tốn. Còn dịu dàng nết na nữa chứ."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Humble, too? What's not to like?",
+      "Vietnamese": "Người đâu mà khiêm tốn. Ai trông vào cũng phải yêu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No way! She's like a completely different person. Why do I have a bad feeling about this?",
+      "Vietnamese": "Không, nhìn lại mới thấy cứ như hai người khác hẳn nhau... Cảm giác sai sai thế nào ấy...?"
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Karen Asakura",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "An ordinary high school gamer girl...\nat first glance.",
+      "Vietnamese": "<size=93%>Thoạt trông chỉ là một nữ sinh bậc phổ thông\nđơn thuần, nhưng đích thực là game thủ."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00021_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Karen Asakura. I'm just a former high-school girl who happens to have a knack for shooter games.",
+      "Vietnamese": "Asakura Karen. Hồi trước mình chỉ là nữ sinh cấp ba bình thường thôi, ngoài thú chơi game FPS ra thì chẳng tài cán gì đâu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00022_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ah! That's why you're so good at real-world combat too, then?",
+      "Vietnamese": "Nói vậy thì kỹ năng đó cũng hữu ích trong thực chiến luôn à?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00023_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Perhaps.",
+      "Vietnamese": "Chắc là vậy đó."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So... That was our enemy, huh?",
+      "Vietnamese": "Thế, cái thứ vừa nãy là quân thù đấy hả?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Correct. According to the data gathered by my fellow Orchids, they're the extraterrestrial beings that swarmed out of the 14 UFOs NASA confirmed as having appeared around the globe.",
+      "Vietnamese": "Ừ. Là đám sinh vật ngoài hành tinh tràn ra từ 14 vật thể lạ đã được NASA ghi nhận trên toàn cầu. Ít nhất theo nguồn tin mà Orchid bọn tôi có được là vậy."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wow. Your Orckids is a pretty crazy bunch too!",
+      "Vietnamese": "Chà... hội của bồ cũng đỉnh phết đấy chứ."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No, you're just too damn loud to pay attention!",
+      "Vietnamese": "Còn hội bên cậu chỉ được cái ồn ào là giỏi."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00028_TTojo",
+      "Context": "Adv.AddBackLog:0",
+      "Original": "Arrogant Girl",
+      "Vietnamese": "Thiếu nữ kiêu sa"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00028_TTojo",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "If that's what you call intel, you're already as good as dead.",
+      "Vietnamese": "Nắm quá nhiều thông tin là dễ bị thủ tiêu lắm đấy nhé."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00028_TTojo#2",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "If that's what you call intel, you're already as good as dead.",
+      "Vietnamese": "Nắm quá nhiều thông tin là dễ bị thủ tiêu lắm đấy nhé."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And you are?",
+      "Vietnamese": "Còn bồ là ai?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00030_TTojo",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Arrogant Girl",
+      "Vietnamese": "Thiếu nữ kiêu sa"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00030_TTojo",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "My name? As if I would reveal such details. I am an intel agent, you know.",
+      "Vietnamese": "Tên tôi á? Làm gì dễ tiết lộ vậy chứ. Bởi tôi là tình báo viên mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Tojo, right?",
+      "Vietnamese": "Là Tojo, đúng chưa?"
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Tsukasa Tojo",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "An intel agent.\nAnd otherwise mysterious beauty.",
+      "Vietnamese": "Đặc vụ tình báo.\nĐồng thời là thiếu nữ đầy rẫy bí ẩn."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00032_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "...Wait, how did you—?",
+      "Vietnamese": "...Sao cậu lại biết vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The commander called you that, and you responded.",
+      "Vietnamese": "Vừa nãy nghe họ gọi \"Tojo\" cái là bồ đáp lại liền luôn mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00034_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, you're good.",
+      "Vietnamese": "Cừ lắm."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No, that one's definitely on you.",
+      "Vietnamese": "Không, lỗi đó là bố của sơ đẳng luôn mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00036_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If you're an intel agent, you must know more about what we're up against, right? Tell us, what do you really know?",
+      "Vietnamese": "Là tình báo viên thì chắc bồ cũng biết ít nhiều về tình cảnh hiện nay nhỉ? Kể cho tụi này nghe sự thật đi."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00037_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Our enemy is the Cancer—an infectious entity that has propagated within the \"body\" of space.",
+      "Vietnamese": "Kẻ thù được ví như những tế bào ung thư sinh ra trong lòng vũ trụ.\\nĐó là lý do vì sao chúng ta gọi chúng bằng biệt danh Cancer."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Cancer, as in...",
+      "Vietnamese": "Cancer..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yeah, I could go for some crab right now|Then again, crab cakes sound good too|No way, crab hotpot's the way to go",
+      "Vietnamese": "Cua à... thèm ăn quá đi|Lại nói, phải là lẩu cua mới ngon|Không, tầm này phải ăn cua nhúng mới đúng bài"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, I could go for some crab right now.",
+      "Vietnamese": "Cua à... thèm ăn quá đi."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00039_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Unfortunately, the Cancers are inedible.",
+      "Vietnamese": "Tiếc thật đấy, chúng ta không thể ăn thứ đó đâu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't take her seriously. She's just trying to get a rise out of you.",
+      "Vietnamese": "Nghiêm túc chỉnh lại làm gì không biết! Nhìn hoàn cảnh hiện tại đi, có giống chỗ tán dóc không?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00041_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Then again, crab cakes sound good too.",
+      "Vietnamese": "Lại nói, phải là lẩu cua mới ngon."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00039_TTojo#2",
+      "Context": "Adv.talk:1",
+      "Original": "Unfortunately, the Cancers are inedible.",
+      "Vietnamese": "Tiếc thật đấy, chúng ta không thể ăn thứ đó đâu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00043_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait... \"Then again\"? Were we talking about food before this?",
+      "Vietnamese": "Mắc gì cậu lại thêm \"Lại nói\" vào? Rõ ràng mạch truyện nãy giờ có hề đả động gì đến chuyện ăn uống đâu?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00044_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We were, in my head.",
+      "Vietnamese": "Nhưng trong đầu tớ thì mạch truyện nó luôn diễn ra như thế rồi."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00045_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then keep it there, or you'll start to sound like a crazy person.",
+      "Vietnamese": "Đừng tự biên tự diễn chứ, rồi người ta sẽ coi cậu là đứa bị thần kinh cho xem."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00046_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "May I continue?",
+      "Vietnamese": "Tôi xin nói tiếp được chứ?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sure, I guess.",
+      "Vietnamese": "Ừ."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00048_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way, crab hotpot's the way to go.",
+      "Vietnamese": "Không, tầm này phải ăn cua nhúng mới đúng bài."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00039_TTojo#3",
+      "Context": "Adv.talk:1",
+      "Original": "Unfortunately, the Cancers are inedible.",
+      "Vietnamese": "Tiếc thật đấy, chúng ta không thể ăn thứ đó đâu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00050_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What, like there were alternatives?",
+      "Vietnamese": "Sao chưa gì đã mào đầu bằng từ phủ định rồi? Cậu bác bỏ cái gì thế?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00051_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"Yeah, I could go for some crab right now.\" and \"Then again, crab cakes sound good too.\"",
+      "Vietnamese": "Thì cái \"Cua à... Thèm ăn quá đi. Lại nói, phải là lẩu cua mới ngon.\" chứ gì nữa."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00052_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Who said those?",
+      "Vietnamese": "Đứa quái nào đã nói mấy câu đó cơ?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00053_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No one. This was all in my head.",
+      "Vietnamese": "Chẳng ai cả. Trong đầu tớ nghĩ thế thôi."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00054_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Enough with the non-sequiturs, already! You're driving me crazy!",
+      "Vietnamese": "Sao không huỵch toẹt ra từ đầu đi! Cậu làm tôi rối hết cả não!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00055_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": "Lêu lêu mắc cỡ!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00046_TTojo#2",
+      "Context": "Adv.talk:1",
+      "Original": "May I continue?",
+      "Vietnamese": "Tôi xin nói tiếp được chứ?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00059_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sure, I guess.",
+      "Vietnamese": "Ừ."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00060_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What kind of tangent was that?",
+      "Vietnamese": "Lòng và lòng vòng nãy giờ chưa vào tới đề luôn!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00061_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Until recently, the Cancers were completely immune to every weapon humanity threw at them.",
+      "Vietnamese": "Mọi thứ vũ khí do nhân loại tạo ra từ trước đến nay đều hoàn toàn vô hiệu trước Cancer."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00062_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Mankind suffered defeat after defeat, until the Earth's landmass was lost to the Cancer.",
+      "Vietnamese": "Hậu quả là nhân loại phải liên tiếp tháo lui, đại bộ phận trên bề mặt Địa Cầu đều đã bị chúng xâm lăng."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00063_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "And Japan was no exception. Kyushu and Hokkaido were obliterated, and the remaining islands were one step away from the same fate...",
+      "Vietnamese": "Nhật Bản cũng không phải ngoại lệ. Với việc Kyushu và Hokkaido bị tàn phá hoàn toàn, đất nước này cũng đang trên bờ vực rơi vào tay quân địch."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00064_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "But, on the brink of ruin, a new weapon was developed: the Seraph.",
+      "Vietnamese": "May thay, đứng trước thời khắc tồn vong ấy, nhân loại đã phát triển nên một loại vũ khí mới. Đó chính là Seraph."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00065_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "With Seraphim in hand, humanity managed to hold off the Cancer's advances on our coastlines. Now, it's our turn to fight back.",
+      "Vietnamese": "Nhờ có Seraph, nhân loại đã thành công chặn đứng Cancer ngay tại chiến tuyến cuối cùng. Và từ đây, cuộc phản công của loài người chúng ta sắp sửa bắt đầu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00066_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "The symbol of our resistance? The Population Tracker.",
+      "Vietnamese": "Biểu tượng kháng cự rõ nét nhất chính là \"Bộ đếm Nhân mạng\" đặt tại căn cứ."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00067_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "It tracks the total remaining population of Japan, and is proudly displayed on our base's clock tower.",
+      "Vietnamese": "Nó thống kê số lượng người ở Nhật Bản vẫn còn sống, rồi hiển thị ngay trên tháp đồng hồ."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00068_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Though originally 120 million, we now stand at a mere 8 million.",
+      "Vietnamese": "Con số ấy vốn dĩ từng là 120 triệu, nhưng giờ đây chỉ còn vỏn vẹn khoảng 8 triệu người."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00069_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Should that number ever reach zero, it will mark the end of humanity's struggle.",
+      "Vietnamese": "Khoảnh khắc con số này chạm về 0, cũng chính là thời điểm nhân loại hoàn toàn chiến bại."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00070_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Conversely, should that number increase, it will mark a turning point.",
+      "Vietnamese": "Và ngược lại, một khi con số này tăng lên, điều đó đồng nghĩa với việc loài người đang trên đà phục hưng."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00071_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "As such, our end goal at the academy is to eradicate the Cancer, and return the Population Tracker back to its original 120 million.",
+      "Vietnamese": "Tiêu diệt toàn bộ Cancer và đưa con số này trở lại mốc 120 triệu chính là mục tiêu tối thượng của chúng ta."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00072_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wow, you really know your stuff.",
+      "Vietnamese": "Đúng là tình báo viên có khác, thông tin rành rọt thế."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00073_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I'm merely repeating the commander's speech from earlier. It was news to me, too. I was quite shocked. Dumbfounded, really. Astounded.",
+      "Vietnamese": "Chỉ là lặp lại những lời Tư lệnh giải thích ban nãy thôi mà. Tôi cũng mới vừa biết chứ đâu. Sốc bay màu luôn á. Hết hồn chim én. Suýt thì rớt cả hàm."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00074_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "The Dunning-Kruger effect right before my eyes!",
+      "Vietnamese": "Tưởng đâu thiên tài, nào ngờ thiên tai!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00075_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Why is it that we recruits are able to wield Seraphim―humanity's latest and greatest weapons―without any expertise?",
+      "Vietnamese": "Có điều, cớ sao những đứa tay ngang như tụi mình lại có thể điều khiển được Seraph—thứ vũ khí tối hậu đó nhỉ?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00076_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "There are too many unanswered questions... All I know is that I must investigate further.",
+      "Vietnamese": "Tóm lại, nếu không điều tra thêm thì xung quanh chúng ta luôn đầy rẫy bí ẩn. Tôi khẳng định như vậy."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00077_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Just admit you know nothing.",
+      "Vietnamese": "Chứ cậu còn khẳng định được cái gì khác nữa đâu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00078_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "So, are you the new recruits?",
+      "Vietnamese": "Có vẻ như các em đây là tân binh nhỉ...?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00079_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woah, new challengers have appeared! They look all high-and-mighty too!",
+      "Vietnamese": "Uầy, một nhân vật mang đậm cốt cách quý tộc xuất hiện kìa!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00080_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "They must've come back from the front lines.",
+      "Vietnamese": "Người này ban nãy chiến đấu ở tiền tuyến thì phải..."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00081_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00081_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "And you must have been the ones supporting us from behind?",
+      "Vietnamese": "Vậy là mấy đứa đã hỗ trợ bọn chị từ hậu phương nhỉ?"
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Were we supporting them?",
+      "Vietnamese": "Hỗ trợ hậu phương à?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes, ma'am|No",
+      "Vietnamese": "Thưa vâng|Làm gì có"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00082_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, ma'am.",
+      "Vietnamese": "Thưa vâng."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00083_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why so polite?",
+      "Vietnamese": "Sao tự nhiên thưa gửi lễ phép quá vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00084_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I dunno. Don't ask me.",
+      "Vietnamese": "Cậu có bảo làm thế thì tớ cũng chịu."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00085_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're the one who said it.",
+      "Vietnamese": "Chính mồm cậu vừa thở ra tức thì mà!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00086_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No...",
+      "Vietnamese": "Làm gì có."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00087_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why are you lying? We fought hard out there!",
+      "Vietnamese": "Phủ nhận là sao chứ? Rõ ràng tụi mình vừa đánh đấm tới chết đi sống lại mà!"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00088_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The whole thing still feels surreal, y'know. Like, we just jumped into a dystopian comic book world or something.",
+      "Vietnamese": "Tại tớ thấy mọi thứ cứ ảo ảo sao sao ấy. Kiểu như mấy chuyện chỉ có trong manga ấy nhỉ?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00089_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I get what you mean, but make no mistake about it—this is reality.",
+      "Vietnamese": "Nói thật thì tôi cũng nghĩ y như cậu, nhưng chuyện vừa rồi chắc chắn có xảy ra mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00090_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00090_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Oh? This batch of new recruits seems quite capable.",
+      "Vietnamese": "Ồ... Xem ra tân binh đợt này cũng có bản lĩnh lắm."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00091_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00091_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Let's go.",
+      "Vietnamese": "Đi tiếp thôi."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00092_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": "Thiếu nữ giống samurai"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00092_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Mm.",
+      "Vietnamese": "Ừm."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00093_SKura",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Charming Girl",
+      "Vietnamese": "Thiếu nữ quyến rũ"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00093_SKura",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Not bad, rookies.",
+      "Vietnamese": "Khá khen cho mấy đứa."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00094_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": "Thiếu nữ giống samurai"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00094_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "They have potential.",
+      "Vietnamese": "Tư chất khá lắm..."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00095_MKiryu",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Masked Girl",
+      "Vietnamese": "Thiếu nữ đeo mặt nạ"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00096_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woah, what a colorful cast of characters. Any idea who they are?",
+      "Vietnamese": "Ủa gì thế? Tổ đội cá tính ngời ngời vừa nãy là ai vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00097_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Senior cadets, I bet.",
+      "Vietnamese": "Nghe đâu là tiền bối khóa trước."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00098_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So if we stick around long enough, we'll become like them?",
+      "Vietnamese": "Không lẽ nếu ở trong này lâu thêm thì tụi mình sẽ trở nên độc lạ như thế luôn sao...?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00099_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "What a formidable presence...",
+      "Vietnamese": "Khí chất của họ áp đảo thật..."
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00100_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "And their leader was so refined.",
+      "Vietnamese": "Cái chị đi đầu trông ngầu lắm luôn..."
+    }
+  ],
+  "Inserts": [
+    {
+      "After": "VC_MC00_00_09_00_Novel_00007_YIzumi",
+      "Lua": "local note = Adv.NoteInfoCustom([[※Tác phẩm dùng nhiều lối pha trò theo kiểu hài kịch Manzai, một hình thức hài đối đáp của Nhật Bản, thường gồm một người đóng vai boke (vô tri) chuyên nói những điều ngớ ngẩn hoặc sai lệch, và một người đóng vai tsukkomi (tỉnh trí) lập tức bắt bẻ, chỉnh lại hoặc quát tháo.]],1000)\r\nAdv.show(note,0.3)"
+    },
+    {
+      "Before": "VC_MC00_00_09_00_Novel_00009_YIzumi",
+      "Lua": "Adv.hide(note, 0.3)"
+    }
+  ]
+}

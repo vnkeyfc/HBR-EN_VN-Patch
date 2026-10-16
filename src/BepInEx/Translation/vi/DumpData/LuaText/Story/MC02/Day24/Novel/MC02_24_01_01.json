@@ -1,0 +1,72 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_01_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie, Aoi, sitrep please.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Two enemy groups within line of sight. They don't appear to be that strong.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The rest of the route is hidden by the mountain side, so we can't determine anything yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00003_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Leave the rear to us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone, pay attention to your deflector levels.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All ready? Let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00006_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00007_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00008_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00009_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "A'ight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_01_Novel_00010_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye aye!!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

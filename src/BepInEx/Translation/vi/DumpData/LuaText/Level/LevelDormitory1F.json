@@ -1,0 +1,31 @@
+{
+  "Script": "Level/LevelDormitory1F",
+  "Entries": [
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to Main Street|Stay here",
+      "Vietnamese": "Đi đến đường chính|Ở lại"
+    },
+    {
+      "Context": "Adv.gateQuestion:0",
+      "Original": "Rest in the dorm room?",
+      "Vietnamese": "Nghỉ ở phòng ký túc xá?"
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Yes (Ends free time)|Not yet",
+      "Vietnamese": "Ừ (Kết thúc giờ giải lao)|Không"
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "A socialization is still in progress. Are you sure you want to end your free time? Socialization progress will be reset.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go up to the roof|Stay here",
+      "Vietnamese": "Đi đến tầng mái|Ở lại"
+    }
+  ],
+  "Inserts": []
+}

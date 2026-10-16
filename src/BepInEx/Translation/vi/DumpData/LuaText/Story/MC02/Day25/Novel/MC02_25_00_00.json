@@ -1,0 +1,132 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00000_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Ru...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Huh? Someone's calling my name...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Ruka!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(This is the voice of...someone from 31-A...but who was it?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Ruka!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Why are you in such a panic? Did something happen?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Okay, okay...I'm going to get up now.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(But it's so cozy, I want to keep sleeping in...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Waagh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a pretty dramatic way to wake up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The drama wasn't intentional.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Did you have a nightmare or something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, someone was calling me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00016_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, everyone! I think there might be something wrong!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's the matter, Cappy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00018_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's quiet... Too quiet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe because it's early in the morning?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...I guess it wouldn't hurt to take a quick look around.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_Novel_00021_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aye!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

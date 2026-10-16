@@ -1,0 +1,144 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_08_05",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(We did it!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(How's the response?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00012",
+      "Context": "Adv.talkWithFacial:2",
+      "Original": "Girl 1/Girl 2/Girl 3/Girl 4/Girl 5",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00012",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Encore! Encore!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00027_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah, that was easy stuff.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wipe your nose. You're bleeding.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00029_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow... What a crowd...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00030_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The energy is so intense...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, count us in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00033_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "W-Wait! I can only play this one song!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoops, that's right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's all from us for today!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00013",
+      "Context": "Adv.talkWithFacial:2",
+      "Original": "Girl 1/Girl 2/Girl 3/Girl 4/Girl 5",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00013",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaat?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00014",
+      "Context": "Adv.talkWithFacial:2",
+      "Original": "Girl 1/Girl 2/Girl 3/Girl 4/Girl 5",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00014",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00046_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, they're really disappointed...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00047_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry, I promise we'll prepare for next time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00015",
+      "Context": "Adv.talkWithFacial:2",
+      "Original": "Girl 1/Girl 2/Girl 3/Girl 4/Girl 5",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00015",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hooray!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00016",
+      "Context": "Adv.talkWithFacial:2",
+      "Original": "Girl 1/Girl 2/Girl 3/Girl 4/Girl 5",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_merge_00016",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a promise, okay?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00058_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't just make a random promise like that...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,30 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_08_03",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alriiight! Is everybody ready?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My heart's racing like crazy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_03_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, Yukkie. Count us in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600114_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Feast your ears on...\"Dance! Dance! Dance!\".",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

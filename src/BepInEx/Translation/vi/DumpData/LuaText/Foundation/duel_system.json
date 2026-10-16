@@ -1,0 +1,16 @@
+{
+  "Script": "Foundation/duel_system",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Return to the Home screen?",
+      "Vietnamese": "Quay về Màn hình chính?"
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "You have already played against this character during this free time period.\\nYou may use \"Relive Memories\" to challenge her again.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

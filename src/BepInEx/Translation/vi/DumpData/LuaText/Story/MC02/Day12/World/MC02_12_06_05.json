@@ -1,0 +1,102 @@
+{
+  "Script": "Story/MC02/Day12/World/MC02_12_06_05",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00617_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All units, halt. It's getting a bit harder to see around here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00618_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's change up the formation in case there's an ambush. Get into two lines, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00619_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00620_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How many minutes are left?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00621_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "About 18 minutes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00622_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do we have some time to take a breather?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00623_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rest!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00624_v001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So the moment you hear the word \"rest,\" you spring back to life...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00625_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about you? How are you keeping up with this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00626_v001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah. You don't even know what I deal with on a daily basis back at the lab.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00627_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I kind of want to know, but I'm also afraid to ask...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00628_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I gave it a quick calculation, and it doesn't seem like we have that much time to work with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00629_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh well. Let's just regroup and get going.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00630_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "S-So soon?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00631_v001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just give up already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00632_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's just a little further! Let's keep doing our best.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

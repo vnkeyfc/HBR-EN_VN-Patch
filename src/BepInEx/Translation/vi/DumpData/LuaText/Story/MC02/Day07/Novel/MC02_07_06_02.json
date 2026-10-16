@@ -1,0 +1,204 @@
+{
+  "Script": "Story/MC02/Day07/Novel/MC02_07_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation complete. You successfully secured the route and eliminated every Cancer along the way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00447_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However. Your clear time failed to meet the expected parameters again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Son of a biscuit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00448_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shall I continue to train them until they can no longer laugh or cry?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00449_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanamin, you're scaring me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00021_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The fate of humanity is at stake—there is no room for mercy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you'll become a merciless monster?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00023_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If that's what it takes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00024_RKayamori",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "Spare us, please!\\nYou're too cute for that!\\nIt's such a waste!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00010_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because you lack teamwork, you end up hesitating to attack and wind up falling behind, yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00011_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Work on improving your trust in one another. You keep repeating careless mistakes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00455_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, Aoi. Let's do our best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00456_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! I'll try!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00004_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That concludes today's training. We look forward to tomorrow's session.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00457_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation concluded. You exited the simulation without reaching the checkpoint.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00009_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You are right to exercise caution, but caution alone will not help you reach the finish line.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shall I continue to train them until they can no longer laugh or cry?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00019_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00020_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanamin, you're scaring me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00021_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The fate of humanity is at stake—there is no room for mercy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00022_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you'll become a merciless monster?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00023_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If that's what it takes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00024_RKayamori#2",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "Spare us, please!\\nYou're too cute for that!\\nIt's such a waste!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00026_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation concluded. You retreated due to fallen comrades.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00017_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nothing about that performance was worth noting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00018_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shall I continue to train them until they can no longer laugh or cry?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00019_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00020_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanamin, you're scaring me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00021_NNanase#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The fate of humanity is at stake—there is no room for mercy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00022_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you'll become a merciless monster?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00023_NNanase#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If that's what it takes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_02_Novel_00024_RKayamori#3",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "Spare us, please!\\nYou're too cute for that!\\nIt's such a waste!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

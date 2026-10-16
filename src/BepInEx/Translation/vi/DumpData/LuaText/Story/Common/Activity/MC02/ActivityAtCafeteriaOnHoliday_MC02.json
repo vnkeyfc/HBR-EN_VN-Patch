@@ -1,0 +1,32 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtCafeteriaOnHoliday_MC02",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the cafeteria, should I get something to eat?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Have a meal at the cafeteria?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Eat a meal",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Spend time at the Cafeteria to raise Silliness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

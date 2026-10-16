@@ -1,0 +1,364 @@
+{
+  "Script": "Story/MC02/Day14/Novel/MC02_14_06_07",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00686_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation complete. Combat duration and deflector damage have approached target values.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi, there was a point in Phase Three where you assisted 31-A in a similar manner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were successful that time, so try doing it the same way here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger that, ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori, when 31-B is on the offensive, try to focus more on speed rather than damage output.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If the attacks are for diversion purposes, you don't need to put all of your strength into it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00007_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Also, be sure to give detailed instructions to the rest of 31-A so each strike is efficient and planned.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger that, ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sheesh, don't copy me like that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'mon, I'm Ruka. I do what I want!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true. You are you. That's just how you'll always be.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, now that I've got her official permission, I'm going to keep copying Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You two. Quit flirting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw man, maybe I got too carried away. Yukkie's gonna go crazy with jealousy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I couldn't care less. Keep on flirting away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Naw, come on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm serious. I really don't care.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Naw, come on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00019_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And now you're flirting with Izumi. You two really are close, aren't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've said it before. Quit LOOKING at me like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okaaay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00026_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um, may I ask something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah? What's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00028_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When 31-B fired at the enemy swarm, there were times where our attacks didn't have enough firepower to defeat them entirely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, quite, I see. That appears to be the case.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you really? Your speech style is getting mixed up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00031_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm terribly sorry, but...in these kinds of situations, would it be possible to ask for your squad's aid?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Can we help with the attacks?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Got it|That's a tough one",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Absolutely! Just give us a shout and call for backup. We'll change up our formation and help out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00033_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you so much!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, I got a thanks from Byakko too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00036_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a good idea, Aoi. When there are things you can't accomplish on your own, it's better to enlist the help of others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00037_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a tough one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00039_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I see.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah... All this military jargon is way too tough...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you stupid?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00036_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a good idea, Aoi. When there are things you can't accomplish on your own, it's better to enlist the help of others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00043_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But there's no point if Ruka doesn't understand what I'm asking!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, no, it's fine! I'll just have Yukkie explain it to me like she's five!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00045_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Explain it to you like YOU are five, right? Why am I the toddler here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayyy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00047_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't think this is something you should be surprised over...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00048_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You tryin' to be buddy-buddy with everyone?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00049_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's no point to any of that on the battlefield, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00050_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's to make sure we complete the operation successfully!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00051_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoops. We got scolded, scary.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00052_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How rare, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00687_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tomorrow will be the last day of training for Phase Four. Keep up the good work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00668_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, that's all for today's training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00669_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dismissed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00533_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00053_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation ended. The bridge fell due to Kayamori's attack, and the convoy was unable to keep proceeding forward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00054_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is unprecedented.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_03_Novel_00055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Man, I guess it really can't reach it, huh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00499_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh*... Unfortunately, you leave me with no other option than to conclude that 31-A is unsuitable for this mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

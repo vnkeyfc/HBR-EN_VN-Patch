@@ -2,11 +2,17 @@
 CLv.上限=Giới hạn CLv.
 限界突破の器=Bình Đột Phá
 限界突破数=Số lần Đột phá
-Limit Break Lv. 1=Đột Phá Giới Hạn Lv.1
-Limit Break Lv. 2=Đột Phá Giới Hạn Lv.2
-Limit Break Lv. 3=Đột Phá Giới Hạn Lv.3
-Limit Break Lv. 4=Đột Phá Giới Hạn Lv.4
-Limit Break Lv. 5=Đột Phá Giới Hạn Lv.5
-Limit Break Lv. 10=Đột Phá Giới Hạn Lv.10
-Limit Break Lv. 20=Đột Phá Giới Hạn Lv.20
+r:"^Limit Break Lv. (\d+)$"=Đột Phá Giới Hạn Lv.$1
+
+変更=Thay đổi
+限界突破Lv.変更=Tuỳ chỉnh cấp Giới Hạn Đột Phá
+限界突破済みのLv.の範囲内で、一時的に限界突破Lv.を変更することができます。=Bạn có thể tuỳ chỉnh tạm thời cấp độ Đột Phá Giới Hạn về các mức trước đó.
+限界突破Lv.を下げた場合、スタイルのステータスボーナスおよび\n限界突破アビリティは発揮されなくなります。\n※キャラLv上限は変更されません\n=Khi giảm cấp Đột Phá, các chỉ số bonus và nội tại từ\nĐột Phá Giới Hạn sẽ không còn hiệu lực.\n※Cấp nhân vật tối đa của đội viên sẽ không thay đổi.
+限界突破済みLv.=Cấp đã Đột Phá Giới Hạn:
+現在の限界突破Lv.=Cấp Đột Phá Giới Hạn hiện tại:
+
+Inspiring Spark：When in frontline at the start of turn:\nIncreases this unit's SP by 1.=Thiểm Quang: Mỗi khi bắt đầu một lượt, nếu có mặt ở tiền tuyến thì sẽ tự tăng SP bản thân lên một đơn vị.
+
+You are able to change to the outfits of other Memorias.=Có thể áp dụng ngoại trang này cho các Hồi Ức khác.
+
 100% will be consumed through Limit Break level 2.\n200% will be consumed from Limit Break level 3 onwards.=Đột Phá Giới Hạn đến Lv.2 tiêu hao 100%\nĐột Phá Giới Hạn Lv.3 trở đi tiêu hao 200%

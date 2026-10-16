@@ -1,0 +1,105 @@
+{
+  "Script": "Story/MC01/Day01/World/MC01_01_06_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Yeah, yeah, back to our room for a nap!\\n...Gosh, am I really that desperate for some shut-eye?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Whenever I see stairs, I wanna climb 'em.\\nBut right now's arena time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "What was it again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Right. Gather at the arena after lunch. Ugh, so sleepy...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00004_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Did you know? The arena's past the dorms.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00005_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I sure didn't.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00006_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "It's that big ol' thing, down yonder.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00007_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "The giant dome-thingy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00008_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00009_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Ke he he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00010_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "The time to flaunt our power is nearly upon us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00011_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Right you are, Master, <i>snip snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00012_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We'll show them what we're really made of, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_00_World_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "So this is the arena, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The Mentorship Program allows you to edit your squad as you see fit.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Arrange your squad for today's afternoon training.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -8,7 +8,7 @@ Talent Unlock=Khai Mở Thiên Phú
 キャラLv.=Cấp nhân vật
 Repair Level=Giảm nhiễu
 Title Rank=Cấp huy hiệu
-Orb Skill=Ngọc Kỹ
+Orb Skill =Ngọc Kỹ 
 ノイズ解放Lv.=Mức độ giảm nhiễu
 
 [Tab]
@@ -31,6 +31,6 @@ ALL=ALL
 開花済=Đã mở khoá
 未開花=Chưa mở khoá
 専用ピースのみ=Chỉ hiện với Mảnh Ghép
-該当するスタイルがありません=Không có Style tương ứng với kết quả
+該当するスタイルがありません=Không có Hồi Ức tương ứng với kết quả
 上限到達済み=Đã đạt giới hạn
 上限未到達=Chưa đạt giới hạn

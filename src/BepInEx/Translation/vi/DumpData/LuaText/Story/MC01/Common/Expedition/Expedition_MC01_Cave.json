@@ -1,0 +1,902 @@
+{
+  "Script": "Story/MC01/Common/Expedition/Expedition_MC01_Cave",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "MC01.Expedition.Cave.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Expedition.setTitle:0",
+      "Original": "Abandoned Mines",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Abandoned Mines—Level 1",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Abandoned Mines—Level 2",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Abandoned Mines—Level 3",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Abandoned Mines—Level 4",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We made a lot of progress yesterday. Let's keep pushing forward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We didn't get very far yesterday. Gotta make up for lost time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Today marks our third day of dungeon crawling.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We made a lot of progress yesterday. Let's keep pushing forward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "31-C's already ahead of us...which means we've gotta go fast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Today marks our fourth day of dungeon crawling.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We made a lot of progress yesterday. Let's keep pushing forward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I have a feeling things won't be easy today. We'd better go all out, or things could go badly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We really went for it today. It'd be better off leaving the rest for tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What's the plan?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "...I'm out|Continue exploring this level",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah, let's wrap things up for the day. To the base!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Let's head back after checking out this level a little more.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We really went for it today. It'd be better off leaving the rest for tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah, let's wrap things up for the day. To the base!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Let's head back after checking out this level a little more.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Continuing further will result in the end of dungeon crawling for the day.\\nDo you wish to proceed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What IS that thing? It's enormous...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, we've made it this far, haven't we?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Follow my lead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00017_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00018_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00020_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00021_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "You got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_00019_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00000_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We keep passing piles of abandoned building materials.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00001_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, I just came up with something. Let's use these things to build a warp gate, and breeze right through here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00002_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What a brilliant plan. It'll only take about half a century to complete.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00003_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's that hard to make?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00004_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We wouldn't have flown here by helicopter if it was that easy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00005_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Good point!\\nNiiice hackiiing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00006_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A crossroads, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00007_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait. Ruka, this is important. The path you take may very well determine our fate, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00008_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Down one path lies fame and fortune. Down the other, a life of squalor... The choice is yours.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00009_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cool. I've already experienced the first one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00010_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then we're in luck! No need to hesitate—full speed ahead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00011_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've hit a dead end!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00012_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I've seen this kind of thing before, Cappy. Between that pile of rocks, there's a small opening.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00013_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00014_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can fit through there, right, Cappy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00015_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Affirmative! I shall humbly venture forth and report back with my findings!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00016_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're counting on you. If you encounter any Cancers, kill them for us, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00017_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd have to be super strong to do something like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00018_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00019_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Only a super strong person can do that, but I'm weak, so I won't survive!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00020_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess that's a no-go then. S'pose it's better for all of us to stick together after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00021_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good thing we realized that ahead of time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00022_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew, that was a doozy. Time for a little rest and relaxation!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00023_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh. If you got tired out by that, you really are a scrub.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00024_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look who's talking, Megumin. You look like you can't even stand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00025_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I ain't restin', moron. I'm meditatin'. Try'na channel my psychic powers for the next battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00026_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wooow. So coool.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00027_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Next time, I'll zap it up real good. A real electrifyin' zap.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00028_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! NOW it friggin' works?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00029_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Way to zap yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00030_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whatcha looking at, Karerin?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00031_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was just thinking, I might find something if I smashed this crate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00032_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oooh, just like in a video game?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00033_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A few mushrooms and we'd grow super big and be able to squash the Cancers, no problem!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00034_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aren't you forgetting the star? Wouldn't invincibility be straight-up better?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00035_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A flashy, dazzling Karerin?! But then I wouldn't be able to take in how cute you are! I won't have it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00036_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Actually, I think one normal-sized Ruka is already enough. Let's not, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00037_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's shake on it. Nobody goes around eating any power-up mushrooms.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00038_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds like a plan.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00039_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Would you look at that, another fork in the road! Karerin, which way do ya reckon we go?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00040_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmmm. I can't say for sure, but I'd prefer to go down the dead-end path.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00041_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really? Isn't is best to go straight ahead?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00042_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My inner completionist says to take all the side routes first, fully explore the whole area, and then take the correct path to the goal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00043_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's genius! Let's do that. Map out the entire level, check for treasure, then circle back!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00044_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But this isn't a video game, so we'd just be tiring ourselves out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00045_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How could you do me like that, Karerin?! I was fired up and raring to go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00046_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gross, it's all dark and damp... Could this get any worse?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00047_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At least there're lights down here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00048_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ha! It's also a Cancer free-for-all. The lights could go out at any second.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00049_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not a problem. We can just use Megumin's psychic powers to turn the lights back on. Heck, we won't even have to worry if our mePads run out of power!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500016_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I ain't a chargin' station for yer personal use, moron!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00050_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, check this out! I look just like Yuki, don't I?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00051_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah... Yeah, you've got drums and everything! A couple of sticks and we could rock out right here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00052_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just whacking away at these barrels is pretty fun!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00053_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then next time, you can have a try at the real thing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00054_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, but umm... There's a lot of space between the pedal and the cymbals, so...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00055_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll put Yukkie on bass, and you on drums!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00056_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Forget I ever said anything!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00057_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, Yukkie, look! Check out that view!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00058_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, no kidding. Looks kind of dangerous, though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00059_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My instincts are calling. They demand I climb these.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00060_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You sure about that? With all that moss, a single slip could kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00061_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If I fell to my death here...would you cry for me, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00062_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. I'd cry that I wound up with such a crappy leader who died climbing a few measly rocks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00063_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's up, Tsukassie? Those steel plates catch your interest?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00064_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With this kind of durability, it might be possible...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00065_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we wrapped those around us and went into battle, we wouldn't even need deflectors, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00066_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, but we also wouldn't be able to move.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00067_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Holy, you're right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00068_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karerin, you alright? Do you wanna take five?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00069_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm good. My leg just started to hurt a little.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00070_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well if it starts to get bad, just holler, okay? I'll carry you, bridal style!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00071_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You really mean it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00072_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe. Okay, I might just take you up on that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00073_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah—Scratch that. I started getting shivers down my spine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00074_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00075_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh-oh, another crossroads. Megumin, why don't you use those powers of yours to guide us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00076_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not how they work, genius. Ya can't just pinpoint navigate, GPS-style. So, which way do YOU think?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00077_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My gut's telling me to go straight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00078_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well mine's sayin' THIS way. Surprise, surprise: we can't agree on anythin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00079_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess so... Well everyone, it sounds like Megumin's going that way, but we'll keep going this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00080_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cut it out! That ain't funny!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00081_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, Ruka. I was thinking, in that last bat—",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00082_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eep!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00083_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's wrong, Yukkie?! What was that cute scream for?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00084_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I...I'm fine. It was probably just a drop of water from above. It was freezing...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00085_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gotcha. You let out such an adorable yelp, I thought something terrible happened.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00086_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm never making that noise again! Forget it! Right now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00087_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okaaay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00088_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew... Today's crawl is going well as ever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00089_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00090_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um, Ruka, is something wrong?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00091_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not at all. I was just thinking that this would make a great photo.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00092_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You mean it?! Like for a magazine?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00093_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not that kind of photo, but you could definitely reel in the fans. Stand tall, dear Cappy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00094_v002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I don't really get it, but, I AM a former captain! When the waters get rough, you can count on me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00095_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, did you know that wheelbarrows are also known as \"cat carts\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00096_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For real? That's an awfully cute name.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00097_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And would you happen to know why that is?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Wheelbarrows are called \"cat carts\" because...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "They're good on narrow ledges|They can hold a lot of cats|They wanted it to catch on with the ladies",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00098_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because they're good on narrow ledges.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00099_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right! There are multiple theories floating around, but the predominant one relates to how they are useful for carrying materials across the high, narrow scaffolding in construction sites, called \"catwalks\".",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00100_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pretty neat bit of trivia there! You're really giving Asamin a run for her money!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00101_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe. I AM an intel agent, after all. These things are common knowledge for me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00102_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because they can hold a lot of cats.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00103_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Incorrect! While there are multiple theories floating around, the predominant one relates to how they are useful for carrying materials across the high, narrow scaffolding in construction sites, called \"catwalks\".",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00104_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, but picture this: a wheelbarrow packed full of kitties, all meowing along as you push them along.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00105_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...You make a compelling case. Correct!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00106_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! Thank you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00107_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because they wanted it to catch on with the ladies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00103_v002_TTojo#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Incorrect! While there are multiple theories floating around, the predominant one relates to how they are useful for carrying materials across the high, narrow scaffolding in construction sites, called \"catwalks\".",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00109_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was just joking, but it kinda makes sense if you think about it. Like, uh, the old men at the construction site desperately trying to come up with cute names to get the girls interested.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00110_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh... Why does it feel like you can talk me into anything? Alright, I'll give that answer a pass.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00106_v002_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! Thank you!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Reaching checkpoints unlocks the ability to fast travel.\\nTry it out now on the map!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Reaching checkpoints unlocks the ability to fast travel.\\nTry it out by pressing the R1 button to open the mini-map!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap a checkpoint you've already passed to quickly travel to its location.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Tap a checkpoint you've already passed to quickly travel to its location.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "This allows you to start dungeon crawling from where you left off. Use it to explore even further than before!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't you say we're just exploring the first floor?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

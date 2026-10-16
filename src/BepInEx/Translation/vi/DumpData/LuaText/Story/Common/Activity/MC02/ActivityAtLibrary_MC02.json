@@ -1,0 +1,32 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtLibrary_MC02",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the library, but what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Hang out at the library today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Hang out",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Spend time at the Library to raise your Openness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

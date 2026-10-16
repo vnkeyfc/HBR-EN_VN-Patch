@@ -1,0 +1,17 @@
+{
+  "Script": "Story/MC02/Day25/World/MC02_25_00_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Look around the area!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Now then, time to do a little patrol around the perimeter...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

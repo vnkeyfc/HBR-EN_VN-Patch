@@ -1,0 +1,648 @@
+{
+  "Script": "Story/MC02/Day07/Novel/MC02_07_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'monnn, let there be a full-course meal tonight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see your wishes are extravagant as ever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look. There's something you don't see every day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00003_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A portable stove and a grill plate?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00004_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Next to red meat... It's BBQ!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00005_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Yaaay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00006_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I'm so psyched right now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To think they'd let us grill our own meat... That's cool.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a reward for all the hard work we 31-A put in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00009_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Bwa ha ha! Once more, I laugh at you single-celled imbeciles...for we have ze same meaty meal!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That voice... It's Wakkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00011_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't CALL me that! It insults my sensibilities!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess this is a special treat for everyone, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00013_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You'd better grill like you mean it! Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00014_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Master, there're too many options. I can't choose, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00015_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good grief! Surely you can choose your own sustenance?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00016_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Choose for me, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00017_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I vould if I could, my minion...but even I'M having a hard time deciding!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00018_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You too, Master?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh, I can't take this anymore. Allow an expert to show you the ropes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00020_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What was that, peasant?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "First, do you like fatty meat? Or meat on the lighter side?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00022_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fatty meat all the way, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In that case...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "If you're looking for fatty meat...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Try some red meat|Try some organ meat|Try some veggies",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Try red meat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00025_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Red meat! Does this red one count as red meat, <i>snip snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That'll do it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00027_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But these all look so different, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And out of those, I recommend...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What do I recommend for red meat?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Rib meat|Skirt steak|Tongue",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The rib meat, right here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00030_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll give it a try, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00031_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It should be about cooked, right, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00032_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00039_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So juicy! It melts in your mouth! This is what I wanted, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Glad I could be of service.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The skirt steak, right here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00030_YBungo#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll give it a try, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00031_YBungo#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It should be about cooked, right, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00032_YBungo#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00039_YBungo#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So juicy! It melts in your mouth! This is what I wanted, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Glad I could be of service.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00041_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop right zere!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's wrong?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00043_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Skirt steak may look like red meat, but...it's actually organ meat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No...that's impossible...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00045_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What were you saying about being a BBQ expert, oh high-and-mighty squad leader of 31-A? Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00046_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You only recently learned that yourself. Because I told you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00047_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And all the better for it, peasant!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tongue! That's this right here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00030_YBungo#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll give it a try, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00031_YBungo#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It should be about cooked, right, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00032_YBungo#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00052_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's weird... There's not a trace of fat in there, <i>snip</i>...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00053_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course not. Tongue is tongue. As such, it falls under ze organ meat category, not red meat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00054_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No...that's impossible...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00045_BIYamawaki#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What were you saying about being a BBQ expert, oh high-and-mighty squad leader of 31-A? Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00056_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Try some organ meat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00057_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Organ meat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00058_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. The whitish stuff right there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00027_YBungo#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But these all look so different, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00060_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And out of those, I recommend...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What do I recommend for organ meat?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Skirt steak|Cow intestine|Cow stomach",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00061_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The skirt steak, right here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00030_YBungo#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll give it a try, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00031_YBungo#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It should be about cooked, right, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00032_YBungo#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00039_YBungo#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So juicy! It melts in your mouth! This is what I wanted, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00066_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Glad I could be of service.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00067_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The cow intestine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00030_YBungo#5",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll give it a try, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00465_v001_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But, peasant, how do I grill this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00466_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You usually grill the blobby part first, then quickly finish off the skin and you're good to go. That's how pros do it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00032_YBungo#5",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00467_v001_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yummy! The fatty part melts in your mouth like butter! This is what I wanted, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00073_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Glad I could be of service.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00074_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The cow stomach!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00030_YBungo#6",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll give it a try, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00069_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The color isn't changing, peasant. How do I know when it's done, <i>snip snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00077_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh, that looks good to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00032_YBungo#6",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00079_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmm?! What's that flavor?! It's not like any BBQ I've ever tasted, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00080_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vhat did you make my poor minion eat, peasant?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00081_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess Bun-chan wasn't ready for that one just yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00082_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Try some veggies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00083_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Veggies aren't meat! Zey have zero fatty goodness!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00084_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fair point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00085_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't you spout nonsense to my precious minion!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00086_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look. See that red stuff? It's probably rib meat. Try that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00087_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Great Yamawaki does it again, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00088_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ahh, it's already overcooked! Flip it over, quickly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00089_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're so kind, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00090_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eat it vhile it's hot! And add some soy sauce vhile you're at it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00091_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's sooo tasty, master! As expected from the Great Yamawaki, such a refined sense of taste, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00092_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't thank me, thank the farmer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00093_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew. Time to get our grill on, squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00094_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, whaaat?! You gals are already eating?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00095_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course we are.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00096_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was starving!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00097_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got first dibs on the red meat section. Not much left for ya now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00098_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ruka is SHOOK!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00099_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You recommended the organ meat, right? There's plenty of that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00100_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Actually, I'm not the biggest fan...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_09_00_Novel_00101_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep your story straight, will you?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

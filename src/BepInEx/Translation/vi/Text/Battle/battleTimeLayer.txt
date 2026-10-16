@@ -1,7 +1,7 @@
-異時層=Dị Thời Không
+異時層=<size\=80%>Dị Thời Không
 最速クリアターン=Số lượt nhanh nhất
 r:"Reset: (\d+) Day\(s\) Left"=Làm mới sau $1 ngày
-毎週月曜4:00更新で取得=\n<size\=140%><line-height\=30px>Làm mới vào lúc\n14:00 thứ Ba hằng tuần.
+毎週月曜4:00更新で取得=\n<size\=140%><line-height\=30px><pos\=-43px>Làm mới vào lúc 14:00<br><align\=left>thứ Ba hằng tuần.
 プラクティスモード=Chế độ luyện tập
 獲得済=Đã nhận
 プラクティスモードでは\n討伐報酬は入手できません\n※異時層チケットは消費されません=Không thể nhận phần thưởng khi đang ở chế độ luyện tập.\nVé khiêu chiến Dị Thời Không sẽ không bị tiêu hao.
@@ -16,8 +16,8 @@ Select Squad=Chọn đội hình
 Clear without using Stat Boost.=Không sử dụng hỗ trợ Khuếch đại chỉ số.
 Clear without a single unit's deflector breaking.=Không có Deflector của thành viên nào bị BREAK.
 sr:"^Clear while using (\d+) or more members of (.+).$"=Đội hình có nhiều hơn $1 thành viên của Đội $2.
-sr:"^Clear while using (\d+) or more (.+) Memorias.$"=Đội hình có nhiều hơn $1 Style hệ $2.
-sr:"^Clear while using (\d+) or more (.+) or (.+) Memorias.$"=Đội hình có nhiều hơn $1 Style hệ $2 hoặc $3.
+sr:"^Clear while using (\d+) or more (.+) Memorias.$"=Đội hình có nhiều hơn $1 Hồi Ức hệ $2.
+sr:"^Clear while using (\d+) or more (.+) or (.+) Memorias.$"=Đội hình có nhiều hơn $1 Hồi Ức hệ $2 hoặc $3.
 r:"^Clear within (\d+) total turns.$"=Hoàn thành tối đa trong $1 lượt.
 r:"^Clear within (\d+) turns.$"=Hoàn thành tối đa trong $1 lượt.
 r:"^Clear within (\d+) Turns.$"=Hoàn thành tối đa trong $1 lượt.

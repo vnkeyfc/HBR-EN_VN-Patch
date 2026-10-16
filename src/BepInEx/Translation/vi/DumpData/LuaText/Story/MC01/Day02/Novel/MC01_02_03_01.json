@@ -1,0 +1,174 @@
+{
+  "Script": "Story/MC01/Day02/Novel/MC01_02_03_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Now to announce the results of the test.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Come on, first place!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You should just hope you're not last. Anything more will just upset the universe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00003_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "In first place: Yuki Izumi, with a perfect score in mathematics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "WHAAAT?! Yukkie, since when were you so smart?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I told you I'm a skilled hacker, didn't I? Math is second nature to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If you did, that memory has long since faded!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We talked about it no more than two days ago...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00008_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Second place: Tama Kunimi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00009_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "How could I possibly lose?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00010_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The scantron machine was unable to read some of your answers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00011_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Curse my gentle penmanship!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's a new one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Third place: Karen Asakura.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00014_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Whew.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00015_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Fourth place: Tsukasa Tojo.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00016_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Impossible. How could I be this low?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You should be glad you weren't dead last.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Crap... If she doesn't call me next, I'll be a laughing stock.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00019_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I'm next. I gotta be... No way I'm dumber than this dumbass.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00020_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Fifth place: Ruka Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sweet salvation!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00022_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's over!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00023_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "And Megumi Aikawa.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00025_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your scores were tied.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00026_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Damn, don't scare me like that... Knew I wasn't THAT dumb.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_01_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'd say scoring as low as she did makes you a verified dum-dum.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,18 @@
+{
+  "Script": "Story/MC02/Day17/World/MC02_17_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_17_09_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "More training at the arena, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00800_v001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "No, it's closed for inspection today. What am I thinking?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

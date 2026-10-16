@@ -1,0 +1,291 @@
+{
+  "Script": "Story/MC02/Day01/Novel/MC02_01_09_00",
+  "Entries": [
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Chapter 2\\nEverlasting Memories and Dreams in Blue",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00000_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do assault squads even do, I wonder?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it a good thing we gave it our all, or did we perhaps get the short end of the stick?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What we did...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Was for the best|Totally screwed us over|Was a week we'll never forget...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What we did was for the best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00003_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why is that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It definitely felt overwhelming at first, but...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Being assigned a role this crucial means it'll be that much easier to make a name for ourselves.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Getting recognized by the top brass positions us to access classified information. Meaning, if all goes well, we might just be able to learn more about Tsukassie's mom.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00007_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00008_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who are you and what have you done with Ruka?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why do you all look so surprised?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because you actually said something logical and coherent for a change.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "\"Co-here-ant\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's an elementary school word. Regardless, everything you said is right. As an assault squad, we're on the fast track to learning more, and not just about Tojo's mom.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What we did totally screwed us over.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, not necessarily.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00016_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do explain. I have no idea what you mean.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why am I not surprised?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00272_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here's the idea. If we keep rising up the ranks, we'll eventually acquire high-level clearance as officers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00273_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Assuming the military was involved with the death of Tojo's mother in some way, this will make it that much easier to uncover the truth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good point. That's my Yukkie for ya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just keep in mind it'll be quite a while before we reach that point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00021_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ha! Forgettin' you've got a psychic on your team? This squad's gonna rise up the ranks in no time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was a week we'll never forget...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I doubt we'll forget any of this, but it hasn't been a week yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh yeah, guess not.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00025_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyway, it's not all bad. Being an assault squad has its benefits too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00016_TTojo#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do explain. I have no idea what you mean.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00017_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why am I not surprised?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00272_v001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here's the idea. If we keep rising up the ranks, we'll eventually acquire high-level clearance as officers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00273_v001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Assuming the military was involved with the death of Tojo's mother in some way, this will make it that much easier to uncover the truth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00019_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good point. That's my Yukkie for ya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00020_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just keep in mind it'll be quite a while before we reach that point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00021_MAikawa#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ha! Forgettin' you've got a psychic on your team? This squad's gonna rise up the ranks in no time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00032_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But there's also a chance we'll fall in battle before we accomplish anything...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00033_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When that happens, it'll be Karrie who dies, not you. Betcha won't even feel a thing... Lucky you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00034_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't want to die without even knowing it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karerin, don't let her get to you. Zero tact as usual, Megumin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00036_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Still not used to you callin' me that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00037_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My nickname's growing on me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cappy, Tsukassie. How about you two?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00039_TTojo",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00040_TKunimi",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No point asking Yukkie. I already know the answer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_09_00_Novel_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Glossing over the one dissenting opinion... At least respect my agency here.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

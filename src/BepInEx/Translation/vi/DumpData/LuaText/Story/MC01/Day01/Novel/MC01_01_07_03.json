@@ -1,0 +1,305 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_07_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00025_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Now then. This machine is for sit-ups. Do 100 in time with the whistle.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Do 100 sit-ups?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Alright!|That won't be necessary!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That won't be necessary!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00027_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Why not?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Because...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "I'm already exhausted!|It'll only weaken me more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00028_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "And that's 100.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uuurggh... Call the ambulance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00030_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Next up, 100 push-ups.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Do 100 push-ups?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00026_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "That won't be necessary!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00027_NNanase#2",
+      "Context": "Adv.talk:1",
+      "Original": "Why not?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I already did those.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00034_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Those were sit-ups. These are push-ups. They target completely different body parts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If you're trying to get out of this, at least think of a better reason.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00036_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "And that's 100.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uuurggh... Call the ambulance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00038_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Next are 100 bench presses with barbells.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Bench press.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00026_RKayamori#3",
+      "Context": "Adv.talk:1",
+      "Original": "That won't be necessary!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00027_NNanase#3",
+      "Context": "Adv.talk:1",
+      "Original": "Why not?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00033_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "I already did those.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_Z900000013_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Those were push-ups. These are bench presses. They target different body parts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00035_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "If you're trying to get out of this, at least think of a better reason.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I've never lifted anything heavier than a chopstick!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00048_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I think you're forgetting guitars...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Alright!|How about throwing a pizza party instead?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00041_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "How about taking a breather and throwing a teensy-weensy pizza party instead?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00042_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Do you truly believe that is a good idea?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Don't see why not.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00044_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "I am sorry to say this, but all of you are severely lacking a sense of danger. So much so that I would like to inform the commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00045_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, don't look at me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00046_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00051_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "And that's 100.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00052_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uuurggh... Call the ambulance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00053_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Excellent work. That concludes today's training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00054_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "No good... Everything's swayin'...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00055_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I can't stand...even a second longer...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00056_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I think I lost my appetite...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00057_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Mhm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00058_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "This is the worst of it, right?! You were just checking that we could keep up today, right?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00059_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We kept up with your grueling pace, right?! That's the last of it, RIGHT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00060_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Wrong. This is what will be expected of you going forward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00061_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00062_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I wanna be a normal high schooler again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00063_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "All normal schools have been closed indefinitely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00064_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "THAT'S the kind of world we're in?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00065_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You didn't know? You really should've listened to the commander's speech on the first day...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00066_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're right! But YOU started talking to me, so I couldn't!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_05_Novel_00067_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You were sleeping, by the way.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,119 @@
+{
+  "Script": "Story/MC01/Day02/World/MC01_02_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_09_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Time to check out that shop I've been curious about.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "This should be it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00002_MSatsuki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Clerk",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00002_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Welcome! ♪\\nOh? Where have I seen you before?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00003_MSatsuki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Clerk",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00003_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "How can I help you? This is the munitions store. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00007_MSatsuki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Clerk",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00007_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "With our products, you get what you pay for. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00008_MSatsuki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Clerk",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00008_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Please take all the time you'd like. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.shop:1",
+      "Original": "Everything here is highly recommended! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00009_MSatsuki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Clerk",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00009_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hope you got what you paid for! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00010_MSatsuki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Clerk",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00010_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You can earn GP by fighting battles. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00011_MSatsuki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Clerk",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00011_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Get out there and fight and come back when you're a little richer! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00012_MSatsuki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Clerk",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_09_00_World_00012_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I look forward to your next visit! ♪",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

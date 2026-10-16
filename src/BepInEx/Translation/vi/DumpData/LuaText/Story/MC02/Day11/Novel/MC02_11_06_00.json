@@ -1,0 +1,198 @@
+{
+  "Script": "Story/MC02/Day11/Novel/MC02_11_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_11_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today marks another day of Phase Three training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00546_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your objective is to clear the area in the given time frame.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_06_00_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cadet Aoi, have you reflected on your errors?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00547_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_06_00_Novel_00007_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Excellent. And 31-A, keep your heads about you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00548_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00549_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One last word of advice. In Phase Three, the battleline is longer, putting more distance between your two squads.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00550_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00551_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As such, you will be less aware of the situation surrounding the other squad. Do you follow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00552_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00553_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What can you do to stay informed about their situation?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00554_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ask them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00555_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You are halfway there. It is a good thing to keep each other updated with regular status reports.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00556_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, it's impossible to give a second-by-second report of the unfolding events, correct?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00557_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00558_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One solution is putting 31-B in charge of reading the battlefield.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00559_v001_STezuka",
+      "Context": "Adv.talkWithFacial:2",
+      "Original": "Saki Tezuka",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00559_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi, remain alert and predict the Cancer's movements around you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500041_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00560_v001_STezuka",
+      "Context": "Adv.talkWithFacial:2",
+      "Original": "Saki Tezuka",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00560_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meanwhile, Kayamori, you will be tasked with making split-second decisions and devising tactics based on Aoi's reports.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00561_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Having clear-cut roles will drastically improve your efficiency.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00562_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It won't be possible to achieve right away, but it is certainly worth trying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00563_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00564_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have a lot of nerve, answering the commander with only two words...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00565_v001_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "What?! I did, too! My apologies, Commander!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00566_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ouch. Didn't think she'd get caught in the crossfire...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00567_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't be so mean to her, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00568_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That was YOUR fault, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_06_00_Novel_00018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yesterday, you successfully secured a route and reached a safe stopping point. Please reach the next checkpoint within the time frame.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_06_00_Novel_00021_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

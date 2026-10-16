@@ -1,0 +1,108 @@
+{
+  "Script": "Story/MC02/Day08/Novel/MC02_08_08_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So there you have it. I brought them here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To have fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uhh, I'm pretty sure we're supposed to be waiting in our rooms until dinner...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't sweat the small stuff. We've got jerky sticks, right? This calls for a jerky-stick-eating raaace!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00504_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's like the bread races where you run and eat bread dangling from a string, but with jerky sticks instead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What kind of a race is that? You can count me out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grarrr!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Byakko's fully on board!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00008_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then I, too, will have to participate!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00009_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh... Do I hafta join, too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You hafta.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00011_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why the heck?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00012_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh heh hehh! All we need now is a hard drink to compliment the jerky sticks! This will be a truly KILLER game!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karrie, you're underage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00014_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll be the referee!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_02_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dang it! You beat me to it...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

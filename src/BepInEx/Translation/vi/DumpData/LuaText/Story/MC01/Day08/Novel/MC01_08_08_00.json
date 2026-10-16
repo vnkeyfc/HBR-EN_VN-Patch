@@ -1,0 +1,54 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_08_00_Novel_00000_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Damn...ya girl needs some downtime...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_08_00_Novel_00001_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Our deflectors are running low, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_08_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's enough for one day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_08_00_Novel_00003_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Mhm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_08_00_Novel_00004_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_08_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Where's 31-C?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_08_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ahead of us, I guess. There's no sign of them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_08_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, let's call it a wrap.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,78 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_08_08",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, thanks for reining me in. I guess I didn't really understand the gravity of the situation...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't sweat it. I'd like to think I'm an expert when it comes to understanding your quirks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie...you're the only for me. I'm so sorry for cheating on you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00006_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like they're back together again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00007_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00008_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's NOT like that!\\nUgghh, quit it with the awkward staring!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's our Yukkie. I really trust you, y'know? And I want to become someone you can trust someday too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what about you two, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00015_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, I was just watchin'. I didn't say nothin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00016_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_06_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fair point.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

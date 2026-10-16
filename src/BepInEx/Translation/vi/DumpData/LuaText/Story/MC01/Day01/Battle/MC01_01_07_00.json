@@ -1,0 +1,56 @@
+{
+  "Script": "Story/MC01/Day01/Battle/MC01_01_07_00",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press the L2 button to open a sub-menu where\\nyou can tweak the auto-battle mode settings.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButtonRect:4",
+      "Original": "Auto-Battle Mode Sub Menu",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Selecting FULL will allow the units to use all of their skills in auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Selecting NORMAL will prevent the use of skills with usage limits during auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press this button to enter auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the right directional button to enter auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButton:4",
+      "Original": "Next Page",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Selecting FULL via the R2 button will allow your units to use all of their skills in auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Selecting NORMAL via the L2 button will prevent the use of skills with usage limits during auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can also prevent specific skills from being used in auto-battle mode\\nby unchecking the Auto Config box when equipping them.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

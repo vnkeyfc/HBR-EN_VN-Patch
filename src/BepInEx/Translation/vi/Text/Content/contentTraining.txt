@@ -1,16 +1,17 @@
-アリーナ訓練=<size\=80%>Huấn luyện Đấu trường
-アリーナ : <size\=28>アリーナ訓練</size>=<size\=30>Arena:</size> <size\=22>Huấn luyện Đấu trường</size>
+アリーナ訓練=<size\=80%>Huấn luyện chiến đấu
+アリーナ : <size\=28>アリーナ訓練</size>=<cspace\=-2px><size\=28>Đấu trường:</size> <size\=22>Huấn luyện chiến đấu</size>
 訓練に挑戦し、強化素材やGP、経験値を得ることができます。\n=Thử thách các bài huấn luyện để nhận nguyên liệu nâng cấp, GP và điểm kinh nghiệm.
+
 チャレンジ演習=<size\=80%>Diễn tập thử thách
-アリーナ : <size\=28>チャレンジ演習</size>=<size\=30>Arena:</size> <size\=24>Diễn tập thử thách</size>
+アリーナ : <size\=28>チャレンジ演習</size>=<cspace\=-2px><size\=28>Đấu trường:</size> <size\=24>Diễn tập thử thách</size>
 ミッション形式の訓練で、\n戦闘の腕を磨くことができます。=Bài huấn luyện theo dạng nhiệm vụ giúp bạn rèn giũa và nâng cao kỹ năng chiến đấu.
-バトル指南=<size\=80%>Hướng dẫn chiến đấu
-アリーナ : <size\=28>バトル指南</size>=<size\=30>Arena:</size> <size\=24>Hướng dẫn chiến đấu</size>
+
+バトル指南=<size\=80%>Hướng dẫn cơ bản
+アリーナ : <size\=28>バトル指南</size>=<cspace\=-2px><size\=28>Đấu trường:</size> <size\=24>Hướng dẫn cơ bản</size>
 戦闘に関する様々な要素について\n学ぶことができます。=Nơi bạn có thể học hỏi về cơ chế chiến đấu khác nhau.
 
-
 訓練場=<size\=80%>Phòng luyện tập
-アリーナ : <size\=28>訓練場</size>=<size\=30>Arena:</size> <size\=24>Phòng luyện tập</size>
+アリーナ : <size\=28>訓練場</size>=<cspace\=-2px><size\=28>Đấu trường:</size> <size\=24>Phòng luyện tập</size>
 自由な設定で訓練を行えます。\n様々な連携や戦術を試してみましょう。=Tiến hành luyện tập với thiết lập tùy chỉnh. Hãy thử nghiệm chiến thuật khác nhau tại đây.
 訓練実績=Thành tích
 最大ダメージ=Sát thương tối đa
@@ -55,9 +56,9 @@ sr:"^Expert Lv. (\d+) \((.+)\)$"=Cực Hạn Lv.$1 ($2)
 sr:"^Elite Training (.+)$"=Huấn Luyện Đặc Biệt $1
 I've prepared some practice simulations for beginners.\nI'm sure you'll have no problem clearing these.=Tôi đã chuẩn bị bài huấn luyện để phù hợp với người mới.\nNếu là bạn thì việc vượt qua nó sẽ dễ dàng thôi.
 Skitterers have no resistances, so they're good for beginners, but please don't underestimate them.=Small Hopper không có chỉ số kháng và rất phù hợp cho người mới bắt đầu, nhưng xin đừng chủ quan lơ là nhé.
-Slash attacks, such as with blades and scythes, are effective.\nThis is an easy way to obtain upgrade materials for Slash-type Memorias.=Các đòn tấn công hệ Trảm từ đao và lưỡi hái sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Style mang hệ Trảm có thể nhận ở đây.
-Pierce attacks, such as with guns and cannons, are effective.\nThis is an easy way to obtain upgrade materials for Pierce-type Memorias.=Các đòn tấn công hệ Đột từ súng và pháo sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Style mang hệ Đột có thể nhận ở đây.
-Crush attacks, such as with broadswords and shields, are effective.\nThis is an easy way to obtain upgrade materials for Crush-type Memorias.=Các đòn tấn công hệ Đả từ trọng kiếm và khiên sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Style mang hệ Đả có thể nhận ở đây.
+Slash attacks, such as with blades and scythes, are effective.\nThis is an easy way to obtain upgrade materials for Slash-type Memorias.=Các đòn tấn công hệ Trảm từ đao và lưỡi hái sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Hồi Ức mang hệ Trảm có thể nhận ở đây.
+Pierce attacks, such as with guns and cannons, are effective.\nThis is an easy way to obtain upgrade materials for Pierce-type Memorias.=Các đòn tấn công hệ Đột từ súng và pháo sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Hồi Ức mang hệ Đột có thể nhận ở đây.
+Crush attacks, such as with broadswords and shields, are effective.\nThis is an easy way to obtain upgrade materials for Crush-type Memorias.=Các đòn tấn công hệ Đả từ trọng kiếm và khiên sẽ có hiệu quả.\nCác nguyên liệu bồi dưỡng cho Hồi Ức mang hệ Đả có thể nhận ở đây.
 Slash attacks are effective.\nTry training in Beginner Lv. 3 (Slash) first before attempting this.=Các đòn tấn công hệ Trảm rất có hiệu quả.\nHãy khiêu chiến sau khi đã bồi dưỡng sức mạnh ở Sơ cấp Lv.3 (Trảm).
 Pierce attacks are effective.\nTry training in Beginner Lv. 3 (Pierce) first before attempting this.=Các đòn tấn công hệ Đột rất có hiệu quả.\nHãy khiêu chiến sau khi đã bồi dưỡng sức mạnh ở Sơ cấp Lv.3 (Đột).
 Crush attacks are effective.\nTry training in Beginner Lv. 3 (Crush) first before attempting this.=Các đòn tấn công hệ Đả rất có hiệu quả.\nHãy khiêu chiến sau khi đã bồi dưỡng sức mạnh ở Sơ cấp Lv.3 (Đả).
@@ -92,7 +93,7 @@ Familiarize yourself with Critical Hits, which deal greatly increased damage.=T�
 2-6 Fields=2-6 Field <size\=75%>(Hiệu ứng môi trường)
 Familiarize yourself with elemental-enhancing Fields, which continuously increase the strength of certain elements.=Tìm hiểu về Field, cơ chế giúp cường hóa liên tục cho các thuộc tính.
 2-7 Making the Best Use of Totems=2-7 Tận dụng Token
-Familiarize yourself with fighting using Memoria that utilize Totems.=Tìm hiểu về cách chiến đấu của các Style có sở hữu [Token].
+Familiarize yourself with fighting using Memoria that utilize Totems.=Tìm hiểu về cách chiến đấu của các Hồi Ức có sở hữu [Token].
 2-8 Tactical Vision=2-8 Tâm Nhãn
 Familiarize yourself with further increasing weakness-exploiting damage by using Tactical Vision.=Tìm hiểu về hiệu ứng [Tâm Nhãn], giúp gia tăng\nlượng sát thương khi đánh trúng điểm yếu.
 3. I want to learn more advanced strategies=3. Tôi muốn biết về các chiến thuật nâng cao

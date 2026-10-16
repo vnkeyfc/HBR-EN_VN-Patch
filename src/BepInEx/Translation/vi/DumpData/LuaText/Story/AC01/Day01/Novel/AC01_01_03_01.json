@@ -1,0 +1,102 @@
+{
+  "Script": "Story/AC01/Day01/Novel/AC01_01_03_01",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00044_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome. ♪",
+      "Vietnamese": "Kính chào quý khách~♪"
+    },
+    {
+      "Key": "VC_AC01_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh, if it isn't Merry. How ya doin'?",
+      "Vietnamese": "Ồ, Marie đây mà. Tớ tới chơi đây."
+    },
+    {
+      "Key": "VC_AC01_00046_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please take your time looking around. ♪",
+      "Vietnamese": "Xin quý khách cứ từ từ xem hàng ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00047_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure thing. Hey, this is neat. And this one too! What would you recommend?",
+      "Vietnamese": "Hô hô. Cái này được phết. Cái kia cũng ngon. Bồ gợi ý món nào?"
+    },
+    {
+      "Key": "VC_AC01_00048_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I only stock things that I would buy myself, so I recommend everything. ♪",
+      "Vietnamese": "Tôi chỉ nhập về những món mà mình tự tin thôi, nên tất cả đều là đồ nên mua ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You've got great taste.",
+      "Vietnamese": "Bồ tinh mắt gớm nhỉ."
+    },
+    {
+      "Key": "VC_AC01_00050_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am quite skilled in procuring things.",
+      "Vietnamese": "Vì tôi còn là chuyên gia cung ứng hàng hóa nữa mà."
+    },
+    {
+      "Key": "VC_AC01_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That sounds like quite a lot of work already... Do you decide on which shop to run by the day of the week or something?",
+      "Vietnamese": "Nghe là thấy bận tối mắt tối mũi rồi... Bồ quản lý cửa hàng nào là do phân công theo ngày trong tuần hay sao?"
+    },
+    {
+      "Key": "VC_AC01_00052_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Actually, I run all the shops. ♪",
+      "Vietnamese": "Nhân viên của TẤT CẢ các cửa hàng đều là tôi ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00053_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Are you that short on staff?!",
+      "Vietnamese": "Thiếu nhân lực tới mức đó luôn á!?"
+    },
+    {
+      "Key": "VC_AC01_00054_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, everyone is going through a difficult time right now. And I'm happy to do all the work. ♪",
+      "Vietnamese": "Chà, nhân loại đang trong tình cảnh khủng hoảng nguy cấp mà lị. Một mình tôi cân hết vẫn ổn ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Which means that all the other shops must be closed right now. Guess there wasn't any point splitting up from Yukkie and the others.",
+      "Vietnamese": "Vậy tức là, hôm nay ngoài tiệm này ra thì mấy chỗ khác đều đóng cửa hả. Thế thì lúc nãy tách nhóm với đám Yukki phí công rồi."
+    },
+    {
+      "Key": "VC_AC01_00056_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, the other shops are very much open.",
+      "Vietnamese": "Mọi cửa hàng vẫn đang hoạt động mà?"
+    },
+    {
+      "Key": "VC_AC01_00057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But aren't you here right now? How could you be running the other shops too at the same time?",
+      "Vietnamese": "Nhưng mà Marie đang ở đây, sao mấy tiệm khác kinh doanh được chứ."
+    },
+    {
+      "Key": "VC_AC01_00058_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why don't you visit another shop and find out? ♪",
+      "Vietnamese": "Thế thì quý khách cứ vác xác sang tiệm khác thử xem sao ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00059_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is getting interesting. I might just do that.",
+      "Vietnamese": "Nghe có vẻ thú vị đấy. Tớ thử xem sao."
+    }
+  ],
+  "Inserts": []
+}

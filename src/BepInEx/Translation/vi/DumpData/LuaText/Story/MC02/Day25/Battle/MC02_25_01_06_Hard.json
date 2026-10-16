@@ -1,0 +1,30 @@
+{
+  "Script": "Story/MC02/Day25/Battle/MC02_25_01_06_Hard",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00000_EAoi",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "I won't let a single attack through!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z010900040_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I won't let a single attack through!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now! Everyone, go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's use this opening that Aoi made for us! We're going in!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

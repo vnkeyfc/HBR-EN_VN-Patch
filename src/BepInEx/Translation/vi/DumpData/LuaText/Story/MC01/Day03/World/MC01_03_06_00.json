@@ -1,0 +1,462 @@
+{
+  "Script": "Story/MC01/Day03/World/MC01_03_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_03_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Still feeling rebellious. Like any good rock star.\\nAlright, let's get going now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Don't run away, Ruka... Don't run away... Let's just head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Arena again, huh? Maybe I can find something cool on the way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori, the commander seems to have something in mind for us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "From what she was implying, it sounds like they're going to test the squad as a whole.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If you're all set, let's go.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can use your own custom team in today's training session.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00005_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "If you're all set, let's go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00007_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00007_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00008_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00008_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "What is it?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Do you need something?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "You said something!|You're standing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00009_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00009_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I'm not sleeping, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00010_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00010_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "If I'm not sleeping, I'm standing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00011_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00011_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I saw you your first day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00012_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00012_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You have some grit to you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00013_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00013_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Keep it up. Every day counts. Our lives are but a burning candlestick.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00014_MTsukishiro",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Samurai-like Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00014_MTsukishiro",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "A single blow is all it takes to douse the flame. Simple as that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00015_SKura",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Charming Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00015_SKura",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "What is it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00016_SKura",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Charming Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00016_SKura",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You look so laid-back, without a care in the world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00017_SKura",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Charming Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00017_SKura",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "That was you, right? You fought your first day here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00018_SKura",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Charming Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00018_SKura",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "My, my. Can't wait to see more.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00019_SKura",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Charming Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00019_SKura",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "More what, you say? Oh, you'll know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00020_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00020_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hm? Oh, you're from 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00021_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00021_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I'm—oh dear... I really must be going.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00022_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00022_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Let us reconvene later. I look forward to speaking with you then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00023_MKiryu",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Masked Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00023_MKiryu",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Was there something you needed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00024_MKiryu",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Masked Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00024_MKiryu",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Oh. You wish to learn my secret?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00025_MKiryu",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Masked Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00025_MKiryu",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "That's up to the whim of Inari, the god of rice and foxes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00026_MKiryu",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Masked Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00026_MKiryu",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Try to remain pure of heart, in the meanwhile.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00027_CSugahara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Lolita-style Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00027_CSugahara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "What is it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00028_CSugahara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Lolita-style Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00028_CSugahara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Can't you see I'm busy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00029_CSugahara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Lolita-style Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00029_CSugahara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "In other words, you can leave now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00030_CSugahara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Lolita-style Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00030_CSugahara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00031_CSugahara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Lolita-style Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00031_CSugahara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I mean it. Please leave my sight. GET OUT! Now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00032_HOgasawara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Horned Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00032_HOgasawara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I haven't seen you before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00033_HOgasawara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Horned Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00033_HOgasawara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Are you what they call...a \"junior\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Junior?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "That's right|I'm a master",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00034_HOgasawara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Horned Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00034_HOgasawara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I'm a master swordswoman.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00035_HOgasawara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Horned Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00035_HOgasawara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Let me show you my skill sometime.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00036_HOgasawara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Horned Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00036_HOgasawara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Your confidence is impressive. I am as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00037_HOgasawara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Horned Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00037_HOgasawara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "In our next encounter, let us cross blades to decide who the true master is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00038_HOgasawara",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Horned Girl",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00038_HOgasawara",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Until we meet again.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

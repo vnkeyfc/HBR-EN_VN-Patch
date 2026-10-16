@@ -1,5 +1,5 @@
 [Title]
-キャラ一覧=<size\=80%>Danh sách nhân vật</size>
+キャラ一覧=<size\=80%><cspace\=-2px>Danh sách nhân vật</size>
 
 [Detail]
 Bond Lv.=Thân mật

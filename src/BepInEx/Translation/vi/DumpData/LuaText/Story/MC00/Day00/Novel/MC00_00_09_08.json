@@ -1,0 +1,487 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_09_08",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hi Honey, I'm home!",
+      "Vietnamese": "Ngon, nhào vô!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "The hell?! Of all the damn rooms...",
+      "Vietnamese": "Giỡn hoài bây?! Mắc gì tui lại phải ở chung phòng với mấy người nữa chớ...?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Does this mean...the six of us make up the 31-A squad?",
+      "Vietnamese": "Không lẽ... sáu đứa tụi mình chính là Đội 31A...?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00003_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Yup. That's what it said on the nameplate outside.",
+      "Vietnamese": "Ừm. Trước cửa phòng có dán bảng tên sẵn rồi mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Aren't you an intel agent? Don't just wander around blindly! Observe your surroundings!",
+      "Vietnamese": "Tình báo viên gì mà vô tri thấy ớn, cứ ngớ người ra rồi lếch thếch theo sau?! Có cái bảng tên trước cửa cũng không thèm nhìn cho kỹ nữa!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00005_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "That's why I came to say hi to everyone...",
+      "Vietnamese": "Bởi vậy nên em mới định tới chào hỏi mọi người đàng hoàng đó chứ..."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What should I do?",
+      "Vietnamese": "Giờ làm sao đây...?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Leave|Play Uno!",
+      "Vietnamese": "Bỏ phòng đi bụi|Làm một ván UNO đi!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'm outta here. Like I said, I'm more of a lone wolf kind of gal.",
+      "Vietnamese": "Tớ đi bụi đây. Làm sói cô độc mới là lẽ sống của đời tớ."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Again with the capriciousness! You're WAY too wishy-washy!",
+      "Vietnamese": "Lại đổi tính nữa rồi kìa trời——!! Cái nết gì mà lật mặt còn nhanh hơn lật bánh tráng vậy hả——?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How are YOU our squad leader?!",
+      "Vietnamese": "CẬU là đội trưởng kia mà—————?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's what I was saying. Anyway, let's play Uno or something and deepen our ties!",
+      "Vietnamese": "À, ra là thế. Vậy làm vài ván UNO để tăng cao tính tương thân tương ái của toàn đội nào!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is this why your band broke up? Because you're so impulsive?!",
+      "Vietnamese": "Ban nhạc giải tán là do cái nết tùy tiện này của cậu chứ đâu———?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Gimme a break. Do you EVER stop yapping? I thought you were a fan of mine.",
+      "Vietnamese": "Gì mà phản ứng dữ vậy, lúc nào cũng nhặng xị inh ỏi. Mà nè, chẳng phải bồ từng là fan ruột của tớ sao?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Your band broke up because of that careless attitude of yours, didn't it?!",
+      "Vietnamese": "Ban nhạc giải tán là do cái nết thích gì làm nấy của cậu chứ đâu———?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Gimme a break. Are you always this noisy? I thought you were a fan of mine.",
+      "Vietnamese": "Sao cứ hở chút là sồn sồn lên vậy. Mà nè, chẳng phải bồ từng là fan ruột của tớ sao?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I WAS! But you're nothing like I thought you were!",
+      "Vietnamese": "THÌ ĐÚNG LÀ VẬY ĐÓ——!! Nhưng tôi đâu có ngờ cái đứa mình hâm mộ lại dấm dớ cỡ này đâu——?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00015_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Or ya can just be my fan. I treat all the psykids with mad respect. And, if ya havin' trouble sleepin'? I can just psychic ya right to dreamland, jus' like that.",
+      "Vietnamese": "Hay là qua làm fan của tui đi cho ngon nè. Tui là nổi tiếng cưng fan lắm nha. Đêm nào mà có mất ngủ á, tui chơi thuật thôi miên một phát là bảo đảm ngủ ngon lành cành đào liền hà."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's what comes AFTER that I'm concerned about!",
+      "Vietnamese": "Thôi miên kiểu đó xong chắc khỏi còn được thấy ánh mặt trời ngày mai luôn! Sợ vãi chưởng!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00017_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Draw 2!",
+      "Vietnamese": "Cộng 2!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00018_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Wild Draw 4.",
+      "Vietnamese": "Cộng 4 lá!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00019_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Challenge.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00020_TTojo",
+      "Context": "Adv.playCutIn:3",
+      "Original": "AAAhhh!!!",
+      "Vietnamese": "AAAaaa————————!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hahaha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00022_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Are we actually playing Uno right now?!",
+      "Vietnamese": "MẮC CÁI GIỐNG GÌ MÀ CHƠI UNO LUÔN VẬY TRỜI—————?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm serious, Kayamori. Didn't they tell us to check our equipment?",
+      "Vietnamese": "Nè, Kayamori! Người ta có dặn là mỗi đứa phải tự lo kiểm tra quân nhu rồi cơ mà?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's UNO time!",
+      "Vietnamese": "Làm một ván UNO đi!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I can't believe you're suggesting games right now. Don't we have more important business to attend to?",
+      "Vietnamese": "Mang thứ đó theo làm chi vậy trời... Phải lo chuyện cần làm trước đã chứ!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nope.",
+      "Vietnamese": "Làm gì có."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00027_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Draw 2!",
+      "Vietnamese": "Cộng 2!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00018_TTojo#2",
+      "Context": "Adv.talk:1",
+      "Original": "Wild Draw 4.",
+      "Vietnamese": "Cộng 4 lá!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00019_KAsakura#2",
+      "Context": "Adv.talk:1",
+      "Original": "Challenge.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00020_TTojo#2",
+      "Context": "Adv.playCutIn:3",
+      "Original": "AAAhhh!!!",
+      "Vietnamese": "AAAaaa————————!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hahaha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00032_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "WE DO HAVE MORE IMPORTANT BUSINESS! Stop forgetting already!!",
+      "Vietnamese": "CÓ ĐẤY Ạ————!! NHỚ LẠI GIÙM CÁI COI———!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Gimme a break. Do you EVER stop yapping? I thought you were a fan of mine.",
+      "Vietnamese": "Gì mà phản ứng dữ vậy, lúc nào cũng nhặng xị inh ỏi. Mà nè, chẳng phải bồ từng là fan ruột của tớ sao?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Gimme a break. Are you always this loud? I thought you were a fan of mine.",
+      "Vietnamese": "Sao cứ hở chút là sồn sồn lên vậy. Mà nè, chẳng phải bồ từng là fan ruột của tớ sao?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00014_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "I WAS! But you're nothing like I thought you were!",
+      "Vietnamese": "THÌ ĐÚNG LÀ VẬY ĐÓ——!! Nhưng tôi đâu có ngờ cái đứa mình hâm mộ lại dấm dớ cỡ này đâu——?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00015_MAikawa#2",
+      "Context": "Adv.talk:1",
+      "Original": "Or ya can just be my fan. I treat all the psykids with mad respect. And, if ya havin' trouble sleepin'? I can just psychic ya right to dreamland, jus' like that.",
+      "Vietnamese": "Hay là qua làm fan của tui đi cho ngon nè. Tui là nổi tiếng cưng fan lắm nha. Đêm nào mà có mất ngủ á, tui chơi thuật thôi miên một phát là bảo đảm ngủ ngon lành cành đào liền hà."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00016_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "It's what comes AFTER that I'm concerned about!",
+      "Vietnamese": "Thôi miên kiểu đó xong chắc khỏi còn được thấy ánh mặt trời ngày mai luôn! Sợ vãi chưởng!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00038_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No—Focus! Kayamori, didn't they tell us to check our equipment?",
+      "Vietnamese": "Mà không, Kayamori, người ta có dặn là mỗi đứa phải tự lo kiểm tra quân nhu rồi cơ mà?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00039_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What do you mean by equipment? Socks, bras, and panties?",
+      "Vietnamese": "Quân nhu là cái gì vậy? Vớ nè, áo chíp nè, hay quần chíp?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Exactly. Those should be in there, too. But why does it sound so perverted when you say them?",
+      "Vietnamese": "Đúng vậy đó. Tính cả mấy thứ đấy luôn. Mà nghe cậu nói cứ có mùi biến thái biến tống sao sao."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00041_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "What are these foil pouches? There seems to be one for each of us.",
+      "Vietnamese": "Cái xắc này là gì ta? Thấy ai cũng có sẵn một cái kìa."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Looks like...water and field rations.",
+      "Vietnamese": "Nước với lương khô thì phải."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Snack time!",
+      "Vietnamese": "Ăn liền cho nóng luôn đêêê."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't you DARE! They're for missions only!",
+      "Vietnamese": "ĐỪNG CÓ ĂN————!! Cái đó cũng là đồ quân nhu đấy ạ——!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00045_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaa? Can't they just buy more?",
+      "Vietnamese": "Ơ kìa, xài hết thì bên trên lại cấp tiếp cho tụi mình thôi mà, đúng hông...?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00046_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How would we explain why they're gone to begin with?! Like...oops, I was hungry, and they were right there?! They'd FLIP!",
+      "Vietnamese": "Rồi biết giải thích kiểu gì hả?! Tính bảo \"Đói quá nên ăn\" chắc?! Bị ăn chửi banh xác cho coi!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Fine, I get it.",
+      "Vietnamese": "Biết rồi màà..."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00048_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone, check that you have everything, all right?",
+      "Vietnamese": "Nghe chưa, mọi người lo mà kiểm tra xem có thiếu thốn cái gì không kìa."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00049_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Aye-aye! On it!",
+      "Vietnamese": "Rõ ạ! Làm ngay thôi!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00050_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Socks, bras, and panties. Check.",
+      "Vietnamese": "Tất nè, áo chíp nè, quần chíp nè... Tất cả OK..."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00051_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Seriously. Why does your saying them sound so perverted?",
+      "Vietnamese": "Cái nết cậu rốt cuộc là sao mà đụng tới gì cũng có mùi biến thái hết vậy hả?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00052_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yo, so what are we lookin' for anyway?",
+      "Vietnamese": "Tui cũng có biết ất giáp gì về mấy thứ đồ cần xài đâu mờ."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00053_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is she really that dumb?",
+      "Vietnamese": "Còn bên đó não để trưng chắc?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00054_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "This goes riiight here.",
+      "Vietnamese": "Cái này thì để ở đây nhá..."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00055_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What the heck are you installing?",
+      "Vietnamese": "Lén lút lắp cái gì đấy?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00056_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Speakers.",
+      "Vietnamese": "Hở? Loa thôi mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00057_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What?",
+      "Vietnamese": "Hả?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00058_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Of all the portable speakers, these ones are the best. These bad boys can turn any place into a raging mosh pit, complete with dives and crowd surfing.",
+      "Vietnamese": "Trong phân khúc loa mini thì con này bá cháy nhất rồi. Bất kể là ở đâu, cứ bật lên phát là thành cái vũ trường quẩy hết nấc, tha hồ ngụp lặn giữa biển người luôn."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00059_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "NOT HAPPENING. Put those things away!",
+      "Vietnamese": "ĐỪNG CÓ BẬT LÊN!! CÒN NẾU BẬT THÌ\nCHỌN BÀI ĐÀNG HOÀNG GIÙM CÁI!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00060_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": "Ơ kìa..."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00061_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No back talking.",
+      "Vietnamese": "Không có \"Ơ kìa\" gì sất."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00062_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "As the only sane person in this clown fiesta...I'm beginning to seriously question my future... How long can I keep going like this?",
+      "Vietnamese": "Cả cái đội sáu người mà duy nhất mình tôi tỉnh trí... Rồi đây tinh thần có trụ tới cuối nổi không chứ... Bất an khủng khiếp luôn..."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00063_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "What? I'm here too, you know.",
+      "Vietnamese": "Ủa? Chẳng phải vẫn còn em đây sao?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00064_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, I know, but...wait. You don't know?",
+      "Vietnamese": "Đâu có... Ớ? Không tự nhận thức được mình đang thuộc phe vô tri luôn à...?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00065_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "No, no, that's not it...",
+      "Vietnamese": "Đâu có đâu..."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00066_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No! You don't know what you don't know!",
+      "Vietnamese": "Có đâu mà đâu có..."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00067_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Now's really not the time for a \"You Know, You Know\"-showdown, you know. Unless you two have already finished checking?",
+      "Vietnamese": "Mấy bồ đang thi nối chữ hả. Kiểm tra xong xuôi hết chưa?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00068_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Calling all new recruits. Please make your way to the cafeteria. Your dinner awaits.",
+      "Vietnamese": "Toàn thể đơn vị vừa nhập ngũ trong ngày hôm nay, hãy tập trung tại nhà ăn.\\nBữa tối đã được chuẩn bị xong."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00069_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woah, dinnertime already?",
+      "Vietnamese": "Úi chà, mới đó mà đã đến giờ ăn tối rồi à."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Dinnertime already?",
+      "Vietnamese": "Mới đó mà đã đến giờ ăn tối rồi à?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Let's eat!|Wanna grab a bite, kids?",
+      "Vietnamese": "Ăn cơm thôi cả nhà ơi!|Lượn vài vòng"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00070_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's eat! I'm starving over here.",
+      "Vietnamese": "Đi ăn cơm thôi cả nhà ơi. Vận động tay chân xong đói rã cả ruột."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00071_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "All you did was play Uno.",
+      "Vietnamese": "Chỉ giỏi ngồi chơi UNO thôi chứ vận động cái búa."
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00072_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wanna grab a bite, kids?",
+      "Vietnamese": "Lượn lờ đâu đó cho giãn gân giãn cốt trước khi ăn không?"
+    },
+    {
+      "Key": "VC_MC00_00_09_08_Novel_00073_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why do you sound like a soccer mom after practice? All we did was play Uno.",
+      "Vietnamese": "Làm như vừa đi cày ruộng về không bằng. Nãy giờ cậu toàn chơi UNO chứ đã vận động miếng nào đâu mà bày đặt?"
+    }
+  ],
+  "Inserts": [
+    {
+      "After": "VC_MC00_00_09_08_Novel_00008_YIzumi",
+      "Lua": "local note = Adv.NoteInfoCustom([[※UNO là trò chơi bài mà người chơi lần lượt đánh lá cùng màu hoặc cùng ký hiệu, ai hết bài trước sẽ thắng.]],1000)\r\nAdv.show(note,0.3)"
+    },
+    {
+      "After": "VC_MC00_00_09_08_Novel_00009_RKayamori",
+      "Lua": "Adv.hide(note, 0.3)"
+    },
+    {
+      "After": "\"VC_MC00_00_09_08_Novel_00023_YIzumi\")elseif select==1 then",
+      "Lua": "local note2 = Adv.NoteInfoCustom([[※UNO là trò chơi bài mà người chơi lần lượt đánh lá cùng màu hoặc cùng ký hiệu, ai hết bài trước sẽ thắng.]],1000)\r\nAdv.show(note2,0.3)"
+    },
+    {
+      "After": "VC_MC00_00_09_08_Novel_00024_RKayamori",
+      "Lua": "Adv.hide(note2, 0.3)"
+    }
+  ]
+}

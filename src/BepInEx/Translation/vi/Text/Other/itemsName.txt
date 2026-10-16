@@ -3,21 +3,21 @@
 #Recruitment (Duplicate Memoria Drawn)=<size\=80%>Gacha (Chiêu mộ trùng mảnh)
 #
 #r:"^Crystal \((.+)\)$"=Pha lê ($1)
-#Convert excess Memoria shards=<size\=80%>Chuyển hoá mảnh Style dư thừa
-#Convert excess Memoria shards\nToken Exchange=<size\=80%>Chuyển hoá mảnh Style dư thừa\nCửa hàng Token
-#Convert excess Memoria shards\nToken Exchange\nConvert Shard Points=<size\=80%>Chuyển hoá mảnh Style dư thừa\nCửa hàng Token\nChuyển hoá điểm Mảnh Ghép
+#Convert excess Memoria shards=<size\=80%>Chuyển hoá mảnh Hồi Ức dư thừa
+#Convert excess Memoria shards\nToken Exchange=<size\=80%>Chuyển hoá mảnh Hồi Ức dư thừa\nCửa hàng Token
+#Convert excess Memoria shards\nToken Exchange\nConvert Shard Points=<size\=80%>Chuyển hoá mảnh Hồi Ức dư thừa\nCửa hàng Token\nChuyển hoá điểm Mảnh Ghép
 #
-#Protean Memoria Shard (A)=Mảnh Style Vạn Năng (A)
-#Protean Memoria Shard (S)=Mảnh Style Vạn Năng (S)
-#Protean Memoria Shard (SS)=Mảnh Style Vạn Năng (SS)
-#Protean Memoria Shard (SS <Resonance>)=Mảnh Style Vạn Năng (SS <Resonance>)
-#Convert excess Memoria shards\n=Chuyển hoá mảnh Style dư thừa
+#Protean Memoria Shard (A)=Mảnh Hồi Ức Vạn Năng (A)
+#Protean Memoria Shard (S)=Mảnh Hồi Ức Vạn Năng (S)
+#Protean Memoria Shard (SS)=Mảnh Hồi Ức Vạn Năng (SS)
+#Protean Memoria Shard (SS <Resonance>)=Mảnh Hồi Ức Vạn Năng (SS <Resonance>)
+#Convert excess Memoria shards\n=Chuyển hoá mảnh Hồi Ức dư thừa
 #
 #10-Roll Recruitment Ticket=Vé Gacha ×10 lần
-#One S-or-Above 10-Roll Recruitment Ticket=Vé Gacha ×10 lần ra 1 Style độ hiếm S trở lên
+#One S-or-Above 10-Roll Recruitment Ticket=Vé Gacha ×10 lần ra 1 Hồi Ức độ hiếm S trở lên
 #Anachrony Pass=Vé Dị Thời Không
 #Nordstrom Nanocrystal=Tinh thể Nordstrom
-#Memoria Leveling Primer=Sách Cường Hoá Style
+#Memoria Leveling Primer=Sách Cường Hoá Hồi Ức
 #r:"^Leveling Primer \(Lv. (\d+)\)$"=Sách Cường Hoá (Lv.$1)
 #r:"^Glistening Polish (.+)$"=Xi Đánh Bóng Lấp Lánh $1
 #

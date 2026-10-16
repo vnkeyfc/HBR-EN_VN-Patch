@@ -1,0 +1,264 @@
+{
+  "Script": "Story/AC01/Day01/Novel/AC01_01_03_04",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00093_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you find anything good?",
+      "Vietnamese": "Cậu có tìm được món nào ngon nghẻ không?"
+    },
+    {
+      "Key": "VC_AC01_00094_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I didn't have enough GP...",
+      "Vietnamese": "Tớ không đủ GP..."
+    },
+    {
+      "Key": "VC_AC01_00095_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just keep training, slowly but surely.",
+      "Vietnamese": "Có khi cứ ngoan ngoãn tự huấn luyện cày cuốc lại tốt hơn đấy."
+    },
+    {
+      "Key": "VC_AC01_00096_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Totally. Merry is AMAZING. Mad respect to her.",
+      "Vietnamese": "Đúng là vậy thật. Marie quá đỉnh. Tớ nể sát đất luôn."
+    },
+    {
+      "Key": "VC_AC01_00097_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can blabber all you want, but that doesn't mean we have any idea what you're talking about.",
+      "Vietnamese": "Tự nhiên cậu chêm vào câu chẳng ăn nhập gì với hoàn cảnh thì ai mà hiểu được."
+    },
+    {
+      "Key": "VC_AC01_00098_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? You went into a shop today too, right? So you saw Merry's awesomeness firsthand.",
+      "Vietnamese": "Ủa? Nay Yukkie cũng qua cửa hàng, bộ không tự mình trải nghiệm độ bá đạo của Marie à?"
+    },
+    {
+      "Key": "VC_AC01_00099_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well sure, but it seemed like typical customer service to me.",
+      "Vietnamese": "Tôi có đi, nhưng cậu ấy tiếp khách bình thường thôi mà."
+    },
+    {
+      "Key": "VC_AC01_00100_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's the crazy part! Why don't you get it?!",
+      "Vietnamese": "Đoạn đó mới là đỉnh đấy! Sao mấy bồ không hiểu thế nhỉ!?"
+    },
+    {
+      "Key": "VC_AC01_00101_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's so amazing about typical customer service?",
+      "Vietnamese": "Tiếp khách bình thường thì có cái quái gì mà đỉnh."
+    },
+    {
+      "Key": "VC_AC01_00102_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because she was helping me at the same time at a different store!",
+      "Vietnamese": "Vì cùng lúc đó tớ cũng đang được Marie tiếp khách ở một tiệm khác chứ sao."
+    },
+    {
+      "Key": "VC_AC01_00103_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "NO WAY!",
+      "Vietnamese": "ĐỈNH VÃAAAI!!"
+    },
+    {
+      "Key": "VC_AC01_00104_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmph, that's easy. It's like how we teleport in battle, ya know? With our Seraph powers.",
+      "Vietnamese": "Xì, cái mánh đó đơn giản rứa. Tụi mình lúc chiến đấu cũng xài Dịch Chuyển đó thôi. Là sức mạnh của Seraph đấy."
+    },
+    {
+      "Key": "VC_AC01_00105_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The use of Seraphim on base is forbidden.",
+      "Vietnamese": "Việc dùng Seraph trong căn cứ bị cấm mà..."
+    },
+    {
+      "Key": "VC_AC01_00106_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She didn't have anything like a Seraph, though.",
+      "Vietnamese": "Với cả Marie có cầm thứ vũ khí hung hãn như Seraph trên tay đâu."
+    },
+    {
+      "Key": "VC_AC01_00107_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ain't no way... You'd need to be somethin' like a superhuman for that...",
+      "Vietnamese": "Xạo quần... Thể lực kiểu quái gì vậy..."
+    },
+    {
+      "Key": "VC_AC01_00108_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She must have a twin, or a clone or something!",
+      "Vietnamese": "Chắc chắn là có uẩn khúc gì đó, kiểu như sinh đôi hay nhân bản vô tính chẳng hạn!!"
+    },
+    {
+      "Key": "VC_AC01_00109_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cappy...",
+      "Vietnamese": "Bé Tama này..."
+    },
+    {
+      "Key": "VC_AC01_00110_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is it?",
+      "Vietnamese": "D-Dạ..."
+    },
+    {
+      "Key": "VC_AC01_00111_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There is only ONE Merry!",
+      "Vietnamese": "Marie trên đời này chỉ có MỘT thôi!!"
+    },
+    {
+      "Key": "VC_AC01_00112_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Aaahhh!",
+      "Vietnamese": "ÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁ!!"
+    },
+    {
+      "Key": "VC_AC01_00113_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When did this turn into a ghost story?",
+      "Vietnamese": "Cớ sao tự nhiên lại biến thành chuyện ma thế này..."
+    },
+    {
+      "Key": "VC_AC01_00114_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's so amazing that it almost counts as one...",
+      "Vietnamese": "Nhưng mà sự thật đó cũng đủ sức rùng rợn rồi..."
+    },
+    {
+      "Key": "VC_AC01_00115_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Assuming it's true.",
+      "Vietnamese": "Chắc gì chuyện đó là thật."
+    },
+    {
+      "Key": "VC_AC01_00116_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I told ya, it is. I'm not one to go around lying.",
+      "Vietnamese": "Đã bảo là thật mà. Marie làm gì có lý nào lại đi lừa tớ chứ."
+    },
+    {
+      "Key": "VC_AC01_00117_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wouldn't put it past you to do that at all. Maybe you should be counting on her honesty.",
+      "Vietnamese": "Cậu thì hoàn toàn có khả năng bị lừa lắm. Cứ phó mặc cho sự thật thà của người ta đi."
+    },
+    {
+      "Key": "VC_AC01_00118_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am honest and pure in heart, though.",
+      "Vietnamese": "Tớ có trái tim thuần khiết mà lị."
+    },
+    {
+      "Key": "VC_AC01_00119_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd sooner buy that <i>she</i>'s pure in heart, not you.",
+      "Vietnamese": "Tôi đang bảo phó mặc cho sự thuần khiết của ĐỐI PHƯƠNG ấy."
+    },
+    {
+      "Key": "VC_AC01_00120_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, of course, she is too. We're both super honest people. Together, we'd rid the world of conflict. And even all the Cancers.",
+      "Vietnamese": "Đương nhiên là Marie cũng thuần khiết rồi. Hai tâm hồn đồng điệu thuần khiết, bọn tớ mà hợp sức lại thì thế gian này sẽ không còn chiến tranh nữa. Kể cả lũ Cancer luôn."
+    },
+    {
+      "Key": "VC_AC01_00121_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then why don't the two of you go into a Cancer nest together?",
+      "Vietnamese": "Thế thì hai đứa bây nắm tay nhau lao thẳng vào hang ổ Cancer đi."
+    },
+    {
+      "Key": "VC_AC01_00122_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Cause we'd die, of course!\\nWhat, does my life mean that little to you, Yukkie?!\\nI thought we were friends!",
+      "Vietnamese": "Thế thì tớ ngỏm mất!! Cái gì cơ!? Bồ định bỏ mặc tớ sao, Yukki!? Đồng đội cơ mà!?"
+    },
+    {
+      "Key": "VC_AC01_00123_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You said it first.",
+      "Vietnamese": "Tự cậu nói ra trước mà."
+    },
+    {
+      "Key": "VC_AC01_00124_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyway, she said they'd be surveying the underground area later even though it's supposed to be a day off.",
+      "Vietnamese": "Hơn nữa hôm nay rõ là ngày nghỉ, thế mà Marie lại bảo chiều nay phải đi khám phá dưới lòng đất đó."
+    },
+    {
+      "Key": "VC_AC01_00125_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it really okay that we're the only ones taking it easy?",
+      "Vietnamese": "Chỉ có mỗi tụi mình là được thong thả nhởn nhơ thế này, liệu có sao không nhỉ..."
+    },
+    {
+      "Key": "VC_AC01_00126_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We won, though. But...",
+      "Vietnamese": "Rõ ràng là tụi mình đã thắng cơ mà..."
+    },
+    {
+      "Key": "VC_AC01_00127_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that we're refreshed after a spot of shopping, why don't we drop by the commander's office and see if she has something for us.",
+      "Vietnamese": "Lượn window shopping nãy giờ cũng xả stress rồi, hay chiều nay tụi mình ghé phòng Chỉ huy xem có việc gì không đi."
+    },
+    {
+      "Key": "VC_AC01_00128_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good idea! Let's do that!",
+      "Vietnamese": "Được...! Tới bến luôn đi!!"
+    },
+    {
+      "Key": "VC_AC01_00129_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh well. Guess I'll come too.",
+      "Vietnamese": "Thiệt tình. Tui đi chung với mấy bà vậy."
+    },
+    {
+      "Key": "VC_AC01_00130_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're supposed to be having the day off, you know.",
+      "Vietnamese": "Rõ ràng là ngày nghỉ cơ mà..."
+    },
+    {
+      "Key": "VC_AC01_00000_v001_STezuka",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Ruka Kayamori and all other members of Squad 31-A, report immediately to the commander's office.",
+      "Vietnamese": "Yêu cầu đội trưởng Kayamori cùng toàn bộ thành viên 31A lập tức có mặt tại phòng Chỉ huy."
+    },
+    {
+      "Key": "VC_AC01_00131_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This timing...what a spooky coincidence.",
+      "Vietnamese": "Bị gọi vào cái thời điểm rùng mình thật đấy..."
+    },
+    {
+      "Key": "VC_AC01_00132_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have a bad feeling about this...",
+      "Vietnamese": "Tớ có dự cảm chẳng lành..."
+    },
+    {
+      "Key": "VC_AC01_00133_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We should head over there right away.",
+      "Vietnamese": "Chúng ta nên mau chóng tới đó thì hơn."
+    },
+    {
+      "Key": "VC_AC01_00134_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, let's go.",
+      "Vietnamese": "Ừ, đi thôi."
+    }
+  ],
+  "Inserts": []
+}

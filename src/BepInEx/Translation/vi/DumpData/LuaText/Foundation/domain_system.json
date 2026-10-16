@@ -1,0 +1,36 @@
+{
+  "Script": "Foundation/domain_system",
+  "Entries": [
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Charisma +{0}!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Openness +{0}!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Kindness +{0}!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Determination +{0}!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Eccentricity +{0}!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Silliness +{0}!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

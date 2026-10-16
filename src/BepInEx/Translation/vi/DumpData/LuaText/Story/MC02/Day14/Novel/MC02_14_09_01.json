@@ -1,0 +1,360 @@
+{
+  "Script": "Story/MC02/Day14/Novel/MC02_14_09_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00693_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmmm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00694_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you pondering over? Usually you'd be taking up the guitar without a second thought.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00695_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know how lately we've just been working our selves to the bone with all the training and patrol duty?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00696_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. So you want to put band practice on hold for a little bit? That sounds like a great idea.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00697_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I was thinking we should do a concert to blast all that fatigue away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00698_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That'll have the opposite effect! Fatigue adds up! It's definitely not going to get blasted away by a concert!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00699_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why not? A change of pace is the best cure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00700_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. The best cure is proper rest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00701_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Naw, she's got a point. I've been thinkin' I wanna blast away my pent-up psychic powers, so this'd be a good opportunity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00702_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're just pent-up because you haven't found a way to use your psychic powers in battle. That's not really insightful.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00703_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I WANT TO SHREEED!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00704_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shred what? What kind of impulse are you talking about? This also isn't insightful in the slightest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00705_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I WANT TO SHRED SOME VOCAL CORDS!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00706_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Strange. A couple extra words suddenly makes it seem like you're talking about the concert.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00707_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've made up my mind. It's do or die!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00708_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In a war-torn era like this, you should be saving that kind of dramatic declaration for a more serious scene. Also, not at all insightful.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00709_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I do my best under pressure, so this is my chance to really let that shine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00710_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do your best in <i>battle</i>. Why are you putting that much effort into what amounts to a hobby? Not insightful!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00711_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about you, Aoi? You might get nervous at the start, but you'll feel amazing after it's all done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00712_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe that kind of experience of success is exactly what I need right now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00713_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, I...I'd like to do it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00714_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat?! I thought no one's answers were insightful, but in the end everyone's on board with this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00715_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, duh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00716_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about you, Asakura?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00717_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd like to experience that sense of urgency and accomplishment one more time...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00718_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you count Karrie's opinion too, we've got seven votes total in favor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00719_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is a total loss. I can't even push back against such a large majority vote!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00720_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The last concert was pretty short, so let's do a longer one this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can only do one song right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00721_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, true. I guess we can't run the old set list as it is now. We gotta practice so we can play new songs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00722_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's the next song we're going to learn? Another cover?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It can get pretty boring just doing covers, so why don't we make new songs starting with this next one?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00034_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, genius. Good luck with that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we're doing it all together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00723_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, stop. So you're saying we're going to be training, patrolling, writing new songs, and preparing for the concert all at the same time? What do you think we are?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Multi-talented super soldiers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00038_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What kind of weird new job is that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're professional multi-taskers of music and combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00040_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I get it. But no, I don't get it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways, it'll be super fun, so...you wanna do it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This would be a great time for one of those dialogue selection screens to pop up for me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'mon, you'd totally press \"Yes\"!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00044_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I would NOT.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But if you don't, it'd be game over for you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00046_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a ridiculously unfair game.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00047_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So anyways, let's just get started already!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00048_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're so pushy about this as usual...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00049_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So we're just going to start without any specific ideas?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00050_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's just choose the BPM and chord progression and let it work out from there. Do what you like, what feels best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00051_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can we really succeed by seeing where the wind takes us?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00052_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's how I've always done it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00053_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Music is a lot easier than I thought!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00054_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's disrespectful to the people who are actually serious about music.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00055_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No wonder they call you \"Kayamori, the musical genius\"...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00056_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We were able to jam it out great last time. I think with where we are now, you're all going to be just fine. So let's do it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Should we call it a day for today?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00058_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...I think our skills aren't quite there yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00059_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's all practice on our own time for the next jam session!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_10_01_Novel_00060_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why do we have to go out of our way to do that?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

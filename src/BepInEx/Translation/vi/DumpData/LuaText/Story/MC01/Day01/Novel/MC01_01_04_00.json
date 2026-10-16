@@ -1,0 +1,300 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_04_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Next, your means of communication.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You are already familiar with the Military Electronic Personal Assistant Devices, yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The mePads! They're completely waterproof, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00003_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. They are also capable of being used in communication. Heed that as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Using the mePad's telecommunication functionality, it is possible to communicate tactical maneuvers and such with your squad. We call this feature \"RINNE.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "...RINNE, huh. Isn't that supposed to stand for Ring Interconnected Neural Network Ecosystem?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00006_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Correct. It is also the name of a technology that is now lost to us. We're making do with what's left.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00007_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Simply open up the app on your mePad and text what you'd like to say. You can also send video and voice recordings.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00008_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ain't need no app when I can send messages straight to the brain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Sounds unnerving. Consider mine off limits.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So it's basically a cell phone, right? Works for me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00011_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "While in combat, you will receive orders via your mePad's wireless communications function. Always be ready to receive such orders.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Keep in mind, while transmission is possible on base thanks to our antenna, the same is not true outside.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Due to certain types of Cancers interfering with the signal, the scope of our transmissions is greatly limited compared to the past. You must always be vigilant of this while in the field.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00014_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Lastly, even on base, the sending of messages uses precious resources. Indiscriminate and unauthorized use will result in the corresponding amount of manual labor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00015_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Eek?! Forced manual labor?! Nuh-uh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed! No way, no way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Just don't use it all the time and you'll be fine. But not using it enough could also be a problem while we're out on missions, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00018_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I'll leave the finer details to you, Nanase. Take it away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00019_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Right. Everyone, please open your mePads to this screen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00020_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That concludes your mePad briefing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00113_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Moving on, today's final briefing is on your curriculum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00022_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "This first week, you will undergo virtual training in an emulation facility, known as the arena, to acclimate you to combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00023_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your second week will involve actual battles against the Cancer and preparations for deployment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't that gonna be, like...really freaking exhausting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00025_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. You will be worked to the bone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But I've been a good girl up till now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00027_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Without your best efforts, humanity will perish.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Then it's time I finally give it my all...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00029_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Same here. I'm gettin' real fired up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00114_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "One last thing. Squad Leader Kayamori, I will now explain your power of appointment as part of the Mentorship Program.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00017_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "This system exists to further strengthen the level of each squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00018_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "With it, you may request the support of a member from another squad and have them temporarily join you in battle, thereby increasing your proficiency in combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00019_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Learning from one another is a vital, guiding principle of the Seraph Squadron—no, humanity itself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00020_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As such, this system is prioritized above all else. A support request cannot be refused, on any grounds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00021_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Wow... So we can learn from anyone we want in the whole academy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00022_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori, by saying this, you can request the aid of another student:",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00023_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "By the power invested in me as squad leader of 31-A, I hereby appoint you as our mentor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So, once I say that, they're at my mercy whether they like it or not.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You sound like a petty villain...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00026_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You will also be \"at the mercy\" of other squad leaders, should they say this to you. Keep that in mind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00027_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Nooo! I refuse to be worked as a mindless cog in the machine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00028_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What are you, a freeloader?! Prove your mettle as a former ship captain!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_00_Novel_00029_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Do not forget this system, understand?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00030_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "This afternoon, you will be engaging in combat training. After lunch, gather at the arena. Nanase will guide you there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All right! Time to stuff face!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What happened to the bathroom, Miss \"I'm Gonna Wet Myself\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I reeled it in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_04_00_Novel_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You WHAT?!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

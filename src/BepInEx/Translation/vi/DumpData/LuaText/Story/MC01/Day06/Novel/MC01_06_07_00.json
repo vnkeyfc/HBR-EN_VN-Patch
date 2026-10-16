@@ -1,0 +1,154 @@
+{
+  "Script": "Story/MC01/Day06/Novel/MC01_06_07_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You appear to have collected yourselves. Now, let us begin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00001_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "It can't be! Is that—?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "A mePad!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00003_STezuka",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Remnants of a soldier's dreams!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00004_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "A Seraph Code!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00005_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "The commander has a Seraph, too?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00006_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "What a sinister-looking weapon!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00007_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Come forth, overcome the obstacle in your way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There's only one way forward...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What to say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Here goes!|Have at her, girls!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Have at her, girls!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait! You're in this, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh...I guess I'm gonna have to join in, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What was that about? Siccing us on her like hounds or something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah. I'm the one at the console, legs crossed, monitoring all the screens.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There IS no console, dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Guess so. Then in that case...formations, everyone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00018_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00019_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00020_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "H'all righty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00021_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_00_Novel_00022_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,7 +1,6 @@
 # Home Menu
 Move Cursor=Con trỏ
 Next Page=Tiếp tục
-Return=Trở về
 
 # Unit
 Copy Formation=Sao chép
@@ -47,14 +46,14 @@ Claim All=Nhận nhanh
 
 # Exchange
 Exchange=Đổi
-About SS Memoria Exchange=Chi tiết về cửa hàng Style SS
+About SS Memoria Exchange=Chi tiết về cửa hàng Hồi Ức SS
 Confirm/Remove=Xắc nhận/Bỏ chọn
 
 # Craft
 Craft=Chế tạo
 
 # Style
-Switch Variants=Chuyển Style
+Switch Variants=Chuyển Hồi Ức
 Display Illustration=Xem ảnh minh hoạ
 Details on MLv.=Chi tiết về SLv.
 Details on Limit Break=Chi tiết về Đột Phá Giới Hạn

@@ -8,13 +8,14 @@
 
 [Spark]
 交換Pt=Điểm tích luỹ
-Remaining: Unlimited=Số lần đổi: Không giới hạn
+Unlimited=Không giới hạn
+sr:"^Remaining: (.+)$"=Số lần đổi: $1
 交換一覧=<size\=80%>Đổi thưởng</size>
 所持交換Pt=Điểm đổi hiện có
 交換所ラインナップ=Danh sách đổi thưởng
 Already Held=Đã sở hữu
 未所持=Chưa sở hữu
-※すでに所持しているスタイルを交換するとピースに変換されます。=※Nếu bạn đổi Style đã có sẵn, Style sẽ tự động chuyển hóa thành "Mảnh Ghép" tương ứng.
+※すでに所持しているスタイルを交換するとピースに変換されます。=※Nếu bạn đổi Hồi Ức đã có sẵn, Hồi Ức sẽ tự động chuyển hóa thành "Mảnh Ghép" tương ứng.
 
 [Quartz]
 有償=Có phí
@@ -28,32 +29,32 @@ Results=Kết quả
 Recruitment Results=Kết quả Gacha
 
 [Utils]
-スタイル選択=<size\=90%>Chọn Style
-One S or above guaranteed!=<size\=85%>Chắc chắn nhận 1 Style S trở lên!</size>
-S or above guaranteed!=<size\=90%>Chắc chắn nhận 1 Style SS!</size>
-1 × SS guaranteed!=<size\=90%>Chắc chắn nhận 1 Style SS!</size>
-1 or more SS guaranteed!=<size\=90%>Chắc chắn nhận Style SS!</size>
+スタイル選択=<size\=90%>Chọn Hồi Ức
+One S or above guaranteed!=<size\=85%>Chắc chắn nhận 1 Hồi Ức S trở lên!</size>
+S or above guaranteed!=<size\=90%>Chắc chắn nhận 1 Hồi Ức SS!</size>
+1 × SS guaranteed!=<size\=90%>Chắc chắn nhận 1 Hồi Ức SS!</size>
+1 or more SS guaranteed!=<size\=90%>Chắc chắn nhận Hồi Ức SS!</size>
 r:"(\d+) free recruitment\(s\) available"=Còn $1 lần chiêu mộ miễn phí
 r:"(\d+) time\(s\) left"=Còn $1 lần
 r:"^Spend (\d+) Quartz to perform (\d+) recruitment\(s\)\?$"=Tiêu hao $1 Quartz để thực hiện $2 lần chiêu mộ?
 ガチャによって内容が異なります。必ず詳細をご確認下さい。=<size\=140%>※Nội dung sẽ thay đổi tùy theo từng Gacha. Vui lòng kiểm tra tại phần Chi tiết / Tỉ lệ.
 sr:"^<style\=RubyPrefixTag></style>\nYou became friends with\n(.+)!$"=<style\=RubyPrefixTag></style>\n$1\nđã trở thành đồng đội của bạn!
 ※交換可能なPt数に達しました=※Bạn đã đủ điểm để đổi thưởng
+New Memoria 1st Acquisition\nLimit Break Lv. 1=Sở hữu Hồi Ức mới ra mắt\nnhận Đột Phá Giới Hạn Lv.1
 
 Free once per day!=<size\=95%>Miễn phí mỗi ngày!</size>
 <size\=22>Featured Recruitment Now ON</size>=<size\=22>Chiêu mộ đặc biệt đang diễn ra</size>
 
-Memoria Selection=<size\=80%>Lựa chọn Style</size>
+Memoria Selection=<size\=80%>Lựa chọn Hồi Ức</size>
 Use Selection Ticket=Sử dụng vé lựa chọn
 Purchase Set(s)=Mua gói
+r:"^<size\=24>Recruit</size> <size\=28>x (\d+)</size>$"=<size\=26>Chiêu mộ</size><size\=22> ×</size><size\=28>$1</size>
 Recruit x 1=Chiêu mộ<size\=25> ×</size>1
 Recruit x 10=Chiêu mộ<size\=25> ×</size>10
-<size\=24>Recruit</size> <size\=28>x 1</size>=<size\=26>Chiêu mộ</size><size\=22> ×</size><size\=28>1</size> 
-<size\=24>Recruit</size> <size\=28>x 10</size>=<size\=26>Chiêu mộ</size><size\=22> ×</size><size\=28>10</size> 
 
-SS-Guaranteed Recruitment Scrip (Weekly Mission)=Mảnh Gacha đảm bảo Style SS (Nhiệm vụ hằng tuần)
-SS-Guaranteed Recruitment Scrip=Mảnh Gacha đảm bảo Style SS
+SS-Guaranteed Recruitment Scrip (Weekly Mission)=Mảnh Gacha đảm bảo Hồi Ức SS (Nhiệm vụ hằng tuần)
+SS-Guaranteed Recruitment Scrip =Mảnh Gacha đảm bảo Hồi Ức SS
 
-Choose one Memoria you like from the available selection!=Chọn một Style SS bạn muốn từ danh sách lựa chọn có sẵn!
+Choose one Memoria you like from the available selection!=Chọn một Hồi Ức SS bạn muốn từ danh sách lựa chọn có sẵn!
 Proceed with current selection?=Xác nhận lựa chọn này?
-You may perform a recruitment after selecting 1 Memoria(s). Selections may be altered.=<size\=90%>Bạn được phép chiêu mộ sau khi chọn 1 Style xong. Lựa chọn của bạn có thể hoàn tác mọi lúc.
+You may perform a recruitment after selecting 1 Memoria(s). Selections may be altered.=<size\=90%>Bạn được phép chiêu mộ sau khi chọn 1 Hồi Ức xong. Lựa chọn của bạn có thể hoàn tác mọi lúc.

@@ -1,0 +1,192 @@
+{
+  "Script": "Story/MC02/Day09/Novel/MC02_09_11_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00000_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Ruka. You come here too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600053_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, you're here too, Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As popular as I am, even I need some alone time with my thoughts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00002_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That makes sense. You're always the center of attention in your squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Probably because Yukkie's such a huge fan of mine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even though you just met?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I used to be a rock star back in the day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00006_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?! Now that you mention it, your name DID sound kind of familiar...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was the lead singer of She is Legend.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00008_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Earlier, with the sheet music on the mePad, I thought it was just a coincidence, but...that was REAAAL?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I-I see... I-It's a pleasure...to make your acquaintance. I am Erika Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No need to go all nervous on me, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "B-But that's what happens with famous people...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here, have a candy cigarette and calm down a little.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00013_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "O-Okay. Thank you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pheeew... That's the stuff.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00015_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, you're right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00016_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Actually, cacao-rich dark chocolate helps dilate peripheral blood vessels, improve blood flow, and heal wounds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow! Now that's my hyperthymesian!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00018_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not a country, you know. If you're talking about a person like me, it's \"hyperthymesiac.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Feeling better now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00020_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, thank you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00511_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whewww... So how are you holding up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00512_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Things are still difficult, but I'm more optimistic than I was.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00513_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that's what I like to hear!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00024_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's all thanks to your kind words, Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00025_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And, I guess Ruka Kayamori, the lead singer of She is Legend's words too, huh? Oh no, I've got goosebumps...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Those days are behind me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00027_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know, I'm not the only one. I'm pretty sure your squad believes in you, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_10_00_Novel_00029_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It'd really be nice if they did.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

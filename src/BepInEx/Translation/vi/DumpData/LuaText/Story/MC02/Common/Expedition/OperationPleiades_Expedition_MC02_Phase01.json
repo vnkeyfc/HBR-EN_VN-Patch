@@ -1,0 +1,106 @@
+{
+  "Script": "Story/MC02/Common/Expedition/OperationPleiades_Expedition_MC02_Phase01",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "Phase One Area",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Operation Pleiades",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600235_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka. That torii gate we just passed marks the location of Afuri Shrine",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600236_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohhh. Then that's the end of today's operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600237_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where are you getting that? We literally just started.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600238_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't we banter about this before?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600240_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So this is Yabitsu Pass...or Point Alpha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600241_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm getting a little tired... Ruka, could you soothe us with your alpha waves?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600242_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, did you seriously believe what I said before?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600243_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe, it was just a joke. Let's keep moving forward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600245_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka... There's a large enemy up ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600246_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess they're the reason why we're doing this operation all on foot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600247_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With a huge Cancer like that hanging around, all the helicopters would be shot out of the air.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600248_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What should we do? Our designated route goes straight through this direction. We can't go around it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600249_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The only thing we can do is fight it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600250_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true... We've trained and prepared a long time for this whole operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600251_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then we better get on it quick. Let's go, Ruka!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

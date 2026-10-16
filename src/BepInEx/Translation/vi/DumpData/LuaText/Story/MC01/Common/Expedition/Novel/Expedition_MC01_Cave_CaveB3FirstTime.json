@@ -1,0 +1,120 @@
+{
+  "Script": "Story/MC01/Common/Expedition/Novel/Expedition_MC01_Cave_CaveB3FirstTime",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey... Why do you think 31-C is so desperate to win, anyway?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I mean, no one likes to lose, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, that's true, but... I'm still wondering what Satsuki was hinting at earlier.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She suddenly became really serious. Did you notice?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Eh, nothing wrong with being serious about winning, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I know, but...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00006_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Sh-Shouldn't we keep going?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00007_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "The further down we go, the colder and colder it gets!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00008_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "You're right... I'm getting goosebumps all over!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_Z900000025_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hah! What a bunch of weaklings! This li'l bit of cold isn't affecting me at all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00010_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Wow! So that old saying really IS right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00011_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "How did it go again? Something about idiots being immune to colds?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00012_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "The hell? You tryna pick another fight?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00013_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "This Narby's eyes are lovely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "WHAT Narby?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Anyway, Kunimi's right. We shouldn't stick around here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancers lurking about are sure to be stronger the deeper we get.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We should proceed carefully.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB3FirstTime_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed. Everyone ready?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

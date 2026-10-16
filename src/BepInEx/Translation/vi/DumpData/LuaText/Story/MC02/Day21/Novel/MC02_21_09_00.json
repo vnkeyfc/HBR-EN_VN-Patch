@@ -1,0 +1,192 @@
+{
+  "Script": "Story/MC02/Day21/Novel/MC02_21_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder what's for dinner tonight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like meat's on the menu!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yaaay! Is it steak?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00003_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't know, but we're winning tonight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You sure are cheery, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00005_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait a minute... That ain't right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00006_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's beef tongue.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? ONLY beef tongue?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you mean, only? Beef tongue is a pretty expensive cut.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It doesn't count! Beef tongue doesn't taste like real meat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Weren't you recommending beef tongue to the girls at 31-C that one time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's a huge difference between recommending food and actual preferences!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You should at least stay consistent with what you like and what you recommend.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course it counts, you big baby. Meat is meat, isn't it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Noo, beef loins and ribs are way better!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00948_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Beef tongue is a little hard to eat, especially with how thick it can get.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah! Tongues are tongues! Who wants to tongue a tongue with their own tongue?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You'll get chewed out for saying that, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If I had to tongue a specialty from the same region, I'd prefer it be zunda mochi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, no thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "</i>You</i>'ll get chewed out for saying that, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Crap, you're right...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00022_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Though, this one's made with mugitoro.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mugitoro? I love that stuff!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Took her long enough to shut up and start eating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00026_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The hell... Were beef tongues always this juicy?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00027_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's chewy, but melts in your mouth... This must be the real deal!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How does someone who's been at sea for years know what the \"real deal\" tastes like?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y'know, that was a lot tastier than I expected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_09_00_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good for you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

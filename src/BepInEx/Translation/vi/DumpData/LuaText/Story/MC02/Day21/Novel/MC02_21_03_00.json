@@ -1,0 +1,160 @@
+{
+  "Script": "Story/MC02/Day21/Novel/MC02_21_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Air pressure refers to the pressure that air and other gases exert on matter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00001_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's also closely related to temperature and volume.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For example, if you heat the gas within a piston-type gas cylinder, the gas's volume increases.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00003_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori, do you know what this phenomenon is called?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What's it called when a gas's volume increases due to temperature?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Gestaltzerfall|Pascal's theorem|Charles's law",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it Charles's law?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00005_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it Pascal's theorem?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00008_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00010_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is Charles's law.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it Gestaltzerfall?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00012_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where did that one even come from? It doesn't even sound real.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To be honest, I've got no clue what it means. But doesn't it sound cool?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow. You function by the Rule of Cool, I guess.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00017_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is Charles's law.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00018_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, if the temperature of the gas remains constant, pressure is inversely proportional to volume. This is called Boyle's law, which is paired with Charles's law as the combined gas law.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00019_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The combined gas law, summarized simply, states that air pressure is correlated to absolute temperature and inversely correlated to volume.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00020_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "By the way, absolute temperature doesn't use Fahrenheit or Celsius as the unit of measurement.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00021_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With absolute temperature, the point at which an atom or molecule ceases to move is considered zero degrees.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_03_00_Novel_00023_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In any case, we can get into more depth with this at another time.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

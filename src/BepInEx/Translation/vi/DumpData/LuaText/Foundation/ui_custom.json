@@ -1,0 +1,21 @@
+{
+  "Script": "Foundation/ui_custom",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Give up and return to the Home screen?",
+      "Vietnamese": "Bỏ cuộc và quay về Màn hình chính?"
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Expand the store?\nCurrent GP: {0}\nGP Required: {1}\nDisplayable Products: {2}→{3}",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "You don't have enough GP.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

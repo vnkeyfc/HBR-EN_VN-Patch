@@ -1,0 +1,150 @@
+{
+  "Script": "Story/MC02/Day19/Novel/MC02_19_06_04",
+  "Entries": [
+    {
+      "Key": "VC_MC02_19_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Training complete. There were no notable mistakes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_02_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It looks like today was issue-free.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00831_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I was sooo bored the whole time, I started getting war flashbacks to when I was waiting during music festivals. Is it supposed to be this easy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00832_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There weren't a lot of enemies this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00833_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, it was harder just tryin' to keep alert 'n' focused.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00835_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even while we were retreating, there were only a few Cancer that we encountered.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00836_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is all after the enemies have been wiped from the operation zone. There shouldn't be many enemies at all at this point, even in the real mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00837_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The encounter rates are also randomized in the simulation, so these things can happen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00838_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, if you ever let your guard down, you'll really regret it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00839_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The most important thing is to keep working under the assumption that there could be enemies nearby at any time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I guess that's what we've been training for all this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_02_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true. We've been able to coordinate with the members of 31-A much more efficiently now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_02_Novel_00004_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're all shaping up well. Tomorrow is the last training day for Phase Five, so stay attentive and keep up the good work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00840_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's all for today. Dismissed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00841_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00842_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is the end of training for today. Good work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00843_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, Cadet Aikawa ended up falling asleep while on standby, so this session has been deemed a failure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00844_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry 'bout that! I didn't mean to!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00845_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'mon, what the heck were you thinking? This is serious training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00846_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Additionally, Cadet Kayamori was also sleeping, so she is also at fault.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00847_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Darn, I've been found out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00499_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh*... Unfortunately, you leave me with no other option than to conclude that 31-A is unsuitable for this mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

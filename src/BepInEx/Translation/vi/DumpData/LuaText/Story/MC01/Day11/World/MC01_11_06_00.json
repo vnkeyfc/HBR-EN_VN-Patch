@@ -1,0 +1,81 @@
+{
+  "Script": "Story/MC01/Day11/World/MC01_11_06_00",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The battles ahead will be difficult, so be sure to make the necessary preparations.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00003_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Are your preparations complete?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter the dungeon?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Head out|Not yet",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Abandoned Mines—Level 1",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00005_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "You can never be too prepared. Please come and talk to me once you're ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00294_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My psychic powers are about to start blossomin’. The Cancers will know my name!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00295_v002_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Something's over there. It's movi—\\nGUHAAAIEEE!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00296_v002_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It was just a weasel...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00297_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, you're the leader, so keep your wits about you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00298_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "More than winning, I just want everyone to stay safe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00299_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How about we fight with a vanguard, mid guard, and rearguard today?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00300_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Although that might spread us out a bit too thin.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

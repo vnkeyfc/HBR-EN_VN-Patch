@@ -1,0 +1,492 @@
+{
+  "Script": "Story/MC02/Day04/Novel/MC02_04_10_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00000_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "A supermarket?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00001_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "And a big one, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I never noticed it during the daytime. Wanna go in?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00003_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Whoa! It's huge!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00005_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "There are so many aisles, I can't tell where anything's at.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00006_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, you brought the rest of the squad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You betcha, Cappy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00008_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ya really gotta bring everyone here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00009_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't be like that, Megumi. Now we can all have fun exploring it together!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00010_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How's this? We all go around, and whoever buys the coolest thing wins.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're really going to have a competition based on such vague criteria?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00013_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Something that'll make you go, \"Whoa, not what I was expecting!\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're actually on the same wavelength as her...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00015_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine. Bring it on!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure changed your tune...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ready... Set...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, there are at least two people here with...interesting choices.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's just show-and-tell in order of who came back first. Sound good?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, who's first?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00021_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me! Your humble former captain!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohhh, Cappy. Show us the goods.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00023_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Behold!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00024_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00025_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A wooden crate?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00026_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a wooden bee hotel!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00027_MAikawa",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "Who the heck would buy that?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They sell those here? Definitely not something I was expecting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00029_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not bad, not bad at all...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, who's next?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00031_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okie-dokie, Karerin. Show us the goods!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00033_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here it is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00034_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait... That's...a wedding ring?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00035_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who on earth would buy a wedding ring at a supermarket?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00036_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, they were selling them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Another thing I never would've expected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00038_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, she's good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, who's next?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00040_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That would be me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, Tsukassie. Share your haul!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00042_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00043_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's this? Some kind of snack?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00044_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A Hokkaido sandwich cookie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00045_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What did you do, go to Sapporo?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00046_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, just over there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00047_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They really do sell everything here, huh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't expect them to sell regional souvenirs, that's for sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So who's next?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00050_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That'd be me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, huh? There's no one creepier... What is it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00052_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00053_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A piece of paper?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00054_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a travel coupon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00055_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vacation at a time like this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00056_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where would you even go?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00057_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't ask me. I just bought it because they had it for sale.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00058_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie's got luck on her side. Competition is fierce...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00059_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who's next?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00060_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00061_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Show us the goods, Megumin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00062_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's right in front of ya.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00063_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A barrel?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00064_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right. It's one of them barrels for aging whiskey.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00065_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who on base is aging whiskey?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00066_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No clue. Just caught my eye, so I grabbed it. Kinda heavy though, so I'll be leavin' it here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00067_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then don't buy it in the first place...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00068_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, last up is me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00069_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can already see it. What is it, a piece of furniture?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00070_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A coffin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00071_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00072_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know, what you put dead bodies in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00073_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's so cool!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00074_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How scary!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00075_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who would've even thought!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00076_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00077_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well then, guess that makes me the winner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00078_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why would you parade a coffin around in front of us right before bed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00079_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That was so fun! We should definitely play that game again sometime.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_02_Novel_00080_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Over my dead body.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,210 @@
+{
+  "Script": "Story/MC00/Day00/World/MC00_00_04_04",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the rendezvous point at the bridge!",
+      "Vietnamese": "Đi đến điểm tập kết ở cây cầu!"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Pick up the pace. We're just waiting for the two of you.",
+      "Vietnamese": "Xem ra chỉ còn lại mỗi mình nhóm các cô thôi đấy. Khẩn trương lên."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone is to gather at the bridge up ahead. Follow me.",
+      "Vietnamese": "Điểm tập kết là cây cầu phía trước. Theo chân tôi."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What on earth's happening? My processing capacity can't keep up!",
+      "Vietnamese": "Rốt cuộc là có chuyện gì thế này? Diễn biến nhanh quá mức rồi đấy..."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I guess the only thing we can do right now is follow her lead.",
+      "Vietnamese": "Trước mắt có lẽ cũng chỉ còn cách đi theo thôi nhỉ..."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "To move, hold or swipe the screen in the direction you'd like to go.",
+      "Vietnamese": "Có 2 cách để di chuyển: Vuốt và Giữ."
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "To move, hold the L stick in the direction you would like to go.",
+      "Vietnamese": "Giữ cần trái về hướng mà bạn muốn hướng đến."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Swiping will allow you to auto-run.",
+      "Vietnamese": "Vuốt nhanh để nhân vật tự động di chuyển theo hướng mong muốn."
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Tapping the L stick in same direction twice will allow you to auto-run.",
+      "Vietnamese": "Gạt đúp cần trái về hướng mong muốn để tự động di chuyển."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try heading to the bridge!",
+      "Vietnamese": "Hãy di chuyển đến điểm tập kết ở cây cầu!"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00008_TKunimi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Ah! Aaah! Gotta hurry!!!",
+      "Vietnamese": "Oa! Oa! Phải nhanh chân lên mới được!!"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00004_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Whew, ya girl's beat...",
+      "Vietnamese": "Chèn ơi, nản gì đâu..."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00005_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What in the—",
+      "Vietnamese": "Vụ gì dzậy trời..."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00006_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Ya know what, forget about it.",
+      "Vietnamese": "...Mà thôi, càng tốt."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00007_MAikawa",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I'll give you a taste of my powers.",
+      "Vietnamese": "Tui sẽ cho mấy người thấy hết thực lực của tui."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00009_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Looks like it's finally time.",
+      "Vietnamese": "...Cuối cùng thì giây phút này cũng tới rồi"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00010_TTojo",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Mom, watch over me.",
+      "Vietnamese": "Hãy dõi theo con nhé, mẹ ơi."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00011_KAsakura",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I wonder what all the fuss is about.",
+      "Vietnamese": "Để xem chuyện gì sắp sửa bắt đầu đây nhỉ."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, wrong way.",
+      "Vietnamese": "Này, có phải hướng đó đâu!"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Now's not the time to embrace your inner rebel.",
+      "Vietnamese": "Đừng có lựa những lúc oái oăm như này mà nổi loạn chứ..."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Didn't you hear me? Wrong way.",
+      "Vietnamese": "Đã bảo rồi, không phải hướng đó mà!"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I don't want you to get me into trouble on my first day here.",
+      "Vietnamese": "Tôi chẳng muốn mới ngày đầu đã bị ăn mắng lây đâu nhé..."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wow.. You're doing this on purpose, huh?",
+      "Vietnamese": "Này, cậu cố tình đấy hả?"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Jeez... Talk about getting started on the wrong foot.",
+      "Vietnamese": "Trời ạ... Tương lai không biết sẽ ra sao nữa đây."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00018_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Cut it out already.",
+      "Vietnamese": "Tha cho tôi đi..."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I SAID \"cut it out.\" You heard me.",
+      "Vietnamese": "Tha cho tôi đi... Cậu biết nghe mà, đúng không?"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why aren't you letting up after I told you to cut it out?!",
+      "Vietnamese": "Tại làm sao tôi đã xin tha rồi mà cậu vẫn không chịu tha vậy hả?!"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're making me angry.",
+      "Vietnamese": "Tôi cáu thật đấy nhé."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00022_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I TOLD you I'm getting angry.",
+      "Vietnamese": "Đã nói là tôi cáu thật đấy...!"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is that what you want? For me to get angry? Is that what gets you off?",
+      "Vietnamese": "Hay là cậu thích nghe tôi mắng? Cậu cố tình làm thế để nghe mắng hả? Bị mắng làm cậu thấy rạo rực lắm hay gì?"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00024_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're exhausting, you know that?",
+      "Vietnamese": "Chạy theo đối phó với cậu cũng tốn sức lắm đấy."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "At least have a little pity.",
+      "Vietnamese": "Đặt mình vào vị trí của tôi giùm cái đi."
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I get it! You're enjoying my reactions, aren't you?",
+      "Vietnamese": "Hiểu rồi! Tại tôi cứ phản ứng lại nên cậu mới được nước lấn tới đúng không?"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00028_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Congratulations. I give up. You wanted me angry, and now I'm angry.",
+      "Vietnamese": "Hay lắm, tôi chịu thua. Nếu cậu thèm khát bị mắng đến vậy thì để tôi mắng cho!"
+    },
+    {
+      "Key": "VC_MC00_00_04_04_World_00029_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "But now's really not the time for that. Give it a rest...",
+      "Vietnamese": "Nhưng mà, bây giờ đâu phải lúc diễn trò này chứ? Năn nỉ cậu đấy..."
+    }
+  ],
+  "Inserts": []
+}

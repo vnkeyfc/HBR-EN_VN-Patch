@@ -1,0 +1,216 @@
+{
+  "Script": "Story/MC02/Day11/Novel/MC02_11_08_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00578_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry to ask this of you after training, but I have a mission for 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00579_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See? What did I tell you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00580_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This can't be! All my heartfelt gratitude, all my warm thanks—I want it all baaack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00581_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop that. Do you want to set her off?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00582_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanase, please brief them on the details.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00583_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, ma'am. Today, at 16:45, a Cancer swarm was spotted around the Ariake Dome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00584_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Its leader was a single Cancer we are naming Medusa. Its current whereabouts are unknown, despite four squads being on active patrol.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00585_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Simply put, a Cancer appeared far too close to base.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00586_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait a sec. If all that really is true, then it's just weird that the front-line patrol squads didn't spot it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00587_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Exactly. Given the unusual circumstances, we need to deploy your squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00588_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If our front line was breached, why are you so calm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00589_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are several reasons.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00590_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "While it's true that the Medusa is a Cancer we have yet to encounter, and it matches none of our records...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00591_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Judging by its appearance and length, HQ has deemed its threat level marginal at best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00592_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Given that you have already defeated a Death Slug, you are more than ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00593_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "True... Cancer size usually correlates to Cancer strength...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00594_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your mission is to locate this Medusa, defeat it, and discover how it managed to slip through our patrol.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00595_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, Operation Pleiades is equally important, so do not allow this to interfere with your training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00596_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw c'mooon! Just choose one or the other!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00597_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's poor timing, I'm aware. Normally, we would bolster our defenses and continue gathering intel, but we cannot afford to do so this close to Operation Pleiades.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00598_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why not?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00599_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's simple. We lack the numbers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00600_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What kinda flimsy excuse is that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00601_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Should we reach the day of the operation without defeating it, we'll be forced to withdraw.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00602_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is too much of a gamble to risk the dome being attacked while our defenses are spread thin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00603_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "On the other hand, taking squads off the operation and putting them on guard duty is also not an option.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00604_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The entire operation would fall through.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00605_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. As such, HQ has determined that the Medusa poses a high risk to both the operation and the dome dwellers and issued a special patrol mission as a result.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00606_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Search the designated area as quickly as possible and eliminate the enemy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00607_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have four days including today to complete this objective. Leave now and link up with the patrol.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00608_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is a heavy responsibility, and it is your first mission from headquarters as an assault squad. Do not disappoint.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00609_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw, maaan...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00610_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just say \"understood,\" dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00611_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood, dum-dum!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00612_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "WITHOUT the \"dum-dum\"!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

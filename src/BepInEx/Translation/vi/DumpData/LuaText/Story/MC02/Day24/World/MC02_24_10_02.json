@@ -1,0 +1,221 @@
+{
+  "Script": "Story/MC02/Day24/World/MC02_24_10_02",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Find Aoi and Yuki!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "If we were back at base, it'd be about time to eat dinner just about now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Where IS the food anyway? Maybe Yukkie or Aoi might know...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, uh, what's for food? Is anyone making meals for us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nobody has time for that right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00002_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can warm this up if you're hungry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, this is food?! It looks sorta gross...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're not that bad. Modern MREs are a lot better than they used to be.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, really? Let's have a bite then—",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00006_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have to heat it up first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's open up the package and have a look... Oh, umm...is this really edible?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00008_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can heat it up by just adding water.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, really? Let's have a bite then—",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not yet, doofus. Are you that hungry?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here, all done. Eat up while it's still hot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woohoo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00013_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-B is going to keep watch, so please rest in the meantime.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks a bunch!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, macaroni! Yay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, this is super spicy! What IS this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You dumped the whole hot pepper packet inside it. Of course it's gonna be spicy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, this was a hot pepper? I thought it was the seasoning packet!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00019_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder what this packet is?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00020_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That must be the cheese spread!\\nYou put it on the crackers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00021_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's got a snacky sorta sweetness to it, but it ain't bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00022_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep. This is pretty good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00023_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's even dessert!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmm! This is pretty close to a chocolate cookie! It's so good!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00025_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I kind of want some coffee to go with it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There’s some juice powder packets if you want.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh, that sounds great!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00028_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I never thought we could have a proper meal like this out on the field.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew... That was a nice meal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00031_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, don't fall asleep!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_02_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmm... 'M just napping...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,6 +1,8 @@
 Flashback Battles=Prism Battle
 Gem Flashback Battles=Prism Gem
 最大到達階=<space\=-25px>Tầng đạt được:
+sr:"^\[Vision\] (.+)$"=[Ảo ảnh] $1
+sr:"^\[Vision\] (.+): Lv. (\d+)$"=[Ảo ảnh] $1: Lv.$2
 
 [Rating]
 sr:"^Recommended Rating: (.+)$"=L.C đề cử: $1

@@ -1,0 +1,264 @@
+{
+  "Script": "Story/MC02/Day13/Novel/MC02_13_09_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright! Let's pump it up today!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At this rate, it feels like this is going to become our main focus...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00002_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm looking forward to working with everyone today!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, count us in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine!!! One, two...a one, two, three, four!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies... I was off-key, wasn't I? Let me retune...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Didn't we just tune up earlier?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um, yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let me take a look for a sec.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh, the strings are rusty. Yeah, if it's like this, it'll get wonky real quick. Sorry for not noticing earlier.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, it's okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We should get these strings replaced with new ones.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where, exactly, are we getting strings from?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I actually found a music shop on base the other day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They even have that here, huh? Does this place have literally everything?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess so. Let's go buy the strings ASAP!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00017_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Amazing! So this is a music shop!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00018_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh... Look at them guitars all lined up nice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00019_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is kind of exciting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00020_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's even an upright piano... I wish I could try it out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maaan, look at the Flying V! So cool! I wanted to make my debut with this, but my agent said it didn't suit me so it didn't happen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00022_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then you should try saving up to buy it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, I dunno! Should I?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone's having a blast except for me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00025_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome! Please feel free to try out the instruments! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00673_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Merry. We're just here to buy guitar strings today. Could you ring this one up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00031_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That'll be 100 GP! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Take it. Get yourself some nice grub with it, girl.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00033_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you for your purchase! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, we've completed our mission! Squad, let's retreat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00035_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was there really a point in dragging everyone along for this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course there was! It gets everyone pumped up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00037_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, sure...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00039_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't have any money on me, so could you pay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow. I hope you know just how lame you look right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00033_MSatsuki#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you for your purchase! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, we've completed our mission! Squad, let's retreat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00044_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you bring us with you because you didn't have any money? Whatever. You owe me now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, Yukkie. I'll buy you a fidget spinner next time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_09_01_Novel_00046_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I do NOT need that. At all.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

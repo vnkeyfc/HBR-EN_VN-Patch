@@ -1,0 +1,174 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_01_08",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00000_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Attention to all squads. Our target, the vertex crimson, has been defeated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00001_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Extraction squad, please recover 31-A and 31-B, and head straight to position near the bridgehead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00002_YShirakawa",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "31-A, do you copy? Please respond.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh... Yuina...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh... Squad Leader Shirakawa...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00005_YShirakawa",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "You all did well out there today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No...we were completely useless...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00007_YShirakawa",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Not at all. It was due to your efforts that the operation is going to succeed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The operation?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01060_v001_YShirakawa",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "That pillar of light just now...that was Senior Cadet Aoi's power, wasn't it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00011_YShirakawa",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "In all the times I've stood on the battlefield, I've never seen anything like that before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00012_YShirakawa",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "A divine glow, fueled by one's own life... Even from afar, I could sense the sheer determination imbued in it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600036_YShirakawa",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "That's why I ordered the engineer corps to return and continue setting up the bridgehead, which they successfully completed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01061_v001_YShirakawa",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "But in doing so, we disobeyed HQ's commands. We're fully prepared to take responsibility for that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01062_v001_YShirakawa",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "You have all been through a difficult battle, so for now, rest well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00021_YShirakawa",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "30-G will continue to guard the bridgehead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I can't believe it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka...let's just listen to her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00028_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Copy. Good work today, girls.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00029_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "The operation is officially over. Target Cancer has been defeated, and the bridgehead installation is complete. The operation was a success.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00030_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Now, please get some rest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the hell's wrong with you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How can you call this...THIS result a success?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00034_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This is an order. Leave the rest to us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_08_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit... WHY!!!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

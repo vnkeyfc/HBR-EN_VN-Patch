@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC02/Day24/World/MC02_24_12_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_12_02_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nothing better than the cool night air.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_02_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "What a beautiful view. It never ends, does it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_02_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Time for a quick breather.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

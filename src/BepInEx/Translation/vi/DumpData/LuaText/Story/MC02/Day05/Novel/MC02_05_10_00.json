@@ -1,0 +1,490 @@
+{
+  "Script": "Story/MC02/Day05/Novel/MC02_05_10_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew, another exhausting day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00367_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we can't just sit around and do nothing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You wanted to practice Sepak Takraw, right? Have fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You wanted to do some parkour, right? Have fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00368_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You wanted to participate in cavalry fighting, right? Have fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00369_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, are you that worried about 31-B's leader?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00370_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, Yukkie. You know me too well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00371_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Their squad isn't exactly working together very well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00372_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "NOOO! Don't be ridiculous! I'm talking about Aoi! Aren't you worried about her, too?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I actually played along with you for once, and you freak out on me like this? I'm having serious doubts about our relationship moving forward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, we're good. Still an unstoppable duo. What's there to worry about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The fact that you just freaked out on me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You freak out on me all the time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't freak out for no good reason.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me neither.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's a lot I could say to that, but it'd just be a waste of time... Let's just leave it at that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Agreed. If this was a video game, players would skip this part.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00015_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Not while I'm around!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where does that confidence come from?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00017_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can we focus here? We let you two start up one of these lame comedy routines and you just go on forever and ever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn, that one actually hurt...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00373_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I agree. 31-B is really at odds with each other. It's worrying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00374_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This sounds like a job for Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00375_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you planning?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00376_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I'll...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "Get the door to her heart|Get the door to the bathroom|Get the way of Whoopsie Gravy",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "opened|broken down|sealed off for eternity",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00383_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the door to her heart opened.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00384_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've only talked to her once. Gotta work on winning her trust.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00385_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You really think it'll be that easy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00386_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I got this. I'll give her a beatin' she won't forget.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00387_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're not going to pick a fight with her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00388_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, wait. I'm getting major déjà vu. Don't make me repeat myself like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00389_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the door to her heart broken down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00390_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And leave her a broken shell of a human?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00391_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? I just want to gain access to her heart of hearts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00392_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then just open it normally. Don't go in there and destroy things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00393_v001_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Niiice hackiiing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00394_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That wasn't hacking...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00395_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the door to her heart sealed off for eternity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00396_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And make her a shut-in?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00391_v001_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? I just want to gain access to her heart of hearts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00398_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then don't seal it. <i>Open</i> it, or you'll end up further from accomplishing your goal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00393_v001_RKayamori#2",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Niiice hackiiing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00394_v001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That wasn't hacking...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00401_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the door to the bathroom opened.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00402_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You need to go? Then go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00403_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? No, I'm going to see if I can get Aoi to bare her heart to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00404_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You said something completely and utterly different from that, so you're aware.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00405_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the door to the bathroom broken down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00406_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please don't. Let's try to maintain some standard of decorum on base.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00403_v001_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? No, I'm going to see if I can get Aoi to bare her heart to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00404_v001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You said something completely and utterly different from that, so you're aware.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00409_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the door to the bathroom sealed off for eternity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00410_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please don't. Things would end up worse than unsanitary.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00403_v001_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? No, I'm going to see if I can get Aoi to bare her heart to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00404_v001_YIzumi#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You said something completely and utterly different from that, so you're aware.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00413_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the way of Whoopsie Gravy opened.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00414_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We don't need you proselytizing that. Keep it closed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00403_v001_RKayamori#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? No, I'm going to see if I can get Aoi to bare her heart to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00404_v001_YIzumi#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You said something completely and utterly different from that, so you're aware.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00417_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the way of Whoopsie Gravy broken down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00418_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, please do!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00419_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? I'm going to rebuild it afterwards. Just wanted a fresh start, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00420_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I GOT EXCITED FOR NOTHING!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00421_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll ask Aoi how she's doing while I'm at it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00422_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just go, and don't come back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00423_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll get the way of Whoopsie Gravy sealed off for eternity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00424_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "FINALLY! THE MOMENT I'VE BEEN WAITING FOR!!! IT'S TOO GOOD TO BE TRUE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00425_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? I'm going to open it up again afterwards. Just wanted a fresh start, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00420_v001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I GOT EXCITED FOR NOTHING!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00421_v001_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll ask Aoi how she's doing while I'm at it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00422_v001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just go, and don't come back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can count on me. When it comes to dealing with sensitive topics, I'm a pro. I'm sure we can all agree.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00033_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're the most insensitive and capricious person here. Your misplaced self-confidence never ceases to amaze.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00034_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, good luck!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks! Have fun with the Uno game, girls!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00036_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When did we say we'd play Uno?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00037_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whatever... Sometimes I can't tell if she has a heart of gold, or if she's just plain stupid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm just a busybody.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_00_Novel_00039_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're still here?! Any normal person would've left by now!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

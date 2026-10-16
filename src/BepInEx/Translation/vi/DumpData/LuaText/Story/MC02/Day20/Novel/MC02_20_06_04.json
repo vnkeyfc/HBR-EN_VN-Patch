@@ -1,0 +1,96 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_06_04",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Both 31-A and 31-B completed training without any issues. Good work, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great work today, cadets. Don't lose the acuity you gained from this training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoo-yeah! Our training days are finally over!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00003_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not quite. Starting from tomorrow and continuing to the day after, you'll be doing a cumulative training covering content from all previous sessions, back-to-back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?! But didn't you say today was the last day of training?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00005_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We need to do a final check of all training parameters. Don't get too carried away just because you were able to finish Phase Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can I get carried away just for today?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00007_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I suppose you could celebrate your efforts. Just for today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! Thank you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That concludes today's training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00911_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A was overwhelmed by the Cancers' force and failed to prevent their advance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_02_Novel_00022_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Enemies infiltrated the bridgehead, so Point Delta had to be abandoned. The operation was a failure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00499_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh*... Unfortunately, you leave me with no other option than to conclude that 31-A is unsuitable for this mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

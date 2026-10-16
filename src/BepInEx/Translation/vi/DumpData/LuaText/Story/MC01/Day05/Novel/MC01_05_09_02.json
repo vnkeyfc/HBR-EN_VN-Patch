@@ -1,0 +1,642 @@
+{
+  "Script": "Story/MC01/Day05/Novel/MC01_05_09_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "TA-DAAA!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Woah... What <i>is</i> this place?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "There's a drum set.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00003_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "And that's a keyboard!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00004_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "There's a guitar and a bass, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I fixed things up. It's all good to go whenever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Fixed things up?! Since when?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yesterday.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So I am to infer you want Tojo to play something on the keyboard?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup. Tsukassie is in charge of keyboard.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You make it sound like everyone else is \"in charge\" of something too...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie, you're on the drums.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's just one thing after the next with you... Why am I being recruited to play drums, again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "As a hacker, you're always bashing out things on the keyboard, right? Drumming's pretty much the same thing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "They're completely different! If anything, I should be playing the keyboard, by that logic.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Afraid I can't do that. Tsukassie already got dibs. Sorry!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't make it sound like I actually wanted to play the keyboard...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No one ever wants to be the drummer, okay?! Help me out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00018_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You really think I'm going to agree when you're posing it like that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Don't you know the coolness of the band depends on the coolness of the drummer?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You really should have started with that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woo-hoo! Sounds like a yes to me. Megumin, you're on the guitar!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00022_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Can't play.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But the guitar's electric, and you're the most electric person I know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00024_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Can't argue there. Electrokinesis is in my blood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're all amped up. Didn't take long.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'll be on lead, so you won't have to play anything too difficult.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "As for the bass, it's all you, Cappy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00028_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Okay! I have no idea what a bass even sounds like, but I'll give it my best shot!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Aaand Karerin's our vocalist! Now we're a band!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00030_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "WHAAAT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're on drums, Yukkie, not vocals.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hence why I'm surprised! Since when was this decided?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Just now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "AAAGHH! Where's a backlog when you need one?! Let me rewind and prove that I never agreed to this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00035_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka, shouldn't <i>you</i> be our vocalist? I don't feel I'm suited for the task...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00036_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I wanted to see what it's like being in a band without being on vocals.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00004_v005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What? But why? Is that yet another one of the reasons why your band broke up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00005_v005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's not like I don't want to sing or anything. I just don't know who I'm supposed to be singing for anymore...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00006_v005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If it counts, I still want to hear you sing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00007_v005_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Me too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00008_v005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I <i>am</i> still a fan of yours, okay? So go on, sing for us a little, will you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00009_v005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Anything will do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00010_v005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Sure, I guess.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00056_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Mmm mmm MMM mmm mmmn mm mmm. ♪ Aaa aah AAA aah aaah ah aah. ♪ Aah aah AAA aaa aaa aaah AAA! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00057_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "That was incredible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00058_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Amazing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00059_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Expected no less.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00060_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "You're so good!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00063_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Damn... I've got goosebumps. It really <i>is</i> you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00011_v005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Asakura's right. You have to do the vocals. It'd be a waste not to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00012_v005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But then nothing will have changed from my She is Legend days.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00037_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "What about having a vocalist duo?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I didn't think of that! That might be it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00039_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Meaning me and Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00040_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup. Sound good?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00041_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Sounds grrreat!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00068_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Sigh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00069_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "We're doing it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00070_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Asakura, you're incredibly talented! Like, almost professional-tier!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00071_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I wouldn't go that far.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900400119_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Heh... Gotta say, nothing beats singing. I almost forgot how good it felt... )",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00072_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "That last part blew my tail fins off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00073_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "What the hell <i>was</i> that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00074_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Killer chemistry, that's what.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00075_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Achieving perfect harmony, just like that... Yeah, music's the best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00076_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00077_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00078_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00079_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Why so down in the dumps?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00080_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The rhythm was all over the place...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00081_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It was your first time. I'd say you did great.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00082_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I guess it doesn't matter. Not like I'm ever going to play the drums again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00083_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What do you mean? We're just getting started.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00084_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "JUST GETTIN' STARTED?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00085_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "C'mon. Not you too, Megumin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00086_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I thought this was a one-off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00087_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You thought wrong.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00088_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "So you're saying we'll be rehearsing regularly?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00089_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Music lifts people's spirits. I wanted you all to experience what it's like to perform.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00090_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm good, thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00091_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You think we've got time for that?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00092_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "But...it was so much fun...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00093_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "What? You actually enjoyed it, Tama?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00094_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Not just her. I always lost myself in video games... I had no idea a world like this even existed. If possible...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00095_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "LET'S MAKE OUR BIG DEBUT!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00096_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I'll gladly accompany on keyboard, if you'll have me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00097_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Perfect. Then we'll start by learning our very first song.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00098_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Training's hard enough as it is. Now this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00099_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "All aboard the S.S. Groove!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00100_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Well, if you <i>really</i> need me, s'pose I can't say no.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00101_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Gosh... I'm starting to get nervous...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00102_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "So, what's the song?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_Z900000020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You should be able to find the score on your mePads. Just search for the song, \"Burn My Soul.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00104_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait. Isn't that She is Legend's big hit?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00105_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Just as expected from our superfan Yukkie. Niiice hackiiing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00106_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If knowing things is hacking, sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00107_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Hold on. So I'm going to be singing alongside an original member of a hit band? That's...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00108_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "SOOO EXCITINGGG!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00109_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Our performance needs to be good, so we don't let everyone down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00110_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Tell me, why exactly is an original member of She is Legend taking part in this cover band?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00111_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Does it matter?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00112_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The bar's so high...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00113_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Then stand up and grab it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00114_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "And...hold on tight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_02_Novel_00115_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Say that a little louder?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

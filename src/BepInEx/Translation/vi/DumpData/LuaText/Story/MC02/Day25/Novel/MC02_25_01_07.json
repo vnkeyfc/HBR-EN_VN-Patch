@@ -1,0 +1,228 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_01_07",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00000_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00001_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Open your eyes rrright now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "HQ! We need medical aid right away! Please! Please, hurry!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00003_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00004_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00005_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Aoi...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00006_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Before...I wasn't able to protect anyone...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00007_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Shut up! You don't need to force yourself to talk!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00008_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Did I...manage to protect everyone this time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00010_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah. We're all alive...thanks to you, Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00011_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "That's right, Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00014_SHiguchi",
+      "Context": "Adv.talk:1",
+      "Original": "You saved my life, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00012_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "We did it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00015_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "You're the one who did it, Aoi. You're amazing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00017_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone's fine. So you just get yourself patched up, and then...then you'll be all good again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00018_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "We won't make a fuss or cause trouble anymore...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00019_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "We'll listen to your orders, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00020_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "You know, we actually really like you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00021_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "That hairband we gave you, we rrreally put a lot of thought into making that, too...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00022_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "So, y'know...just hang in there. Let us stay by your side from now on, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00023_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "We want to stay with you, meow...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00024_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "Squad Leader...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00028_Byakko",
+      "Context": "Adv.talk:1",
+      "Original": "Grrrar!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00026_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "You hear that? Even Byakko's saying the same thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00027_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "So please, Aoi...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00028_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Please...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00029_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Y-Yes...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00030_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "...we'll always...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00031_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "...be...together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00033_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Aoi?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00034_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "*sob*...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00035_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "*sob*...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00036_Byakko",
+      "Context": "Adv.talk:1",
+      "Original": "Grra! Grrrra! Grrrrrar! Hrrr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00037_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "AOIII!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_07_Novel_00038_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "NOOO!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_Z900100018_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Confirming the defeat of the enemy Cancer, vertex crimson.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_Z900100019_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "The extraction squad will arrive soon.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,156 @@
+{
+  "Script": "Jamaisvu/Home2",
+  "Entries": [
+    {
+      "Key": "VC_Jamaisvu_00065_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Is there anything I can help you with?",
+      "Vietnamese": "Liệu tôi có thể giúp gì cho bạn?"
+    },
+    {
+      "Key": "VC_Jamaisvu_00074_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "If you ever get stuck, come visit me here.\\nUntil we meet again...",
+      "Vietnamese": "Nếu bạn cảm thấy lạc lối, hãy quay trở về đây nhé.\nLên đường bình an."
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Resume play from {0}, Day {1}?{2}",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "{0} Resume play from the prologue?{1}",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "{0}\\n*If another Event Story is in progress, its current day's progression info will be lost.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 2,000)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 3,800)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 4,000 / Slash)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 4,500 / Crush)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 5,000 / Pierce)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 6,000 / Pierce)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 7,000)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 8,000)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 8,500)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 9,000)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 10,000)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 10,500)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "\n(Recommended Rating: 11,500)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "You've unlocked Main Scenario: {0}.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00067_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Looks like you can't attempt that just yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00001_v003_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Hello, Cadet Kayamori.",
+      "Vietnamese": "Xin chào, Kayamori-san."
+    },
+    {
+      "Key": "VC_ActivityAtArena_00004_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you come here to train today?",
+      "Vietnamese": "Cô đến đây để huấn luyện sao?"
+    },
+    {
+      "Key": "VC_ActivityAtArena_00009_v003_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please wait a moment while I boot up the system.",
+      "Vietnamese": "Tôi đang chuẩn bị khởi động hệ thống, xin vui lòng đợi một lát."
+    },
+    {
+      "Key": "VC_ActivityAtArena_00026_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Okay, let's rock!!!",
+      "Vietnamese": "Quẩy thôi!!"
+    },
+    {
+      "Key": "VC_ActivityAtArena_00012_v003_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": "Mọi người vất vả rồi."
+    },
+    {
+      "Key": "VC_Z_900400088_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Welcome! With our products, you get what you pay for! ♪",
+      "Vietnamese": "Kính chào quý khách!! Đồ ở shop toàn là hàng \"tiền nào của nấy\", đảm bảo công hiệu luôn ♪"
+    },
+    {
+      "Context": "UI.shop:1",
+      "Original": "Everything here is highly recommended! ♪",
+      "Vietnamese": "Tất cả đều rất đáng để mua đó! ♪"
+    },
+    {
+      "Key": "VC_Z_900400091_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Hope you get what you paid for! ♪ Keep raking in more GP to spend here! ♪",
+      "Vietnamese": "Có đúng là \"tiền nào của nấy\" không ạ? ♪ Quý khách nhớ đi cày cho thật nhiều GP rồi vác mặt về đây tiếp nhé ♪"
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,281 @@
+{
+  "Script": "Story/AC01/Day02/Expedition/AC01_02_03_00",
+  "Entries": [
+    {
+      "Context": "Expedition.setTitle:0",
+      "Original": "Ikebukuro Underground",
+      "Vietnamese": "Tầng hầm Ikebukuro"
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Suspend the event and return to the home screen?",
+      "Vietnamese": "Bạn có muốn tạm dừng sự kiện và quay về màn hình chính không?"
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B1",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B2",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B3",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC01_00286_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How deep into this place did you girls get?",
+      "Vietnamese": "Mấy bồ đi xuống sâu bao nhiêu rồi?"
+    },
+    {
+      "Key": "VC_AC01_00287_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was quite deep...",
+      "Vietnamese": "Tôi chỉ biết là khá sâu thôi..."
+    },
+    {
+      "Key": "VC_AC01_00288_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... I just hope we'll make it before it's too late.",
+      "Vietnamese": "Khá sâu à... Giá mà tụi mình tới kịp thì tốt."
+    },
+    {
+      "Key": "VC_AC01_00289_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Making it in time is my specialty.",
+      "Vietnamese": "Dăm ba cái tới kịp này là sở trường của tớ mà?"
+    },
+    {
+      "Key": "VC_AC01_00290_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll do what it takes to get there in time, too.",
+      "Vietnamese": "Tụi này cũng sẽ bắt nó phải kịp cho bằng được."
+    },
+    {
+      "Key": "VC_AC01_00291_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's our Yukkie! Always so reliable.",
+      "Vietnamese": "Chuẩn Yukki có khác. Yên tâm thật."
+    },
+    {
+      "Key": "VC_AC01_00292_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Truly...",
+      "Vietnamese": "Đúng vậy thật..."
+    },
+    {
+      "Key": "VC_AC01_00293_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please be okay, Bun-chan, Wakkie.",
+      "Vietnamese": "Bun-chan, Wakki.... bình an vô sự giùm cái đi..."
+    },
+    {
+      "Key": "VC_AC01_00294_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I had a crazy thought! Tama is the perfect height to slip into a traffic cone and sneak around, right?",
+      "Vietnamese": "Tôi nảy ra ý tưởng cực đỉnh! Nếu Kunimi trốn vào cái cọc tiêu hình nón rồi di chuyển thì sẽ thành trùm lẻn lút không phải sao?"
+    },
+    {
+      "Key": "VC_AC01_00295_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If the Cancers saw a traffic cone moving around, they'd step on it and crush me to death!",
+      "Vietnamese": "Một cái cọc tiêu biết đi mà đập vào mắt Cancer thì bị giẫm bẹp chét ngắc luôn đấy ạ!!"
+    },
+    {
+      "Key": "VC_AC01_00296_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YO, Tama!",
+      "Vietnamese": "Này Tama!!"
+    },
+    {
+      "Key": "VC_AC01_00297_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-Yes!!",
+      "Vietnamese": "D-Dạ!!"
+    },
+    {
+      "Key": "VC_AC01_00298_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you don't move, you'll be invincible.",
+      "Vietnamese": "Nhóc không nhúc nhích thì thành vô địch luôn."
+    },
+    {
+      "Key": "VC_AC01_00299_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And you'll be left behind.",
+      "Vietnamese": "Nghĩa là nhóc sẽ bị bỏ lại phía sau đấy."
+    },
+    {
+      "Key": "VC_AC01_00300_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": " (The further we go, the stronger they get.)",
+      "Vietnamese": "(Càng đi sâu xuống kẻ địch càng mạnh...)"
+    },
+    {
+      "Key": "VC_AC01_00301_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Everyone is so tired...)",
+      "Vietnamese": "(Quả thực mọi người đều đang bắt đầu thấm mệt...)"
+    },
+    {
+      "Key": "VC_AC01_00302_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But those two still need our help.)",
+      "Vietnamese": "(Nhưng mình vẫn muốn cứu hai người họ...)"
+    },
+    {
+      "Key": "VC_AC01_00303_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(We have to keep going.)",
+      "Vietnamese": "(Mình muốn tiến nữa...)"
+    },
+    {
+      "Key": "VC_AC01_00304_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Ruka.",
+      "Vietnamese": "Này, Ruka."
+    },
+    {
+      "Key": "VC_AC01_00305_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is it, Yukkie?",
+      "Vietnamese": "Gì thế, Yukki..."
+    },
+    {
+      "Key": "VC_AC01_00306_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If they have water, they should be able to hold out one more day.",
+      "Vietnamese": "Chỉ cần có nước là có thể cầm cự được thêm một ngày."
+    },
+    {
+      "Key": "VC_AC01_00307_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You throwing in the towel for today already?!",
+      "Vietnamese": "Ý bồ bảo hôm nay phải bỏ cuộc luôn sao!?"
+    },
+    {
+      "Key": "VC_AC01_00308_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. Going any further would be dangerous.",
+      "Vietnamese": "Đúng vậy. Đi sâu thêm nữa sẽ rất nguy hiểm."
+    },
+    {
+      "Key": "VC_AC01_00309_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You said it earlier though, Yukkie! Bun-chan doesn't remember things so she's in danger!!!",
+      "Vietnamese": "Không phải chính Yukki đã nói sao! Rằng Bun-chan gặp nguy hiểm vì trí nhớ không được cập nhật ấy!!"
+    },
+    {
+      "Key": "VC_AC01_00310_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The senior squads should be starting to mobilize by now.",
+      "Vietnamese": "Đội của các tiền bối chắc giờ cũng bắt đầu hành động rồi."
+    },
+    {
+      "Key": "VC_AC01_00311_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh come on! I don't see 'em. Do you?!",
+      "Vietnamese": "Tớ hoàn toàn không thấy bóng dáng ai hết này...!!"
+    },
+    {
+      "Key": "VC_AC01_00312_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This place is pretty big. Don't get so worked up.",
+      "Vietnamese": "Khu vực này rộng lắm. Đừng có mất bình tĩnh."
+    },
+    {
+      "Key": "VC_AC01_00313_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Besides, Yamawaki could be on her trail right now.",
+      "Vietnamese": "Hơn nữa, có khả năng Yamawaki đã đuổi kịp con bé rồi."
+    },
+    {
+      "Key": "VC_AC01_00314_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why's that?",
+      "Vietnamese": "Sao cậu chắc thế...?"
+    },
+    {
+      "Key": "VC_AC01_00315_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, the two of them have been together the whole time, right? She ought to know where Bungo would hide.",
+      "Vietnamese": "Vì hai người họ từ trước tới giờ lúc nào cũng dính lấy nhau chơi trò nhập vai mà? Chắc chắn cậu ta phải rành rọt chuyện con bé sẽ trốn đi đâu hơn tụi mình rồi."
+    },
+    {
+      "Key": "VC_AC01_00316_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh... Makes sense.",
+      "Vietnamese": "Ra thế... hiểu rồi..."
+    },
+    {
+      "Key": "VC_AC01_00317_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nngh...",
+      "Vietnamese": "..."
+    },
+    {
+      "Key": "VC_AC01_00318_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, should we follow that hunch then?",
+      "Vietnamese": "Vậy thì đánh cược vào khả năng đó thôi nhỉ..."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What's the plan?",
+      "Vietnamese": "Làm sao đây?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": "Quay về|Không quay về"
+    },
+    {
+      "Key": "VC_AC01_00319_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll find 'em tomorrow! I mean it!",
+      "Vietnamese": "Ngày mai chắc chắn tụi mình sẽ tìm ra bọn họ!"
+    },
+    {
+      "Key": "VC_AC01_00320_KAsakura",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Yeah...",
+      "Vietnamese": "Ừm..."
+    },
+    {
+      "Key": "VC_AC01_00321_TTojo",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Right...",
+      "Vietnamese": "Ừ..."
+    },
+    {
+      "Key": "VC_AC01_00322_YIzumi",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Ok...",
+      "Vietnamese": "Ừa..."
+    },
+    {
+      "Key": "VC_AC01_00323_MAikawa",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Alright...",
+      "Vietnamese": "Ờm..."
+    },
+    {
+      "Key": "VC_AC01_00324_TKunimi",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Understood...!",
+      "Vietnamese": "Rõ ạ...!"
+    },
+    {
+      "Key": "VC_AC01_00325_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you...",
+      "Vietnamese": "Trăm sự nhờ mọi người..."
+    }
+  ],
+  "Inserts": []
+}

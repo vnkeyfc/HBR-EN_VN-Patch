@@ -1,0 +1,123 @@
+{
+  "Script": "Story/MC01/Day08/World/MC01_08_06_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the aircraft hangar behind the academy building!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Wait, this is the direction of the dorms.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I was so excited that I whizzed right past it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00002_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Nope, not that way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Crap! One bathroom break and everyone's abandoned me...\\nEveryone's at the aircraft hangar, right? Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's that ninja girl...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "'Sup? Don't think we've talked one-to-one before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00006_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "You are the leader of 31-A, ja?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00007_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "In other words, mein current enemy. What business do you have?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Just wanted to say let's both give it our all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00009_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ahh...this conflict is of little interest to me, but as they say, duty calls.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "You're not interested?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Why?|You don't want to do this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You don't want to do this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00012_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "A ninja's duty is to serve their master.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00013_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "We mustn't fraternize, for we are on opposing sides.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00014_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "But do take care on the battlefield.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00015_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "Until our paths cross again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_00_World_00016_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I should get going, too.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

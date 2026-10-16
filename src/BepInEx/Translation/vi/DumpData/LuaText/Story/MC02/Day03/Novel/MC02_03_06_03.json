@@ -1,0 +1,96 @@
+{
+  "Script": "Story/MC02/Day03/Novel/MC02_03_06_03",
+  "Entries": [
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well done today. Your clear time and amount of secured territory met expectations. Keep up the good work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Training concluded. Your clear time was well over the set limit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your capabilities as a squad are inadequate. Please train further and return when you are ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No waaay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I more or less expected that, given our current state.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've gotta be able to blast through these training exercises if we wanna have any hope of becoming legends!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please don't expect your <i>entire</i> life to go down in legend.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00007_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ruka is shook!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00008_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Training concluded. 31-A, you were defeated in combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00002_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your capabilities as a squad are inadequate. Please train further and return when you are ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00003_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No waaay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00004_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I more or less expected that, given our current state.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00005_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've gotta be able to blast through these training exercises if we wanna have any hope of becoming legends!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00006_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please don't expect your <i>entire</i> life to go down in legend.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_03_Novel_00007_RKayamori#2",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ruka is shook!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

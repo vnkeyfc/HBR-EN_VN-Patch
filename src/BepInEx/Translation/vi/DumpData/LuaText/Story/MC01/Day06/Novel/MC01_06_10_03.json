@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC01/Day06/Novel/MC01_06_10_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_10_03_Novel_00000_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Amazing! That's the exact sound I was after!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_03_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, this is perfect!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_03_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Glad to hear it!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

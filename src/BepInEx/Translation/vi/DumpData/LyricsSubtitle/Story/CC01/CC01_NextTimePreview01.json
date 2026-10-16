@@ -1,0 +1,99 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/CC01/CC01_NextTimePreview01.usm.bytes",
+  "Notes": "Edit Text and Style fields. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": -0.4,
+      "EndSecond": 1.1,
+      "OriginalText": "Next Episode Preview",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 1.2,
+      "EndSecond": 3.1,
+      "OriginalText": "Huh? What was that noise?",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 3.2,
+      "EndSecond": 5,
+      "OriginalText": "What you said showed up on the screen!",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 5.1,
+      "EndSecond": 6,
+      "OriginalText": "What you said did, too!",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 6.1,
+      "EndSecond": 7.3,
+      "OriginalText": "Everything we say",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 7.4,
+      "EndSecond": 8.3,
+      "OriginalText": "is showing up",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 8.4,
+      "EndSecond": 8.9,
+      "OriginalText": "line by line!",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 9,
+      "EndSecond": 10.1,
+      "OriginalText": "What's going on?",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 10.2,
+      "EndSecond": 12.1,
+      "OriginalText": "*yawn* Does it matter?",
+      "Text": " ",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 12.2,
+      "EndSecond": 14.5,
+      "OriginalText": "''No Motivation''",
+      "Text": " ",
+      "Style": {}
+    }
+  ]
+}

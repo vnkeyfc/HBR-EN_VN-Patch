@@ -1,0 +1,124 @@
+{
+  "Script": "Story/MC02/Day03/Novel/MC02_03_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Beginning oral drills. Please repeat after me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A swarm of Cancers has been sighted in the Chichibu area. 31-A, report to the area immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Now what do I say?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What should I say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Copy. A swarm of Cancers sighted in the Chichibu area. 31-A, reporting immediately|Copy. 31-A sighted in the Chichibu area. Cancer swarm, reporting immediately",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Copy. A swarm of Cancers sighted in the Chichibu area. 31-A, reporting immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_merge_00020",
+      "Context": "Adv.talk:0",
+      "Original": "Karen/Yuki/Megumi/Tsukasa/Tama",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_merge_00020",
+      "Context": "Adv.talk:1",
+      "Original": "Copy. A swarm of Cancers sighted in the Chichibu area. 31-A, reporting immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, just like that. Be sure to repeat each and every word exactly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A compliment! That had to have boosted one of my stats!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Copy. 31-A sighted in the Chichibu area. Cancer swarm, reporting immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_merge_00021",
+      "Context": "Adv.talk:0",
+      "Original": "Karen/Yuki/Megumi/Tsukasa/Tama",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_merge_00021",
+      "Context": "Adv.talk:1",
+      "Original": "Copy. 31-A sighted in the Chichibu area. Cancer swarm, reporting immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00017_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That would make all of you Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's right. Ugh, how embarrassing...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00019_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's take that again from the top.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00003_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Copy. A swarm of Cancers sighted in the Chichibu area. 31-A, reporting immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_merge_00020#2",
+      "Context": "Adv.talk:0",
+      "Original": "Karen/Yuki/Megumi/Tsukasa/Tama",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_merge_00020#2",
+      "Context": "Adv.talk:1",
+      "Original": "Copy. A swarm of Cancers sighted in the Chichibu area. 31-A, reporting immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_00_00_Novel_00009_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, just like that. Be sure to repeat each and every word exactly.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

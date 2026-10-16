@@ -1,0 +1,144 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/MC01/MC01_EndingLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 21.7,
+      "EndSecond": 32.1,
+      "OriginalText": "It's not like I have any special talent. What exactly am I being told to grasp onto?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 32.3,
+      "EndSecond": 42.1,
+      "OriginalText": "Grasping vainly at straws, I just spend my days spinning my wheels, but oh, well.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 42.9,
+      "EndSecond": 45.5,
+      "OriginalText": "Ah it's her wish, crazy for me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 45.6,
+      "EndSecond": 48.1,
+      "OriginalText": "I'll take a deep breath and get down to business.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 48.2,
+      "EndSecond": 50.8,
+      "OriginalText": "Ah it's her wish, quest for me undying",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 50.9,
+      "EndSecond": 54.7,
+      "OriginalText": "That's the stage I'll bet my life on.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 55.6,
+      "EndSecond": 57.9,
+      "OriginalText": "Even if I forget you,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 58,
+      "EndSecond": 60.9,
+      "OriginalText": "I'll still take you along",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 61,
+      "EndSecond": 63.2,
+      "OriginalText": "To the edge of isolation, a sea of imaginary numbers,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 63.3,
+      "EndSecond": 66.1,
+      "OriginalText": "Even if time should stop.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 66.3,
+      "EndSecond": 68.7,
+      "OriginalText": "Is it heaven to wait?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 68.8,
+      "EndSecond": 71.5,
+      "OriginalText": "Or is it hell?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 71.6,
+      "EndSecond": 74.1,
+      "OriginalText": "I can offer up my beating heart",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 74.2,
+      "EndSecond": 76.5,
+      "OriginalText": "If it means I can burn up with you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 77.2,
+      "EndSecond": 84.5,
+      "OriginalText": "I give my blessing to budding life.",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

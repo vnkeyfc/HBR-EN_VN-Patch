@@ -1,5 +1,5 @@
 [Title]
-時間帯選択=<size\=80%><cspace\=-2px>Chọn mốc thời gian
+時間帯選択=<size\=80%><cspace\=-4px>Chọn mốc thời gian
 
 [Chapter]
 Prologue=Prologue\n- Mở đầu -

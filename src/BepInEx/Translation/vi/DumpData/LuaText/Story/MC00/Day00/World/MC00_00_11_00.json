@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC00/Day00/World/MC00_00_11_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_07_01_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm?",
+      "Vietnamese": "Hửm?"
+    },
+    {
+      "Key": "VC_MC01_01_07_01_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "That uniform...",
+      "Vietnamese": "Bộ đồng phục đó là..."
+    },
+    {
+      "Key": "VC_MC01_01_07_01_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Looks like a job for Detective Kayamori!",
+      "Vietnamese": "Phải theo điều tra thôi."
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,32 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtGym_MC02",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the gym, but what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Train at the gym today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Train",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Don't train",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Train at the Gym to raise your Determination.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

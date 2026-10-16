@@ -1,0 +1,174 @@
+{
+  "Script": "Story/MC01/Day12/Novel/MC01_12_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh my, look at the time. Yukkie, let's go get lunch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What are you, some office worker?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hold up. There's 31-C again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00003_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "They're grilling meat at a time like this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00004_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "31-A. We're so confident, we can gobble down all-you-can-eat meat without breaking a sweat! Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00005_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Bungo! I told you that skirt steak is red meat and goes vith <i>soy</i> sauce! Vhy are you using <i>miso</i> sauce?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Uh, skirt steak is organ meat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00007_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I had no idea!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00008_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Yamawaki isn't very smart, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Should a lackey really be saying that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00010_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Don't you know the Great Yamawaki is a brilliant mad scientist, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait. Haven't we milked this schitck enough already?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00012_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Zat sensation you're feeling right now is...economy class syndrome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What do airplanes have to do with anything? You mean \"déjà vu.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00014_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh...she's good, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why do I always, <i>always</i> end up getting pulled into this utter nonsense?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00016_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Vhile vee savor zis succulent, juicy meat, you all can stuff your faces with peasant grub like sandviches or something and get out of our sight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00017_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Scram, peasants! You're blocking the view, <i>snip snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00018_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Why you little—!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't! Rein it in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? What's that sound?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00021_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Incoming transmission from the patrol group at the Shinjuku Dome.\nA Cancer swarm has infiltrated the second line of defense.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00022_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Our footage has captured a level-two threat Cancer. Sending over for confirmation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00023_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "31-A and 31-C, prepare for immediate deployment. Once finished, report to the hangar for further instruction.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "*gasp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_00_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "This is when you say, \"Roger.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_merge_00010",
+      "Context": "Adv.talk:0",
+      "Original": "Ruka/Bon Ivar",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_merge_00010",
+      "Context": "Adv.talk:1",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

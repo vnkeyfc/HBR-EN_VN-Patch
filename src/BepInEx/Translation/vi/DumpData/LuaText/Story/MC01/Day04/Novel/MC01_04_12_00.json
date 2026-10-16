@@ -1,0 +1,580 @@
+{
+  "Script": "Story/MC01/Day04/Novel/MC01_04_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All that's left to do is get some sleep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "STOOOP! Don't just hop in bed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "This important, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Since you clearly weren't listening when the commander explained it, we're going to review the state of the world before bedtime.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Review the state of the world?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Gimme a break!|Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Gimme a break! You trying to torture me?! I always skip the boring lectures in video games!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "This \"boring lecture\" could literally determine whether you live or die.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00006_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Well, I suppose that's one option. Continuing on without knowing anything... As they say, ignorance is bliss.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah. I bet that's why you're so cheery all the time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why so formal? I'm not the commander, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And it's been established that you only go all military mode when you're trying to suck up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I will do my best to endure!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There's nothing to endure, genius. You just have to listen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, whatever. As long as you're willing to sit still and listen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00014_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ha! Go ahead, die in vain like a clueless idiot. See if I care.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You know what, maybe I AM a clueless idiot! Thanks!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "At least TRY to insult her back. Where'd all your fight go?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00017_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I do think that having a grasp on our situation is important.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, if Karerin says so, I guess I have to listen!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What, are you that obsessed with her? At least spread the love around...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I already said that my love for you is maxed out, remember?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So we're clear, I'm not jealous...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00022_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I fought many a battle as a ship captain, so I am quite familiar with our circumstances. Therefore...I can skip this one, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Nice try, kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00024_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "So, what are we going over, exactly? Hopefully it's information I'm not already aware of.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, I don't think you in particular need to worry about that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "But as a former member of the Orchids, I can guarantee you I'm a more reliable source of information than rumors and gossip.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "By the way, you know \"orchids\" means \"test*cles,\" right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00028_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't get us mixed up with that heavy metal group you like so much, OrcKids or whatever! OUR group's name came from the flower!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, but your group wasn't named by a Japanese person, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00030_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What? Well, no...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "They knew what they were doing. It comes from \"orchis,\" Ancient Greek for \"test*cles.\" ",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00032_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "WHAAAT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00033_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We've been secretly called the TEST*CLES this whole time?! How am I just finding out about this now?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No, no. It's all right, it's okay. Stay cool... We're the Orchids. As in the FLOWERS. Orchid flowers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No, as in TEST*CLES.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00036_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Nooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00037_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So it's true? I've been launching cyber attacks in the name of \"the Test*cles\" all along?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Haha! Welcome to Team Crazy, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No, we're not the same! We are not the same! WE'RE NOT THE SAAAME!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00040_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "She's so desperate to deny it that she's just repeating herself now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00041_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Shall we return to the topic at hand?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Admonished by the last person you'd ever want to be admonished by yet again! The shame!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00043_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "You're aware I'm on your side?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00043_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, and hopefully you aren't deadweight...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00045_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I can't believe this! Admonished by the idiot agent yet again, the Orchids are the Test*cles, Tojo's actually sane... It's all too much!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00046_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Me being sane is \"too much\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00047_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, you're rarely sane. So help me out here. Make it a normal thing. I want to have someone to count on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00048_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Okay. I will try to from now on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00049_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, please do that. I'm counting on you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00050_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Yup, I will.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00051_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00052_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And you wake up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00053_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I am awake... I'm just...resting my eyes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00054_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're at least too asleep to realize that no one has ever fallen for that one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00055_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "So, what exactly are we going to review?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00056_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "First, hmm. Let's see...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00057_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry, hold that thought.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00058_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ah... Ah—!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00059_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You put us on hold for a sneeze?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00060_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ah-ZZZzzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00061_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, you're SNORING?! Just when I thought it was a sneeze, you freaking fall asleep on me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00062_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ah-ZZZzzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00063_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You always just went \"Zzz...\" before! Where's this \"Ah-ZZZzzz...\" nonsense coming from?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00064_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00065_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm not asking you to correct yourself!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00066_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00067_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, hold on a second. Do you mean to tell me that I'm supposed to \"hold that thought\" until morning?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00068_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What happened to being all like \"Understood!\" earlier?! It's like you hugged me just so you could stab me in the back!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00069_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You really ARE just sucking up when you say that! And here I thought we were actually starting to get along! Of all the people you could betray, it just had to be me, didn't it?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00070_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I can't blame 'er. My body's friggin' killin' me. All I wanna do is sleep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00071_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00072_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Waking her up just seems cruel.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00073_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I'm quite tired as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00074_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well isn't this great? At this rate, we'll be the first to die out on the battlefield! I was trying to prevent that, you know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00075_Karen",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "And so Yuki Izumi made her peace. She was prepared to sacrifice herself for the sake of the others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00075_Karen#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "And so Yuki Izumi made her peace. She was prepared to sacrifice herself for the sake of the others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00076_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I am NOT sacrificing myself for anyone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00077_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And seriously, where is this narration coming from?! Do we have a secret seventh member?! Don't tell me it's a ghost!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00078_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "It was Asakura. She said it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00079_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What? It was?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00080_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00081_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, Asakura. Answer me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00082_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Eee heh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00083_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Eee HEH heh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00084_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "EEEeee heheheheheh HEH!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00085_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "The name's not Asakura... IT'S KARRIE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00086_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So you've been the one trying to turn this into a horror movie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00087_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Ding-ding-ding! You should've seen the looks on your faces... Absolutely priceless!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00088_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm getting a headache... What were you even trying to accomplish?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00089_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Sinking this FOOLISH world into further CHAOS and DISCORD!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00090_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't it chaotic enough with the whole Cancer thing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00091_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "At least we know the source of the creepy voice now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_10_02_Novel_00092_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "At the cost of Asakura herself getting a whole lot creepier...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,486 @@
+{
+  "Script": "Story/AC01/Day03/Novel/AC01_03_09_00",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00671_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm so glad everyone's okay.",
+      "Vietnamese": "Chà, mọi người bình an vô sự là tốt rồi."
+    },
+    {
+      "Key": "VC_AC01_00672_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori, a word.",
+      "Vietnamese": "Kayamori-san."
+    },
+    {
+      "Key": "VC_AC01_00673_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh! Commander?!",
+      "Vietnamese": "Oái! Chỉ huy!?"
+    },
+    {
+      "Key": "VC_AC01_00674_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I thought I told you that disobeying orders carries a serious punishment.",
+      "Vietnamese": "Hầy, các cô thật là... Tôi đã nói vi phạm mệnh lệnh sẽ bị phạt nặng rồi cơ mà."
+    },
+    {
+      "Key": "VC_AC01_00675_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well I mean, we saved everyone...so all's well that ends well, right?",
+      "Vietnamese": "À thì, mọi chuyện đều êm đẹp, cứu được mọi người là ổn rồi mà?"
+    },
+    {
+      "Key": "VC_AC01_00676_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So the end justifies the means? I think not.",
+      "Vietnamese": "Đấy chỉ là xét trên kết quả thôi."
+    },
+    {
+      "Key": "VC_AC01_00677_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Squad Leader Kayamori, for incitement, and Squad Leader Yamawaki, for acting on your own...your punishment will be two weeks of cleaning the bathrooms.",
+      "Vietnamese": "Đội trưởng Kayamori tội xúi giục, đội trưởng Yamawaki tội tự ý hành động, hình phạt là dọn dẹp phòng tắm trong hai tuần."
+    },
+    {
+      "Key": "VC_AC01_00678_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Whaaat! WHY?!",
+      "Vietnamese": "Ơ----! Tại sao!?"
+    },
+    {
+      "Key": "VC_AC01_00679_BIYamawaki",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Whaaat! WHY?!",
+      "Vietnamese": "Ơ----! Tại sao!?"
+    },
+    {
+      "Key": "VC_AC01_00680_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Birds of a feather.",
+      "Vietnamese": "Thân nhau phết."
+    },
+    {
+      "Key": "VC_AC01_00681_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your actions were a dereliction of duty and in violation of orders. There was even a court-martial.",
+      "Vietnamese": "Hành động của các cô là chối bỏ chức trách, vi phạm mệnh lệnh. Thậm chí còn bị đưa ra tòa án binh đấy."
+    },
+    {
+      "Key": "VC_AC01_00682_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I approved this lesser punishment in light of the fact that you also eliminated a major target and the successful rescue. Reflect on your actions as you clean.",
+      "Vietnamese": "Xét thấy công lao tiêu diệt kẻ địch và giải cứu con tin, hình phạt này là do Chỉ huy đặc cách quyết định đấy. Trong thời gian dọn dẹp hãy tự kiểm điểm lại mình đi."
+    },
+    {
+      "Key": "VC_AC01_00683_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw, maaan...",
+      "Vietnamese": "Ứ hự."
+    },
+    {
+      "Key": "VC_AC01_00684_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And another thing...",
+      "Vietnamese": "Và còn một chuyện nữa..."
+    },
+    {
+      "Key": "VC_AC01_00685_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh, you're not done scolding us?",
+      "Vietnamese": "Ơ, vẫn còn càu nhàu nữa hả?"
+    },
+    {
+      "Key": "VC_AC01_00686_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you for saving your comrades. Do not forget that feeling.",
+      "Vietnamese": "Cảm ơn vì đã cứu đồng đội. Đừng quên cảm xúc đó nhé."
+    },
+    {
+      "Key": "VC_AC01_00687_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh?",
+      "Vietnamese": "Hả?"
+    },
+    {
+      "Key": "VC_AC01_00688_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But if you ever disobey orders again, I won't be so understanding.",
+      "Vietnamese": "Nhưng, nếu còn vi phạm lần nữa thì tôi không nhân nhượng đâu."
+    },
+    {
+      "Key": "VC_AC01_00689_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess that wraps that up.",
+      "Vietnamese": "Mọi chuyện cũng coi như ổn thỏa rồi."
+    },
+    {
+      "Key": "VC_AC01_00690_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry...",
+      "Vietnamese": "Xin lỗi cậu..."
+    },
+    {
+      "Key": "VC_AC01_00691_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh, don't worry about it.",
+      "Vietnamese": "Không sao không sao."
+    },
+    {
+      "Key": "VC_AC01_00692_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How can I ever show you how grateful I am?",
+      "Vietnamese": "Tôi biết phải cảm ơn cậu thế nào cho đủ đây..."
+    },
+    {
+      "Key": "VC_AC01_00693_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's like I said, Merry. Everyone saw how persistent you were and it inspired them to act. That's all there is to it.",
+      "Vietnamese": "Tớ bảo rồi, là vì Marie dốc sức mà. Mọi người chỉ bị thôi thúc bởi sự cố gắng đó thôi."
+    },
+    {
+      "Key": "VC_AC01_00694_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe that's how it was to start with...",
+      "Vietnamese": "Mở đầu có thể là như vậy..."
+    },
+    {
+      "Key": "VC_AC01_00695_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I couldn't have achieved this without you.",
+      "Vietnamese": "Nhưng đạt được kết quả này, tất cả là nhờ Kayamori-san."
+    },
+    {
+      "Key": "VC_AC01_00696_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Me? You're gonna make me blush.",
+      "Vietnamese": "Hả? Tớ á? Ngại ghê ta."
+    },
+    {
+      "Key": "VC_AC01_00697_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because of this incident, the bonds between 31-C have become stronger. I'm sure our teamwork will continue to improve.",
+      "Vietnamese": "Qua chuyện lần này, tình cảm của 31C chắc chắn đã sâu đậm hơn, và từ nay về sau tinh thần đồng đội cũng sẽ tốt hơn."
+    },
+    {
+      "Key": "VC_AC01_00698_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This was an incredible experience. I learned what it takes to be someone others can depend on.",
+      "Vietnamese": "Tôi đã được trải nghiệm một kinh nghiệm vô cùng quý báu. Cậu là một sự tồn tại rất đáng tin cậy."
+    },
+    {
+      "Key": "VC_AC01_00699_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I hope I can be like that someday—",
+      "Vietnamese": "Tôi cũng muốn trở thành người như vậy..."
+    },
+    {
+      "Key": "VC_AC01_00700_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, cut it out already—I can only take so much praise, y'know! Though it's not like I ain't used to it.",
+      "Vietnamese": "Ấy ấy, đừng khen tớ thêm nữa! Khen quá tớ quen mất đó."
+    },
+    {
+      "Key": "VC_AC01_00701_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "—just like Izumi-san.",
+      "Vietnamese": "Giống như Izumi-san vậy."
+    },
+    {
+      "Key": "VC_AC01_00702_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ehhhhhh?!",
+      "Vietnamese": "Ơ---!!"
+    },
+    {
+      "Key": "VC_AC01_00703_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't you mean to say, \"I wanna be just like you, Ruka!\"? Why'd you bring up Yukkie?!",
+      "Vietnamese": "Sao không phải là tớ!? Chỗ đó nhẽ ra phải nói là muốn giống tớ mới đúng chứ!?"
+    },
+    {
+      "Key": "VC_AC01_00704_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have the ability to take action as a squad leader, just like Ivar.",
+      "Vietnamese": "Kayamori-san với tư cách là đội trưởng, cậu có khả năng hành động y hệt Ivar-chan vậy."
+    },
+    {
+      "Key": "VC_AC01_00705_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But the one who always supports you from the sidelines, making calm and collected decisions, is Izumi-san.",
+      "Vietnamese": "Nhưng người luôn hỗ trợ cậu từ phía sau, đưa ra những quyết định bình tĩnh và sắc bén mọi lúc mọi nơi, chính là Izumi-san."
+    },
+    {
+      "Key": "VC_AC01_00706_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "So it's not my stocks, but rather\\nYukkie's that are skyrocketing?!",
+      "Vietnamese": "Ra là cổ phiếu của tớ không lên, mà của Yukki mới tăng vọt hả!"
+    },
+    {
+      "Key": "VC_AC01_00707_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw, come on! Why do you look up to her instead of me?!",
+      "Vietnamese": "Ơ, không chịu đâaaaau!! Tại sao lại không phải tớ mà là Yukkiiii!!"
+    },
+    {
+      "Key": "VC_AC01_00708_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, cram it, would you. Don't just shout someone's name in public like that. Even if I wanted to pretend that I didn't hear it, I can't.",
+      "Vietnamese": "Ồn ào quá đấy. Đừng có hét to tên người khác ở chỗ đông người như vậy. Tôi đang cố lờ đi mà không muốn cũng phải nghe."
+    },
+    {
+      "Key": "VC_AC01_00709_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Merry said she wants to be \"just like Yukkie.\" That she wants to become the smart, glasses-wearing person on the team...",
+      "Vietnamese": "Marie bảo bồ ấy muốn được giống Yukki kìa. Bồ ấy muốn vào vai nhân vật đeo kính kìa."
+    },
+    {
+      "Key": "VC_AC01_00710_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She didn't say that at all! And it's not just as simple as putting on a pair of glasses!",
+      "Vietnamese": "Cậu ta không có nói đoạn đó nha. Cứ đeo kính vào là thành nhân vật đeo kính sao."
+    },
+    {
+      "Key": "VC_AC01_00711_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm still a long ways off from that.",
+      "Vietnamese": "Tôi còn lâu mới với tới cảnh giới đó."
+    },
+    {
+      "Key": "VC_AC01_00712_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How do I become more like you, so that I can support my team?",
+      "Vietnamese": "Làm thế nào tôi mới có thể trở thành người quán xuyến cả đội như cậu được."
+    },
+    {
+      "Key": "VC_AC01_00713_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm surrounded by a bunch of idiots, so I just naturally ended up being the one who back them up.",
+      "Vietnamese": "Vì xung quanh toàn một đám tấu hài nên tôi mới bị ép vào cái vai hỗ trợ này thôi..."
+    },
+    {
+      "Key": "VC_AC01_00714_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So in that sense, if you're the only one with common sense in 31-C, you'll eventually fill that role.",
+      "Vietnamese": "Mà theo nghĩa đó, ở 31C cậu là người bình thường duy nhất, nên chắc rồi cũng thành người hỗ trợ thôi."
+    },
+    {
+      "Key": "VC_AC01_00715_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have no self-confidence...",
+      "Vietnamese": "Tôi không có tự tin..."
+    },
+    {
+      "Key": "VC_AC01_00716_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've always been that way.",
+      "Vietnamese": "Vì trước kia, tôi cũng từng như vậy..."
+    },
+    {
+      "Key": "VC_AC01_00717_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you mean?",
+      "Vietnamese": "Thế là sao?"
+    },
+    {
+      "Key": "VC_AC01_00718_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, in her family, she was the only one who was overqualified, so she didn't have a place in the family's black-market biz. Got excluded.",
+      "Vietnamese": "À thì, nghe đâu trong nhà, bồ ấy là \"yếu điểm\" duy nhất, không gánh vác nổi gia nghiệp chợ đen nên bị cho ra rìa đó."
+    },
+    {
+      "Key": "VC_AC01_00719_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't understand what overqualified actually means, doofus.",
+      "Vietnamese": "\"Yếu điểm\" là điểm quan trọng nhất chứ không phải điểm yếu đâu đồ ngốc. Cậu dùng sai từ rồi."
+    },
+    {
+      "Key": "VC_AC01_00720_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Yes. Nobody needed me back home, and it's the same here in the Seraph squadron, even now.",
+      "Vietnamese": "Ừ... tôi không được bất kỳ ai trong gia đình cần đến... Và ngay cả bây giờ khi đã vào đội Seraph cũng vậy..."
+    },
+    {
+      "Key": "VC_AC01_00721_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not like you don't have time. You have your whole future ahead of you.",
+      "Vietnamese": "Cậu mới vào đội thôi mà. Vẫn còn tương lai phía trước."
+    },
+    {
+      "Key": "VC_AC01_00722_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But after this last incident, I'm even less confident that I can fill a role like yours.",
+      "Vietnamese": "Nhưng sau sự việc lần này, tôi lại càng mất tự tin liệu mình có thể đảm nhiệm vai trò như Izumi-san hay không..."
+    },
+    {
+      "Key": "VC_AC01_00723_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a weird thing to say. From my perspective, I would rate your physical ability, intelligence, and judgment as top-notch.",
+      "Vietnamese": "Lạ thật đấy. Dù là thể lực, tư duy hay khả năng phán đoán, theo tôi thấy cậu đều đạt mức siêu hạng."
+    },
+    {
+      "Key": "VC_AC01_00724_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that so?",
+      "Vietnamese": "Thật vậy sao..."
+    },
+    {
+      "Key": "VC_AC01_00725_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why were you excluded? Can you think of any other reason?",
+      "Vietnamese": "Không phải do nguyên nhân nào khác mà cậu bị cho ra rìa hay sao?"
+    },
+    {
+      "Key": "VC_AC01_00726_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aha, good point. Niiice hacking!",
+      "Vietnamese": "Cũng đúng ha. Haaaack đỉnnhhhhhhhh quuuuuá!"
+    },
+    {
+      "Key": "VC_AC01_00727_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not hacking... And I didn't even say anything yet.",
+      "Vietnamese": "Tôi đã hack cái gì đâu, vả lại tôi cũng có suy luận ra cái gì đâu."
+    },
+    {
+      "Key": "VC_AC01_00728_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't know... The Cancer attacked and I was the only one of my family that was left.",
+      "Vietnamese": "Tôi không biết... Vì Cancer tấn công, cả gia đình chỉ còn lại mình tôi..."
+    },
+    {
+      "Key": "VC_AC01_00729_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see...",
+      "Vietnamese": "Ra là vậy à..."
+    },
+    {
+      "Key": "VC_AC01_00730_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They didn't leave you anything?",
+      "Vietnamese": "Họ không để lại cho cậu kỷ vật gì sao?"
+    },
+    {
+      "Key": "VC_AC01_00731_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They did. My mother's old tablet.",
+      "Vietnamese": "Có. Có chiếc máy tính bảng cũ của mẹ tôi."
+    },
+    {
+      "Key": "VC_AC01_00732_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?! You still have it?!",
+      "Vietnamese": "Hả? Còn giữ á!? Đồ vật như vậy!?"
+    },
+    {
+      "Key": "VC_AC01_00733_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, I looked for this on my own. Of course, I did so in secret without the military knowing.",
+      "Vietnamese": "Ừ. Đây là thứ duy nhất tôi tự mình gắng sức tìm được. Tất nhiên là giấu giếm không cho quân đội biết..."
+    },
+    {
+      "Key": "VC_AC01_00734_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, that's amazing.",
+      "Vietnamese": "Marie đỉnh thật đấy."
+    },
+    {
+      "Key": "VC_AC01_00735_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Have you been able to unlock it?",
+      "Vietnamese": "Đã mở khóa được chưa?"
+    },
+    {
+      "Key": "VC_AC01_00736_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It uses a fingerprint scan, so I haven't been able to...",
+      "Vietnamese": "Vì nó dùng cảm biến vân tay, nên tôi vẫn chưa mở được..."
+    },
+    {
+      "Key": "VC_AC01_00737_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, I think this is your time to shine.",
+      "Vietnamese": "Yukki-san. Đã đến lúc bồ trổ tài rồi đấy."
+    },
+    {
+      "Key": "VC_AC01_00738_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You should really be paying me extra.",
+      "Vietnamese": "Tôi làm việc nhiều đến mức muốn đòi tiền trợ cấp đặc biệt luôn rồi đấy..."
+    },
+    {
+      "Key": "VC_AC01_00739_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can you really get into it?",
+      "Vietnamese": "Cậu có thể bẻ khóa được sao!?"
+    },
+    {
+      "Key": "VC_AC01_00740_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You'd better not underestimate her. She's a pro hacker!",
+      "Vietnamese": "Chớ có xem thường một hacker thiên tài đấy nhé?"
+    },
+    {
+      "Key": "VC_AC01_00741_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't get her hopes up. I'll feel ashamed if I can't do it.",
+      "Vietnamese": "Đừng nâng tôi lên quá. Lỡ hụt thì quê lắm."
+    },
+    {
+      "Key": "VC_AC01_00742_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But that's the thing, Yukkie. You always succeed!",
+      "Vietnamese": "Mà lúc nào cũng tưởng hụt mà vẫn thành công, đấy chẳng phải là sự phi thường của Yukki hay sao?"
+    },
+    {
+      "Key": "VC_AC01_00743_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mess up sometimes too.",
+      "Vietnamese": "Tôi vẫn thất bại như người bình thường nhé."
+    },
+    {
+      "Key": "VC_AC01_00744_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry if she doesn't get it unlocked. If that happens, Yukkie will grovel on the floor and apologize.",
+      "Vietnamese": "Nếu thất bại thì cho tớ xin lỗi bồ nha. Yukki sẽ quỳ lạy dập đầu."
+    },
+    {
+      "Key": "VC_AC01_00745_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why would I do that? That's absurdly harsh.",
+      "Vietnamese": "Tại sao tôi phải làm vậy. Vô lý vừa thôi."
+    },
+    {
+      "Key": "VC_AC01_00746_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not asking for a miracle, but it can't hurt to try. Please.",
+      "Vietnamese": "Tất nhiên, tôi không... đòi hỏi cao xa gì đâu. Không được cũng không sao. Trăm sự nhờ cậu."
+    },
+    {
+      "Key": "VC_AC01_00747_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's just hope that this retro tablet's battery still has some juice in it.",
+      "Vietnamese": "Trước tiên cứ cầu nguyện cho cục pin của cái máy tính bảng cổ lỗ sĩ này chưa oẳng đi đã."
+    },
+    {
+      "Key": "VC_AC01_00748_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll need to hook your tablet into a mePad directly via a cable to hack it. Can you get me one?",
+      "Vietnamese": "Muốn hack thiết bị thì chỉ còn cách dùng cáp vật lý để nối vào sổ tay quân nhân điện tử thôi. Đi tìm giúp tôi được không."
+    },
+    {
+      "Key": "VC_AC01_00749_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Leave it to me!",
+      "Vietnamese": "Cứ để đó cho tớ."
+    },
+    {
+      "Key": "VC_AC01_00750_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay!",
+      "Vietnamese": "Ừ!"
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,456 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_05_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The operation was successful due to the hard work and struggles of everyone involved. Thank you for your efforts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We had one casualty: Cadet Erika Aoi from 31-B. I'd like for you all to understand that the operation was able to succeed only through her sacrifice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cadet Aoi confronted the giant Cancer, allowing her comrades to retreat and playing a pivotal role in the enemy's defeat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Her death is a major loss for us, but I would like you to remember her valor and carry on her will.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01063_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We will continue fighting for the sake of humanity, to bring back a lasting peace to this world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We must not let Cadet Aoi's death be in vain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whether it takes form as anger or sadness, let her death be a catalyst to your own efforts to keep fighting for the future.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00007_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn it all... Aoi...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00008_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't you say you didn't want to be all alone anymore?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00009_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So why did you leave us all behind? Why did you choose to be alone again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00010_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What was the point of it all, if this is what was going to happen...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00011_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sob*...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00012_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Waah... Uaaagh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_02_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Graaaar...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00014_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Why are they all so sad?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00014_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(Why are they all so sad?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00015_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(I don't understand...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00015_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(I don't understand...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00016_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(But...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00016_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(But...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00017_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(I recognize that thing over there... That's mine.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00017_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(I recognize that thing over there... That's mine.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah! That Narby jumped out of nowhere!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00019_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey! It stole Aoi's hairband!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00020_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Paws off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00021_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please be quiet, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00022_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But that's Aoi's!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00023_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We made it just for her!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00024_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's no need to be alarmed. It won't eat the hairband. Please calm down. This is a place of solemn rest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00025_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00026_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00027_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi...I'll come see you again later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00028_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is such a lonely place to be left all by yourself...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00029_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you ready to go?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00030_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00031_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00032_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone, a salute for the late Erika Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00033_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(It's so bright... I can't see anything anymore...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00033_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(It's so bright... I can't see anything anymore...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00034_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Nothing...makes sense...anymore...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00034_EAoi#2",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "(Nothing...makes sense...anymore...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00035_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dismissed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, let's bring this Narby back to its buddies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00037_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'mon, little one, this waaay! Your buddies are this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't wanna go?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00041_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's been looking at us the whole time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What a strange Narby...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00043_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Is it okay?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00043_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(Is it okay?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00044_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Have I done...what I wanted to do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00044_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(Have I done...what I wanted to do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's okay. The operation succeeded thanks to you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00047_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uhh, who are you talking to?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, the Narby has Aoi's hairband on top of it, so I just felt like it's her reincarnation. Or something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I just wanted to tell her thanks. That she did well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00050_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For a moment there, I thought you went crazy, but it's just you being you as usual.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Exactly. So...good work, Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00052_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm. Good work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00053_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you so much, Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00055_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think...its eyes are looking a little watery...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00056_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it? I feel like Narby eyes look shiny all the time. I wonder if they feel emotions at all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00057_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe it's just my imagination.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00059_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, you've got a bunch of friends over there, so go on and play.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00060_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(*nods*)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00060_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(*nods*)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00061_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Did that Narby just nod?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00062_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you think they understand words?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00063_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's always the possibility.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00064_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, it IS a mystery creature.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00065_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're filled to the brim with mysteries!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00066_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00067_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think there might be a chance that they understand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00069_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh. There it goes, bobbling away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_10_Novel_00070_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Bye-bye, buddy! Let's play again when things settle down!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

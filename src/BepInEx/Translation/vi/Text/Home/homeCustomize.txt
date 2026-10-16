@@ -1,7 +1,15 @@
-Home Screen Customization=<size\=80%>Tuỳ chỉnh Màn hình chính
-Memorias=Style
+Home Screen Customization=<size\=75%><cspace\=-3px>Tuỳ chỉnh Màn hình chính
+ストーリー=Chính truyện
+ Memorias= <size\=90%>Hồi Ức
+ Story= <size\=90%>Chính truyện
+ Event Courses= <size\=90%>Sự kiện
+ Special= <size\=90%>Đặc biệt
 Illustration=Ảnh minh hoạ
+Sort by Story Order=Cốt truyện
 設定中=Đã chọn
-ホームセリフ表示=<size\=85%>Bóng thoại nhân vật
+Dialogue=<size\=85%>Bóng thoại nhân vật
 Default=Mặc định
 Confirm home screen customization?=Xác nhận tuỳ chỉnh màn hình chính này?
+Deselect All=<size\=80%>Bỏ chọn tất cả
+セリフ表示=Hiện thoại
+<style\=RubyPrefixTag></style>\nDiscarding selection and returning to previous screen. Proceed?=<style\=RubyPrefixTag></style>\nHuỷ bỏ lựa chọn và quay về với tuỳ chỉnh đã lưu trước đó?

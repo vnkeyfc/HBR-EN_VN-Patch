@@ -1,0 +1,102 @@
+{
+  "Script": "Story/MC02/Day15/Novel/MC02_15_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00734_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(It might be nice to relax alone for once, especially since there's still that Medusa problem to think about...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Yeah, I'll go hang out at this café.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Vienna coffee? I've heard of Vienna sausage, but I wonder what kind of coffee this is...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Maybe it has a sausage in it. If that's the case, there's no way a meat-lover like me wouldn't like it!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hi, could I get a Vienna coffee?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(What...is this?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(There's so much cream! Is there a sausage beneath all this?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Mmm, it's sweet! This is all whipped cream!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Definitely works with the coffee! But I'm not so sure if it'd work with a sausage!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(It's delicious on its own as coffee, though!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I finished it all...but there was no sausage in the end...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Should I let them know they forgot to put in a sausage?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00735_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Nah...I'm sure they're trying their best running this place in a time like this. It wouldn't be nice to complain over something tiny like this.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Who knows. Maybe they ran out of sausages.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew, that was a fun little detour.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_09_00_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "A real nice café. Even if they didn't have any sausage.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

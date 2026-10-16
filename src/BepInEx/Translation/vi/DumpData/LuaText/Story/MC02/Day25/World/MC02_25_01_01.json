@@ -1,0 +1,78 @@
+{
+  "Script": "Story/MC02/Day25/World/MC02_25_01_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_01065_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we're going to take it on with close-quarters combat, we'll need to close the gap first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01066_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Should we try the textbook thing and move around clockwise to hit its blind spot?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01067_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But, we have no idea how that thing is sensing us...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_World_00002_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The target's roaring! Distance, approximately 5,000 meters!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_World_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's closing in! It might've noticed us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_World_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ichigo, Sumomo, please get ready for combat! We're going to direct its attention our way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01068_v001_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait! That thing's charging something up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_World_00006_SMinase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Meow, it's opening it's mouth wide!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01069_v001_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Be careful! A huge attack is coming this way!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_01_Novel_00176_Byakko",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Grrrar!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_World_00008_EAoi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Ah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01070_v001_EAoi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Everyone, get down!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

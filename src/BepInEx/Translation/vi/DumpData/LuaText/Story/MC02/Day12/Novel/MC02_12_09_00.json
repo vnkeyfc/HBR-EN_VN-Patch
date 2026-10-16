@@ -1,0 +1,264 @@
+{
+  "Script": "Story/MC02/Day12/Novel/MC02_12_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ughhh, another tiring day...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yuki, help! Ruka's leaning on me! She's so heavy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you leaning on the smallest member of our group?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00003_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well...I don't really mind that much!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00004_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe once she gets some food in her, she'll recover.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00005_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right. The food here is always amazing, after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00006_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep it up until then, Tama.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't take another step...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00008_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gyyyaaaaaagh! Heavy, HEAVY!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00009_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're...here!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Ruka. It's time for dinner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "FINALLY!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You haven't even eaten anything, yet you're already brimming with energy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what's on the menu tonight?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00014_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like it's an assorted sashimi plate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about REAL meat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00016_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's also some rice and miso soup. Nothing else.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No...I can't go on anymore...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00018_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gyyyaaaaaagh! Heavy, HEAVY!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's even tuna, sea bream, and sweet shrimp on this sashimi plate. Seems more than enough to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo, seafood just doesn't cut iiit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00021_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who's the one whining over here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00022_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh! It's the cool senior squad member from before!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It'd be embarrassing to admit that this whiner is our squad leader...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00024_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's our squad leader who's complaining over the food!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00025_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And she went and said it anyways...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00645_v001_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Ruka. What's going on here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00026_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Cadet Kayamori. What's going on here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't eat my rice with just raw seafood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00028_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why? Japanese people have done exactly that since old times.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I happen to be an ultra modern girl.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is the first time I've ever heard of that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00031_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why not just fry the fish?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00032_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you talking about, Tsukishiro? No, there's a much better way than that for enjoying the rice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00033_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That so? Let's hear it, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00034_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The solution is...sushi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00035_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah, I see... That makes sense.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00036_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll prepare some vinegar and turn it into sushi myself. Then, you girls can really enjoy the flavor of the rice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, this is super delicious!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00038_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm glad our squad could be of help.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00039_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not like I did it just for HER, you know?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00040_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe. Of course, I understand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_09_00_Novel_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess they're all pretty nice people...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,180 @@
+{
+  "Script": "Story/MC02/Day06/Novel/MC02_06_11_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(It's a little cold out, but that's perfect right now.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(The stars are out, too. Maybe I should have invited everyone else?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Oh, a shooting star!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Dammit! I forgot to make a wish!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Right when you see them, they're gone.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(There's really only time to say one syllable.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(But what's a one-syllable wish?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(You usually need more than one syllable to make a statement in the first place.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Hmm...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Oh!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I've got it! Japan's shortest station name...Tsu Station.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tsu!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(That's more like it!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(But what did I just wish for? That's not exactly wish material...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Yeah, you need at least two syllables for it to mean anything.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To Tsu!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(That's more like it!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Feel free to come at me, shooting star...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(There you are!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To Tsu!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Mission accomplished! Now my wish will be granted for sure!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Wait, what is my wish?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Who or what is going \"to Tsu\"?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Crap, maybe the shooting star itself is gonna crash into Tsu!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Oh, a shooting star!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cancel!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Close call...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I almost did the Cancer's job for them and wiped out Tsu just now...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_01_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Good thing I was able to cancel it in time.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

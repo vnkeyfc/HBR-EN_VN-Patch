@@ -1,0 +1,162 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_01_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00000_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is everyone alright?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A, all safe and accounted for! Thanks!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01047_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But that was an incredibly strong blast...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01048_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It looks like Aoi can just manage to block it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01049_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01050_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't think she'd be able to handle consecutive blasts like that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01051_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01052_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll definitely keep stopping it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01053_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01054_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll keep going as long as my deflector remains, so please attack with every chance you get!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01055_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But what are you going to do when your deflector gets depleted?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01056_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's okay! I'll be fine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_04_Novel_00019_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We cover each other's weaknesses to become stronger as a team. That's what we've learned, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I...don't like this feeling.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_04_Novel_00021_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is the first time since I got here that I've felt this way...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_04_Novel_00023_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Felt what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have this really bad feeling...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I usually have good vibes about everything... I'm that kind of carefree sort of person. But this...just feels like something terrible's going to happen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_04_Novel_00026_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not like you! I swear, we'll be fine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00027_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For now, let's just focus on defeating the target and bringing everyone home safely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00028_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll take the lead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01057_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll continue blocking the enemy's attacks, but I need everyone to keep moving forward. Is that okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_02_Novel_00031_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you, Ruka. Let's go!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

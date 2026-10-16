@@ -1,0 +1,135 @@
+{
+  "Script": "Story/MC02/Day04/World/MC02_04_06_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Don't wanna get yelled at... Better hurry to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00000_RKayamori#2",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Don't wanna get yelled at... Better hurry to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Another day, another training session.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I need some stimulation to break up all this monotony!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Just gotta get through today's training with a perfect score, and then, after school—",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00006_IMinase",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "Training's such a pain in the ass...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00007_SMinase",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "Let's just get this over with, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00008_EAoi",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "Focus... Keep it together...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They were...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What's wrong? Let's get going already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00012_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "That group that passed by just now—I think I've seen them before... or maybe not.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00013_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Did you sleep well last night?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "I...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Slept well|Couldn't sleep",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00330_v001_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I slept pretty well, yeah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00014_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Good. Then training will be a breeze.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00331_v001_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I couldn't sleep at all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00015_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Uh-oh. Please try not to hurt yourself in training today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00016_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Wonder how many sessions we got left.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_00_World_00017_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "No time to rest between band practice and training. We're so popular!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

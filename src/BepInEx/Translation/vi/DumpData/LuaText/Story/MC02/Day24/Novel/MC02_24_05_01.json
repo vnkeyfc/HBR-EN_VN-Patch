@@ -1,0 +1,72 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_05_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aaand we're done!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No enemies here. Everyone, status report?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No enemies in the vicinity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00003_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Same here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like we got 'em all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00005_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I second that assessment!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, how far till the checkpoint?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600037_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "50 meters left. We can already see it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01001_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then Phase Two is cleared, too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00008_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're on a roll!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_05_02_Novel_00009_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ha! No surprise there.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,72 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/CC01/CC01_NextTimePreview03.usm.bytes",
+  "Notes": "Edit Text and Style fields. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 0.1,
+      "EndSecond": 1.6,
+      "OriginalText": "Next Episode Preview",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 1.7,
+      "EndSecond": 3,
+      "OriginalText": "Everyone put so much effort into making this series.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 4.4,
+      "EndSecond": 7.5,
+      "OriginalText": "I'm a big fan of the original. I've read it several times.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 7.6,
+      "EndSecond": 10.6,
+      "OriginalText": "I really felt like I put myself in my character's shoes.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 10.7,
+      "EndSecond": 13.1,
+      "OriginalText": "Looking back, it all went by in the blink of an eye.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 13.2,
+      "EndSecond": 15,
+      "OriginalText": "Oh, I <i>love</i> this scene!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 15.1,
+      "EndSecond": 18,
+      "OriginalText": "''Cast Commentary''",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

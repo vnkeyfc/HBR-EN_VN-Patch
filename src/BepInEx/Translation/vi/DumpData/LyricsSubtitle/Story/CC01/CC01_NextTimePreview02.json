@@ -1,0 +1,81 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/CC01/CC01_NextTimePreview02.usm.bytes",
+  "Notes": "Edit Text and Style fields. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 0.1,
+      "EndSecond": 1.6,
+      "OriginalText": "Next Episode Preview",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 1.7,
+      "EndSecond": 3,
+      "OriginalText": "YO, TAMA!!!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 3.1,
+      "EndSecond": 3.9,
+      "OriginalText": "Y-Yes!!!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 4,
+      "EndSecond": 4.7,
+      "OriginalText": "Karerin, let's get married.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 4.8,
+      "EndSecond": 6.5,
+      "OriginalText": "IIIT'S KARRIE!!!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 6.6,
+      "EndSecond": 7.6,
+      "OriginalText": "Eeek!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 7.7,
+      "EndSecond": 9.3,
+      "OriginalText": "Ahhh... It's so great to have friends.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 9.4,
+      "EndSecond": 12,
+      "OriginalText": "''What's So Great About It?''",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

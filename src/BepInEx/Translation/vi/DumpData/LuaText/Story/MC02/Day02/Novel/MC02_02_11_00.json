@@ -1,0 +1,352 @@
+{
+  "Script": "Story/MC02/Day02/Novel/MC02_02_11_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, today we met the squad leader of 31-B, Erika Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00317_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aside from confirming that scientists are super smart, we gathered no useful information.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, she is still a cadet like us. Guess we're all being kept in the dark.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00003_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At least we got to meet Byakko... She was so fluffy and cute!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not as cute as you, Karerin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Again with the pickup lines.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's enough thinking for one day. Let's get some sleep, squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, tomorrow kicks off another round of training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00008_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "S-So soon?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you expect us to just have infinite days off?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Yukkie...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Hey, Yukkie...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "You're unusually hard on Cappy|You're unusually good at shutting down Cappy",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're unusually hard on Cappy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought I was being equally hard across the board.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00013_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm the only one you keep calling out for being stupid...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See? She's sulking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You led an entire crew as a ship captain, didn't you? Surely a few jabs isn't enough to take the wind out of your sails.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00016_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It wounds my pride...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, as squad leader, I must say this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Go on...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can't you see Cappy's upset?! Our tiny little captain doesn't deserve this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Try not to insult her as you're defending her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How's that? If she looks like this <i>and</i> people start calling her dumb, she's gonna give up on life.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00022_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For the record, I don't have any insecurities about my physical appearance or stature!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now look. She's even more pathetic than before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00024_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yer both ta blame!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's that, Megumin?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00026_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I SAID yer both makin' fun of Tama, morons!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00027_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're surprisingly heated about this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're unusually good at shutting down Cappy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm getting good at shutting down EVERYONE in this freak show of a squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00030_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, managing her jealousy so well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00031_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00033_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My self-esteem is slowly being whittled away by these jabs, by the way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00318_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then stop acting stupid. Problem solved.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00035_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's not ACTIN', okay?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00036_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Oh, guess so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00037_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Glad you understand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00038_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's something else going on here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00039_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No there ain't!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You've really taken a liking to Cappy, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00041_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00042_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mngh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00043_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "F-Fat chance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wowww. Guess even our Megumin can be caught off guard.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00045_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really? I'm surprised.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00046_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Quit gettin' the wrong idea! Bullying's a serious issue!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00047_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought people from Kansai could tell when someone is joking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00048_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Callin' her stupid is goin' too far!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00049_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're right. The specific vocabulary is important with people from Kansai. How about I call her a \"moron\" instead of just \"stupid?\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00050_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "THERE YA GO!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00051_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Umm...even if she goes with \"moron,\" I'm not from Kansai, so it still comes across as an insult.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00052_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, Tama! \"Moron\" is just another way of callin' someone unique!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00053_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then why not just call me \"unique\" and be done with it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00054_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Moron! Us Kansai folk ain't got time to beat around the bush like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_11_00_Novel_00055_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At this point we're all bullying her...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

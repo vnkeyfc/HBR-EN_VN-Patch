@@ -1,0 +1,216 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtCafeteriaOnWeekday_MC01",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the cafeteria, should I get a drink?)",
+      "Vietnamese": "(Tới nhà ăn rồi, hay là uống gì đó nhỉ?)"
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Grab a drink at the cafeteria?",
+      "Vietnamese": "Hôm nay uống gì ở nhà ăn không?"
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Get a drink",
+      "Vietnamese": "Uống"
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": "Không uống"
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Spend time at the Cafeteria to raise Silliness.",
+      "Vietnamese": "Dành thời gian tại Nhà ăn để tăng chỉ số Ngây ngô."
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(What should I order?)",
+      "Vietnamese": "(Giờ thì nên gọi gì uống đây ta?)"
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Order what?",
+      "Vietnamese": "Uống gì đây?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Latte|Fruit punch|Ice cream float",
+      "Vietnamese": "Cà phê Latte|Nước ép hoa quả|Soda kem"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's try a latte. I've heard all about it, but haven't had one yet.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(There's a cute drawing in it?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(What is this...it's like a piece of art! Too pretty! Am I allowed to just drink it?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "*sip*... *sluuurp*...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Is it this guilty pleasure that people love so much? This careless, wanton destruction of art?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Mmm, but the subtle bitter taste isn't bad.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's drink some fruit punch.)",
+      "Vietnamese": "(Chắc là làm một ly nước ép hoa quả xem.)"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Looks like it contains orange, mango, apple... Yup, 100% real fruit juice.)",
+      "Vietnamese": "(Cam, xoài rồi táo nữa... Ừm. 100% nước ép nguyên chất, vị hoa quả rõ mồn một.)"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm feeling sort of rich and classy right now!)",
+      "Vietnamese": "(Tự dưng thấy bản thân sang chảnh quý tộc ghê.)"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's packed with vitamins, so I bet it's also good for health if you drink it every day.)",
+      "Vietnamese": "(Ngập tràn vitamin thế này, ngày nào cũng làm một cốc thì khỏe re cho xem.)"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00012_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the heck?! This ain't fruit punch!!!",
+      "Vietnamese": "Cái con mẹ gì đây! Cái này cũng dám gọi là nước ép hoa quả à!"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah there Megumin, why so angry?",
+      "Vietnamese": "Ơ? Megumin, sao mà quạu dữ vậy?"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00014_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Course I'm angry! You call THIS fruit punch?! It's just sour juice!!!",
+      "Vietnamese": "SAO cái búa xua ấy! Thứ nước lã chua loét này mà cũng vác mặt đi nhận là nước ép hoa quả hả!"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaa? But this is fruit punch.",
+      "Vietnamese": "Ơ kìa? Thì cái này là nước ép hoa quả chứ gì nữa."
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00016_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Naw, REAL fruit punch is made with canned oranges, bananas, apples, and milk.",
+      "Vietnamese": "Bị khùng hả! Cái thứ gọi là nước hoa quả chuẩn bài là phải xay chung quýt lon, chuối, táo với cả sữa nữa hiểu chưa!"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that how it is in the Kansai region?",
+      "Vietnamese": "Ơ? Nước ép hoa quả ở Kansai làm kiểu đó hả?"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00018_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that <i>not</i> how it is here?",
+      "Vietnamese": "Ủa? Bộ ngoài Kanto khác hả?"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "People don't really put milk in their fruit punch.",
+      "Vietnamese": "Ai đời lại bỏ sữa tươi vào bao giờ."
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00020_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No...I'm tellin' ya, that ain't fruit punch! Look, I'm gonna borrow the kitchen. Fix one up for ya the right way!",
+      "Vietnamese": "Điêu vừa thôi... thứ đấy quái gì là nước ép hoa quả! Đợi xíu! Để bà đây vào mượn bếp khuấy một ly cho mà sáng mắt ra!"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00021_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here. Give it a taste.",
+      "Vietnamese": "Đây, húp thử ngụm coi."
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmm, this is delicious! It's got a deep sweetness to it, with just the right kind of thickness!",
+      "Vietnamese": "Ừmm! Vị ngọt béo ngậy mà độ sền sệt sánh mịn vừa chuẩn luôn! Ngon bá cháy bọ chét!"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00023_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See now? This is what real fruit punch is!",
+      "Vietnamese": "Đây mới là nước ép hoa quả chính tông nghen!"
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Ooh! I'll have an ice cream float.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Fizzy green melon soda topped with a generous scoop of vanilla ice cream... My inner child is screaming with joy!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Seeing that red cherry on top makes me so excited too!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The melty zone right where the ice cream and the soda meet... Mmm, delicious!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew, that was yummy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess it's about time to head back.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

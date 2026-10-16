@@ -1,0 +1,42 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_06_06",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_06_06_Novel_00000_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "That was tough!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_06_Novel_00001_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Really now? They were like lambs to the slaughter!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_06_Novel_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "You're scarier than any Cancer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_06_Novel_00003_AKanzaki",
+      "Context": "Adv.talk:1",
+      "Original": "How was that?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_06_Novel_00004_MTenne",
+      "Context": "Adv.talk:1",
+      "Original": "Perfectly fine. Not that I care...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_06_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Looks like 31-C's on a winning streak, too.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

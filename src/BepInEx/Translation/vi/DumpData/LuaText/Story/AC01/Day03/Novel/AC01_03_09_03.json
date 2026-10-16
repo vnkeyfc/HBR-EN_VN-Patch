@@ -1,0 +1,300 @@
+{
+  "Script": "Story/AC01/Day03/Novel/AC01_03_09_03",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00817_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She started since the day I was born...",
+      "Vietnamese": "Viết từ ngày mình sinh ra..."
+    },
+    {
+      "Key": "VC_AC01_00818_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "On this day, Mari, the first girl of the Satsuki family was born.",
+      "Vietnamese": "Ngày hôm nay, cô con gái đầu lòng của nhà Satsuki, Mari, đã cất tiếng khóc chào đời."
+    },
+    {
+      "Key": "VC_AC01_00819_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, our family operate in a clandestine line of business that must be kept hidden from public knowledge.",
+      "Vietnamese": "Thế nhưng, gia nghiệp của nhà ta lại là công việc ngầm không thể đem ra ánh sáng."
+    },
+    {
+      "Key": "VC_AC01_00820_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When I think about how she will be raised just like her older brothers, I can't help but feel uneasy. I simply can't stand the thought.",
+      "Vietnamese": "Nghĩ đến việc con bé cũng sẽ được nuôi dạy như anh cả, anh hai, lòng tôi lại tràn ngập bất an."
+    },
+    {
+      "Key": "VC_AC01_00821_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mari is very clever and physically strong. She's growing at a rate that is on par with, if not better, than her brothers.",
+      "Vietnamese": "Mari vô cùng thông minh, thể chất cũng rất xuất sắc, chẳng hề kém cạnh gì so với anh cả, anh hai."
+    },
+    {
+      "Key": "VC_AC01_00822_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No matter how strenuous the training is, she never lets it show in front of us.",
+      "Vietnamese": "Bất kể những bài huấn luyện khắc nghiệt từ cha, con bé chưa bao giờ để lộ vẻ đau đớn trước mặt chúng tôi."
+    },
+    {
+      "Key": "VC_AC01_00823_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am sure there must be times when she cries all alone by herself. But she's not one to ever show any weakness... Not even to me, her mother.",
+      "Vietnamese": "Tôi tin rằng ắt hẳn có những lúc con bé cũng khóc thầm một mình. Thế nhưng đứa trẻ này chưa bao giờ bộc lộ sự yếu đuối, ngay cả với người mẹ này."
+    },
+    {
+      "Key": "VC_AC01_00824_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wish she would show that side, even just a bit. I wish she would cry sometimes.",
+      "Vietnamese": "Giá như con bé chịu yếu đuối hơn một chút. Giá như con bé chịu ôm lấy tôi khóc nức nở."
+    },
+    {
+      "Key": "VC_AC01_00825_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If only you would, Mari... Then I'd have the resolve to raise you like a normal girl.",
+      "Vietnamese": "Nếu vậy, Mari à, mẹ đã có thể quyết tâm nuôi nấng con như một bé gái bình thường."
+    },
+    {
+      "Key": "VC_AC01_00826_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you look up to your father more than anyone else, and you want to carry on our family business.",
+      "Vietnamese": "Nhưng con lại thần tượng cha hơn bất kỳ ai, và mong muốn được kế thừa gia nghiệp."
+    },
+    {
+      "Key": "VC_AC01_00827_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because of this, all I can do is watch over you from a distance. The least I can do is prepare meals that give you a boost of energy.",
+      "Vietnamese": "Nếu vậy, tôi chỉ còn cách lặng lẽ dõi theo con từ xa. Ít nhất là nấu cho con những bữa ăn thật bổ dưỡng."
+    },
+    {
+      "Key": "VC_AC01_00828_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As Mari gets older, she is also beginning to realize there's a gap between herself and boys.",
+      "Vietnamese": "Khi con bé dần lớn lên, Mari cũng cay đắng nhận ra sự khác biệt không thể chối cãi giữa nam và nữ."
+    },
+    {
+      "Key": "VC_AC01_00829_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She can no longer overcome the same trials her brothers did at the same age.",
+      "Vietnamese": "Con bé không thể vượt qua những thử thách mà anh cả, anh hai đã làm được ở cùng độ tuổi."
+    },
+    {
+      "Key": "VC_AC01_00830_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I want her father to make his decision, once and for all.",
+      "Vietnamese": "Tôi muốn chồng tôi sớm nhận ra và nói với con bé rằng nó không thể kế thừa gia nghiệp."
+    },
+    {
+      "Key": "VC_AC01_00831_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If he would just tell her she can't remain in the family business, I'm sure Mari would give up.",
+      "Vietnamese": "Chỉ cần anh ấy nói ra điều đó, Mari chắc chắn sẽ từ bỏ."
+    },
+    {
+      "Key": "VC_AC01_00832_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then I could come in as her mother and tell her, \"You did a good job, dear.\"",
+      "Vietnamese": "Đến lúc đó, với tư cách một người mẹ, tôi sẽ nói \"Con đã cố gắng lắm rồi\"."
+    },
+    {
+      "Key": "VC_AC01_00833_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I could make her all sorts of yummy dishes and treats, pat her head gently, and spoil her to no end.",
+      "Vietnamese": "Tôi sẽ nấu cho con ăn thật nhiều món ngon, bánh ngọt, xoa đầu con, và cho con nũng nịu thật nhiều."
+    },
+    {
+      "Key": "VC_AC01_00834_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Still doing your best, Mari.",
+      "Vietnamese": "Mari, con vẫn còn đang nỗ lực sao."
+    },
+    {
+      "Key": "VC_AC01_00835_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "You did a good job, Mari.",
+      "Vietnamese": "Mari, mẹ nghĩ thế là đủ rồi đó."
+    },
+    {
+      "Key": "VC_AC01_00836_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Let me be your mother, Mari.",
+      "Vietnamese": "Mari, hãy để mẹ làm mẹ của con."
+    },
+    {
+      "Key": "VC_AC01_00837_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Let me hold you, Mari.",
+      "Vietnamese": "Mari, hãy để mẹ bế con."
+    },
+    {
+      "Key": "VC_AC01_00838_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Let me pat your head, Mari.",
+      "Vietnamese": "Mari, hãy để mẹ xoa đầu con, ."
+    },
+    {
+      "Key": "VC_AC01_00839_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Become a normal girl, Mari.",
+      "Vietnamese": "Mari, hãy trở thành một cô gái bình thường đi."
+    },
+    {
+      "Key": "VC_AC01_00840_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Put on cute clothes, Mari.",
+      "Vietnamese": "Mari, mặc những bộ váy xinh xắn vào."
+    },
+    {
+      "Key": "VC_AC01_00841_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Play like a little girl, Mari.",
+      "Vietnamese": "Mari, chơi những trò chơi dành cho bé gái đi."
+    },
+    {
+      "Key": "VC_AC01_00842_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Gradually grow up to be a woman, Mari.",
+      "Vietnamese": "Mari, dần dần ra dáng con gái rồi đó."
+    },
+    {
+      "Key": "VC_AC01_00843_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Find a suitable partner, Mari.",
+      "Vietnamese": "Mari, hãy tìm được một người bạn đời xứng đáng nhé."
+    },
+    {
+      "Key": "VC_AC01_00844_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "And above all, Mari, be happy.",
+      "Vietnamese": "Và Mari, hãy hạnh phúc nhé."
+    },
+    {
+      "Key": "VC_AC01_00845_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I want to tell you how glad I am that you were born.",
+      "Vietnamese": "Hãy cho mẹ được nói lời cảm ơn vì con đã sinh ra đời..."
+    },
+    {
+      "Key": "VC_AC01_00846_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "On the day of your wedding, Mari, I will say it out loud.",
+      "Vietnamese": "Trong chính ngày cưới của con."
+    },
+    {
+      "Key": "VC_AC01_00847_MSatsuki",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I truly long for that day to come.",
+      "Vietnamese": "Mari, mẹ sẽ luôn chờ đợi ngày đó."
+    },
+    {
+      "Key": "VC_AC01_00848_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way...",
+      "Vietnamese": "Sao lại thế..."
+    },
+    {
+      "Key": "VC_AC01_00849_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So that's how Mother really felt. I had no idea, not at all.",
+      "Vietnamese": "Tôi không hề hay biết... mẹ lại nghĩ như vậy..."
+    },
+    {
+      "Key": "VC_AC01_00850_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I had no idea that she cared about me this much.",
+      "Vietnamese": "Mẹ yêu thương mình nhiều đến thế..."
+    },
+    {
+      "Key": "VC_AC01_00851_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And because of the Cancer's attack, we were separated by death...",
+      "Vietnamese": "Vì Cancer tấn công mà âm dương cách biệt..."
+    },
+    {
+      "Key": "VC_AC01_00852_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If only I had known that she wanted to treat me nicely...",
+      "Vietnamese": "Nếu biết sớm hơn, tôi đã sà vào lòng mẹ mà nũng nịu..."
+    },
+    {
+      "Key": "VC_AC01_00853_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I could've told her, \"I tried my hardest...\"",
+      "Vietnamese": "Khoe với mẹ rằng \"Con đã cố gắng lắm rồi!\"..."
+    },
+    {
+      "Key": "VC_AC01_00854_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "\"But I still couldn't do it... Help me feel better...\"",
+      "Vietnamese": "Kêu ca \"Nhưng vẫn không được, mẹ an ủi con đi!\"..."
+    },
+    {
+      "Key": "VC_AC01_00855_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "\"Hug me tight, and pat me on the head...\"",
+      "Vietnamese": "Vòi vĩnh \"Mẹ ôm con đi, mẹ xoa đầu con đi\"..."
+    },
+    {
+      "Key": "VC_AC01_00856_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "\"I want to eat your homemade treats...\"",
+      "Vietnamese": "Đòi \"Mẹ nấu bánh cho con ăn đi\"..."
+    },
+    {
+      "Key": "VC_AC01_00857_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We could have done all of those things... And now we'll never be able to.",
+      "Vietnamese": "Tất cả, tất cả đều có thể làm, vậy mà rốt cuộc lại chẳng thể thực hiện nổi một điều..."
+    },
+    {
+      "Key": "VC_AC01_00858_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was so fixated on the family business that I never realized any of this.",
+      "Vietnamese": "Vì quá cố chấp với việc nối nghiệp gia đình, nên tôi nào có để ý đến tâm tư ấy..."
+    },
+    {
+      "Key": "VC_AC01_00859_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I never thought about what makes a mother happy...",
+      "Vietnamese": "Chưa bao giờ tôi suy nghĩ xem, với một người mẹ, hạnh phúc là gì..."
+    },
+    {
+      "Key": "VC_AC01_00860_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That as long as her daughter is happy...",
+      "Vietnamese": "Rằng con gái được sống hạnh phúc..."
+    },
+    {
+      "Key": "VC_AC01_00861_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...the mother would be happy, too...",
+      "Vietnamese": "Đó mới chính là niềm hạnh phúc của người mẹ..."
+    },
+    {
+      "Key": "VC_AC01_00862_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If the world is ever at peace again...",
+      "Vietnamese": "Nếu thế giới này hòa bình trở lại..."
+    },
+    {
+      "Key": "VC_AC01_00863_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I promise you...that I'll be happy.",
+      "Vietnamese": "Con hứa... nhất định sẽ hạnh phúc... mẹ ơi..."
+    },
+    {
+      "Key": "VC_AC01_00864_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No matter what it takes.",
+      "Vietnamese": "Con thề đấy..."
+    },
+    {
+      "Key": "VC_AC01_00865_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Until that time, rest well, Mother.",
+      "Vietnamese": "Cho đến ngày đó... mẹ hãy an nghỉ nhé..."
+    }
+  ],
+  "Inserts": []
+}

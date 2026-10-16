@@ -1,0 +1,263 @@
+{
+  "Script": "Story/MC01/Day01/World/MC01_01_01_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Leave the dormitories!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the cafeteria!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I guess my rebellious side is showing! Time to head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00002_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I should be heading to the cafeteria.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "*yawn* This should be clean enough, yeah? So, where to next?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You look sleepy... You okay?\\nWe better head to the cafeteria.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'll see you out on the main street. Don't be long.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap the arrow at the entrance and head to Main Street.\\n(You can also swipe the screen near the arrow to move.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Proceed in the direction of the arrow at the dormitory entrance and head to Main Street.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00006_YShirakawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Did you hear today's schedule?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00007_SKura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What, more hassles today?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00008_SKura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "That's all there is these days.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whoops, not this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00000_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whoops, not this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap the arrow to head to Main Street.\\n(You can also swipe to move.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Proceed in the direction of the arrow and head to Main Street.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There you are.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The cafeteria's on the way to the academy building. Don't get lost.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap the mini-map in the top right.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Open the mini-map by pressing the R1 button.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The flag icon indicates the next target area.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can close the map by tapping the button\\nin the top right of the screen.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can close the map by presssing the X button.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00012_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00013_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Took you long enough. Shall we?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Shall we?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Sorry for the wait!|Follow my lead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00133_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry for the wait.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00014_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, I wasn't waiting for you. I was just getting oriented.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00134_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You betcha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00015_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "You must be hungry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00016_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Come on, the cafeteria awaits.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00017_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hooowee, the sky sure is clear today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00018_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ya don't usually get to see this far out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00019_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Things look pretty bad outside the base...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00020_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Looks like I'm early.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00021_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Let's head inside.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00022_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "A real-life vending machine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00023_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "My first one! How exciting!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00024_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It even has ice cream! Wowee!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00025_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I want a taste, but dessert before breakfast is a big no-no!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00027_MKiryu",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "...I saw one in battle yesterday.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00028_CSugahara",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Saw what, exactly?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00029_MKiryu",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "A shield user.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_01_World_00030_CSugahara",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Interesting...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

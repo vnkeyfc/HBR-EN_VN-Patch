@@ -1,0 +1,42 @@
+{
+  "Script": "Story/MC01/Day10/Novel/MC01_10_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_10_06_00_Novel_00000_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "We've gotten pretty good at actual combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_06_00_Novel_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Mhm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_06_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed. We're not half bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_06_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's keep riding this momentum!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_06_00_Novel_00004_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hell yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_06_00_Novel_00005_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Full speed ahead!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

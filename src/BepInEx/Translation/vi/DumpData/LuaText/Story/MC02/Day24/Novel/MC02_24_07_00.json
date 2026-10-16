@@ -1,0 +1,72 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_07_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00000_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Good work so far, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "But the real work begins from Phase Three. Don't let your guard down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Commander, do you know the saying?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00003_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "What saying?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "\"The journey is just as important as the destination.\" Those are the words on my mind right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00005_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Who said that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_Z900100024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carl Lewis.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900100031_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Right now, the destination is far more important than the journey. Make sure you succeed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's with these random athlete quotes you keep bringing up? We're fighting for the survival of humanity, not trying to win a gold medal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00008_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Phase Three will begin shortly, so be sure to rest while you can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, yay! Yes, ma'am!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,239 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_05_00",
+  "Entries": [
+    {
+      "Context": "Adv.showBlackTextInMiddle:0",
+      "Original": "Two days later...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00000_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "It's so bright...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00000_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "It's so bright...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00001_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Was I always living in such a bright world?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00001_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Was I always living in such a bright world?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00002_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I can hardly see anything...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00002_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I can hardly see anything...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00003_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I feel like...there was something...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00003_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I feel like...there was something...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00004_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "There was something that happened, and that's why I'm here...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00004_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "There was something that happened, and that's why I'm here...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00005_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "But I can't remember anything...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00005_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "But I can't remember anything...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00006_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "What was I...trying to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00006_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "What was I...trying to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00007_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Did I...do it right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00007_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Did I...do it right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00008_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Someone, please...tell me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00008_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Someone, please...tell me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00009_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Did I manage to...finish what I set out to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00009_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Did I manage to...finish what I set out to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00010_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I...don't know...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00010_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I...don't know...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00011_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I don't know... I don't know who I am...or was?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00011_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I don't know... I don't know who I am...or was?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00012_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Didn't I get to see so many things?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00012_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Didn't I get to see so many things?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00013_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "It all feels so far away now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00013_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "It all feels so far away now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00014_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I think, if I lose that...in this bright, bright place...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00014_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I think, if I lose that...in this bright, bright place...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00015_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I'll disappear...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00015_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I'll disappear...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00016_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Someone, please...tell me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00016_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Someone, please...tell me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00017_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Was I useful in the end?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00017_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "Was I useful in the end?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00018_v003_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I'm so anxious...please... I can't handle this...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00018_v003_EAoi#2",
+      "Context": "Adv.talkWithTextInMiddle:1",
+      "Original": "I'm so anxious...please... I can't handle this...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

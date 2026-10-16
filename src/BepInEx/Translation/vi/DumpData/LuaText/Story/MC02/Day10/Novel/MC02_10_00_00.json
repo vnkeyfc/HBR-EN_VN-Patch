@@ -1,0 +1,142 @@
+{
+  "Script": "Story/MC02/Day10/Novel/MC02_10_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please begin your early morning stretches.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, everyone spread out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Now what do I say?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What should I say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Lift your arms in front of you, then reach up and stretch|Dab and point diagonally, then spread your feet and lean into it",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Lift your arms in front of you, then reach up and stretch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One, two, three, four...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_merge_00008",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "One, two, three, four...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00011_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nicely done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A compliment! That had to have boosted one of my stats!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dab and point diagonally, then spread your feet and lean into it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00014_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Like this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Usain Bolt-style.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00016_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "What the heck are you makin' us do?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now is not the time for impressions. Please do your stretches.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ughhh, just kill me now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, lift your arms in front of you, then reach up and stretch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00004_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One, two, three, four...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_merge_00008#2",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "One, two, three, four...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00010_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_00_00_Novel_00028_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please remember this routine going forward.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

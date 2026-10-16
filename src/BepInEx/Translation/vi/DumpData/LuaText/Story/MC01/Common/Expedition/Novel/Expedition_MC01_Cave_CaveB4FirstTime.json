@@ -1,0 +1,132 @@
+{
+  "Script": "Story/MC01/Common/Expedition/Novel/Expedition_MC01_Cave_CaveB4FirstTime",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Whew... Finally, the fourth level. Since we're this far, think we have a real shot at beating 31-C?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What's this now? You don't have much endurance for a hacker.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Maybe because I'm a HACKER. Since when are hackers known for their endurance anyway?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00003_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Urgh... Can't feel my feet anymore...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're the last person I want to hear that from! Weren't you in the military?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00005_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Eeee heh HEH! You're all a bunch of pathetic WEAKLINGS!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I mean, can you blame us? Not everyone can be a super fit serial killer like you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00007_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Plus, it keeps getting colder and colder. All I want to do is go home and take a hot shower!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00010_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yo, Tama!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00011_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Y-Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00012_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Go take a bath first so you don't catch a cold.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How considerate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00014_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "So, what's the plan now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's keep at it a little longer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "31-C's dead-set on winning. We can't afford to slack off now, or...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We might actually lose?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I feel like it'd be rude to the other squad, since they're trying so hard and all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Huh, you have a point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We already made it this far. I suppose it wouldn't hurt to go just a little further.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4FirstTime_Novel_00022_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well then, onwards and downwards.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

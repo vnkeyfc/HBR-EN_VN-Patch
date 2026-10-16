@@ -1,0 +1,79 @@
+{
+  "Script": "Story/MC01/Common/Expedition/Day8/Expedition_MC01_Cave_Day8",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_Cave_Day8_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "So this is the dungeon, huh? There's a weird vibe to this place...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_Day8_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We'd better be careful.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_Day8_00002_BIYamawaki",
+      "Context": "Adv.bubble_ANGRY:1",
+      "Original": "THERE YOU ARE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_Day8_00003_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "You thought you could beat us in your helicopter?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_Day8_00004_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Nice try, fish fry, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_Day8_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "They caught up to us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_Day8_00006_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Well damn!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_Day8_00007_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Ah—U-Umm, let's pick up the pace!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Check the mini-map as you proceed.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap on items lying on the ground to pick them up.\\nUse these items according to your situation as you proceed.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the O button to pick up items from off the ground.\\nUse these items according to your situation as you proceed.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The right-hand sensor will gradually grow red as enemies begin to notice your presence.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The location of powerful enemies are indicated on the mini-map.\\nConsider your squad's health and equipment before attempting to engage them.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

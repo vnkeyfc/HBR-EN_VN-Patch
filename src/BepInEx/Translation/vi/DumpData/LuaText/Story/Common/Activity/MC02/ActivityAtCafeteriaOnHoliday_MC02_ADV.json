@@ -1,0 +1,202 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtCafeteriaOnHoliday_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(What should I order?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Order what?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Hardtack|Knife-cut noodles|Mapo tofu",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Well, let's try some hardtack.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hardtack was originally an emergency ration, but...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "*nom nom*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's not too different from a regular biscuit, though it is super dry.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(But just eating it like this gets a bit boring...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It'd be nice if there was some margarine or jam to spread on it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(...Wouldn't it be better to just eat bread, then?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Suddenly, I want some bread!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The knife-cut noodles are calling out to me!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I can't get enough of this chewy texture, mmm...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I could have so many seconds of this!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The chef's skills are amazing, too. The length and thickness of the cut noodles are really consistent.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00014_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(So this is what mastery is like. I wonder if I could do the same?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00015_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hello, Ruka. Are you eating knife-cut noodles? I'll order one, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, don't bother. I'LL make a bowl for you, Cappy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00017_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really? You're going to cut the noodles?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I've always wanted to try it. The way they cut the noodles straight from a block of dough, all the same size, directly into the pot...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's just so mesmerizing! I want to learn how to do it!!! Cappy, why don't you join me too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00020_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure! Let's do it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's what I thought! All right, let's go! We're going to be noodle cutting masters!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...We got turned away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00023_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...and scolded.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll go for a good ol' mapo tofu.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Huh, it's spicier than I thought?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(For a moment there, I have a feeling I heard something, felt something...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's trembling right now inside my chest!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00028_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hoo...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00029_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's my body telling me how fortunate I was to be able to survive that...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew, I'm stuffed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Guess it's about time to head back.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

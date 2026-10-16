@@ -1,0 +1,186 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_07_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm, this is odd... 30-G should be coming around anytime now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, can you do a full check of the coordinates?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're relying on me too much. Don't we have the brains of a warship on our team?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00003_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes indeed! Leave it to me, your humble former captain!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks, Cappy. Do your thing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00006_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've finished checking the coordinates!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00007_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's no mistake. We're at the checkpoint where 30-G should be reporting in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karerin, what about the time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00009_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No issues here, either. The scheduled time is exactly 12:20.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In that case, it's probably not an issue from our side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "HQ, do you copy? This is Ruka Kayamori from 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00012_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This is HQ. What's the status?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're waiting at the checkpoint, but 30-G hasn't arrived even after the designated time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00014_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Understood. I'll patch you to the commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00015_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "This is Tezuka. We have an update on the situation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00016_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "30-G's current location is 4 km east of the checkpoint.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00017_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "The conditions on Route 246 were worse than expected, so the convoy has been delayed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00018_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "We'll set the new target time to 13:50. Stay on hold until this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A, copy that. What should we do about enemies nearby? Is it okay to go into combat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00020_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Hmm... If it's within the range of the checkpoint, you should be able to search and eliminate enemies without straying too far.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00021_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "I'll leave the exact radius to your judgment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood. Over.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You all heard that, right? They're gonna be a little late getting here, so let's take out the enemies nearby in advance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00024_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A'ight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we can't go too far. Cappy, Tsukassie, if you two could track the distance from the checkpoint while we're out, that'd be great.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00026_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Loud and clear!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00027_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're doing pretty good with this whole leader thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_03_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, girls, let's clear out some Cancer!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,32 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtStudio_MC01",
+  "Entries": [
+    {
+      "Key": "VC_Activity_00000_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the Studio, but what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Spent time at the studio today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Hang out",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Spend time at the Studio to raise Charisma.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

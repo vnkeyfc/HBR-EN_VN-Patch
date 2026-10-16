@@ -1,0 +1,116 @@
+{
+  "Script": "Story/MC02/Common/TimeLimit",
+  "Entries": [
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 21 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 20 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 19 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 18 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 17 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 16 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 15 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 14 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 13 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 12 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 11 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 10 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 9 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 8 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 7 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 6 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 5 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 4 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 3 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 2 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Countdown to Operation Pleiades: 1 days",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Operation Pleiades—Start Date",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

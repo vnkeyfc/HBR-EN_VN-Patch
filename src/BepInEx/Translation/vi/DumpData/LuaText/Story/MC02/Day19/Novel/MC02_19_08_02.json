@@ -1,0 +1,90 @@
+{
+  "Script": "Story/MC02/Day19/Novel/MC02_19_08_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00887_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did we get it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00888_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! We did it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00889_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was all thanks to you, Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00890_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you so cool today... Ruka, come back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00891_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Man, I'm absolutely STARVING! Let's go hooome!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00892_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that's the Ruka I know. But don't forget to report back to the headquarters.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00893_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is Kayamori from 31-A. We've eliminated the Medusa. Please dispatch a helicopter to extract us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00894_v001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "This is HQ. Copy that. Congratulations on your victory.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00895_v001_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Helicopter landing point identified. Please stand by until arrival.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00896_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00898_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This mission was a doozy, huh? That thing kept running off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00897_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess full-frontal assault isn't the only kind of combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00899_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We had Aoi's help this time, but we gotta make sure we can deal with these kinds of enemies on our own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00900_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Agreed. I'm sure there'll be many different kinds of Cancers we're going to have to face in the future.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

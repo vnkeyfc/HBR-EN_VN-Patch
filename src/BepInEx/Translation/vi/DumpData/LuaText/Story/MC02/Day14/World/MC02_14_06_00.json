@@ -1,0 +1,599 @@
+{
+  "Script": "Story/MC02/Day14/World/MC02_14_06_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Train at the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "If I don't hurry up, the commander's gonna get mad again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Imagine if I didn't show up at training...I'd be in hot water!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whew, that was a lot to eat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm? Did everyone go ahead without me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I guess I should hurry up and head there...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00002_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whew, that was a lot to eat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00003_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm? Did everyone go ahead without me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I guess I should hurry up and...oh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie! You waited for me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, I was just stopping to feel the wind for a bit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awww, you just dashed all my hopes to the ground...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Would you have been happy if I was waiting for you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd have been super happy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah. It's not like you're a guy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're more manly than me, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, rude. If anything, <i>you</i> are the complete enigma. I totally thought you were some kind of classy beauty before I actually met you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's probably because of my recording company's PR strategy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, and I completely bought into that and got tricked into listening to your music.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The songs aren't to blame, though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're not responsible for it either, so don't sweat it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's good to hear!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00002_RKayamori#3",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whew, that was a lot to eat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00003_RKayamori#3",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm? Did everyone go ahead without me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00007_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I guess I should hurry up and...oh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tsukassie! Were you waiting for me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00024_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. Just sort of felt like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm so happy, though! You're the only one who stuck behind while everyone else went ahead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00026_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's probably a sign that everyone trusts you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, no waaay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe I'll just play hooky and go watch a movie instead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00029_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can you really do that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00031_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See? Everyone understands that about you very well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh no...that's a lot of pressure... Like standing at the edge of a super crowded train platform...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00033_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We don't have functional trains anymore, though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways, I'll work hard today!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00035_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm looking forward to it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00002_RKayamori#4",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whew, that was a lot to eat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00003_RKayamori#4",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm? Did everyone go ahead without me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00007_RKayamori#3",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I guess I should hurry up and...oh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Karerin. Were you waiting for me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00039_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, just thought I should.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh gosh... Am I about to get a confession of love?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00043_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "YOU'RE KARRIE!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00042_Karen",
+      "Context": "Adv.showCutIn:1",
+      "Original": "IIIT'S KARRIE!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00044_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmph, we ended up synchronizing... Not bad...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I felt it was coming this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00046_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "AND YOU WERE CORRECT!!! I'll give Asakura back now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00047_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew... Sorry for the wait.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup, let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00049_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00002_RKayamori#5",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whew, that was a lot to eat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00003_RKayamori#5",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm? Did everyone go ahead without me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00007_RKayamori#4",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I guess I should hurry up and...oh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00052_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, Megumin. Were ya waiting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00053_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Waitin' for who?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00054_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00055_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't be dumb. Why would I be waitin' for you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00056_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because...I'm the savior.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00057_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'M the savior, ya moron! You've never even said that before! Why're ya doin' it now?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00058_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nice, you're more cheery now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00059_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm always cheery!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00060_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought you looked a little bit down, but maybe I was imagining things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00061_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry. As long as yer alive, I ain't going down anytime soon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00062_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awesome, that's exactly what we need as squadmates!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00063_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mean it as yer rival! Don't forget that we're rivals!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00064_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00065_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, don't brush it off that lightly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00002_RKayamori#6",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whew, that was a lot to eat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00003_RKayamori#6",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm? Did everyone go ahead without me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00007_RKayamori#5",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I guess I should hurry up and...oh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00068_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cappy! Were you waiting for me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00069_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alrighty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00070_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, you're the only one who's that thoughtful. Everyone else just left me behind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00071_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I think everyone trusts in you as our leader! If it wasn't you leading, I don't think the others would be following!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00072_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You think so? I'm not so sure...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00073_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, definitely! Trust in me, I've led many people in battle, so I've got an eye for these things!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00074_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you know...I've never even been in the \"Top 10 Celebs to Have as a Boss\" ranking...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00075_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's probably because you're still young!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00076_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "True... I was only active for a year.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00077_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! If you had continued your music career for a little longer, you'd surely have been on that list!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00078_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright! I'm feeling super motivated now! I'll give it my all today!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00079_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's the spirit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00080_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We're entering the final stages of training now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00081_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "The commander's strict as usual, but...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00082_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Well, we have to do what we can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00083_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We're really entering the final stages of training now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00084_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "If it was just me, I think I would have given up in the middle of it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00085_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "But I can keep going because everyone's with me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00086_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We're really entering the final stages of training now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00087_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "As the head of strategy for the squad, I'll make sure to the lead us to victory.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00088_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Um...by the way...what's today's training about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00089_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "The training's wrappin' up soon, huh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00090_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "31-B seems to be havin' some squabbles, but...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00091_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We just gotta focus on doin' our best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00092_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "The training is entering the final stages now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00093_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's been some very hectic days, but don't worry!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_00_World_00094_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Leave it all to me, your trusty former captain!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

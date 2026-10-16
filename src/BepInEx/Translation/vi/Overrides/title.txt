@@ -23,7 +23,7 @@
 /RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/scrollView/viewport/content/mapContents/SchoolSide/SchoolSideAll/ShopPoint/label|'<size=80%>Tạp hoá'|'Tạp hoá'
 
 # SA
-/RootView/UI-Foreground/Main/UIEventScoreAttack/scoreAttack/commonBg/title|'Score Challenge'|'<size=80%>Score Challenge</size>'
+/RootView/UI-Foreground/Main/UIEventScoreAttack/scoreAttack/commonBg/title|'Score Challenge'|'<size=80%><cspace=-2px>Score Challenge</size>'
 
 # Shop
 /RootView/UI-Foreground/Main/UIEventLimitedExchangeShop/exchangeShop/commonBg/title|'Cửa hàng'|'<size=80%>Cửa hàng</size>'
@@ -35,11 +35,11 @@
 # Reward
 /RootView/UI-Foreground/Main/UIDuelMissionList/container/commonBg/title|'Thưởng'|'<size=80%>Thưởng</size>'
 
-/RootView/UI-Foreground/Main/UIOrbBossTop/commonBg/title|'Orb Boss'|'<size=80%>Orb Boss'
+/RootView/UI-Foreground/Main/UIOrbBossTop/commonBg/title|'Orb Boss'|'<size=80%><cspace=-2px>Orb Boss'
 
 /RootView/UI-Foreground/Main/UIGardenExpeditionTop/commonBg/title|'ダンジョン'|'<size=80%>Dungeon'
 
-/RootView/UI-Foreground/Main/UILotteryCardDetailDialog/ModalContainer/container/title|'<size=90%>Chi tiết Style</size>'|'Chi tiết Style'
+/RootView/UI-Foreground/Main/UILotteryCardDetailDialog/ModalContainer/container/title|'<size=90%>Chi tiết Hồi ỨC</size>'|'Chi tiết Hồi Ức'
 
 /RootView/UI-Foreground/Main/UISecretBossDetailDialog/container/enemyDate/recommendValue/valueTitle|'L.C đề cử'|'<size=90%>Lực chiến đề cử'
 
@@ -50,3 +50,9 @@
 /RootView/UI-Foreground/Main/UISeasonScheduleDialog/container/righitContainer/pointBase/title|'Đã nhận Total'|'Tổng cộng'
 
 /RootView/UI-Foreground/Main/UIOrbSkillList/container/header/subTitle|'Ngọc Kỹ'|'Orb Skill '
+
+/RootView/UI-Foreground/Main/UIEnhanceCard/container/commonBg/title|'Chi tiết'|'<size\=80%>Chi tiết'
+
+/RootView/UI-Foreground/Main/UIExchangeShop/container/commonBg/title|'Cửa hàng'|'<size\=80%>Cửa hàng'
+
+/RootView/UI-Foreground/Main/UIEnhanceCardSelect/container/commonBg/title|'Hồi Ức'|'<size\=80%>Hồi Ức'

@@ -1,0 +1,78 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_00_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00000_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This is HQ. Cadet Kayamori, are you able to respond?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup, we're en route right now, so we're good for communications.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00002_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "We've been flying out drones to investigate the area since last night.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00003_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "But we noticed something strange. The activity of small animals, birds, and insects in the area has decreased drastically.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00004_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This might be a sign of an anomaly in the area. Stay alert.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yikes, that sounds like there's going to be a boss battle up ahead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we really bump into something like that, we're goners.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo! Scary!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00008_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "We'll keep observing the area, but report immediately if you notice anything strange.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_01_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01023_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So even HQ sensed something odd. Could there really be something weird going on?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01024_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Might be good to brace ourselves, just in case.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

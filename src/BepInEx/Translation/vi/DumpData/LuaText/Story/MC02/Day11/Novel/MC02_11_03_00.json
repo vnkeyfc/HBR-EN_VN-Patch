@@ -1,0 +1,160 @@
+{
+  "Script": "Story/MC02/Day11/Novel/MC02_11_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Although Japan was in isolation during the Edo period, the artificial island in Nagasaki, Dejima, still engaged in foreign trade.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00001_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For example, it is commonly believed that Dutch traders introduced coffee to the country around this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Speaking of coffee, the world's most expensive coffee is Kopi Luwak.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00003_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "These coffee beans are collected via a very unique process. Kayamori, can you tell me what that is?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "How are Kopi Luwak beans collected?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "In a dragon's lair|On a mountain peak|From animal dung",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "From animal dung.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00005_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00007_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, specifically the dung of palm civets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "On a mountain peak.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00009_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously?! That was the only non-ridiculous one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00011_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is from the dung of palm civets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In a dragon's lair.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00013_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Get with it, dum-dum. Dragons don't exist in this world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have the Cancer from outer space. Why not dragons?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If dragons showed up, then we'd really be screwed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00017_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is from the dung of palm civets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're kidding!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00019_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once a palm civet has excreted the undigested coffee beans, the beans are washed and thoroughly dried until they're ready for roasting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00020_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The bacteria and fermentation process within the intestines of palm civets lend a unique flavor to the coffee beans.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00021_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Which explains the beans' rarity and exorbitant price tag.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sounds like the price...is a load of crap.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_11_03_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I figured you would say that...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

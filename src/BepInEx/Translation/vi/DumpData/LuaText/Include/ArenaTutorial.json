@@ -1,0 +1,51 @@
+{
+  "Script": "Include/ArenaTutorial",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Visiting the arena during free time gives you one experience-increasing item per day.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can use items to level up units from the Squad menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can use such items to level up units from the Squad menu.\\nPress the Options button to open up your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButtonRect:4",
+      "Original": "次へ",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can use upgrade items from here.\\nTry battling in the arena once you've upgraded your team.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The GP you earn at the arena is used as currency within the base.\\nUse your free time to earn more GP.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You've unlocked the \"Battle Familiarization\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You've unlocked the \"Free Practice\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You've unlocked the \"Proving Ground Challenges\" feature.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

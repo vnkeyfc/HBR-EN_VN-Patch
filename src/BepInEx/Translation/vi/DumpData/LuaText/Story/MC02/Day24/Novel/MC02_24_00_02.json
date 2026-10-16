@@ -1,0 +1,180 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_00_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All units are accounted for.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good. We'll travel by air for an hour to the target area, where the operation will officially begin at 09:00.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do well to remember that you carry the fate of humanity on your shoulders. Failure is not an option. Take that to heart, and focus your efforts into the operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For many of you, this may be the first time you're participating in a large-scale operation. If you ever have any doubts, remember all that you learned during training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00004_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've trained you for situations that are tougher than the real thing, and you've all done well to overcome it. So have confidence as you take on this operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is all for today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00006_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All squads, please begin boarding the helicopter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00007_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ichigo, don't you need to give it to her now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00009_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, give me a sec...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00010_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi, so...you gave us those charms, yeah? This is a little something in exchange for that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00011_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can you put this on?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00012_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A plant?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00013_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a hairband with an ivy vine. You can wear it on your arm, if you want.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00014_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You made this for me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00015_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. We all pitched in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00018_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I even took some time out of my busy schedule to do so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_02_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00020_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You helped out too, didn't ya?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00021_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Byakko wanted to be a part of it too, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00022_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm really happy...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500037_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, good... It was kind of hard getting this all together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00023_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ivy symbolizes eternal life... We thought it'd be fitting for the battlefield. More than just a charm for health and safety.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00024_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you so much! If I put this on, I'll surely become Eternal Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00025_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00026_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fur sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00027_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alrighty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're really getting along now, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_02_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. It's great to see.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

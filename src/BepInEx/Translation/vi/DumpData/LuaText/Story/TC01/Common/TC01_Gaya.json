@@ -1,0 +1,294 @@
+{
+  "Script": "Story/TC01/Common/TC01_Gaya",
+  "Entries": [
+    {
+      "Key": "VC_TC01_00006_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Whose is this, <i>snip</i>?\\nI'm so jealous, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00000_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I'm feeling so antsy, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00001_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It feels like something's about to happen,\\nand not at the same time, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00002_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's so warm, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00003_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "This is such a fluffy seat, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00004_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's so cold tonight, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00005_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "So pretty, <i>snip</i>~",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00007_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What's with the box, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00008_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What a colorful box, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00009_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "There's something inside, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00010_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Maybe there's something\\nvaluable inside, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00011_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "If it's worth lots of money,\\nI'll sell it, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00012_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I want a secret weapon, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00013_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Maybe it's empty, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700105_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I'll cut it to pieces\\nwith my claw, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00019_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I wanna unwrap it from the corner, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00020_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What if there's a bomb inside...?\\nScary, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00021_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "They come in all sizes, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00022_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I hope it's something that will\\nhelp us dominate the world, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00014_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I'm getting a little tired, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00015_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "No enemies around, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00016_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I can't help it!\\nIt's the only thing on my mind, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00017_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "<i>Snip snip sniiip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00018_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I'm feeling very excited for some reason, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00026_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We'll destroy the world tomorrow, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00023_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Let me see what's inside you, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00028_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's twinkling, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00029_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Can we hold hands, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00030_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Even the box looks like it could be worth something, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00027_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's all going be dust soon anyway, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00024_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's warmed up a lot, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00025_v001_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I can't stop drooling, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00031_v001_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It's not so bad to take it easy like this, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00032_v001_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I want to conquer the world soon, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00033_v001_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It's such a vaste to sleep here! Wake up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00034_v001_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00035_v001_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Vhat do you sink? Pretty, isn't it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00036_v001_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "If we give it some water,\\nwill it grow up real big, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00037_v001_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Vhat are you sneaking around like zat for?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00038_v001_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I sense a sniper nearby, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00039_v001_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Alright, eat as much as you vant.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00040_v001_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Can I really?! But I can't stuff all this into my tummy, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00041_v001_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Look, isn't the snow pretty?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00042_v001_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "If we had spears instead of snow,\\nwe could be annihilating humans too.\\nIt'd be killing two birds with one stone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00043_v001_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Don't get so close! Keep your distance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00044_v001_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Hot hot hot, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00045_v001_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Oh, you look like you're enjoying yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00046_v001_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "<i>Snip snip sniiip</i>!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

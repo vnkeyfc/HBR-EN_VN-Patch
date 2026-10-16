@@ -1,0 +1,306 @@
+{
+  "Script": "Story/AC01/Day03/World/AC01_03_00_05",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00574_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My throat is dry...",
+      "Vietnamese": "Khát nước quá-degozaru..."
+    },
+    {
+      "Key": "VC_AC01_00575_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is the last of our water.",
+      "Vietnamese": "Đây là chút nước cuối cùng rồi..."
+    },
+    {
+      "Key": "VC_AC01_00577_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(We can't wait here, but we also can't move right now. What do we do?)",
+      "Vietnamese": "(Ở lại cũng không được, đi tiếp cũng không xong, phải làm sao đây...)"
+    },
+    {
+      "Key": "VC_AC01_00578_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Yukkie, we're at our limit. What should we do?",
+      "Vietnamese": "Này, Yukki... đến giới hạn rồi... làm thế nào giờ..."
+    },
+    {
+      "Key": "VC_AC01_00579_YIzumi",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Well, if we're going to die anyway, we might as well take our chances.",
+      "Vietnamese": "Thì... chắc phải đánh một canh bạc liều mạng thôi, dù sao tới giới hạn rồi thì liều một phen còn hơn ngồi im..."
+    },
+    {
+      "Key": "VC_AC01_00580_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have a plan?!",
+      "Vietnamese": "Bồ có kế hoạch gì à...!?"
+    },
+    {
+      "Key": "VC_AC01_00581_YIzumi",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "If we use our Seraphim from both sides of this rubble, we can clear a path to each other.",
+      "Vietnamese": "Hai bên chúng ta sẽ dùng Seraph đào xuyên đống gạch đá này rồi hội quân."
+    },
+    {
+      "Key": "VC_AC01_00582_YIzumi",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "But it'll be extremely loud, and probably draw the attention of that thing.",
+      "Vietnamese": "Tuy nhiên, làm ồn như vậy kiểu gì con quái đó cũng phát hiện ra."
+    },
+    {
+      "Key": "VC_AC01_00583_YIzumi",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "There's a good chance that you'll be attacked in the process.",
+      "Vietnamese": "Khả năng rất cao là đang đào dở thì bọn cậu sẽ bị tấn công..."
+    },
+    {
+      "Key": "VC_AC01_00584_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... You're right though. This is our only shot. Got it.",
+      "Vietnamese": "Ha... Đúng vậy... Chỉ còn cách đó thôi. Rõ."
+    },
+    {
+      "Key": "VC_AC01_00585_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What did Izumi-san say?",
+      "Vietnamese": "Izumi-san bảo sao...?"
+    },
+    {
+      "Key": "VC_AC01_00586_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're planning to dig out this rubble from both sides using Seraphim so that we can meet up.",
+      "Vietnamese": "Yukki đề xuất là chúng ta dùng Seraph đào xuyên đống gạch đá này từ hai phía để gặp nhau..."
+    },
+    {
+      "Key": "VC_AC01_00587_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's really thick, though?",
+      "Vietnamese": "Xuyên qua được độ dày cỡ này ư...?"
+    },
+    {
+      "Key": "VC_AC01_00588_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It may be our only option.",
+      "Vietnamese": "Nhưng đó là lựa chọn duy nhất của chúng ta..."
+    },
+    {
+      "Key": "VC_AC01_00589_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Allow me to help in order to raise our chance of survival.",
+      "Vietnamese": "Hãy để tôi giúp mọi người sống sót trở về."
+    },
+    {
+      "Key": "VC_AC01_00590_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course, you can help clear the rubble too, Merry.",
+      "Vietnamese": "Dĩ nhiên tớ nhờ Marie phụ đào bới mà?"
+    },
+    {
+      "Key": "VC_AC01_00591_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. I will hold off the giant Cancer.",
+      "Vietnamese": "Không. Tôi sẽ phụ trách giữ chân con Cancer cỡ bự đó."
+    },
+    {
+      "Key": "VC_AC01_00592_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! Even with everyone here, we have no idea if we can beat that thing! You could die!",
+      "Vietnamese": "Hả!? Cả lũ nhào vô còn chưa chắc ăn được nó cơ mà!? Bồ sẽ chết đấy!?"
+    },
+    {
+      "Key": "VC_AC01_00593_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It will at least increase the odds that you can save everyone. I leave the rest to you. Please rescue Bun-chan and Ivar.",
+      "Vietnamese": "Đó là cách để tăng xác suất cứu sống tất cả mọi người. Phần còn lại nhờ cậy vào cậu. Hãy cứu lấy Bun-chan và Ivar-chan."
+    },
+    {
+      "Key": "VC_AC01_00594_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hang on, this is starting to sound like you're saying your final testament.",
+      "Vietnamese": "Khoan đã, nghe như bồ đang trăng trối vậy...!"
+    },
+    {
+      "Key": "VC_AC01_00595_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's something like that.",
+      "Vietnamese": "Cũng gần giống thế."
+    },
+    {
+      "Key": "VC_AC01_00596_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can't just decide that on your own! What about what your friends think?! You're being too careless, Merry!",
+      "Vietnamese": "Đừng có tự ý quyết định một mình như vậy chứ!! Còn chưa thèm nghe ý kiến của đồng đội nữa!! Marie, bồ quá ích kỷ rồi đấy...!!"
+    },
+    {
+      "Key": "VC_AC01_00597_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One death is better than twelve. ♪",
+      "Vietnamese": "Mạng sống của một mình tôi thì nhẹ hơn mà♪"
+    },
+    {
+      "Key": "VC_AC01_00598_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How can you say that with a smile on your face?!",
+      "Vietnamese": "Đừng có vừa cười vừa nói mấy lời như thế...!!"
+    },
+    {
+      "Key": "VC_AC01_00600_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please make no mistake... We do not take the lives of our friends so lightly.",
+      "Vietnamese": "...Xin cậu đừng hiểu lầm... Chúng tôi không bao giờ xem nhẹ mạng sống của đồng đội mình đâu... Đừng có nhìn chúng tôi bằng nửa con mắt."
+    },
+    {
+      "Key": "VC_AC01_00601_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I, too, regret all my nonsensical utterances! Seeing you like this reminds me of how foolish I am, and it brings me great pain!",
+      "Vietnamese": "Tại hạ cũng hối hận vì những lời xằng bậy mình đã lỡ thốt ra-degozaru!! Thấy Satsuki-dono lúc này, tại hạ như thấy lại bản thân ngu ngốc của mình, thật đau đớn -degozaru!!"
+    },
+    {
+      "Key": "VC_AC01_00602_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Together...",
+      "Vietnamese": "Mọi người..."
+    },
+    {
+      "Key": "VC_AC01_00603_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll survive...",
+      "Vietnamese": "Cùng sống..."
+    },
+    {
+      "Key": "VC_AC01_00604_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And return home.",
+      "Vietnamese": "Rồi cùng trở về nhà-degozaru..."
+    },
+    {
+      "Key": "VC_AC01_00605_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Miko... Seira... Adel...",
+      "Vietnamese": "Miko-chan... Seira-chan... Adel-chan..."
+    },
+    {
+      "Key": "VC_AC01_00606_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you understand how your friends feel now?",
+      "Vietnamese": "Bồ thấy tầm lòng của đồng đội mình chưa?"
+    },
+    {
+      "Key": "VC_AC01_00608_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": "...Ừ."
+    },
+    {
+      "Key": "VC_AC01_00609_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, we're all good to go. I'll wait for your signal.",
+      "Vietnamese": "Yukki... Bên này đã chuẩn bị xong. Chờ hiệu lệnh của bồ."
+    },
+    {
+      "Key": "VC_AC01_00610_YIzumi",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Alright. Those of us with long-range Seraphim will dig the path. The rest of us, get ready for the Cancer.",
+      "Vietnamese": "Ừ. Những ai có Seraph tầm xa sẽ đảm nhận việc đào. Những người còn lại hãy sẵn sàng đón đánh Cancer."
+    },
+    {
+      "Key": "VC_AC01_00611_YIzumi",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Everyone, ready your Seraphim!!! Commence!!!",
+      "Vietnamese": "Toàn đội chuẩn bị Seraph! Bắt đầu đào!!"
+    },
+    {
+      "Key": "VC_AC01_00612_MTenne",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Mm, we've got its attention!",
+      "Vietnamese": "Hừ... bị phát hiện rồi!"
+    },
+    {
+      "Key": "VC_AC01_00613_AKanzaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It's absolutely massive!!!",
+      "Vietnamese": "Nó to một cách đáng sợ-degozaru!!"
+    },
+    {
+      "Key": "VC_AC01_00614_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hurry... Just a bit more!!!",
+      "Vietnamese": "Nhanh lên... Chút xíu nữa thôi!!"
+    },
+    {
+      "Key": "VC_AC01_00615_SSakuraba",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Ugh...",
+      "Vietnamese": "...Ư."
+    },
+    {
+      "Key": "VC_AC01_00616_AKanzaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Ja, ja, ja!!!",
+      "Vietnamese": "Ja ja ja!!"
+    },
+    {
+      "Key": "VC_AC01_00617_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Almost there!!!",
+      "Vietnamese": "Sắp được rồi...!!"
+    },
+    {
+      "Key": "VC_AC01_00618_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit...",
+      "Vietnamese": "Chết tiệt..."
+    },
+    {
+      "Key": "VC_AC01_00619_MSatsuki",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Crumble to dust! You stupid pile of traaash!!!",
+      "Vietnamese": "Đổ sập xuống đi! Cái thứ rác rưởi khốn khiếpppppppp!!"
+    },
+    {
+      "Key": "VC_AC01_00620_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, Merry! That was incredible!",
+      "Vietnamese": "Marie ngầu bá cháy!!"
+    },
+    {
+      "Key": "VC_AC01_00621_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC01_00622_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We did it!",
+      "Vietnamese": "Làm được rồi nhỉ!!"
+    },
+    {
+      "Key": "VC_AC01_00623_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah! No surprise there when I'm here!",
+      "Vietnamese": "Heh! Tui ở đây thì cứ gọi là chắc kèo!"
+    },
+    {
+      "Key": "VC_AC01_00624_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We managed to get back to each other...",
+      "Vietnamese": "Cuối cùng cũng gặp được nhau..."
+    },
+    {
+      "Key": "VC_AC01_00625_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm so relieved!",
+      "Vietnamese": "Tốt quá rồi!"
+    },
+    {
+      "Key": "VC_AC01_00626_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can have our reunion after we deal with this first!",
+      "Vietnamese": "Vui mừng thì để sau khi hạ con quái này hẵng làm!"
+    }
+  ],
+  "Inserts": []
+}

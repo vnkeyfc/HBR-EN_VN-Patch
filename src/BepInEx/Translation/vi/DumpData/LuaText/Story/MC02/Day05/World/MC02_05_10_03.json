@@ -1,0 +1,36 @@
+{
+  "Script": "Story/MC02/Day05/World/MC02_05_10_03",
+  "Entries": [
+    {
+      "Key": "VC_MC02_05_10_03_World_00002_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "It's getting late. Shall we head back?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_03_World_00003_EAoi",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "Ruka...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_03_World_00004_EAoi",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "Thank you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_03_World_00005_EAoi",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "For hearing me out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_03_World_00006_EAoi",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "I can't wait to celebrate together!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

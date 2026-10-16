@@ -1,0 +1,208 @@
+{
+  "Script": "Story/MC01/Day07/Novel/MC01_07_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00000_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's finally heeere!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Suuunday morniiing!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're pretty excited, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "DUH. There's no training today. We're off the hook! So yeah, my excitement's skyrocketing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why isn't it \"sky-high\" from the start? Why is it still mid-flight?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because it's still morning. It'll be sky-high come dinnertime.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't that a little late? By that time, it'll be the end of the day. What are you going to do with that sky-high energy?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What am I going to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Play Sepak Takraw|Parkour|Host a giant sports tournament",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Play Sepak Takraw.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Another crazy suggestion. Even if you COULD play that, what about the rest of us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'll just whip you into shape like the pros!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The only pro league is in Thailand...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Then I'll ship you off to Thailand. You'll be famous in no time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "At least choose a sport with a wider audience.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Parkour.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You sure like parkour. Where would we be running, leaping, and climbing, anyway?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Another crazy suggestion. Where would we be running, leaping, and climbing, anyway?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The hallways.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It'd be over as soon as we crash into a wall or the ceiling.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Then just smash through a window.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't that a little dangerous?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "When I'm old, I want to be proud of the woman you've become.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What are you, my stunt coach?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Host a giant sports tournament.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Another crazy suggestion. First off, we don't have nearly enough people. Secondly, it'd have to be tonight, on a Sunday, so excitement would be low.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The winners would get ten million yen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That would certainly raise the stakes, but we don't have any sponsors to foot the bill.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We have your connections.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What kind of connections do you even think I have? I don't know anybody with pockets that deep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00028_STezuka",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "31-A, come to my office immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00029_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? We're bein' summoned? For what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I've got a good feeling about this. Let's go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_00_00_Novel_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Like I said, it's usually \"bad feeling.\" Just how positive can you be?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

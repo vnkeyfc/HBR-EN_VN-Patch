@@ -1,0 +1,144 @@
+{
+  "Script": "Story/MC01/Day10/Novel/MC01_10_05_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "This teriyaki meatball is outta this world!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're the type that adores the stuff on kids' menus, aren't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Can you blame me?! It's so good, it could even be served cold in a bento box!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yep. You've definitely got the tastes of a grade-schooler.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00004_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, I heard 31-C made it to the second level, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00010_v003_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, I heard 31-C made it to the second level yesterday.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00005_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "What? Really?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Shouldn't <i>you</i> be the one dropping this info, Intel Agent?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00007_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "This is just what Karrie heard when she did some reconnaissance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "They have no idea what fresh horrors they avoided...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00009_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "If that's true, we gotta be steppin' up our game.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah. Let's keep charging forward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00011_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Total victory is ours!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00012_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Best watch yer backs, weirdos!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00013_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Gangway!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka, what do you think?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Looks like we took things too easy. Gotta dial it up a notch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00016_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ha! Damn straight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00017_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, damn straight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00018_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yo, Tama!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00019_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Y-Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00020_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Pass me the soy sauce, will ya?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_05_00_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Quit scaring her like that. She'll have a heart attack.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

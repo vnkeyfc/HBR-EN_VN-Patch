@@ -1,0 +1,172 @@
+{
+  "Script": "Story/MC02/Day08/Novel/MC02_08_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When media like printed publications, music, and movies contain obscenity, they fall under what's known as a publication prohibition and are no longer available for sale or distribution.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00001_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In other words, they are banned.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, Article 21 of Japan's postwar constitution forbids censorship. As such, these bans technically hold no legal weight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow. So that means in Japan, we can say whatever the hell we want!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't get any ideas. Cut it out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00005_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not that simple.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00006_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When a violation occurs, the court can make a ruling and enact a ban on the product in question.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00007_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori. Can you tell me what constitutes a violation?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "An obscenity violation infringes on...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Love and peace|Human rights|The location of the soul",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Human rights.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00009_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Love and peace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00012_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00014_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is human rights.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The location of the soul.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00016_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00013_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where did the sudden spirituality come from? I had to do a double take.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00019_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is human rights.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00020_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "More specifically, such a violation is anything that could be considered hate speech.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00021_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Another example of a violation that would result in a ban is copyright infringement.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So basically, don't hurt people and don't steal people's ideas in your product?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00023_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Bluntly put, but yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess I can't write any lyrics that expose my inner demons, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_03_00_Novel_00025_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The way you phrased that is concerning... What's going on in your mind? Should we be scared?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

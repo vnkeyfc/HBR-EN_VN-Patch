@@ -1,0 +1,733 @@
+{
+  "Script": "Story/MC01/Day05/Novel/MC01_05_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00054_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00055_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You always sound so cooperative and enthusiastic at first. Emphasis on at first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00056_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I hereby pledge to maintain my enthusiasm, ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00057_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Please do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00050_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Today's test is a little different. It will cover a wide range of topics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00051_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Unlike the previous tests, this will be testing your general intelligence, rather than any specific subject.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00079_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way! Nuh-uh! This isn't gonna end well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00080_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Still can't keep the act up for even a minute, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00052_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "There are many types of problems, so follow along closely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00053_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "First, a sequence problem.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00062_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00050_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "Today's test is a little different. It will cover a wide range of topics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00064_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00051_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "Unlike the previous tests, this will be testing your general intelligence, rather than any specific subject.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00066_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00052_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "There are many types of problems, so follow along closely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00068_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00069_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "First, a numerical sequence. Please pay attention and answer carefully.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00070_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "WHAAAAA?! What happened to my get-out-of-testing-free pass for being such a good girl?! This just ain't fair!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00055_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "In what world is that a thing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00072_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00073_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00040_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Sucking up will get you nowhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00075_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I wasn't sucking up! Not this time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00076_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Let's hope that's the case.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00050_STezuka#3",
+      "Context": "Adv.talk:1",
+      "Original": "Today's test is a little different. It will cover a wide range of topics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00051_STezuka#3",
+      "Context": "Adv.talk:1",
+      "Original": "Unlike the previous tests, this will be testing your general intelligence, rather than any specific subject.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00079_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "No way! Nuh-uh! This isn't gonna end well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00080_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "Still can't keep the act up for even a minute, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00052_STezuka#3",
+      "Context": "Adv.talk:1",
+      "Original": "There are many types of problems, so follow along closely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00053_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "First, a sequence problem.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00083_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00063_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Oh? Were you always this compliant?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00085_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yes ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "If only you always behaved so well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00087_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00050_STezuka#4",
+      "Context": "Adv.talk:1",
+      "Original": "Today's test is a little different. It will cover a wide range of topics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00051_STezuka#4",
+      "Context": "Adv.talk:1",
+      "Original": "Unlike the previous tests, this will be testing your general intelligence, rather than any specific subject.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00090_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way! Nuh-uh! This isn't gonna end well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00080_YIzumi#3",
+      "Context": "Adv.talk:1",
+      "Original": "Still can't keep the act up for even a minute, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00092_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Can't keep the act up for even a minute, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00052_STezuka#4",
+      "Context": "Adv.talk:1",
+      "Original": "There are many types of problems, so follow along closely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00053_STezuka#3",
+      "Context": "Adv.talk:1",
+      "Original": "First, a sequence problem.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Today, you will be taking another test.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Another test?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Boo with Yukkie|Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie, this time for real. 1... 2...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Boo, boooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey! You left me hanging again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Are you done? We're about to begin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wait a second! I need to hear why Yukkie abandoned me! Just one measly question! It'll be quick, I promise!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why didn't you join in with me? Now we're actually stuck taking this stupid test!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I don't mind taking tests, is the thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All done!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "1... 2... Boo, boooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As I've told you before, booing requires more than one participant to be effective.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie?! Why didn't you join in and boo with me?! I even gave a countdown! What the heck?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "When did I agree to it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "In my head, I CLEARLY chose \"Boo with Yukkie\"! Keep up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Again, you have your answer. That was in your head. I do have my own free will, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There's your answer. That was in your head. I do have my own free will, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I guess that makes sense.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00047_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You two. Are you quite finished?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00048_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We are.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00045_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Did the commander really just wait for us to finish that ridiculous exchange? She's way too patient with us. It's honestly kind of scary...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00050_STezuka#5",
+      "Context": "Adv.talk:1",
+      "Original": "Today's test is a little different. It will cover a wide range of topics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00051_STezuka#5",
+      "Context": "Adv.talk:1",
+      "Original": "Unlike the previous tests, this will be testing your general intelligence, rather than any specific subject.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00052_STezuka#5",
+      "Context": "Adv.talk:1",
+      "Original": "There are many types of problems, so follow along closely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00053_STezuka#4",
+      "Context": "Adv.talk:1",
+      "Original": "First, a sequence problem.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Boo|Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00095_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaa? Boo, boooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Booing is typically a group effort.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00097_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Join me, Yukkie! Boo, boooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Leave me out of this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00050_STezuka#6",
+      "Context": "Adv.talk:1",
+      "Original": "Today's test is a little different. It will cover a wide range of topics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00051_STezuka#6",
+      "Context": "Adv.talk:1",
+      "Original": "Unlike the previous tests, this will be testing your general intelligence, rather than any specific subject.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00052_STezuka#6",
+      "Context": "Adv.talk:1",
+      "Original": "There are many types of problems, so follow along closely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00053_STezuka#5",
+      "Context": "Adv.talk:1",
+      "Original": "First, a sequence problem.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00144_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "1, 8, 9, 64, 25, 216. The next number is?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "1, 8, 9, 64, 25, 216. The next number is?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "0.1134|10 quadrillion and 49|49",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00146_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Was that Izumi just now? No surprise there. Correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00147_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No, that was Kayamori...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00148_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori answered correctly?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00149_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00150_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "How did you know?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00151_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hearing the numbers, I just had this feeling that it had to be 49.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00152_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You simply GUESSED?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00153_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Of all the numbers you could've chosen...it's a probabilistic miracle!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00154_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Come on girls, cut it out! I'm not used to being praised, okay! You're making me blush!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00155_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No one is praising you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00156_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaa—?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00158_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That is incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00159_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No, I was just saying hello.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00160_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I'm not a calculator, and this isn't middle school. If you wish to say hi, do it outside of exam time. Understood?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00161_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00162_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Anyone else?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00163_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, it's 49.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00164_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00165_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "10 quadrillion and 49.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00166_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You are somehow very close and yet unequivocally incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00167_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Fine, 10 quadrillion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00168_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You are now simply unequivocally incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00169_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Anyone else?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00163_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, it's 49.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00171_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Correct!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00172_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I really WAS close! Can't you just count my answer as right?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00173_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You were off by ten quadrillion. Does that sound \"right\" to you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00174_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00175_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Moving on to the next question.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00176_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I don't like using my heeead! Can't we at least make this sex ed?! Let's learn about the mysteries of the human body instead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00177_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Spoken like a true elementary schooler...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00178_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I see... So you really were just sucking up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00179_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, don't you know frowning gives you wrinkles?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00180_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "YOU'RE THE ONE RESPONSIBLE!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00181_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Uh-oh, now she's REALLY pissed...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00182_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "And that's it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00183_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uuughh...freedom at laaast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00184_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "My head's killin' me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00185_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie, what should we grab for lunch? How about getting out of this dreary ol' base and grabbing some pancakes by the station? My treat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00186_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Like I said, this isn't some slice-of-life thing. Pancake places don't exist anymore.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

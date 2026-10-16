@@ -1,0 +1,138 @@
+{
+  "Script": "Story/MC01/Day06/Novel/MC01_06_08_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh? You're still here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're Satsuki, right? For some reason, you look super familiar...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Have we met somewhere before?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00003_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Welcome. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ohhh! You're the shopkeeper! You're in 31-C?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00006_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Yup! I was recruited after working in the store. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Gotcha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Pretty lazy recruiting, if you ask me, Seraph Squadron...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh right, you're Mari Satsuki. From now on, Merry. So Merry, what's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So, Shopkeeper Lady, mind telling us your name?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00012_MSatsuki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I'm Mari Satsuki. It's a pleasure doing business with you. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ditto. I hereby dub thee Merry. So, what's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00014_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "I really must apologize for all the trouble we've caused.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Don't sweat it. That ship has sailed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What are you talking about? The big face-off hasn't left port yet! Is your head on straight?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00017_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "There is one thing you should know ahead of time. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Intriguing! Do tell.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00019_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "We in Squad 31-C have a very good reason for challenging you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00020_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "I can't disclose it at this time, but I can say that our motivations for this match far outrank yours. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00021_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Therefore, I'm letting you know ahead of time that this is not just for show. We WON'T lose. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Good. Then we can both fight with no regrets!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_01_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What part of that did you find so convincing?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

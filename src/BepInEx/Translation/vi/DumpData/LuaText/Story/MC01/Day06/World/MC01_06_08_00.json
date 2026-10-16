@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC01/Day06/World/MC01_06_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_08_00_World_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So how did it come down to this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_00_World_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I'm all for it. We'll show 'em who's outclassed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_08_00_World_00002_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "My apologies. Things got quite out of hand back there. ♪",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

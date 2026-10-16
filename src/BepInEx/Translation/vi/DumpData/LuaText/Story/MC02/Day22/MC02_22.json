@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC02/Day22/MC02_22",
+  "Entries": [
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "[Trainer] Gorgon\\nRecommended Rating: 6,000\\nVulnerabilities: Pierce\\nResistances: None",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

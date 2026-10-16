@@ -1,0 +1,186 @@
+{
+  "Script": "Story/MC02/Day21/Novel/MC02_21_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For the next two days, you'll be taking a cumulative training course that covers the content from Phase One to Phase Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This will still serve as training for deployment with other squads, but as long as you stay rational and keep in mind all that you learned thus far, you should be fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Make sure to maintain focus until the end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00003_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "All units in position. Please wait for the go-sign.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood, we're all ready to begin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi! We're the squad leaders, so let's show 'em what we're made of!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course! Let's do our best!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00008_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Commencing operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Near Afuri Shrine",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00920_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For Phase One, we advance from Afuri Shrine to Point Beta at Nanohana View Terrace, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00921_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, I guess.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00922_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "First, we need to secure Point Alpha at Yabitsu Pass so that we can turn the tide in our favor!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00923_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds good. Let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Near Afuri Shrine",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Campaign Route",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise01_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, take those two Cancers at 5 o'clock! Karrie, back her up. I'm going to charge in, so 31-B, I need you to back me up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise01_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00012_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00013_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood! We're available for backup!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise01_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great, then we're charging in at 12 o'clock!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Campaign Route",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Point Alpha",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00924_v001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We reached Yabitsu Pass! Can you give me the time?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00925_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "6 minutes and 30 seconds! Well within the time limit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise01_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How's our deflector levels?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00018_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good fer now. We've barely just started.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00019_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone has sustained minimal damages so far. Barely a scratch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_00_Novel_00020_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This isn't enough... Let me KILL more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00926_v001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nice, nice. Let's keep pushing through to Nanohana View Terrace's Point Beta!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Point Alpha",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

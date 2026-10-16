@@ -1,0 +1,42 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_06_01_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Good, you're all here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_01_Novel_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "For the next five days, you will be competing to reach the deepest level of the dungeon first. Any objections?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_01_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "None here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_01_Novel_00003_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Likewise. Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_01_Novel_00004_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "You said it, Master. Ke he he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_01_Novel_00005_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Then...begin!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

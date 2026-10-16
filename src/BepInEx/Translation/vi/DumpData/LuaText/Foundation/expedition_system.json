@@ -1,0 +1,17 @@
+{
+  "Script": "Foundation/expedition_system",
+  "Entries": [
+    {
+      "Key": "VC_expedition_system_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Everyone's on their last legs...\\nMay as well call it quits for the day.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Return to base?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

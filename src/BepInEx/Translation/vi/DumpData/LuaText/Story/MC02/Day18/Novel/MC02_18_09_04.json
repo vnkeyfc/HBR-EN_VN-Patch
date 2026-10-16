@@ -1,0 +1,307 @@
+{
+  "Script": "Story/MC02/Day18/Novel/MC02_18_09_04",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00813_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah, there she is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600056_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, are you still training this late in the day?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500042_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're amazing, Aoi. But don't you think you should rest when you can?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not really good for me to just stand around doing nothing...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh, because of the hyperthymesia?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. I just keep recalling so many things...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we're always using Seraphim to beat Cancers... Does physical training actually have any meaning?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course it does! A Seraph is just a weapon in the end. We're the ones who have to wield them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The girls with the projectile-type Seraphim have it easy, then. It's super tiring for me since I have to swing and slash with both my arms!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sure the projectile-types still require some physical strength, such as for stabilization.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yours is a shield right, Aoi? Those are pretty rare.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe Seraphim are just like Seraph Codes in that they take on a form that best raises your morale.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you get more fired up with a shield? I feel like a weapon is way more exciting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're a dual-wielder, so I can see how you'd feel that way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00012_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, the feeling of wanting to be useful to someone is much more in line with protecting than with attacking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00013_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's why I'm glad my Seraph ended up as a shield.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, I guess you're not really the type that gets frustrated easily and has to vent it out. A shield seems pretty fitting for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00015_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But the emulations have been getting harder lately. I feel like I haven't been able to protect others like I'm supposed to, and that's been kind of upsetting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "When that kind of thing happens, I usually just tell myself, \"I'm the strongest!\" and pump myself up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00017_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe. That's just like you, Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00018_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder what would work for me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yours is a shield, so...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Which word works best?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Invincible|Explosive|Cornered",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You gotta think of yourself as invincible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Invincible, unbeatable, unbreakable! Anything like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00022_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Imagining myself as invincible with a shield in hand... Yes, I see how that could work. I'll keep that in mind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You gotta think explosively!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00024_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Explosively? But what's exploding?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Cancer, of course.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00026_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're not going to explode. Or at least, I can't make them explode.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm...so I guess that didn't really vibe with you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00028_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope. No vibes here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Imagine yourself as...cornered!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00030_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, like a cornered beast that bites back?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Bites back? Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00032_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haven't you heard of that turn of phrase before?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope! Anyway, you just gotta think, \"I'm cornered, oh no!\"...and that's it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00814_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That would just make me a hopelessly trapped animal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00027_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm...so I guess that didn't really vibe with you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00028_EAoi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope. No vibes here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00817_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(In that case...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Invincible|Cornered",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00817_v001_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(In that case...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Invincible",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00817_v001_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(In that case...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Invincible|Explosive",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00817_v001_RKayamori#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(In that case...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways, sorry to have bothered you. Good luck with your training!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_01_Novel_00036_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course. Thank you for the chat!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

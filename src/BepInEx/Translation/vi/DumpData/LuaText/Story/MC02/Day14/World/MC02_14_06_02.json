@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC02/Day14/World/MC02_14_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00674_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ready for another day of guard duty?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00675_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's take it easy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00676_v001_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Doesn't look like we have time to laze around.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

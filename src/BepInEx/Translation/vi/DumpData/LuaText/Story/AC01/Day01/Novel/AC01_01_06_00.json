@@ -1,0 +1,78 @@
+{
+  "Script": "Story/AC01/Day01/Novel/AC01_01_06_00",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00135_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry for calling you in on your day off. But we have an urgent mission.",
+      "Vietnamese": "Đang ngày nghỉ mà gọi các cô đến thật ngại quá. Nhưng đang có một nhiệm vụ khẩn cấp."
+    },
+    {
+      "Key": "VC_AC01_00136_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For us?",
+      "Vietnamese": "Giao cho tụi em á?"
+    },
+    {
+      "Key": "VC_AC01_00137_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Highly dangerous Cancer activity has been detected in the Ikebukuro Underground area that 31-C has been surveying.",
+      "Vietnamese": "Ở khu vực ngầm Ikebukuro mà 31C vừa đi khám phá, có khả năng đã xuất hiện chủng Cancer có mức độ nguy hiểm cao."
+    },
+    {
+      "Key": "VC_AC01_00138_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You are to head there right away and ascertain the area in which the Cancers are active.",
+      "Vietnamese": "Các cô hãy lập tức xuất phát tới đó và xác định khu vực sinh sống của chủng Cancer này."
+    },
+    {
+      "Key": "VC_AC01_00139_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You want us to just check where they are? Shouldn't we like, get rid of them or something?",
+      "Vietnamese": "Chỉ cần xác định thôi á? Nếu nguy hiểm thì tụi em cứ đập nó luôn là được mà."
+    },
+    {
+      "Key": "VC_AC01_00140_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do not overstep your mission. Even if you fight together with 31-C, it is not certain that you will be able to eliminate them.",
+      "Vietnamese": "Không được làm liều. Dù các cô có sát cánh cùng 31C thì chưa chắc đã có thể tiêu diệt được chúng đâu."
+    },
+    {
+      "Key": "VC_AC01_00141_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your objective is only to confirm the Cancers' area of activity.",
+      "Vietnamese": "Hiện tại chỉ cần khoanh vùng khu vực sinh hoạt của chúng là đủ."
+    },
+    {
+      "Key": "VC_AC01_00142_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not even a little bout?!",
+      "Vietnamese": "Em ra húc nó một cái thôi cũng được!"
+    },
+    {
+      "Key": "VC_AC01_00143_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Absolutely not. If you encounter any, you are to return without engaging.",
+      "Vietnamese": "Tuyệt đối không. Nếu phát hiện ra mục tiêu thì phải rút lui ngay, cấm giao chiến."
+    },
+    {
+      "Key": "VC_AC01_00144_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Squad Leader Kayamori, I hereby permit you to take your squad into uncharted territory.",
+      "Vietnamese": "Đội trưởng Kayamori, tôi cho phép cô dẫn đội tiến vào khu vực chưa khám phá."
+    },
+    {
+      "Key": "VC_AC01_00145_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once you are ready to deploy, leave right away.",
+      "Vietnamese": "Sau khi hoàn tất chuẩn bị xuất kích, hãy lập tức khởi hành đi."
+    },
+    {
+      "Key": "VC_AC01_00146_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, ma'am!",
+      "Vietnamese": "Rõ rồiii."
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,150 @@
+{
+  "Script": "Story/MC01/Day10/Novel/MC01_10_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Phew... Another hectic day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And the enemies grow tougher and tougher the further we progress.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Indeed. We keep barely scraping by each time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00003_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Should we really keep charging straight ahead?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00004_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Why're you even askin' when you already know the answer? I ain't losin'. No way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It'll be defeating the purpose if the Cancer get us first...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00006_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "What do you think, Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All these battles have made us stronger. I'm sure we'll be fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00008_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Three cheers for getting stronger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00009_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "YO, Tama!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00010_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Y-Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00011_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Cool it, will ya? Save the celebration fer when you get on my level.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Says the cockiest one of us all...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00013_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, Ruka. We're never gon' beat 31-C at this rate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00014_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I was just thinking the same thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She has a point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Then we up the tempo? It's risky.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00017_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Don' gimme that. We're the \"A\" squad, rockette.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00018_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, 31-A for the win!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "When you two agree like that, all credibility goes out the window.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00020_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Let me unleash my <i>full</i> killing potential...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "But you just reeled that credibility right back in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Alright, let's up the tempo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_01_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "This is going to get dangerous, so...within reason. It's game over if we die.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,196 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtLibrary_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Well, what should I read?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Read what?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Seraph magazine|Romance novel|Picture book",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's read the military-issued magazine. This is a special issue covering a Seraph competition!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(There might be info on all kinds of different Seraph types in here!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(As squad lead, I should take a read and educate myself.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Wait, what's this? The...Make-Your-Own Ultimate Seraph Competition?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A blade, 2 kilometers long. A 0.1 millimeter thick, unbreakable shield. A super long-ranged gun with the power to blow up the moon...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(...It was filled with the fleeting dreams and boundless imaginations of the people that came before us.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll read a romance novel to open myself up to new experiences.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Huh, so I guess teen girls think like this?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Wait, I AM a teen girl!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The only thing I discovered from this book is that I'm unlike girls my age...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I want to see Yukkie...I bet she'll understand me. Just like me, she's no ordinary girl.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Ruka. Didn't know you were here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yuuukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you hugging me all of a sudden...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Cause, Yukkie...you're far from an ordinary girl.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, okay then...and why does that lead to you hugging me...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because I, too, am no ordinary girl.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well of course you're not ordinary, you were a freakin' rock star... I was just a run-of-the-mill hacker.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, but that doesn't change the fact that you're unordinary.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey. You could at least use extraordinary. Unordinary just sounds kind of unhinged.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Unhinged? Yeah, that's great! We're both unhinged!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's great about that? That's just announcing to the world that we're crazy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A picture book...what am I, a child?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(But since it's here anyways, I might as well read it)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Wow, the details are so complex! Are picture books nowadays all like this?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The backgrounds are amazing too! Did they draw this all by themselves?! There's only one name listed as the author, so...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00028_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(They must be some kind of genius. Unless...it's all a fraud!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Whew, I feel more educated already.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_MC02_ADV_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I think I'll go back home now.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,11 @@
+{
+  "Script": "Foundation/tutorial_system",
+  "Entries": [
+    {
+      "Context": "CS.LuaMethod.Tutorial_SetKeyGuide:1",
+      "Original": "Next Page",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

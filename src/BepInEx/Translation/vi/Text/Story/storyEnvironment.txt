@@ -5,12 +5,12 @@
 移動する=Di chuyển
 
 [UI_Story]
-マップ=<size\=80%>Bản đồ khu vực
+マップ=<size\=80%><cspace\=-2px>Bản đồ khu vực
 FastTravel=<size\=110%>FastTravel 
 Map=Map 
 メッセージ=Tin nhắn
 ホーム=Home 
-移動=<voffset\=-35px><cspace\=-2px><space\=-7px><size\=90%>Đi đến</voffset>
+移動=<pos\=-10px>Di chuyển
 次の時間へ=<line-height\=24px>Chuyển mốc\nthời gian
 <style\=RubyPrefixTag></style>\nSkip the rest of this period and move on to the next?=<style\=RubyPrefixTag></style><br>Bỏ qua thời điểm hiện tại và chuyển đến mốc thời gian tiếp theo?
 <style\=RubyPrefixTag></style>\nSkip the rest of this period and move on to the next? (Using the Relive Memories\nfeature to perform Socializations will consume Life Points.)=<style\=RubyPrefixTag></style><br>Bỏ qua thời điểm hiện tại và chuyển đến mốc thời gian tiếp theo?<br>(Thực hiện hoạt động Giao Lưu thông qua Hồi Tưởng sẽ tiêu hao Life Point)
@@ -25,7 +25,7 @@ Redo=Thử lại
 
 [Location]
 Main Street=Đường chính
-Union Street=Phố Giao Tình
+Union Street=Phố Union
 Library=Thư viện
 Academy Grounds=Căn cứ học viện
 Academy Building=Khu học xá
@@ -42,7 +42,7 @@ Arena Road=Đường trước Đấu trường
 Narby Square=Quảng trường Narby
 Mortuary=Đài tưởng niệm
 Heliport=Bãi đáp trực thăng
-Canteen=Căn tin
+Canteen=Căng tin
 Common Area=Khu sinh hoạt chung
 Cafeteria=Nhà ăn
 Munitions Store=Tạp hoá
@@ -50,9 +50,10 @@ The Woodway=Ngõ sau
 Miemie Spa=Spa Miemie
 Battle 9 Theater=Rạp chiếu dã chiến số 9
 Fountain Square=Quảng trường đài phun nước
-Flavor Street=Phố Hương Vị
+Flavor Street=Phố Flavor
 Shops=Cửa hàng
 
+This item cannot be obtained because you already hold the maximum number of them.=Không thể nhặt vật phầm này do đã đạt quá giới hạn sức chứa.
 sr:"^<style\=RubyPrefixTag></style>\nGo to (.+)$"=<style\=RubyPrefixTag></style><br>Đi đến $1
 <style\=RubyPrefixTag></style>\nStay here=<style\=RubyPrefixTag></style><br>Ở lại
 sr:"^<style\=RubyPrefixTag></style>\nSpend time at (?:the )?(.+) to raise (.+).$"=<style\=RubyPrefixTag></style>\nDành thời gian tại $1 để tăng chỉ số $2?

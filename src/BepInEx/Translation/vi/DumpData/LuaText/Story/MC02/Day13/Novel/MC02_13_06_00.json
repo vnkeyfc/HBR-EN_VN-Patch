@@ -1,0 +1,172 @@
+{
+  "Script": "Story/MC02/Day13/Novel/MC02_13_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We will now begin training for Phase Four.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00666_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since the Cancers in the area have already been extirpated during Phase Three, you are to join up with 30-G and take over escorting the convoy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00667_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Escort the convoy to Point Delta while 30-G goes ahead. Phase Four will end once you regroup with 30-G and return the convoy to them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Though the Cancers may not be intelligent, be aware that they can easily overwhelm you in large numbers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As such, you must be able to predict the presence of enemy reinforcements and assess whether the convoy could become damaged during combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Furthermore, as 31-A tends to rely on close-range combat, you all should take this opportunity to hone your skills in providing long-distance support.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uhh, Commander...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is it, Kayamori?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, you used a lot of difficult words, so...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00010_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What part of it did you not understand?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What did I not understand?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Extirpate|Happiness",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's \"extirpate\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00012_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It means eliminating the enemy completely, leaving none behind. Do you understand now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's happiness?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00015_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't understand what happiness is. Tell me, teach me... What's happiness?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00017_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose you're asking what defines happiness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00018_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It could be fortune, power, fame, health, family, or anything else. However, I'd advise you to focus on saving humanity first. If we perish, there'll be no happiness to achieve in the first place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00019_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How's that sound for you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That sounds pretty convincing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00021_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good. Moving on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00022_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The other squads will be clearing the area for remaining Cancers. Should the need arise, you will cover them with long-range attacks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00023_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's also important to consider how you'll coordinate the support.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00024_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Learn to judge the situation quickly, whether that means defeating an enemy approaching a supporting squad from behind, or anticipating the next enemy attack and impeding it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_00_Novel_00027_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

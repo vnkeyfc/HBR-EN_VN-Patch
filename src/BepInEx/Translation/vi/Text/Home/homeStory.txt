@@ -1,7 +1,7 @@
 [Story]
-メインストーリー=<size\=120%>Chính Truyện
+メインストーリー=<size\=110%>Chính truyện
 最新のショップ=Tạp hoá\nmới nhất
-最新のフリータイムへ=Free Time\ngần nhất
+最新のフリータイムへ=Giờ giải lao\ngần nhất
 続きから=Tiếp tục
 過去をたどる=Hồi Tưởng
-交流/メモリーストーリー=Giao Lưu / Câu chuyện Hồi Ức
+交流/メモリーストーリー=<size\=75%>Giao Lưu/Câu chuyện Hồi Ức

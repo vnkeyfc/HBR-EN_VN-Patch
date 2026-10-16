@@ -1,0 +1,142 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Girls, let's have a pre-op celebratory gig today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't know where to even begin picking apart what you just said.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Firstly, why is it a pre-op celebration?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pre-op like, pre-operation. Y'know, since the operation is coming up soon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That ain't really somethin' to be celebratin' over.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But think about it—we only have today to really let loose. Starting tomorrow, we'll have to focus on the upcoming mission, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We could start focusing on the mission today, right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But if we can't play now, when ARE we going to play?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've been playing a lot, haven't we?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But it's not enough, right?! We need to use up everything we've got to show off what we've honed in practice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why, exactly, do we need to \"use up everything\" right before a big operation? Shouldn't we be conserving energy instead?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "How do I convince her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Make a persuasive argument|Throw a tantrum",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look, Yukkie. It only takes two or three dry days before people start getting frustrated. So if you want that release, if you want to feel good...we gotta let it out NOW.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're all girls. I'm not sure your uhh...innuendo really works here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Darn. That means I only have one other option...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "WAAAHH! I want to plaaay! After all the practice we went through, we HAVE to plaaay!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is your last resort? Whining like a kid?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "WAAAHH! I want to plaaay! After all the practice we went through, we HAVE to plaaay!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're such a kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00018_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think Aoi is waiting for us right now anyways, so we should at least head down to meet her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're probably right, but...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, gang! Let's get rolling!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

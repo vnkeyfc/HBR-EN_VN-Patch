@@ -1,0 +1,74 @@
+{
+  "Script": "Story/MC01/Day08/Battle/MC01_08_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_06_02_Battle_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There it is! A real-life Cancer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_02_Battle_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No need to panic. We can handle the Cancers here no sweat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_02_Battle_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press the L2 button to open a sub-menu where\\nyou can tweak the auto-battle mode settings.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButtonRect:4",
+      "Original": "Auto-Battle Mode Sub Menu",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Selecting FULL will allow the units to use all of their skills in auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Selecting NORMAL will prevent the use of skills with usage limits during auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press this button to enter auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the right directional button to enter auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButton:4",
+      "Original": "Next Page",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Selecting FULL via the R2 button will allow your units to use all of their skills in auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Selecting NORMAL via the L2 button will prevent the use of skills with usage limits during auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can also prevent specific skills from being used in auto-battle mode\\nby unchecking the Auto Config box when equipping them.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

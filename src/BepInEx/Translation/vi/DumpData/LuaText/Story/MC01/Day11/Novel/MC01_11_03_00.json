@@ -1,0 +1,130 @@
+{
+  "Script": "Story/MC01/Day11/Novel/MC01_11_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "The economy is an essential part of everyday human life.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00001_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "However, it is not stable, but in constant flux.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori. What was the name of the worldwide economic disaster that broke out in the 1930s?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What was the economic disaster called?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "The Big Sadness|The Great Depression|All Time Low",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Depression.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00004_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The Big Sadness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00007_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00009_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "The correct answer is \"the Great Depression.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All Time Low.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00011_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Even with their song \"Some Kind of Disaster\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's even more wrong.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00014_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "The correct answer is \"the Great Depression.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00015_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Depression affected prosperous and poor countries alike, leaving countless people destitute.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00016_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Well, the world is now facing economic ruin, worse than ever before...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00017_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "But whether the world survives to see another recovery depends on each and every one of us. Got it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Eeeyup.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

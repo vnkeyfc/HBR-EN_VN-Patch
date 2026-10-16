@@ -1,0 +1,36 @@
+{
+  "Script": "Story/AC01/Day03/Battle/AC01_03_00_07",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00627_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I-It's huge... We gotta fight this thing?",
+      "Vietnamese": "T-To đùng... Bắt phải đánh con này sao...?"
+    },
+    {
+      "Key": "VC_AC01_00628_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We will win.",
+      "Vietnamese": "Thắng được."
+    },
+    {
+      "Key": "VC_AC01_00630_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With the powers of 31-C and 31-A combined, we're unstoppable.",
+      "Vietnamese": "Chúng ta... 31C và 31A hợp làm một, chẳng phải vô địch thiên hạ sao."
+    },
+    {
+      "Key": "VC_AC01_00631_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, we'll win this. Then, we'll go home, with Bun-chan, Ivar...and everyone else–together!!!",
+      "Vietnamese": "Nên chúng ta chắc chắn sẽ đánh bại được nó... và cùng nhau trở về, Bun-chan, Ivar-chan... với tất cả mọi người!"
+    },
+    {
+      "Key": "VC_AC01_00632_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You got that right. Let's rock, girls!!!",
+      "Vietnamese": "À, đúng vậy. Lên nào, mọi người!!"
+    }
+  ],
+  "Inserts": []
+}

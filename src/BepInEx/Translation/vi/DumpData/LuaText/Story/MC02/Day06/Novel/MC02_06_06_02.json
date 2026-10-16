@@ -1,0 +1,256 @@
+{
+  "Script": "Story/MC02/Day06/Novel/MC02_06_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation complete. You reached a suitable checkpoint and eliminated every Cancer along the way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YEAHHH! We did it, Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! It's all thanks to everyone's hard work!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00437_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, your clear time was well over the target.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00438_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So that means...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00439_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If this were the actual operation, you would have failed and been forced to retreat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00440_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You gotta be kidding...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00441_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-B. Both your accuracy and target selection left something to be desired...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00010_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great. Now we're in trouble, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00011_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How pathetic, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00012_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*pant* M-My body's at its limit...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00442_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A was surrounded three times due to inadequate support from your squad. Understand that you put your allies at risk today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00014_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00015_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A. Do not get distracted by individual Cancers. Keep focused on your overall objective.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00016_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And Kayamori. Analyze the battlefield and give more directives to your allies.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Try harder?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Alright!|Commander, do you know the saying?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Commander, do you know the saying?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00019_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What saying? Go on, try me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you're always striving towards something, you'll never lose your spark. Success or failure, it doesn't matter. Simply challenging yourself is enough.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "By that logic, it's one success after another for me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00022_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who said that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "King Kazu.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00024_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This isn't football. The fate of humanity is at stake, and failure is not an option.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00004_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That concludes today's training. We look forward to tomorrow's session.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00443_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation concluded. You exited the simulation before reaching the checkpoint.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00006_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have much room for improvement, including combat efficiency and route selection.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's that supposed to mean? Are you saying we have a lot of potential for growth?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00008_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Moron. She's chewing us out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The reason 31-A struggled as much as it did is because 31-B failed to provide proper coverage. That must also be remedied.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00032_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please reflect on your mistakes and redouble your efforts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00026_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation concluded. You retreated due to fallen comrades.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00027_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're in complete shambles.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00028_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies... This is all because we let our guard down...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cheer up! We still have two more days!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00030_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's hard enough already. Now we gotta make up for today, too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00031_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry! I'm so sorry!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00032_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please reflect on your mistakes and redouble your efforts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_06_02_Novel_00033_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

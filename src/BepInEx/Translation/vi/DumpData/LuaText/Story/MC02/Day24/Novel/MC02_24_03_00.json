@@ -1,0 +1,96 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00000_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Enemies eliminated on our front! How is the situation on your side?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00001_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nothing over here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00002_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Same, no enemies here, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A, how are you faring?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No problems here. Phase One is complete.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, I'm going to report to HQ. Is that okay with you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep, go ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is Yuki Izumi of Squad 31-A. We've secured the route to Point Beta.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00008_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Understood. We'll now move on to Phase Two. Please proceed whenever you are ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's wrong, Ruka? You seem a little puzzled.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was just thinking that everything went a bit too smoothly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Training really does help, huh? Even though this is our first time on a real operation, it's easy to take action based on what we've practiced.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01000_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's what it means to learn and grow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Training sure was a slog, though! Anyways, let's check the next phase.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_03_02_Novel_00014_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure thing!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

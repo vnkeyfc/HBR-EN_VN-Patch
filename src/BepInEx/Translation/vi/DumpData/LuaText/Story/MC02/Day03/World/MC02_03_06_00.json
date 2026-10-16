@@ -1,0 +1,77 @@
+{
+  "Script": "Story/MC02/Day03/World/MC02_03_06_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I'm feeling like skipping training and taking a nap...but nah, I'd rather stay on the commander's good side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00000_RKayamori#2",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I'm feeling like skipping training and taking a nap...but nah, I'd rather stay on the commander's good side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "All done eating. Training calls!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We were meeting up at the arena, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00006_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Today marks another round of training. Let's get going.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Our next operation is some serious stuff. We need to really focus on training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00005_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "You're late. Let's hurry up and get in the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00007_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Tama, forget all about what they said last night.\\nJust one big misunderstandin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00008_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "The way you keep refuting it is starting to sound suspicious...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00009_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I don't get it...as a former captain, I feel like I should be more respected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_00_World_00010_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Don't worry, you got us all beat when it comes ta uniqueness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -16,11 +16,12 @@ Zoom In/Out=Phóng to/nhỏ
 はじめる=Bắt đầu
 プレイ可能=<size\=70%>Có thể theo dõi
 詳 細=Chi tiết
+ホームへ=<cspace\=-2px>Quay về màn hình chính
 
 Reward(s) obtained=Đã nhận phần thưởng
 
-長押しでスタイル性能詳細を確認できます。=Nhấn giữ Style để xem chi tiết.
-Exchange for selected Memoria?=Xác nhận chọn Style này?
+長押しでスタイル性能詳細を確認できます。=Nhấn giữ Hồi Ức để xem chi tiết.
+Exchange for selected Memoria?=Xác nhận chọn Hồi Ức này?
 
 <style\=RubyPrefixTag></style>\nNot currently available.=<style\=RubyPrefixTag></style>\nHiện tại không khả dụng
 
@@ -31,10 +32,10 @@ Exchange Complete=Đổi thưởng hoàn tất
 Reward(s) Obtained=Đã nhận thưởng
 
 Conversion Complete=Chuyển hoá hoàn tất
-リセット対象=Có thể\nlàm mới
+リセット対象=Có thể làm mới
 Sold Out=Đã hết
 
-Bulk Enhancement complete!=Nâng cấp nhanh hoàn tất!
+Bulk Enhancement complete!=Cường hoá nhanh hoàn tất!
 
 PICKUP!=NỔI BẬT!
 
@@ -66,3 +67,6 @@ HEALER=<size\=130%>HEALER
 DEFENDER=<size\=130%>DEFENDER
 ADMIRAL=<size\=130%>ADMIRAL
 RIDER=<size\=130%>RIDER
+
+NOW LOADING=<size\=75%><b>ĐANG NẠP DỮ LIỆU 
+AUTO SAVING=TỰ ĐỘNG LƯU

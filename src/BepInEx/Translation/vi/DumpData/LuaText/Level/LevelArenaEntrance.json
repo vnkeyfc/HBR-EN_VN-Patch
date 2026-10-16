@@ -1,0 +1,11 @@
+{
+  "Script": "Level/LevelArenaEntrance",
+  "Entries": [
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to Union Street|Stay here",
+      "Vietnamese": "Go to Union Street|Ở lại"
+    }
+  ],
+  "Inserts": []
+}

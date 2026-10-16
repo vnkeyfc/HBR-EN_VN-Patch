@@ -1,0 +1,18 @@
+{
+  "Script": "Story/MC02/Day10/Battle/MC02_10_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00514_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's take care of these Cancers first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00515_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. That would be the first step.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

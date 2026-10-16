@@ -1,0 +1,288 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtLibrary_MC01",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtLibrary_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the Library, but what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Hang out at the library today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Hang out",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Spend time at the Library to raise your Openness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Well, what should I read?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Read what?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "A pet magazine|A history book|A philosophy book",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Who's printing magazines in this chaos? The military? I guess it has to be the military!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's a pet magazine, too... Who can even own a cat or dog nowadays?! But the pictures are so cute! Agh, this is torture!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's kind of strange...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(But I guess this magazine lets people experience the feeling of owning a pet...or something.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hmm...that was really stress-relieving.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00007_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rawrrr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Huh? Why's there a tiger in the library?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is nostalgic isn't it, Byakko? It's a picture from when you were a little kitten.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh, they're looking at the pet magazine! I guess that kitty was actually a baby tiger!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00007_Byakko#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rawrrr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A pretty girl and a tiger, reading a magazine together...what an odd but cute sight.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Byakko's in the library?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00009_EAoi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is nostalgic isn't it, Byakko? It's a picture from when you were a little kitten.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh, they're looking at the pet magazine! I guess that kitty was actually Byakko as a baby!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00007_Byakko#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rawrrr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00017_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A pretty girl and Byakko, reading a magazine together...what an odd but cute sight.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Uhh, a tiger in the library...?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00009_EAoi#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is nostalgic isn't it, Byakko? It's a picture from when you were a little kitten.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh, they're looking at the pet magazine! I guess that kitty was actually a baby tiger!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00007_Byakko#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rawrrr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Aoi and a tiger, reading a magazine together...what an odd but cute sight.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Byakko's in the library?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00009_EAoi#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is nostalgic isn't it, Byakko? It's a picture from when you were a little kitten.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh, they're looking at the pet magazine! I guess that kitty was actually Byakko as a baby!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00007_Byakko#5",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rawrrr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Aoi and Byakko, reading a magazine together...what a cute sight.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00028_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(You know what? I'm going to study some history.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00029_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Since we're the last hope of humanity, learning about our history is important.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's see...how about something on super ancient history?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00031_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00032_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "No way! So ancient Sumerian civilizations were created by ALIENS?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00033_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I guess there's good aliens out there.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00034_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll read some books on philosophy. Understanding the nature of mankind is the first step in understanding your own self.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00035_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Socrates? That sounds familiar, I guess I'll give it a go.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00036_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00037_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "...Yep! I understand absolutely none of this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00038_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Only god knows, I guess.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00039_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Like, hello??? Mr. Socrates? Why did you leave it all open to interpretation like this...?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(That was a pretty informative.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Okay, time to get back.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

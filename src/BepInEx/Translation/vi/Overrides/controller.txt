@@ -6,9 +6,11 @@
 
 /RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Tua nhanh'
 
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'Return'|'Trở về'
+
 /RootView/UI-Foreground/Main/UIPrismBattleDialog/ModalContainer/container/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Càn quét'
 
-/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=80%>Chi tiết Style</size>'|'Chi tiết Style'
+/RootView/UI-Foreground/KeyGuide/UIKeyGuide/Contents/unit1(Clone)/Text|'<size=80%>Chi tiết Hồi Ức</size>'|'Chi tiết Hồi Ức'
 
 /RootView/UI-Foreground/Main/UIParty/container/KeyGuideForModal/KeyGuideUnitList/KeyGuideUnit(Clone)/Text|'<size=75%><cspace=-2px>Càn Quét</size>'|'Càn quét'
 

@@ -1,0 +1,586 @@
+{
+  "Script": "Story/MC01/Day05/Novel/MC01_05_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ahhh, another jam-packed day. It's sleepy tiiime! Good ni—Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Not so fast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Damn, that was a close one. You almost fell asleep on me again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What now? If you want to make out, save it for when we're alone. Everyone's watching...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Since when are we in a relationship?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_merge_00003",
+      "Context": "Adv.talk:0",
+      "Original": "Megumi/Tama/Tsukasa",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_merge_00003",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Quit looking at me like that! She's making things up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori, wake up! Tonight, we're <i>actually</i> study—I mean, having a fun chat about our amazing planet Earth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "How long are you gonna keep calling me Kayamori? Call me Ruka or I'm going back to sleep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Please pick some other way to sulk!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_merge_00004",
+      "Context": "Adv.talk:0",
+      "Original": "Megumi/Tama/Tsukasa",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_merge_00004",
+      "Context": "Adv.talk:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Quit LOOKING at me! It's not like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00018_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Waaait! <i>Ruka</i>, hold it right there! Don't go to sleep! At least try to stay awake!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Fiiine. Only because you asked so nicely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why do I have to get so worked up like this?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Why is Yukkie so worked up?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Because that's your role|Because that's your burden to bear|Because you're the best!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because that's your role.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00022_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then at least hear me out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Heh, I would if I could. How can anyone stay sane in this crazy world?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00024_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Your lack of sanity and the state of the world have nothing to do with each other.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because that's your burden to bear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The weight of that burden entirely depends on you. Lighten it some for me, would you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry, I'm afraid I can't do that. For that is the path I tread, and there is no abandoning this cruel journey we call fate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00029_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'd appreciate not being dragged along on this \"journey\" of yours.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because you're the best! That's what I love about you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, I'm sick and tired of putting up with your nonsense.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaa—? No way, this is a loving relationship!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh yeah? Then be more loving... If it's a relationship, it's a one-sided one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "My love is one-sided?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00036_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No...that's not what I meant. At all...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, good. The feeling's mutual.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00038_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_merge_00005",
+      "Context": "Adv.talk:0",
+      "Original": "Megumi/Tama/Tsukasa",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_merge_00005",
+      "Context": "Adv.talk:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "IT'S NOT LIKE THAT, OKAY?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00043_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So, study time. Listen up, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00044_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "You are our squad leader, after all. You need to learn these things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00045_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "<i>Super</i> valid point, Karerin! So, what is it? Whatcha gonna teach us?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00046_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, so now you're wide awake and ready to learn... I'm almost petty enough to call the whole thing off, but I'll keep going...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone, open up your mePads and take a look at this photo.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "At what? A selfie of two lovebirds?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00048_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, a selfie of two lovebirds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00049_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "But that's not all—there's also a meteorite-like object in the background.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00050_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "This may seem like a harmless photo, but it was once treated as a classified document.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00051_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So much as coming across it online would have the government hunting you down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00052_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's that important, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00053_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "This photo documents the arrival of the first Cancers on Earth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00054_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Fourteen similar meteorites were documented in different locations around the world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00055_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Human technology was unable to detect these meteors in advance. Even with this photo, people only realized what it was capturing after the fact.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00056_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We couldn't have shot these things down if we wanted to. By the time humanity became aware of their invasion, it was already too late.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900400084_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "After impact, they appear to have burrowed underground. Once more, completely undetected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900400085_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The turning point was the discovery of the shed exoskeleton of a then-unclassified species in Mexico.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900400086_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Its DNA sequence was unlike any known terrestrial organism. There was a lot of buzz about it possibly being the missing link in the evolutionary chain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00057_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The mystery would be solved ten years after the meteorites made impact. Strange, colossal creatures began erupting from the earth in countries across the world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00058_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Even the smaller ones were much larger than any insect on Earth, not to mention more violent. They seemingly had an innate drive to attack living organisms.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00059_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And not just any organisms—intelligent ones. They eschewed insects in favor of small vertebrates, and soon...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00060_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, I'm sure you know the rest. Ultimately, they ended up attacking mankind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00061_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "They started targeting the most intelligent creatures on the planet?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00062_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. You're aware that Cancers are almost unkillable, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00063_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00064_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Even when they are seemingly destroyed, they can quickly regenerate. It was possible to restrain and capture the smaller ones when they were momentarily incapacitated...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00065_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "But with the advent of larger Cancers, even that became impossible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00066_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What followed was the collapse of civilization as we knew it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00067_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Unable to wipe them off the Earth's surface, the Cancer numbers only grew.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00068_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "In no time at all, tens of thousands were overrunning South Africa, and Brazil was next.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00069_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Over time, they began to swarm. Organized hordes of Cancers began to form in both countries.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00070_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancers left total devastation in their wake, and all conventional weaponry proved ineffective against them. All humanity could do was attempt to prevent the swarms from forming even larger groups.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00071_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Not even three years passed before the Cancer had completely overtaken Africa and South America. North America and Europe have since become the front lines.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00072_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So it sounds like Japan doesn't have it so bad then...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00073_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And that's an important point. The Cancer are averse to water, rendering them incapable of crossing the ocean.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00074_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But Japan's just a bunch of islands. Doesn't that mean they shouldn't be able to get here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00075_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's true, the Cancer from other countries couldn't reach us. But meteorites landed in Japan too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00076_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's where Queen Cancers come in... They're the largest type of Cancer, and they're continuously churning out new Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00077_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I believe the meteorites landed in Hokkaido and Kyushu. The Seraph Squadron took out the one in Hokkaido a few years ago, but the Queen in Kyushu is still active to this day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00078_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Once more, you've just parroted back what the commander said.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00079_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, in any case, it's pretty much the end of the world as we know it. Or close to it, at least.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00080_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The weapons we know as \"Seraphim\" are humanity's guardian angels, our last hope.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00081_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz... *snore*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00082_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why am I not surprised?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00083_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm just...restin'...my eyes...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00084_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Clearly sleep talk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00085_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Perhaps I was too academic.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00086_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "She really held out for a while, though. She kept rubbing her eyes trying to stay awake...and cut her eyelids from rubbing too hard. She was crying bloody tears...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00087_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What?! And she just kept letting me talk, without even saying anything?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00088_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. Because the person talking was you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00089_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I doubt that... Guess I should pick a time when everyone is more awake.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00090_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Seraphim are...angels... Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00091_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What?! She actually listened all the way?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00092_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Looks like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_10_02_Novel_00093_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ha...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

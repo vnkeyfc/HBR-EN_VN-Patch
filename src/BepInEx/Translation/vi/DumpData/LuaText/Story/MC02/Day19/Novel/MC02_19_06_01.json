@@ -1,0 +1,48 @@
+{
+  "Script": "Story/MC02/Day19/Novel/MC02_19_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00824_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maaan, the enemies aren't coming at all... Can I close my eyes for a bit?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00825_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't I say this before? Absolutely not. You're going to fall asleep the moment you do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00826_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine. Megumin, could you do your psychic zappy thing on me? Like one of those handshake prank toys. That should shock me wide awake.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00827_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't ask fer somethin' dangerous like that! If I let out an electric shock, it's gonna be like a lightning strike, and yer gonna end up fried 'n' crispy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00828_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you have such a power, you should be using it in battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00829_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, it looks like we have some company.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00830_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's do this!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

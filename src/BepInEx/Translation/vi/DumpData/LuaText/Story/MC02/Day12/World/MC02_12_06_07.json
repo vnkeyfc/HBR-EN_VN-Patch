@@ -1,0 +1,12 @@
+{
+  "Script": "Story/MC02/Day12/World/MC02_12_06_07",
+  "Entries": [
+    {
+      "Key": "VC_Z_900600069_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "That's the last of it!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

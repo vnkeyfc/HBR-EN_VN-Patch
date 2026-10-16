@@ -1,0 +1,370 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Red-haired Girl?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Everyone, pipe down!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Who're you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Red-haired Girl?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Is that any way to talk to your superiors?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You don't look all that superior to me, so I went for a more casual approach.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00004_MAsami",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Red-haired Girl?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00004_MAsami",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "No, I'm guessing you're the sort who takes a \"casual approach\" with everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uh-oh, someone's got a temper.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00006_MAsami",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Red-haired Girl?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00006_MAsami",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Makiko Asami. I'm a former squadron member. In other words, your senior. After losing the use of my left eye, courtesy of a Cancer, I've been serving as an instructor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Do you need something from us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00008_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Starting today, I'll be in charge of your classroom learning.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaa? You want us to take <i>classes</i>?! When humanity's on the verge of extinction?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00010_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "You absolute fool!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00011_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "That attitude is exactly why you must be diligent in your studies. It is impossible to know what dangers you may face moving forward. You cannot expect someone else to save you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00012_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "To overcome such dangers on your own, you'll require not only strength, but smarts, too. Trust me, if anyone would know that, it's me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00013_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "To the three lowest scorers on the proficiency test, good luck.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00015_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ya mean us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You'll have to take it up with my manager.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00017_MAsami",
+      "Context": "Adv.playCutIn:3",
+      "Original": "What manager?! You're a soldier, not a rock star!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, I used to have one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00019_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Moving on to today's lesson...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00020_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "We humans love to categorize and label things, and the field of literature is no exception...which brings us to your first question.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why is this sounding like a game show? And how is literature gonna help us survive?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00022_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "We've already made contact with extraterrestrial life-forms, yes? There may be other Cancers out there capable of communication.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'd kill it first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00024_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Not on my watch, you won't!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What? You want us to play nice with the Cancer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00026_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "By sharing our culture with them, it may be possible to reach a peaceful resolution. You can see how studying literature is a potential route to humanity's survival.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00027_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "And you can see why I want you all to be as learned as possible, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You'll have to take it up with my agency.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00029_MAsami",
+      "Context": "Adv.playCutIn:3",
+      "Original": "What agency?! You're a soldier, not a rock star!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, yeah. Get on with the quiz show already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00031_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "It's not a quiz show. It's a class.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00032_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "After Japan's defeat in the Second World War, a group of writers became known as the Decadent School.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00033_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Their work criticized the traditional values upheld in pre-war Japanese literature.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00034_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "The two most famous writers from the Decadent School were Osamu Dazai and...who else?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Osamu Dazai and...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Ki no Tsurayuki|Ango Sakaguchi|Shinichi Hoshi",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ango Sakaguchi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00036_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ki no Tsurayuki.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00039_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00040_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "When exactly do you think Ki no Tsurayuki, who was referenced in Tale of Genji, was alive?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00042_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The 20th century?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00043_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00044_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Shinichi Hoshi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00045_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00046_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, I think he counts as pretty decadent in the world of sci-fi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00047_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Let's cool it with the controversial statements, all right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00048_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "When people hear Decadent School, they think of Osamu Dazai and Ango Sakaguchi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00049_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "That said, the category itself is incredibly vague.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00050_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "What both writers have in common is propagating revolutionary ideas in a post-war world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00051_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "They are known for rebelling against the values of the existing literary world and forging their own unique styles.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00052_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Damn, so they were the rock 'n' rollers of literature.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00053_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey! That means <i>I'm</i> in the Decadent School, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_03_00_Novel_00054_MAsami",
+      "Context": "Adv.playCutIn:3",
+      "Original": "More like the Delinquent School!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

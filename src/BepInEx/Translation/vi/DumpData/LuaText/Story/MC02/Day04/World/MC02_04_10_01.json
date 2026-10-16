@@ -1,0 +1,363 @@
+{
+  "Script": "Story/MC02/Day04/World/MC02_04_10_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Try checking out new places!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Union Street... Nope, not this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to Flavor Street!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the central plaza!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Time for a little nighttime prowling! Let's check out places we don't usually go to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00002_v001_Follower_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Places we don't normally go to, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00003_v001_Follower_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Hmm, where would that be?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00004_v001_Follower_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Not down a dark alley, I hope...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Perfect! Drinking party, anyone?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Do you think this sells alcohol? Plus, this isn't exactly somewhere new and exciting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00336_v001_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Oh, isn't that dashi soup stock?\\nYou can buy that from vending machines?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00008_v001_Follower_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I wonder if Tama drank some already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00009_v001_Follower_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I look forward to her review.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00337_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "No one is drinking soup stock by itself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00338_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How about we have a fancy li'l cheese-and-crackers party at the cafeteria?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We already ate dinner, and we go here every day, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00339_v001_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Exercising directly after dinner lowers your\\nblood sugar and is good for losing weight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00340_v001_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Then let's get those steps in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00342_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Once again, you are a fount of completely useless trivia.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00343_v001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's go smash some windows at the academy building.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00344_v001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If we did that, we'd have to do much more than just write a formal apology.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00345_v001_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Perhaps there's an arcade around?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00346_v001_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We are on a military base, you know. They don't have those.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00347_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I wouldn't be surprised if there actually was one at this point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Guess hitting up the arena wouldn't be any different from usual, either.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So that means it's either Flavor Street or nothing, I guess.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, sounds good. You could've just suggested that from the beginning...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00025_v001_Follower_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "So Flavor Street it is, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00026_v001_Follower_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's true, we almost never go there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00027_v001_Follower_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It should be fun going there with the entire squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00348_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, hey, wanna go fishing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We just decided on Flavor Street! Don't be so unfaithful!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00030_v001_Follower_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "\"Don't be unfaithful,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00031_v001_Follower_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Oh my... There's no denying it now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00032_v001_Follower_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "THAT'S NOT WHAT I MEANT!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We're finally here. I thought we'd never make it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And whose fault was that, exactly?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Is that who I think it is?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00016_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Megumi! Can you see what's at the very back?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00349_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I can see it with my mind's eye. It's...some kinda building.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00350_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess those two had the same idea.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00351_v001_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Ah, look how excited she is... Tama's such a child.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00352_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't set yourself up like that. Just wait till you find something, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00354_v001_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "There really are all sorts of places here, huh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00353_v001_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Over there, and there! What even is this place?! Wow, this is amazing!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00355_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What'd I tell you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00356_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A boutique? I wouldn't mind fighting in something else sometimes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00357_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Feel free, as long as you don't mind immediately dying due to the lack of a deflector.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00358_v001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, there's even fancy boutique shops.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00359_v001_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I want to visit them all and enjoy each and every one!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00360_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "To think you were just calling Tama a kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The movie they're showing here looks pretty good. It's about alien invaders that try to take over Earth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We've already got an alien invasion in real life. I'm good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00361_v001_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Look at that! And that! I want to stay here forever! Ooh, I feel like a little kid!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00364_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Talk about digging your own grave! And it's a deep one, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, they even have a convenience store. But at my age, I guess that's nothing to get excited over.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00365_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Some sort of mysterious phenomenon is occurring that makes YOU seem like the mature one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00058_v001_Follower_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I'm getting worn out trying to keep up with all of you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00059_v001_Follower_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Good work. We made it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_10_01_World_00060_v001_Follower_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I wonder what lies ahead.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

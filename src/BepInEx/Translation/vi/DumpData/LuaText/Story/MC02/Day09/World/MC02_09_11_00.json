@@ -1,0 +1,29 @@
+{
+  "Script": "Story/MC02/Day09/World/MC02_09_11_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go to the roof!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "(Too far.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_11_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "(Not this way.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600052_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(May as well cool off on the rooftop for a bit.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

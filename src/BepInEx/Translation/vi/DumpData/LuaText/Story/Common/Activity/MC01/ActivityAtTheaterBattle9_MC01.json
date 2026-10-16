@@ -1,0 +1,198 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtTheaterBattle9_MC01",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Well, what should I watch?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What to watch?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "An action movie|A romance movie|An animated film",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's watch a cool action movie to get hyped.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The movie showing right now is Kung Fu Dragon Boxer. It's an oldie, but a masterpiece!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Don't think, feel...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Wow...I feel like I've gotten stronger just from watching.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Hi-yaaa!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(By learning love, people can grow stronger...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The current movie is Phantom of the Bathtub. It's a classic ghostly love story.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Imagine your lover being so close by, but never being able to see or talk to them again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The scene where they write words on the foggy bathroom mirror is straight-up horror, but it's also so tragic...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00012_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes...just because they're a ghost doesn't mean you need to exorcise them...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00013_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They remain in the mortal realm because they have something to say.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00014_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Huh? She took off her eyepatch.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00016_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Movie thieves need to be exorcised. Begone, spirit... Rest in pieces!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Woah...the whole area feels like, purified.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(That was kind of funky.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Animated movies with animal characters tend to be pretty emotional.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The one on show right now is...Little Piggy Story.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Oh god...this movie is an emotional rollercoaster...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(A little piggy travels the world, meeting new animals and growing over the course of the journey, and then...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Ends up on the dining table. What a fate...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm craving pork cutlets now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_Battle_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Guess it's about time to head back.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToBattle9:2",
+      "Original": "Watch a movie",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToBattle9:3",
+      "Original": "Maybe next time",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToBattle9:4",
+      "Original": "Spend time at Battle 9 Theater?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToBattle9:5",
+      "Original": "Watch a movie to raise your Eccentricity.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

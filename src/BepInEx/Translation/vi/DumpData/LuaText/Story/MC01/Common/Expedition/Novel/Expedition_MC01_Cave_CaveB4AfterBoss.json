@@ -1,0 +1,36 @@
+{
+  "Script": "Story/MC01/Common/Expedition/Novel/Expedition_MC01_Cave_CaveB4AfterBoss",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4AfterBoss_Novel_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We won!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4AfterBoss_Novel_00001_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Even though that Cancer was HUGE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4AfterBoss_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's definitely enough for one day. Let's head back, yeah?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_Cave_CaveB4AfterBoss_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, I couldn't agree more. We're all nearly running on empty.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_Z900000014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Time to peace out!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

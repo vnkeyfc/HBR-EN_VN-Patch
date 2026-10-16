@@ -5,7 +5,7 @@
 着せ替え=Giao diện
 部隊=Đội hình
 キャラ=Nhân vật
-スタイル=Style
+スタイル=Hồi Ức
 持ち物=Túi đồ
 
 [Exit]

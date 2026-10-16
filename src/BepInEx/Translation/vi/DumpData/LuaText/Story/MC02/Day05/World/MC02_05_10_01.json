@@ -1,0 +1,254 @@
+{
+  "Script": "Story/MC02/Day05/World/MC02_05_10_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_05_10_01_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I'm pretty sure Aoi was heading to the vending machines...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "You don't have to go all the way to Union Street to buy a drink...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Find Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Buy some drinks!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00002_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I'm so thirsty...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00003_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Not this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Follow Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00004_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I've gotta follow Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Oh! That's...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00006_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "Can I help you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Do you know where Aoi is?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00008_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "She just went out to buy something to drink.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "...Which is why I thought I'd better check up on you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00010_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Hmm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00011_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "My apologies... I don't know what to say.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You still can't confide in me. I see...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00013_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, you initiated this conversation with \"Which is why I thought I'd better check up on you.\" I racked my brain, but I'm afraid I have no idea what you are referring to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, right. I was trying to do that thing where the context was implied off-screen, but I guess that only works on TV.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00015_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. This is the real world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "True, true. How about we find somewhere better to talk, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00017_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Alright.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00018_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Byakko, you can go back and join the others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_01_Novel_00197_Byakko",
+      "Context": "Adv.talk:1",
+      "Original": "Vrrawr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00020_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "I'll be just fine. You can afford to spend some time bonding with the rest of the squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talk:1",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What a smart kitty.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00023_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The cool night breeze is so refreshing. Will you walk with me to the academy building?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You go on ahead. I'll be there in a bit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00025_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Aoi didn't buy anything yet. I'll get something for both of us!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Obtained x2 Cans of Coffee!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Now to catch up with her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00028_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "She said the academy building, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00029_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Oh, you waited for me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00030_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shall we be off, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00008_KHiiragi#2",
+      "Context": "Adv.talk:1",
+      "Original": "She just went out to buy something to drink.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00032_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Aoi? Ain't seen hide nor hair of her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00033_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Do you think I'd know or care where she is? Get lost already, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00034_SHiguchi",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? You want to know where Aoi went? Her location is of no interest to me, but she may have passed through here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00035_v001_Player",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's a little far to the square, but...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00036_v001_Player",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's really quiet and relaxing there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_10_01_World_00037_v001_Player",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It should give us a nice view of the stars, too.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

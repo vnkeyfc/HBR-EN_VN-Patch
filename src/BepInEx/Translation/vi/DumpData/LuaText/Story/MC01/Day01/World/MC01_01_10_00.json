@@ -1,0 +1,169 @@
+{
+  "Script": "Story/MC01/Day01/World/MC01_01_10_00",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Pass the aptitude test to unlock the heliport.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Arena Road",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00004_v003_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I should check out the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00004_v003_RKayamori#2",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I should check out the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Time to kill some free time!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked battle speed adjustment!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00017_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Hello, Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00018_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Did you come to see the Population Tracker?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00019_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I was worried about today's number.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00020_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Like how much it's gone down, and if we're still doing all right. That kinda thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00021_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "It still doesn't feel that real...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00022_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "We need to get stronger quickly and wipe out the Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00023_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Let's do our best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00024_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00025_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Aren't you going to head back to the dorms?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00026_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I've just been thinking to myself, poring over the facts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00027_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "But they don't add up at all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00028_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "What was I trying to add again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00029_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Anyways, you can go ahead. I need some more time to think.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00030_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "The evening breeze hits the spot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00031_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I know it's still the first day, but, for some reason, it feels like we've been fighting together forever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_10_00_World_00032_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I have a hunch that if I stick with you, everything will work out!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try training at the arena",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "During free time, you can fast travel between points of interest by opening the map.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Returning to your room in the dorms will end free time.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can do so to quickly bypass this section.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can press the touchpad to quickly bypass this section.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "For now, let's train at the arena and end free time for the day.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

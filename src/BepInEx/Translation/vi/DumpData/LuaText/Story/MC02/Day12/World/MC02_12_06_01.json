@@ -1,0 +1,12 @@
+{
+  "Script": "Story/MC02/Day12/World/MC02_12_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00616_v001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Today's the last part of Phase Three. Let's show 'em what we're made of!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

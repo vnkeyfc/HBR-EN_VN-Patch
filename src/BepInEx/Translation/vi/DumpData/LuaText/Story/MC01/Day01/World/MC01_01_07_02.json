@@ -1,0 +1,250 @@
+{
+  "Script": "Story/MC01/Day01/World/MC01_01_07_02",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the gym!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Don't wanna keep Nanamin waiting. Union Street, here I come!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Don't wanna keep Nanamin waiting. Gotta head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00002_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Sweet, the dorm's just up ahead!\\n...I mean, err, it's gym time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00003_MTsukishiro",
+      "Context": "Field.recreateGayaBalloon:3",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00004_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori, right this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Follow her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Alrighty|Nanamin, you're so diligent",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00005_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "No, you're simply too carefree.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00006_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "It's right on Union Street.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00010_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Look at all those narbies!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00011_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "They're everywhere, Master, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00012_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "And so dusky.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00013_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Like a cloudy sky, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00014_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's almost kinda sad, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00015_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Don't vorry, they're not capable of feeling.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00016_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Looks like a forest over yonder. Pretty thick, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00017_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Not that it's got anything to do with me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00018_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "It's 'bout time we hit the gym.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00019_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "That's the senior from yesterday, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00020_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "What an impressive aura...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00021_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We meet again, you wily vending machines!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00022_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Juice, ice cream! They have EVERYTHING!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00023_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Hamburgers?! OMG!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00024_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I'm too curious, I've gotta try one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00025_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I almost forgot—the gym! But the hamburgers! THE HAMBURGERS!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00026_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Cooked? Cold?! I need to know how they're going to pop out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00027_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori, the munitions store is up above.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00028_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "And the gym next door.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00029_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Be careful not to confuse the two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00030_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're finally here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_07_03_World_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Get a move on.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try using the items from training to upgrade your Memorias.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Try using the items from training to upgrade your Memorias\\nPress the Options button to open your mePad's menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Memorias can be upgraded from the Squad Formation screen.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButtonRect:4",
+      "Original": "次へ",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Here, you can swap out Memorias, equip skills, and more.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can upgrade Memorias from here. Try doing so now.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Each upgrade will progress along a tree. Let's have a peek.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "By pressing the Upgrade All button, you can quickly learn new skills and abilities.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "By tapping left and right, you can also switch between squad members.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "By pressing L2 and R2, you can also switch between squad members.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try using the items you received to upgrade your Memorias!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,256 @@
+{
+  "Script": "Story/MC02/Common/Expedition/OperationPleiades_Expedition_MC02_Phase03",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "Phase Three Area",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Operation Pleiades",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's time for Phase Three, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, what are some points we should be looking out for?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00134_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're currently on the mountain side of the old Route 246.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00135_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's harder to see compared to the ocean side of the route, so we're more prone to ambushes. But as long as we respond calmly, things should be fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep, thanks for the reminder. We've done this route over and over in training, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heeey, everyone pause for a sec.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00009_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is it all of a sudden?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00010_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it an enemy ambush, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, but our party's turning into kind of a long line. If we got attacked in this state, I think it would be difficult to coordinate with everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00012_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... We've battled many times getting here, so I suppose our formation started to unwind without us noticing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00013_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It would have been terrible if we realized too late!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00014_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I was aware, but I didn't say anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00136_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You need to report these things!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's been getting easier to fight now that we're in a valley, but I think we need to take another look at our sense of distance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00016_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course. Let's have the last person in each of our squads keep an eye on the formations. That would be Izumi and Higuchi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. I'll let you know if I notice anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00018_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You gotta do it too, y'know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00020_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll consider it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've already overcome this in training, so if we do things like before, it should be fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay...formation looks fine! Let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00137_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that I think about it...it's kind of incredible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00024_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00138_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's a whole bunch of other squads participating in this operation besides us, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00026_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, that's right. There's 30-G escorting the convoy, and other squads to the southeast that are keeping the Cancers at bay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00027_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are so many squads putting their lives on the line to make sure the installation of the bridgehead goes accordingly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00028_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All the more reason to make sure this operation succeeds...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00139_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Personally, I try not to think about doing it for the operation or whatever. I'm working hard because I'm looking forward to good things after this! That motivates me a lot more.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00140_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good things? Like what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00141_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's see...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like, thinking about the next time we can all come together to jam out to a song.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00034_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00035_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, I understand how that could be motivating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm feeling pretty motivated just talking about it... Let's go, go, go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00038_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait! There's a huge enemy up ahead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00039_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh...the engineering corps is going to be in trouble with that thing in the way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00040_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It shouldn't be difficult to defeat something at that level.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_Phase03_00041_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, I agree. If we can overcome this, we should have a chance to win!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

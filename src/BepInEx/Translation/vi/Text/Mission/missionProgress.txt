@@ -1,6 +1,6 @@
-r:"^Upgrade Memorias (.+) times.$"=Cường hoá Style $1 lần
-r:"^Upgrade Memoria (\d+) times.$"=Cường hoá Style $1 lần
-r:"^Collect (\d+) Memorias.$"=Thu thập $1 Style
+r:"^Upgrade Memorias (.+) times.$"=Cường hoá Hồi Ức $1 lần
+r:"^Upgrade Memoria (\d+) times.$"=Cường hoá Hồi Ức $1 lần
+r:"^Collect (\d+) Memorias.$"=Thu thập $1 Hồi Ức
 sr:"^Clear Main Scenario: (.+), (.+).$"=Hoàn thành Chính Truyện: $1, $2
 Revert a unit.=Tái Sinh một đội viên
 r:"^Revert units (.+) times.$"=Tái Sinh đội viên $1 lần

@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC01/Day03/World/MC01_03_10_00",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Pass the aptitude test to unlock the heliport.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

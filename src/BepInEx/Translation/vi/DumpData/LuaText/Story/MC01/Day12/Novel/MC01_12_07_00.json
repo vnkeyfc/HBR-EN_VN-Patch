@@ -1,0 +1,252 @@
+{
+  "Script": "Story/MC01/Day12/Novel/MC01_12_07_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00000_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00002_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "We both reached ze fourth level of ze dungeon. In other words, vee're tied.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00003_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "And zat means a winner has yet to be decided.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Go on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00005_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "What do you say vee end it here, once and for all? Vhoever defeats the most Cancers wins.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00006_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Open up meMaps on your mePad. It keeps a tally of how many Cancers you've killed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But the Death Slug looks like it's getting closer. Shouldn't we be worried?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00008_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Vhat's zat? Is someone scaaared?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, I don't really know without looking at it up close.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00010_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ha! Zat \"A\" is as good as ours.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00011_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Ivar, it's Cancer-killing time. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00012_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Hear that, Kayamori? It all comes down to zis!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, girls...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah? What is it, Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00301_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We're forgetting something important here, aren't we?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00302_v002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "And what's that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00303_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We came here to protect all the dome dwellers, not to kill the most Cancers possible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00304_v002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "So you're saying...we shouldn't try to win?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00305_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah. I want to save all the people we can. I can't really get myself into anything else right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00018_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I agree.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Karerin...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00020_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "We should prioritize the lives of the dome dwellers above all else.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00021_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I'm fine with that, too. It may be easier to acquire info about my mother with a higher rank, but I won't do so at the cost of human lives.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00022_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "No objections here, either!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00306_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00023_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "What's with y'all, seriously...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Megumin, you want to win after all?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00025_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "And mess up the whole vibe? Naw, I'll go with whatever y'all wanna do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Girls... Thanks. Yukkie, what should we do now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why are you asking me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because I don't have a clue what to do!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00029_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well...if you check your mePads, you'll see that there're Cancers swarming the dome's east side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Okay, let's head that way, then. There's no need to do anything special. Just remember our training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's divide and conquer: Tsukassie and Yukkie, fire at the enemy to split them up. Then, Megumin and Karerin, Cappy and I will do the rest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's by-the-book, but I agree that we should stick to our training. Just remember to keep an eye on your deflectors.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Squad, let's move out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00034_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Mhm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00035_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Very well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00036_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Ya got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_00_Novel_00037_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

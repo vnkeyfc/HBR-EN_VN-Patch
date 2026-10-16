@@ -1,0 +1,396 @@
+{
+  "Script": "Story/MC01/Day12/Novel/MC01_12_08_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Did we get it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Think so... It's dead quiet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "We did it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00003_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Wow...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00004_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ha! And I was...just gettin'...warmed up...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00005_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "But you're wheezing like a grandma!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00006_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Did you...actually kill that thing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00007_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "They're off the charts, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00008_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "But vhile <i>you</i> try-hards vere busy fighting that lumbering monstrosity, <i>vee</i> padded our kill-count.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00009_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Some nerve ya got after runnin' away like that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "For now, let's head back to the dome. There might be more Cancers lurking about.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00011_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Hmph.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00012_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "It's high time you losers admit defeat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00013_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Go on, check your little mePads and see for yourselves.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00014_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Vell? Our kill count is much higher, no?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00015_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "But we fought so hard...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00016_mob",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Ahhh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woah! Look out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00018_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Owww...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00021_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'm alright, Karerin. I hit my head on the ground, that's all. My deflector took the brunt of it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00023_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, thank goodness...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "This kiddo's safe, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00025_mob",
+      "Context": "Adv.talk:0",
+      "Original": "Child",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00025_mob",
+      "Context": "Adv.talk:1",
+      "Original": "Waaah! I'm so sorryyy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uh-oh. We're not supposed to to interact with dome dwellers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Go on home, now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00028_mob",
+      "Context": "Adv.talk:0",
+      "Original": "Child",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00028_mob",
+      "Context": "Adv.talk:1",
+      "Original": "Okaaay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00029_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "A kid... They must have gotten out from the breach in the outer wall.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00030_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "What is this supposed to mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The outer wall has a hole in it, right? The Cancers were trying to reach all the people inside.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00032_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I...I didn't even realize... If you hadn't been here, that child would've been killed in an instant...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00033_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's just the way Ruka is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00034_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She may not be very bright, she's frickin' weird, and her mind is like a black box of chaos...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00036_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "But she doesn't let desire cloud her judgment, and she never forgets what really matters. That's our Ruka for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00037_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "So you're saying desire clouded my judgment?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00038_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "All you cared about was showing the commander how great you are and winning that \"A.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00039_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "There's no denying that. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00040_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, why are you agreeing with them?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If you really want the \"A\" that badly, you can have it. Right, Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00042_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00043_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "See?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, seriously?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00045_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"A\" means number one, right? It stays with us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00046_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "See? <i>She</i> succumbs to desire, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00047_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why'd they make someone like this our leader?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00048_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Our crew's a mess!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00049_mob",
+      "Context": "Adv.talk:0",
+      "Original": "Dome Dweller 1",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00049_mob",
+      "Context": "Adv.talk:1",
+      "Original": "Thank you so much!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00050_mob",
+      "Context": "Adv.talk:0",
+      "Original": "Dome Dweller 2",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00050_mob",
+      "Context": "Adv.talk:1",
+      "Original": "That's the Seraph Squadron for ya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00051_mob",
+      "Context": "Adv.talk:0",
+      "Original": "Dome Dweller 3",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00051_mob",
+      "Context": "Adv.talk:1",
+      "Original": "They're so strong!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900400120_mob",
+      "Context": "Adv.talk:0",
+      "Original": "Dome Dweller 4",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900400120_mob",
+      "Context": "Adv.talk:1",
+      "Original": "Humanity can count on them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00052_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "They're all so grateful...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00053_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We really are their sliver of hope in the darkness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00054_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "S'all part of the job as everyone's savior.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00055_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I never expected this much adulation...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00056_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "We really can't let them down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_08_00_Novel_00057_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

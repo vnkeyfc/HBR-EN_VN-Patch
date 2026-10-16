@@ -1,0 +1,136 @@
+{
+  "Script": "Story/MC02/Day12/Novel/MC02_12_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You all know what a tuning fork is, right? It's used to tune instruments.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nice, I've got this! This is my kind of subject.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Tuning forks produce a very particular sound when struck... Kayamori, can you describe it?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What kind of sound does it make?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "The sound of falling in love|The musical note, \"A\"|A loud explosion",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The musical note, \"A.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00004_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woo-hoo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A loud explosion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00007_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Incorrect. It can't make such an explosive noise.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The sound of falling in love.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00010_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Incorrect. It can't make such an abstract sound.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe you can't hear it, but the sound of love secretly resonates within everyone's hearts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00012_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "No, it doesn't.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00013_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Naw.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00014_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Never had such an experience!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00008_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00015_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tuning forks are made in such a way that if you strike it, it produces an \"A\" note.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But why \"A\"? Isn't starting from \"C\" easier to wrap your head around?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00017_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are several reasons why it's this way, but the biggest reason is that it's traditionally been used to tune orchestras.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh. Interesting.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

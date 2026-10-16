@@ -1,0 +1,94 @@
+{
+  "Script": "Story/MC02/Common/Expedition/OperationPleiades_Expedition_MC02_Phase02",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "Phase Two Area",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Operation Pleiades",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600257_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A is now going to proceed to Point Gamma at Kashima Shrine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600258_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-B, could you keep up the support?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600259_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600261_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like the operation is going smoothly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600262_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. Maybe we'll even have some time to take a breather?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600263_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you think it's needed, why not? Aoi looks like she's giving this her all, too. Maybe she should take a breather.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600265_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Things are going well, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600266_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, hey! Sumomo, look at these cattails growing here! You wanna play with them?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600267_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't treat me like a cat! Meow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600269_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh! There's another large enemy ahead of us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600270_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No worries. I'll turn it into cat food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600271_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. We've been training nonstop, there's no way we can't take that thing down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_013600272_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's go! The next destination is just up ahead!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

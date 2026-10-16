@@ -1,0 +1,18 @@
+{
+  "Script": "Story/MC01/Day12/Battle/MC01_12_07_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_07_02_Battle_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "This isn't so bad, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_02_Battle_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Seriously. We've taken more than half of them out.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

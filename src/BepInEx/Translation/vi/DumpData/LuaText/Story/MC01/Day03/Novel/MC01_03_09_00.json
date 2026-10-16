@@ -1,0 +1,168 @@
+{
+  "Script": "Story/MC01/Day03/Novel/MC01_03_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What's up with these lumpy white bread rolls? They look like they're straight out of Heidi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, woah. They're really soft and fluffy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00002_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00003_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "While white bread is made from refined wheat flour, dark rye bread is made from barley.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00004_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Wheat doesn't grow in poor soil, so they'd only be able to make rye bread in those areas. That's why white bread is seen as such a luxury.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's some suuuper useless trivia, Intel Agent.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Even this plain-old pasta is freaking delicious!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00007_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "That's peperoncino spaghetti.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's amazing! Someone call the chef, I need to praise them! Where's the waiter?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_09_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There isn't one. Even if there was, the only person who'd come out is the lunch lady.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00166_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Phew, time to head back.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00167_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Hm? Are those the 30-G members?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00168_v002_SKura",
+      "Context": "Adv.talk:1",
+      "Original": "The new squad we fought today wasn't half bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00169_v002_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed. These days it's been nothing but bad news, so it's a nice change of pace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00170_v002_CSugahara",
+      "Context": "Adv.talk:1",
+      "Original": "However, they still have a long way to go before they'll prove useful on the battlefield.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00171_v002_SKura",
+      "Context": "Adv.talk:1",
+      "Original": "The new squad members we fought today were flailing around like freshly hatched chicks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00172_v002_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "Well, it is only their third day. When you consider that, their future looks bright.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00173_v002_CSugahara",
+      "Context": "Adv.talk:1",
+      "Original": "You're quite generous with those little brats. They were quite rude.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00174_v002_MTsukishiro",
+      "Context": "Adv.talk:1",
+      "Original": "We used to be just like them... That aside, what of tomorrow's operation?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00175_v002_SKura",
+      "Context": "Adv.talk:1",
+      "Original": "We'll be clearing out the Cancers around Takasaki.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00176_v002_MKiryu",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, multiple Cancers have been spotted around the vicinity of the Takasaki Dome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00177_v002_HOgasawara",
+      "Context": "Adv.talk:1",
+      "Original": "According to our recon teams, there are three Cancer swarms in the area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00178_v002_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "The commander has asked us to thin out these swarms. Kura, determine our route. Kiryu, please assist her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00179_v002_SKura",
+      "Context": "Adv.talk:1",
+      "Original": "You got it, Shirakawa.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00180_v002_MKiryu",
+      "Context": "Adv.talk:1",
+      "Original": "Gladly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00181_v002_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "We'll be busy on the battlefield from tomorrow morning, so please use this time to regain your strength.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00182_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(No wonder she's their leader. Even her instructions sound dignified...)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

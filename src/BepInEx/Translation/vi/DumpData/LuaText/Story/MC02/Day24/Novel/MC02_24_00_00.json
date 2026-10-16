@@ -1,0 +1,60 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The day's finally here, huh? *yawn*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You still half-asleep?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope. Wide awake. We're going to succeed and reclaim the land that was stolen from humanity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00003_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One more brick in the path of yer Savior.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00004_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I may be small, but I'm not weak!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stay alive. All of you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00006_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Naturally.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00007_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_00_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right. Let's move out.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

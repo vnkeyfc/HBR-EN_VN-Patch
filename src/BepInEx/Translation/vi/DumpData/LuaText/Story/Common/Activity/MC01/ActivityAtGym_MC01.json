@@ -1,0 +1,210 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtGym_MC01",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtGym_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the gym, but what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Train at the gym today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Train",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Don't train",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Train at the Gym to raise your Determination.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Okay, I'm going to work out today!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What kind of training?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Do stretches|Bench press|Use the treadmill",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Stretching can be pretty good exercise when you really work it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Mmm, yeah! My calves feel great stretched out!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The more flexible the body, the less likely to get hurt. Stretching is great for health!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(But I can't reach my toes at all.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I used to do bench presses to build up stamina for touring.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Apparently it also helps bulk up the chest, but nah. Not interested.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Huff, *pant*... *pant*...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Phew, my muscles are straining themselves silly...!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Someday, I want someone to tell me my abs are as ripped as chocolate bars.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Stamina is essential. Let's get some running in, so I don't collapse in battle.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hah...huh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Guess I can run a lot more than I thought.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00014_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh? This treadmill has a ranking system that tracks the distance I run.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Okay, I'm gonna aim for the top!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00016_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeeess!!! I've done it, I'm in first place!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00017_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Good, I'm almost at the top of the rankings!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Huff, oof...I ran a lot, but the way to the top is still so far away...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Ugh...the top rank is so dauntingly far...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Haa, haah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00021_MuOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haa, ahh...wow, I could run forever on this thing! I feel great!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Woaah, she's like...REALLY running.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00023_MuOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's turn up the speed! Higher! Higher!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(...15 kilometers per hour?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00025_MuOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hhha...amazing! I'm being, forced to run, by this, machine! I'm a slave to the machiiine!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Yikes! She's spouting some crazy stuff all while she's running!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew, that was a great work out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(It's about time to head back.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

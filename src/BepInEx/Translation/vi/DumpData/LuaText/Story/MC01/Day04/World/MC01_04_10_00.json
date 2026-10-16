@@ -1,0 +1,46 @@
+{
+  "Script": "Story/MC01/Day04/World/MC01_04_10_00",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Pass the aptitude test to unlock the heliport.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "New items in stock! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Brand new chips for your combat needs. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "And of course you already know, but you get what you pay for! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Come on in and check out these amazing deals! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Take a look?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Munitions Store",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

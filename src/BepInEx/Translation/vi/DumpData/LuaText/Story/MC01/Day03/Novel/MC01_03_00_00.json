@@ -1,0 +1,166 @@
+{
+  "Script": "Story/MC01/Day03/Novel/MC01_03_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00000_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please count off for roll call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "One.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00002_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00004_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Four.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00005_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00006_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Six.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(What was I supposed to say again?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What am I supposed to say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "All six out of six members present and accounted for|All seven out of seven members present and accounted for|We're the Brainy Bunch",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All six out of six members present and accounted for!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00009_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That is correct. You're starting to sound like a leader.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "A compliment! That had to have boosted one of my stats!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All seven out of seven members present and accounted for!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00013_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Do not include me in the count.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Okay, then \"All six out of six members present and accounted for.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00015_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Acknowledged.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We're the Brainy Bunch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00017_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Even if you are, now is not the time to say it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00018_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Y'all sure ain't brainy, that's fer sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't group the rest of us with her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Aww. Everyone's so cold.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Because you keep saying stupid stuff.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00022_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please say \"All six out of six members present and accounted for.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh right, that one. \"Present and accounted for.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_00_00_Novel_00024_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Acknowledged.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_01_00_Novel_00022_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "On that note, please clean your room and reconvene at the cafeteria by 06:30.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,120 @@
+{
+  "Script": "Story/MC02/Day13/Novel/MC02_13_06_04",
+  "Entries": [
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You all were hit too many times.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00007_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In the real mission, your deflectors would have been significantly depleted by the time you reached this Phase.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It should be easy enough to imagine what could happen if you were to find yourselves on the receiving end of an unforeseen attack in such a state.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What could happen...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00010_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Additionally, the convoy could not withstand even one hit. They don't have deflectors like you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00013_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_01_Novel_00197_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vrrawr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's okay! Don't worry about it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're being reprimanded too, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00017_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once we've entered Phase Four, you could say that victory is all but secured.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00018_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "While you should be able to fight steadily and safely at this point, this is contingent on maintaining squad coordination.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00668_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, that's all for today's training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00669_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dismissed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00670_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00019_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ending training. Four convoy trucks were destroyed. The operation was a failure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_06_02_Novel_00020_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With a result like this, it makes me wonder if there is even a point to have you escort the convoy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00499_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh*... Unfortunately, you leave me with no other option than to conclude that 31-A is unsuitable for this mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

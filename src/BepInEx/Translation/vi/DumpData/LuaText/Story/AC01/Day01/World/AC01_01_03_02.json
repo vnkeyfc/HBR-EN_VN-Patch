@@ -1,0 +1,75 @@
+{
+  "Script": "Story/AC01/Day01/World/AC01_01_03_02",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Check out the music shop!",
+      "Vietnamese": "Thử ghé qua cửa hàng nhạc cụ xem sao!"
+    },
+    {
+      "Key": "VC_AC01_00060_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Alright, here I go!",
+      "Vietnamese": "Được rồi, đi thôi!"
+    },
+    {
+      "Key": "VC_AC01_00061_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, why are you in such a rush?",
+      "Vietnamese": "Ruka-san, cậu vội vàng làm gì thế?"
+    },
+    {
+      "Key": "VC_AC01_00062_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm doing a little experiment.",
+      "Vietnamese": "Làm một cái thí nghiệm nhỏ ấy mà."
+    },
+    {
+      "Key": "VC_AC01_00063_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome. ♪",
+      "Vietnamese": "Kính chào quý khách~♪"
+    },
+    {
+      "Key": "VC_AC01_00064_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! You're actually here?! You're the same person from before?!",
+      "Vietnamese": "Ủa, có mặt thật này!? Cùng là một người với ban nãy hả!?"
+    },
+    {
+      "Key": "VC_AC01_00065_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course. There is only one Mari Satsuki in this world, and that's me. ♪",
+      "Vietnamese": "Tất nhiên rồi. Satsuki Mari trên đời này chỉ có một mình tôi thôi ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00066_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can I try this again?",
+      "Vietnamese": "Tớ thử lại lần nữa được không?"
+    },
+    {
+      "Key": "VC_AC01_00067_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course! ♪",
+      "Vietnamese": "Xin quý khách cứ tự nhiên ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00068_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I gotta haul ass this time!)",
+      "Vietnamese": "(Ngon, mình sẽ phóng hết tốc lực luôn!)"
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Arc-en-Ciel Music Shop",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Mujina General Store",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

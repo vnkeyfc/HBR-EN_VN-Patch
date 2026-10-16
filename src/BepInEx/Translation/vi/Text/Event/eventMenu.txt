@@ -1,5 +1,5 @@
 [General]
-Currently Live=<size\=90%>Đang diễn ra</size>
+Currently Live=<size\=90%><cspace\=-1px>Đang diễn ra</size>
 イベントミッション=<cspace\=2px>Nhiệm vụ sự kiện
 Archived=Đã lưu trữ
 報酬一覧=Thưởng
@@ -7,25 +7,39 @@ Archived=Đã lưu trữ
 シェア=Chia  sẻ
 イベントプリズム=Prism Event
 From the Beginning=<size\=60%><cspace\=-1px>Theo dõi từ đầu
-編成制限=Giới hạn đội hình
+From Midway=<size\=60%><cspace\=-1px>Tiếp tục
+編成制限=Giới hạn:
 開始する=Bắt đầu
 解放する=Mở khoá
 クリア報酬=Thưởng hoàn thành
 List of Targets=Truy quét mục tiêu
+イベントストーリー=<size\=110%>Cốt truyện sự kiện
 
 [EliminateTarget]
-討伐ターゲット=<size\=80%>Truy quét mục tiêu
+討伐ターゲット=<size\=70%><cspace\=-3px>Truy quét mục tiêu
 初回報酬=Thưởng lần đầu
 報酬は獲得済です=Đã nhận thưởng
 r:"^Day (\d+) Period (\d+)$"=Ngày $1 - Sáng 0$2
 イベントをプレイ=Theo dõi sự kiện
 
+sr:"^Resume play from (.+)\?$"=Tiếp tục từ $1?
+Begin this event?=Theo dõi sự kiện này?
+No unit limits.\n* Some squad members being displayed might diverge from the actual storyline.=<voffset\=-20px><line-height\=40px>Không có giới hạn đội hình.\n※Một vài nhân vật có thể không liên quan đến mạch truyện.
+If another event's story is in progress, its day progression data will be lost.=<size\=90%>※Nếu chuyển sang sự kiện này, tiến độ Ngày của sự kiện đang chơi dang dở sẽ bị xóa.
 
-10枚集めて\nSSスタイルと交換しよう！=Thu thập đủ 10 mảnh\nđể đổi một Style SS
+<style\=RubyPrefixTag></style>\nYou will participate in this battle using a predetermined squad formation. Your characters will have set levels, Memoria, and skills; do your best with what you have been provided.=<style\=RubyPrefixTag></style>\nBạn sẽ tham gia trận chiến này với một đội hình cố định.\nCấp độ, Hồi Ức và kỹ năng của các nhân vật đều đã được thiết lập sẵn.\nHãy tận dụng tối đa những gì được cung cấp nhé.
+
+推奨ストーリー=<size\=70%>Cốt truyện khuyến nghị
+関連ストーリー=<size\=70%>Cốt truyện liên quan
+本イベントは以下のストーリークリア後のプレイを推奨します。=Khuyến nghị hoàn thành những cốt truyện dưới đây trước khi theo dõi mạch truyện sự kiện này:
+推奨ストーリーはありません=Không có cốt truyện khuyến nghị
+一部以下のストーリー内容に関する言及があります。=Những cốt truyện dưới đây có liên quan đến mạch truyện sự kiện này:
+関連ストーリーはありません=Không có cốt truyện liên quan
+
+10枚集めて\nSSスタイルと交換しよう！=Thu thập đủ 10 mảnh\nđể đổi một Hồi Ức SS
 
 [Label]
 Featured=NỔI BẬT
-Featured! Until 06/25
 Upon Clearing Chapter 1=Sau khi hoàn thành Chương 1
 Upon Clearing Chapter 2=Sau khi hoàn thành Chương 2
 Upon Clearing Chapter 3=Sau khi hoàn thành Chương 3
@@ -50,7 +64,14 @@ r:"^<style\=RubyPrefixTag></style>\nUnlock Conditions:\nClear Main Scenario: Cha
 r:"^<style\=RubyPrefixTag></style>\nUnlock Conditions\nClear Main Scenario: Chapter (\d+)$"=<style\=RubyPrefixTag></style>\nĐiều kiện mở khoá:\nHoàn thành Chính Truyện: Chương $1
 r:"^Featured! <size\="20">(\d+) Day\(s\) Left</size>$"=NỔI BẬT! <size\="20">Còn $1 ngày</size>
 r:"^Featured! <size\="20">(\d+) Hour\(s\) Left</size>$"=NỔI BẬT! <size\="20">Còn $1 giờ</size>
+r:"^Featured! <size\="20">(\d+) Minute\(s\) Left</size>$"=NỔI BẬT! <size\="20">Còn $1 phút</size>
 
-COMPLETE=HOÀN THÀNH
+COMPLETE=<cspace\=-2px>ĐÃ HOÀN TẤT
 -UNLOCK-=-ĐÃ MỞ KHOÁ- 
 Tokens\n3x=Token\n×3
+
+Difficulty Level Selection=Lựa chọn độ khó
+r:"^Equivalent to clearing Main Scenario Chapter (\d+) Day (\d+)$"=Độ khó tương ứng với Chính Truyện: Chương $1 Ngày $2
+sr:"^Equivalent to clearing Main Scenario (.+)$"=Độ khó tương ứng với Chính Truyện: $1
+Recommended!=Đề cử!
+* The difficulty level can be adjusted at a later point. Rewards do not change with the difficulty level.=※Độ khó có thể được điều chỉnh vào bất kỳ lúc nào. Số lượng phần thưởng sẽ không bị ảnh hưởng bởi độ khó.

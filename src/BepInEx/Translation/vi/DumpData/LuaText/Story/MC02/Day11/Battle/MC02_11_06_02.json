@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC02/Day11/Battle/MC02_11_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00543_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That should be the last of them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00544_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nice. Then how about a breather? I'll give everyone a nice cold ice pop.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00545_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't actually have those, do you?!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

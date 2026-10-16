@@ -1,0 +1,256 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtStudio_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_Activity_00042_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's see, what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Cleaning|Vocal training|Instrument maintenance",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00043_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll clean the studio a bit to make it more presentable.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00044_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Since we have instruments here, I better make sure dust doesn't fly around...a wet cloth should do.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00045_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Here we go, wipey wipey...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00046_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Maaan, this posture is straining my lower back.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00047_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(But it's worth it. If the studio's clean, everyone can play without distraction.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00048_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Clean sounds are born from a clean environment!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00049_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "The floor's clean! Not a speck of dust here anymore.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00050_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll do some vocal training while no one's here.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00051_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's do some lip trills.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00052_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's a training technique to develop better breath control for singing.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00053_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Prrrrrrrr~!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00054_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I could go a lot faster in my golden days, but man...I'm out of practice.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00055_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Prrrrrrrr~!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00056_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When did this place get so clean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00057_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, when did you wander into the studio, Nanamin?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00058_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "From the start. I saw you head very merrily into this location, so I followed after you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00059_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I didn't even notice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00060_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What were you doing just now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00061_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vocal training! It helps with breath control and smoother speech.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00062_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That could be very useful for work. I'll try it too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00063_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Prrrrrrrrrrr.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00064_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Am I doing it correctly?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00065_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um, not really. But you sure look cute trying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00066_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see. Vocal training is a lot more difficult than I thought.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00067_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanamin, are you interested in singing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00068_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not particularly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00069_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, I was a little moved by your squad's musical performance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00070_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways. That's enough talking, I must be on my way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00071_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Nanamin? Lip trilling gets a lot easier if you relax your expression.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00072_v002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see. I'll keep that in mind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00073_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's take a look at these instruments. I'll make Yukkie's drum-buddy super clean!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00074_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Drums vibrate a lot while playing, so they send sweat and stuff everywhere.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00075_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(So you have to maintain it regularly to prevent rusting...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00076_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "...But it's already super clean! Yukkie's been maintaining this thing like crazy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00077_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Still. I'm a former music professional, y'know?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00078_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Newbies tend to forget to oil the moving parts around the tension bolts and kick pedal, so I'll...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00079_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Damn, it's greased and oiled perfectly! Yukkie, you're amazing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00080_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(...I guess I'll just wax my guitar instead.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00081_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Okay, it's about time to head back.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

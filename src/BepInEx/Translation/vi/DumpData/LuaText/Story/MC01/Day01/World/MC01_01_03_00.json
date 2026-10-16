@@ -1,0 +1,195 @@
+{
+  "Script": "Story/MC01/Day01/World/MC01_01_03_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the academy building!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Whoops, my legs headed straight for bed.\\nAh-ah-ah, it's schooltime, sillies.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Enter the classroom!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Whoops, wrong way again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00002_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Enter the classroom.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Next up, the academy building, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm? This way?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00005_v001_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "There's a scary senior up ahead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00006_v001_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Woah, you're right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00013_v001_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "This base is a mountain of mysteries.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00014_v001_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Ugh...walking suuucks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00007_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Since this is an academy, that means we'll be forced to take classes, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00010_v001_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I wonder what kind of classes are in store!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00011_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "If that's the case, what will we be learning?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00012_v001_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I'm equal parts excited and scared.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00008_v001_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Our heroic saga starts now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00009_v001_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "\"Saga\"? Well, aren't you ambitious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00015_v001_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "After you, fearless leader.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00006_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Helicopters, huh. One copter per squad, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00007_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Wonder when we'll be gettin' our own.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Progress the story to unlock the heliport.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00008_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Izumi said she'd scout out up ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00009_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Let's go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, the academy building's right here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Let's head in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Go in already! We're going to be late.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00013_HOgasawara",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Yesterday was exhausting...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00014_MTsukishiro",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00015_HOgasawara",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "If this keeps up, I fear things may give out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00016_HOgasawara",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "May the cadets be combat-ready as soon possible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00017_HOgasawara",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Right, Tsukishiro?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_00_World_00018_HOgasawara",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Huh, she's sleeping?!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

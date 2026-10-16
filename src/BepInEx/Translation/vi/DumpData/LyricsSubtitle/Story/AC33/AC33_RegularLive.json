@@ -1,0 +1,234 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC33/AC33_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 7.5,
+      "EndSecond": 10.035,
+      "OriginalText": "When I was a kid",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 10,
+      "EndSecond": 10.932,
+      "OriginalText": "When I was a kid                                                                                                                                (Deviation!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 10.9,
+      "EndSecond": 12.035,
+      "OriginalText": "I got so invested in things                                                                                                                                (Deviation!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 12,
+      "EndSecond": 13.132,
+      "OriginalText": "I got so invested in things",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 13.1,
+      "EndSecond": 14.132,
+      "OriginalText": "I got so invested in things                                                                                                                                (Execution!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 14.1,
+      "EndSecond": 15.326,
+      "OriginalText": "But now that I'm an adult                                                                                                                                (Execution!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 15.3,
+      "EndSecond": 16.526,
+      "OriginalText": "But now that I'm an adult",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 16.5,
+      "EndSecond": 17.526,
+      "OriginalText": "But now that I'm an adult                                                                                                                                (Obstruction!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 17.5,
+      "EndSecond": 18.829,
+      "OriginalText": "It's like my emotions died                                                                                                                                (Obstruction!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 18.8,
+      "EndSecond": 21.325,
+      "OriginalText": "It's like my emotions died",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 21.3,
+      "EndSecond": 25.428,
+      "OriginalText": "It's like my emotions died                                                                                                                                (Someday people will become adults without denial!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 25.4,
+      "EndSecond": 26.525,
+      "OriginalText": "Give them back!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 26.5,
+      "EndSecond": 33.033,
+      "OriginalText": "Give them back!                                                                                                                                (We need to regain our childhood innocence!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 33,
+      "EndSecond": 43.529,
+      "OriginalText": "You'd better get on that train before it leaves",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 43.5,
+      "EndSecond": 53.534,
+      "OriginalText": "It's gonna show you some wild things",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 53.5,
+      "EndSecond": 58.764,
+      "OriginalText": "Just don't fall off on the turns",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 58.7,
+      "EndSecond": 80.841,
+      "OriginalText": "Come on baby! Come on baby! Come on baby!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 62.9,
+      "EndSecond": 74.939,
+      "OriginalText": "Let's dance!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 64.3,
+      "EndSecond": 69.63,
+      "OriginalText": "Trip's so bumpy you're gonna puke",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 69.6,
+      "EndSecond": 73.5,
+      "OriginalText": "Come on baby! Come on baby! Come on baby!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 73.6,
+      "EndSecond": 74.8,
+      "OriginalText": "Let's dance!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 74.9,
+      "EndSecond": 80.7,
+      "OriginalText": "Come on baby! Come on baby! Come on baby!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 80.8,
+      "EndSecond": 95.537,
+      "OriginalText": "Once the train departs, we're all strangers",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 95.5,
+      "EndSecond": 110.536,
+      "OriginalText": "It's time to say goodbye, hope you'll be well",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 24,
+      "Enabled": true,
+      "StartSecond": 110.5,
+      "EndSecond": 111.8,
+      "OriginalText": "Adios!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

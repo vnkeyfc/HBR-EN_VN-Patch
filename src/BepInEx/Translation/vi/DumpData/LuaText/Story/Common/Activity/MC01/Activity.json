@@ -1,0 +1,46 @@
+{
+  "Script": "Story/Common/Activity/MC01/Activity",
+  "Entries": [
+    {
+      "Context": "Activity.TouchEvent:2",
+      "Original": "Spend time at the Cafeteria to raise Silliness.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Activity.TouchEvent:2",
+      "Original": "Spend time at the Library to raise Openness.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Activity.TouchEvent:2",
+      "Original": "Train at the Gym to raise Determination.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Activity.TouchEvent:2",
+      "Original": "Spend time at Narby Square to raise Kindness.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Activity.TouchEvent:2",
+      "Original": "Spend time at the Studio to raise Charisma.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Activity.TouchEvent:2",
+      "Original": "Spend time at Miemie Spa to raise Kindness.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Activity.TouchEvent:2",
+      "Original": "Watch a movie to raise Eccentricity.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Activity.TouchEvent:2",
+      "Original": "Spend time at Fountain Square to raise Openness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

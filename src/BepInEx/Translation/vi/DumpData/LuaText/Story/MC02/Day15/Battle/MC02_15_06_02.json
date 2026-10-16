@@ -1,0 +1,12 @@
+{
+  "Script": "Story/MC02/Day15/Battle/MC02_15_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00727_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw yeah! Let's keep up the pace and END this!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

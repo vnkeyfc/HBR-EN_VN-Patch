@@ -1,0 +1,78 @@
+{
+  "Script": "Story/MC01/Day10/Novel/MC01_10_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hm? Are those squadron members, too?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00001_MiOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "Niina, you're finished already? You still have bread left.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00002_NiOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "I've already had my daily intake of carbs. Any more and my figure will be ruined.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00003_MuOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "Then let's go on a run and burn off those calories! Isuzu joined me yesterday, you know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00004_IrOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "I only did that because I wanted to get the layout of this place. The military is definitely hiding something... But whatever door it's behind won't stand a chance against my lockpick!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00005_YoOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz... Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00006_IcOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "Yotsuha, don't sleep at the dinner table. You have to eat while there's food on your plate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00007_MuOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "Ichiko, you're frugal as always.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00008_NiOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "We sisters can finally have peace of mind in the Seraph Squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00009_IcOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "No, we mustn't rest on our laurels. We need to study hard and keep climbing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00010_YoOhshima",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz... Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_09_00_Novel_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A squad of six sisters?! What are the odds of that?)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

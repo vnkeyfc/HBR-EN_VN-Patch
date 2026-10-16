@@ -1,0 +1,646 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_03_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Good, you're all here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "To begin, allow me to brief you on everything that we currently know about what you will be up against.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Listen to the briefing?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Extra carefully!|Request a summary",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Summary, please!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00003_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because, I'm gonna freaking wet myself!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why didn't you go before...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00007_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Very well. Then I'll give you the abridged version.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You actually took her request?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00009_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancers possess extraordinary regenerative abilities. The most popular theory is that they procure their energy from a higher dimension—one we are not yet capable of perceiving.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00011_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Their intelligence is comparable to animals on Earth: they act on instinct, but they prey on intelligent beings.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Regarding their attacks, we believe they are possible due to the aforementioned energy source.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "To counter this, we've developed the Seraph Defense Function, otherwise referred to as \"deflectors.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00014_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Deflectors redirect the vectors of the Cancers' attacks, significantly decreasing, if not nullifying, the damage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00015_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, they can only withstand so much damage. After that point, there is nothing standing between you and certain doom.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00016_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "No way...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "When that happens...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00018_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As such, once your deflectors expire, retreat immediately. No exceptions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00020_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Summoning a Seraph weapon also increases one's physical capabilities exponentially. This is what allowed you to fight on the battlefield yesterday without proper training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600095_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, there are downsides as well. Continued use of one's Seraph will trigger a nosebleed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600096_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Further use will result in certain death. A single night's rest is all that's required to recover, so should your nose bleed, retreat to a safe zone immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00021_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Now, regarding humanity, which you are tasked with protecting...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00022_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The majority of mankind is currently in hiding from the Cancers, eking out a living in bases called \"domes.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00023_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancers appear to differentiate friend from foe via wavelengths they emit from their exoskeletons.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00024_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "With this in mind, humanity has utilized the nature of said exoskeletons to build defensive perimeters and avoid detection.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00025_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That being said, the domes are not a fail-safe solution.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00026_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Therefore, one of the Seraph Squadron's duties is to protect these domes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00027_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, dome inhabitants and squadron members are not allowed to interact. Any violations will result in strict punishment in accordance with martial law.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why can't we interact with them?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00029_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You must understand that Seraphim are dangerous weapons. A single mistake could result in civilian casualties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00030_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That's all for now. Is everything absolutely clear?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Not one bit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00032_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I figured as much. You can learn more by browsing the reference materials in the archives during free time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00033_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I explained this earlier, but it is important and bears repeating. Understood?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00034_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your enemy is the Cancer—organisms that infect the \"body\" of space.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00035_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Until recently, the Cancers were completely immune to every weapon humanity threw at them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00036_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Mankind suffered one loss after the next, until we lost half the Earth's land mass to the Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00037_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "And Japan was no exception. Kyushu and Hokkaido were obliterated, and the remaining islands were one step away from the same fate. But, on the brink of ruin, a new weapon was born: the Seraph.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00038_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "All you did was repeat her speech verbatim. Not a single new piece of information has left your lips.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00040_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Precisely. Samples were taken, but no laser or bomb could scratch its impenetrable surface. Or rather, any scratch that appeared was quickly repaired.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00041_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The most popular theory is that Cancers procure their energy from a higher dimension—one we are not yet capable of perceiving.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00042_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00043_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Not even a little shook? That's what we're up against.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00044_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Only Seraphim are capable of reaching that dimension and cutting off their energy at the source.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00045_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "How did we discover that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00046_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Thanks to the research of our scientists.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If humans can't detect that dimension, how could they verify Seraphim could reach it to begin with?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00048_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Our scientists are more capable than you realize.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00049_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00050_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Even supposing they receive their energy from a higher dimension, their intelligence is comparable to animals on Earth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00051_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "They act on instinct, but they prey on intelligent beings.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00012_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "Regarding their attacks, we believe they are possible due to the aforementioned energy source.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00013_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "To counter this, we've developed the Seraph Defense Function, otherwise referred to as \"deflectors.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00014_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "Deflectors redirect the vectors of the Cancers' attacks, significantly decreasing, if not nullifying, the damage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00055_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? If we've got something like that, why not just charge at 'em till they drop?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00056_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "It's not that simple.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00057_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Deflectors can only withstand so much damage. After that point, there is nothing standing between you and certain doom.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00058_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "No way...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00059_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "When that happens...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00018_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "As such, once your deflectors expire, retreat immediately. No exceptions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00062_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What? Wouldn't you wanna help your friends when they're in danger?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00063_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Out of the question.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00064_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Cold, much?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00065_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You all are too valuable to throw away your lives like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600097_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Summoning a Seraph weapon increases one's physical capabilities exponentially. That is what allowed you to fight on the battlefield yesterday without proper training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00066_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The future of humanity rests with you, the Seraph Squadron. Never forget that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00067_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "'Course not, how could I? As humanity's savior, I'll take down more Cancers than anyone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00068_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, it's not all sunshine and rainbows. There is one other scenario in which you could die.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600098_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Continued use of one's Seraph without rest will trigger a nosebleed. This signals that the user is in an incredibly dangerous state.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00069_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Should you trigger a nosebleed, retreat to a safe zone immediately. A single night's rest is all that's required.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00070_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Retreat from a wimpy nosebleed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00071_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Seraphim are extraordinarily powerful. Wielding them comes with great risk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00072_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As such, be on alert for any nosebleeds amongst your squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00073_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"Teacher! So-and-so has a nosebleed!\" ...Like that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00074_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00075_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What is this, elementary?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00021_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "Now, regarding humanity, which you are tasked with protecting...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00077_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "While you were undergoing assessment after being scouted, the situation has changed quite dramatically.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00022_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "The majority of mankind is currently in hiding from the Cancers, eking out a living in bases called \"domes.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00079_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? THAT many people? Seriously?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00080_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You saw the Population Tracker, yes?\\nFewer than 10 million people survive.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00081_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, I still can't really picture it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00082_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You said \"in hiding.\" How do they hide from the Cancers?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00023_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancers appear to differentiate friend from foe via wavelengths they emit from their exoskeletons.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00024_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "With this in mind, humanity has utilized the nature of said exoskeletons to build defensive perimeters and avoid detection.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00085_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Couldn't we just wear their eggs-o-skeletons as armor and charge at them full speed ahead?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00086_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Unfortunately for us, the Cancers are not that stupid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00087_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "They might initially prove useful in a surprise maneuver, but we would quickly be labeled as enemy combatants.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00088_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "And then we would be forced to fight while wearing heavy exoskeletons.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00089_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So much for my eureka moment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00090_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Did you really think they hadn't tried that already?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00025_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "That being said, the domes are not a fail-safe solution.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00092_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The domes have occasionally been spotted by Cancer scouts or found themselves in the paths of large-scale Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00093_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Under such conditions, it is the Seraph Squadron's duty to protect the domes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00027_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "However, dome inhabitants and squadron members are not allowed to interact. Any violations will result in strict punishment in accordance with martial law.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00095_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why can't we interact with them?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00029_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "You must understand that Seraphim are dangerous weapons. A single mistake could result in civilian casualties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00097_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's true. These Seraph thingies kinda are no joke...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00098_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Moreover, with your ability to wield Seraphim, you are the hope of all mankind. What do you think would happen if you visited the domes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00099_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'm used to signing autographs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00100_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That is not the issue at hand. It would cause a commotion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00101_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Us? Really?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00102_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. At present, disrupting the order in the domes is too risky. Heed that well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00103_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Okaaay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_03_01_Novel_00104_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What is this, elementary?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

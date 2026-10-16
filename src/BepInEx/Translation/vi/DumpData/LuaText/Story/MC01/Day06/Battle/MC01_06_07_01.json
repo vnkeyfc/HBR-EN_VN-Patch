@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC01/Day06/Battle/MC01_06_07_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_07_01_Battle_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "If the six of you are able to defeat me, you will be permitted to face active combat against the Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_01_Battle_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Over this past week, it has been my intent to drill the basics of combat into you all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_01_Battle_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I have high hopes for you. Now, show me what you've learned!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

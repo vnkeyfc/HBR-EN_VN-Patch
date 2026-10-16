@@ -1,0 +1,500 @@
+{
+  "Script": "Story/MC02/Day02/Novel/MC02_02_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've called you here today to give you orders for an operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "We have an operation?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Heck yeah, finally!|Is not how I felt.\\nDidn't this mean I'd be risking my life in combat?|No, that's not the right mindset.\\nC'mon, get excited, even if you have to fake it... Heck yeah, finally!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heck yeah, finally!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You seem excited.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course I am. Why, you ask? Because if we rise in the ranks, we'll be able to infiltrate military headquarters.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00004_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What in the world are you talking about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's best not to take anything she says seriously.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "True. Time is too precious to waste.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is not how I felt.\\nDidn't this mean I'd be risking my life in combat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What exactly \"is not how you felt\"? I didn't catch that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My bad. I thought, \"Heck yeah, finally!\" before that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00010_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see, I see. So that's what you meant. Understood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00011_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU A DUM-DUM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're so good at pissing her off...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00013_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's like \"are you a dum-dum\" is all she ever says now... Normally, it's not something you'd say even once in yer life...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, that's not the right mindset. C'mon, get excited, even if you have to fake it... Heck yeah, finally!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00015_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's not the right mindset, exactly? I didn't catch that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "\"Heck yeah, finally!\" is not how I felt.\\nDidn't this mean I'd be risking my life in combat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That came first. Then, I thought...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, that's not the right mindset.\\nC'mon, get excited, even if you have to fake it... Heck yeah, finally!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's the gist of it, ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00010_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see, I see. So that's what you meant. Understood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00011_STezuka#2",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU A DUM-DUM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00012_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're so good at pissing her off...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00013_MAikawa#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's like \"are you a dum-dum\" is all she ever says now... Normally, it's not something you'd say even once in yer life...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00024_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The operation commences in 22 days. I will now brief you on the details.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900400104_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Its name is Operation Pleiades.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00025_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our objective is to clear out the Cancers nesting in the Hadano Basin in the southwest of Kanagawa prefecture, along the former Route 246, and recapture the base which borders the town of Hakone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00026_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It will be a large-scale operation involving a total of seven squads, including yourselves.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00027_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As the assault squad, you will storm the basin in advance of the other squads and thin out the Cancer swarms residing there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00028_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You say it all casual, but we could totally die doing this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've been bracing myself for a job like this ever since we were made the assault squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00030_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "After thinning the Cancer ranks, other squads will transport materials and build a bridgehead. Once complete, you'll eliminate the remaining Cancers, ending the operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's a \"bridgehead\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A defensive strongpoint.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00033_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course, the Cancer are certain to send in reinforcements while the bridgehead is being constructed. You must protect the vicinity at all costs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00034_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sure you can imagine the consequences if the bridgehead were to fall.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00035_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let us just say that death most certainly awaits. In summary, whether this operation succeeds or fails depends entirely on you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00036_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep that in mind as you tackle the task at hand. Any questions?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Any questions?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "None here|I didn't retain any of that|Did Tojo's mom really die in an \"accident\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "None here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00038_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I didn't retain any of that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00040_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see. Then, I will explain once more from the beginning. This time, listen closely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00024_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The operation commences in 22 days. I will now brief you on the details.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00025_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our objective is to clear out the Cancers nesting in the Hadano Basin in the southwest of Kanagawa prefecture, along the former Route 246, and recapture the base which borders the town of Hakone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00026_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It will be a large-scale operation involving a total of seven squads, including yourselves.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00027_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As the assault squad, you will storm the basin in advance of the other squads and thin out the Cancer swarms residing there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00030_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "After thinning the Cancer ranks, other squads will transport materials and build a bridgehead. Once complete, you'll eliminate the remaining Cancers, ending the operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00031_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's a \"bridgehead\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00047_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you asking that again? I just told you: a defensive strongpoint.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00033_STezuka#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course, the Cancer are certain to send in reinforcements while the bridgehead is being constructed. You must protect the vicinity at all costs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00049_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Should the bridgehead fall, the operation will have been in vain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00050_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In summary, whether this operation succeeds or fails depends entirely on you. Keep that in mind as you tackle the task at hand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00051_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you catch all that? I'm not repeating myself again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00052_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uhh... I think so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00053_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds suspiciously like a no... I'll give you a recap later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00054_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did Tojo's mom really die in an \"accident\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_merge_00003",
+      "Context": "Adv.talk:0",
+      "Original": "Yuki/Tsukasa/Karen",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_merge_00003",
+      "Context": "Adv.talk:1",
+      "Original": "Mngh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00059_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What in the world are you talking about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00060_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you <i>stupid</i>?! You can't just ask that directly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00061_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Would you like to repeat that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00062_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She was just spoutin' nonsense, don't mind her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00063_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nothing suspicious going on here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00064_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I should hope so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00065_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Starting tomorrow, you will begin training for this operation alongside Squad 31-B.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00286_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori, their leader Aoi has much more experience than you. There is a lot you can learn from her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00287_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Continue working to better yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00288_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you saying that I'm less physically capable than her?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00289_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't you know she used to be a rock star?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00290_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Does it matter? And is it just me, or did you two sound kind of like 31-C's Yamawaki and Bungo just now? I'm getting major déjà vu...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00066_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is all for today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00067_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why would you just <i>ask</i> her like that?! Did you really think you stood to gain anything?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00068_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought there might be a chance she'd just let it slip, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00069_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Terrible odds to bet on! You realize we're in hot water if our ulterior motives come to light?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00070_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shoot. You're right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00071_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously, watch what you say.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00072_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She really is loose-lipped, huh? Are we really going to be okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00073_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is there anything about YOU that isn't loose, miss captain?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,541 @@
+{
+  "Script": "Story/MC02/Common/SpecialPatrol/SpecialPatrol_MC02",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "MC02.SpecialPatrol.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLocationTitle:0",
+      "Original": "Special Patrol Mission",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00201_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can see the ocean from here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00202_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look at that view!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00203_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You two need to calm down a bit. This area is full of collapsed buildings, so there are a lot of blind spots. Be wary of ambushes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00204_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aside from the Medusa, the Cancers around here should just be regular ones, so let's sweep the area quick and speedy-like.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00205_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did we miss it during the patrols?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00206_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "According to the docs from the commander, the thing seems to have been hiding out in an area beyond the patrol zone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00207_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought Cancers just attack on the spot, but I guess certain types are more cautious?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00208_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We don't have a whole lot of info on it, so don't go in with your guard down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00209_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, can you handle navigations and lead us to the Medusa?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600038_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, leave it to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00210_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're going to continue patrolling from where we left off. Yukkie, can you guide us to the unexplored sections?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00211_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, leave it to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "The map's completion level is already 100%.\\nIf you run low on Energy, consider returning to base.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Aim for 100% map completion by exploring.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00199_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00200_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This area was outside of our previous patrols, so it'll be our first time coming here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00212_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, that's outside of our patrol area.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Cannot return to base at this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Return to base?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00213_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think we should head back now. It's getting pretty late.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00214_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, that's enough for one day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00215_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's head back to base.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00216_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today's the last day, though... You seriously want to head back?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Keep patrolling|Return to base",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00217_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Never mind. Let's just keep patrolling.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00218_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fair enough.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00219_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep! I'm pooped! Let's just go home!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00220_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If that's what you decided, then sure... But I have a bad feeling about this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00221_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's head back to base.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00222_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger. I'll update the map with the areas we've already patrolled.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Map of the Ariake Area has reached 100% completion.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "All maps have been completed. Return to base when you want.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Head back to base?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can return to base at any time via the mePad button.\\n(Your progress will not be lost.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can return to base at any time by opening the mePad menu via the Options button.\\n(Your progress will not be lost.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Continuing further will trigger combat.\\nDo you wish to proceed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00223_v001_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "There it is! We found it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00224_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's kind of a weird lookin' thing, ain't it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00225_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I feel like there hasn't been a Cancer that wasn't weird looking!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00226_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YO, Tama!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00227_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-Yes!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00228_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If there's extraterrestrials out there, I bet they'd look even weirder.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00229_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's exactly what a Cancer is, dum-dum. What did you think we're fighting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00230_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, what's the plan?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00231_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I want you in the center, with me and Megumin at the front. Tsukassie, I want you to wait until we strike, and then we'll go all in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00232_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cappy and Karerin, stay in the back for support, and keep an eye out on our surroundings.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00237_v001_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00236_v001_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "You got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00235_v001_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00234_v001_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00233_v001_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00238_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It might be big, but it's no match against us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00239_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "HAHA, YESSS!!! I'll shred it into RIBBONS!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00240_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And I'll use my psychic powers to dice it into CUBES!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00241_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like hell you can do that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00242_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's go get 'em!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00243_v001_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Battle.Conel:0",
+      "Original": "CountBC(IsPlayer()==0 && IsBroken()) > 0",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00244_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The sucker got away...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00245_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was a lot faster than I expected...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00246_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There wasn't even enough time to really attack it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00247_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. We managed to break its exoskeleton, but that's it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00248_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shouldn't we chase it down the hole?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00249_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, don't. There might not be any oxygen down there, and if the hole collapses on us, we'd be buried alive in an instant.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00250_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't like the sound of that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00251_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn. Guess we have to withdraw for now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00252_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh* What an awful mess we're in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00253_v001_EAoi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "There it is... That's the Medusa!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00254_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At last, we meet again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00255_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah! Let's mince this thing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00256_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi, can you take the command?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00257_v001_EAoi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Of course\\nEveryone, please lend me your strength!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00258_v001_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "How's that?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00259_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The outer shell's destroyed! Aoi, you know the drill!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00260_v001_EAoi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Got it! Please leave it to me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00261_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's changing forms! We haven't seen this before. Be careful!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00262_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But thankfully, it's not running away this time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00263_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think the Cancer understands that it's cornered... And that's all thanks to Aoi's help.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00264_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "God, you're stupidly cool today...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00265_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Full-frontal assault is our kind of game. Come on, we're going all out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00266_v001_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00267_v001_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00268_v001_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00269_v001_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Ya got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00270_v001_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00271_v001_EAoi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "When exploring the dungeon, your squad's Energy is consumed based on battle turns.\\nWhen your Energy reaches zero, your HP will begin to deplete instead.\\nYou can reattempt these courses later, so feel free to evacuate if it gets too tough.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": [
+    {
+      "After": "3) Routine(function()",
+      "Lua": "Wait(5.5)Adv.talkNoTap(\"Aoi Erika\",[[Đừng hòng chạy thoát!]],nil,1.7,nil,nil,nil,true)"
+    }
+  ]
+}

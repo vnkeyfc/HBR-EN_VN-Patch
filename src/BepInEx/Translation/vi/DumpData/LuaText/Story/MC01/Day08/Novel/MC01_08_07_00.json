@@ -1,0 +1,66 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_07_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We're still scraping by, but it's starting to get close...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We've got this, don't worry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Damn straight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Try not to rush to your deaths, please...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00004_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I'm not finished yet...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00005_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "That's the Great Yamawaki for...you... Ke he he, <i>snip</i>...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Their lines are the same, but you can tell they're running out of energy...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Heeey, you girls all right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00008_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Never better!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_07_00_Novel_00009_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, <i>snip</i>!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,256 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtNarvySquare_MC01",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtNarvySquare_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at Narby Square, but what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Hang out at Narby Square today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Hang out",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Spend time at Narby Square to raise your Kindness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Okay, let's see...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Draw|Examine|Observe",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Okay, I'm gonna draw a Narby!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(They're really simple in shape, so I bet even I could draw them.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh? Huh??? Why is it turning out so weird and blobby...?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I wasn't able to capture that distinct squishiness...but oh well, it's done!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Look at this, Narby. It's you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00007_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "No reaction whatsoever!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I guess there's just no way to communicate with them...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00010_IIshii",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yea, that's it. The simpler the shape, the greater the inspo.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Man, that Narby drawing looks amazing...but the color scheme is super disturbing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00012_IIshii",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "THIS is the world of art!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleTalk:1",
+      "Original": "Bloop, bloop.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Narby, you actually like this???",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00015_IIshii",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, that's a cool little bobble. This color's gonna represent that bounciness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's like, going way past disturbing and entering the realm of insanity...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00017_IIshii",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "THIS is the world only I can see!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The style is crazy cool though. Right, Narby?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, the Narby's agreeing...I think!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00021_IIshii",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nice, nice. That's the best kinda compliment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think I was able to communicate with the Narby just a bit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm going to take this opportunity to examine a Narby.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Should be fine as long as I'm gentle. I want to learn more about them, anyways!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(First, let's see how it feels...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity01_Z900200013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Not cold at all...warm, close to body temperature.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00028_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(How about that squish factor?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleTalk:1",
+      "Original": "*boop boop*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Sooo, about as soft as my breasts.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity01_Z900200014_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(In conclusion, Narbies are basically like boobies!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00032_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm one step closer to understanding Narbies.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00033_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I wonder what these little ones usually do? I'll try observing them.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00035_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Staaare...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00037_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Staaare...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00039_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I wonder...what part of it is the Narby's face, and what part of it is the body?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00041_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The mystery thickens...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtNarvySquare_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess it's about time to head back. Bye-bye, Narbies!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

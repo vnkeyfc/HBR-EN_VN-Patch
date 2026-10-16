@@ -1,0 +1,656 @@
+{
+  "Script": "Story/MC02/Day04/World/MC02_04_08_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Find a baseball partner!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Return to the Minase sisters!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Opposite direction of where I should be headed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Whoa, too far!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00002_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "No running away from this now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00003_RKayamori",
+      "Context": "Adv.bubbleAnger:1",
+      "Original": "Hey, you two. Hold up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00004_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Ain't you 31-A's squad leader?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00005_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe she wants to join our baseball game, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00006_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That so?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Do you want to play baseball?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yeah!|Listen to your squad leader",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait! That's not what I came here to do!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00009_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She set herself up as the butt of her own joke, meow...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00010_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Lame. Does anyone still think that sort of crap is funny?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Listen to your squad leader.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00012_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're lecturing us, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00013_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You've got a lot of nerve, I'll give you that. Just who do you think you are?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, I dunno. The leader of the assault squad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00015_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn, that's right. Thanks to our freakin' joke of a leader, you beat us to it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00016_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's really a crying shame, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Aoi's a joke to you?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Say that again, I dare you!|Sic 'em, girls!|Sic 'em, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say that again, I dare you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00018_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw, someone's upset, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00019_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? You think you're some hero now that you're leadin' an assault squad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not the problem here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00021_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh yeah? Then tell me. What is?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What could it be...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You two just...grate on me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like when video games just use color variations to pad out the enemy count! THAT'S how much you grate on me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00025_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the hell is she going on about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00026_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If she's trying to explain herself, she's not doing a good job, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Point being, you two piss me off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sic 'em, girls!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00029_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who the hell is she talkin' to?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00030_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow... Maybe her other squad members, way back there?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00031_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Ruka's lookin' at us like she wants somethin'. Should we head over there?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's a big girl. Let her handle it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00033_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fair enough. She is pretty far away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?! No one's coming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyway, you two ignoring Aoi like that really pisses me off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sic 'em, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00038_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "\"Yukkie\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00039_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who the hell is that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00040_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow... Maybe one of her squad members, way back there?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00041_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's askin' for ya. Probably shouldn't leave her hanging.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're just hearing things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00043_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess she is pretty far away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00034_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?! No one's coming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00035_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00036_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyway, you two ignoring Aoi like that really pisses me off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00047_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh? Then how about a throw down?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With our Seraphim? You're on!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00049_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They make you write a formal apology if you summon your Seraph outside of training, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00050_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, seriously?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00051_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't even know that and you're a squad leader? How'd that happen, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00052_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The game's baseball. Well, triangle baseball.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00053_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The heck is that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00054_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a baseball variant that you can play without a lot of people, even teams of two. Go find a teammate, and make it quick. We'll settle this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh. Fine by me. You're gonna regret treating Aoi like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00056_IMinase",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Ugh. What the hell was her problem?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00057_SMinase",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "She should mind her own business, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...So now I've gotta beat them in baseball, and one of you needs to join me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No objections! This is a very important matter for 31-B!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Given that we're 31-A, not 31-B, I think we have the right to object.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please, I'm begging you! I'll never ask you for anything again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00005_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's really desperate. We have to help her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's my Karerin. Always got my back!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00007_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Someone actually gonna go with her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Who will play baseball with you?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yukkie!|Megumin!|Karrie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like I said, no thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's gotta be you, Yukkie! You're the only one for me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow. Just how much do you love me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So much I can't even measure it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Th-That much, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00018_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I keep saying, don't look at me like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh. I've never played a game of baseball in my life. Don't blame me when we lose.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry. I'll carry us to victory by myself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then why do I even need to be there in the first place?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Megumin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00023_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just great. Do I seriously gotta play baseball with you, of all people?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can make the ball invisible with your powers. Our victory is guaranteed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00025_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Will it really accomplish anything if you just cheat to win?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00026_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It takes a whole lotta power to make somethin' the size of a baseball disappear. I can try, but I ain't makin' no promises.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's all good. I'm not gonna slack on my end either.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karrie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00030_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eee heh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00031_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eee HEH heh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00032_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "EEE hya hya hya hya hya hyaaa! IIIT'S SCARY KARRIE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00033_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've mentioned before that your entrance takes way too long.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00034_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karen gave me the gist of things...I'll lend you my strength. First, I'll make quick work of their Achilles tendons...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00035_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That would prevent there from being a game period.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_03_Novel_00027_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's all good. I'm not gonna slack on my end either.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00058_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Ready to lose, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Ready?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "All set!|Not yet",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00332_v001_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "All set!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00059_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's play ball, meow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00333_v001_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Not yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00060_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hurry up, meow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00061_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Rah rah, go team. I guess.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00062_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hurry up and be done with it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_08_01_World_00063_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Be careful out there, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00334_v001_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "You two are going to own them hard!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00335_v001_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Let's just say my money's on our team. It's a safe bet.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

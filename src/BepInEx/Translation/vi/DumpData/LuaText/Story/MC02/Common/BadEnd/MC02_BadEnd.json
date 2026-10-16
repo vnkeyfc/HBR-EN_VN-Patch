@@ -1,0 +1,232 @@
+{
+  "Script": "Story/MC02/Common/BadEnd/MC02_BadEnd",
+  "Entries": [
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Some time later...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Operation Pleiades—Start Date",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00000_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...And so I would like you all to take on the mission with firm conviction.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00001_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All squads, move out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00002_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So Operation Pleiades is starting today, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00003_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It should already be in motion as we speak.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00004_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In the end, we never had retraining after that... We're kind of powerless, huh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00005_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, we just need to learn from our mistakes and do what we can from now on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00006_v001_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Mngh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00007_v001_YIzumi",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00008_v001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Emergency report. Operation Pleiades has failed due to the appearance of a new, previously-unknown Cancer: Vertex Crimson.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00009_v001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Every deployed Seraph squad was wiped out. The Machida Dome received critical damage and was destroyed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00010_v001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "All Seraph units on base, please begin preparing for deployment immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00011_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way... That can't be...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00012_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, where are we at right now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00013_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once we head through here, we'll be at Nanohana View Terrence.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00014_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it. Let's take a little break once we get there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00015_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm? We're getting a call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00016_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is Ruka Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00017_v001_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Emergency report to all squads. The Ariake Dome was attacked by the Cancer known as \"Medusa\" and has been destroyed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00018_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mngh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00019_v001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "HQ has decided to halt Operation Pleiades. Available units will be sent to defeat the Medusa.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00020_v001_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "All squads deployed in Operation Pleiades, please return back to base and head immediately to the Ariake Dome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00021_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00022_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, there's no time to be standing around! Let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00023_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "These houses were destroyed along with the defensive walls...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00024_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is horrible...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00025_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are no survivors here. Let's go to the next district.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00026_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit...this is all because we couldn't find the Medusa...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00027_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry... I'm so sorry!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00028_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It seems we're going to have to postpone the operation to a later date.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00029_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, unfortunately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00030_v001_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Mngh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00031_v001_YIzumi",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00032_v001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Emergency report. Appearance of a new, previously unknown Cancer: Vertex Crimson.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00033_v001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "The Machida, Sagamihara, and Hachioji Domes have all been destroyed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00034_v001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "All Seraph units on base, please begin preparing for deployment immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00035_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way... That can't be...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

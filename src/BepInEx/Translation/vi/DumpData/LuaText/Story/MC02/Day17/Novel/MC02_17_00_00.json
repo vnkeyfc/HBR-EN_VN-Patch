@@ -1,0 +1,136 @@
+{
+  "Script": "Story/MC02/Day17/Novel/MC02_17_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please count off for roll call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00004_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Four.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00005_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00006_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Six.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Now what do I say?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What should I say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "All six out of six members present and accounted for|Seven!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All six out of six members present and accounted for!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is correct. You're starting to sound like a leader.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A compliment! That had to have boosted one of my stats!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seven!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait... Do we have an extra person here?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seven out of six members present and accounted for! How weird!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00014_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You did your own roll call twice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah, so you noticed my trick... Well done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00016_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please start from the beginning again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00017_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We gotta do this again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_00_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop involving us in your weird jokes...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00027_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "On that note, please clean your room and reconvene at the cafeteria by 06:30.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

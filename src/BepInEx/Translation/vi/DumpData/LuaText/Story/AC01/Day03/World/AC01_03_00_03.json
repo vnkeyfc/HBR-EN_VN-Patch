@@ -1,0 +1,24 @@
+{
+  "Script": "Story/AC01/Day03/World/AC01_03_00_03",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00526_MSatsuki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "This is all my fault. All of it.",
+      "Vietnamese": "Tất cả là lỗi của tôi... tất cả..."
+    },
+    {
+      "Key": "VC_AC01_00527_MSatsuki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "The situation blinded me.\\nI was too focused on Bun-chan.",
+      "Vietnamese": "Tôi thật mù quáng... chỉ chăm chăm vào việc cứu Bun-chan..."
+    },
+    {
+      "Key": "VC_AC01_00528_MSatsuki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "This would never have happened if we just did nothing.\\nThe seniors would have saved them...",
+      "Vietnamese": "Giá như đừng làm gì cả thì đã không thành ra thế này... Lẽ ra các tiền bối đã cứu được hai người họ rồi..."
+    }
+  ],
+  "Inserts": []
+}

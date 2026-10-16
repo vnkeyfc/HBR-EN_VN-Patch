@@ -1,0 +1,358 @@
+{
+  "Script": "Story/MC02/Day09/Novel/MC02_09_04_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Karerin. See something you like?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not really. I'm just looking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you want, I can help you find something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00003_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, you don't have to go to all that trouble.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I may not look the type, but back when I was in the music industry, I worked with a fashion company and designed my own clothing line, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00005_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa...that's wild.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The band may've split up, but my brand should still be out there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00007_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's it called?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Lunatique.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00009_KAsakura",
+      "Context": "Adv.playCutIn:3",
+      "Original": "WHAAAT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You heard of it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00011_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was super popular in high school! So you're saying those were YOUR designs?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At first, yeah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00013_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You really are good at everything, Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00014_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, man...that really got her... She's probably going to confess her love to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00016_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't get cocky.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00017_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's Karrie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00018_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In your music, I sense a taste for destruction. Perhaps you and I have more in common than I thought...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ahhh, I'm not so sure about that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00020_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What happened to that confidence of yours?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, it's true that humans are more alike than they realize.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00022_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Very well. Adorn me, and make me into a beautiful, deadly creature.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, just wear this chain and you're good to go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00024_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "TRY A LITTLE HARDER!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00025_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "PUT YOUR HEART AND SOUL INTO IT!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine, but on one condition: you turn back into Karerin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00027_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But her and I look exactly alike. What gives?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Believe it or not, you're quite different.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00029_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Something's heavy. What is this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A chain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00031_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are chains in these days?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, I was just having a little fun with Karrie. This time's the real deal. Here, try this on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00033_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And what if you paired these two, like this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00035_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, this is nice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think these could look great together, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00037_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, looks good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(For the final look...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "How will I style it?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Go for a Lunatique look|Go for a boyish look|Go for an idol look",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've gotta say, I've really outdone myself with this one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00040_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, it's like I walked straight out of a Lunatique ad!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess so, huh? Which one's your favorite?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00042_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good question... I'm going to have to go with the last one. It looks very on-brand for you, Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then you should try wearing it onstage sometime. The fans will go nuts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00044_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep, I trust you. You were a rock star, after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00039_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've gotta say, I've really outdone myself with this one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00046_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa... I look like a guy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00041_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess so, huh? Which one's your favorite?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00048_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good question... Probably the first one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You should try wearing this getup onstage sometime. The fans will go crazy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00050_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00039_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've gotta say, I've really outdone myself with this one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00052_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? No, no, no...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00041_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess so, huh? Which one's your favorite?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00048_KAsakura#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good question... Probably the first one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You should try wearing this frilly getup onstage sometime. The fans will go wild.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_09_04_01_Novel_00056_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not a chance.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

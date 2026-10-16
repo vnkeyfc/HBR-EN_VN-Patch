@@ -1,0 +1,148 @@
+{
+  "Script": "Story/MC02/Day22/Novel/MC02_22_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good, everyone's all here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today's practice will cover Operation Pleiades, Phases Three through Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This training will simulate the consecutive combat situations through these phases.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00955_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "After Phase Three, there will be a variety of tasks such as long-range support, urban warfare, and convoy escorts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With more tasks and responsibilities aside from regular combat, your squad's abilities and judgment will be put to the test.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00009_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You may be pushed into making rash decisions due to the pressure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00010_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, do your best to act calmly and carefully at all times.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00011_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That being said, you all exhibited great results in yesterday's session. Take confidence in all that you've learned from training so far, and keep moving forward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ooh, she's really praising us this time! Are we getting a special reward for our hard work?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. You should appreciate the fact that you get to eat delicious things every day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00014_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true. We get three delicious meals a day. I think that's a pretty special reward in this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. The meat's delicious, so I guess I can't complain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The stuff besides the meat is just as good too, you carnivore.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00012_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00018_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Squad 30-G has now arrived at the starting point on the former Route 246, please commence Phase Three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00956_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Point Gamma",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Campaign Route",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, look at that! We can see everyone fighting from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00021_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The other squads are starting to advance from the south.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great. Let's drive the enemies west in a pincer attack.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00023_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds good. Let's show 'em what we're made of!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00024_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You said it!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

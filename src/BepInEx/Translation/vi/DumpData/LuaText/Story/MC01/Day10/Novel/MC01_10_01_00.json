@@ -1,0 +1,136 @@
+{
+  "Script": "Story/MC01/Day10/Novel/MC01_10_01_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00000_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please begin your early morning stretches.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sure thing. Okay, everyone spread out equally.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Now what do I say?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What am I supposed to say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Lift your arms in front of you, then reach up and stretch|Bend down and get into a crouch start position",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Lift your arms in front of you, then reach up and stretch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_merge_00007",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "One, two, three, four...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And that's it",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00010_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Nicely done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "A compliment! That had to have boosted one of my stats!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Bend down and get into a crouch start position.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ready... Set...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00014_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ain't losin' this one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Just where do you think you're sending her?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? Outside the base.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She'll be attacked by a Cancer and die.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00018_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Breaking out into a sprint without stretching could cause injury. Please stretch properly first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Lift your arms in front of you, then reach up and stretch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "One, two, three, four...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_merge_00008",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "One, two, three, four...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Time's up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_01_00_Novel_00027_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please remember this routine going forward.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

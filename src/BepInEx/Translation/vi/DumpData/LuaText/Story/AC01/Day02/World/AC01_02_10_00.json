@@ -1,0 +1,611 @@
+{
+  "Script": "Story/AC01/Day02/World/AC01_02_10_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Talk to member of 31-C!",
+      "Vietnamese": "Trò chuyện thật lòng với các thành viên 31C nào!"
+    },
+    {
+      "Key": "VC_AC01_00326_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I feel recharged after that bath.",
+      "Vietnamese": "Đi tắm xong tớ thấy hồi phục lại xíu rồi."
+    },
+    {
+      "Key": "VC_AC01_00327_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um...Kayamori?",
+      "Vietnamese": "À ừm, Kayamori-san..."
+    },
+    {
+      "Key": "VC_AC01_00328_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, Merry. Can't sleep?",
+      "Vietnamese": "Ồ, Marie. Lo lắng quá nên không ngủ được à?"
+    },
+    {
+      "Key": "VC_AC01_00329_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah... Ivar still hasn't come back.",
+      "Vietnamese": "Ừ... Ivar-chan tới giờ vẫn chưa thấy về..."
+    },
+    {
+      "Key": "VC_AC01_00330_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I sure hope she was able to meet up with Bun-chan.",
+      "Vietnamese": "Ước gì cậu ấy gặp được với Bun-chan nhỉ..."
+    },
+    {
+      "Key": "VC_AC01_00331_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I feel like everyone is becoming disconnected...but I don't know what to do about it.",
+      "Vietnamese": "Tôi cảm thấy sợi dây gắn kết giữa những thành viên khác cũng đang dần đứt đoạn... mà tôi lại chẳng biết phải làm sao..."
+    },
+    {
+      "Key": "VC_AC01_00332_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At times like that, you gotta have a sit-down and talk it out.",
+      "Vietnamese": "Những lúc thế này, chỉ còn cách ngồi đối diện tâm tình trực tiếp với nhau thôi."
+    },
+    {
+      "Key": "VC_AC01_00333_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...I'm not the squad leader. I can't force everyone to do that.",
+      "Vietnamese": "Ừm thì... tôi không phải là đội trưởng, nên cũng không có quyền ép buộc mọi người đến mức đó..."
+    },
+    {
+      "Key": "VC_AC01_00334_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know who is one? Me! I'll come with you. Sound good?",
+      "Vietnamese": "May sao tớ đây lại là đội trưởng đấy nhé. Tớ sẽ đi cùng. Thế là được chứ gì?"
+    },
+    {
+      "Key": "VC_AC01_00335_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you!",
+      "Vietnamese": "Cảm ơn cậu nhiều!"
+    },
+    {
+      "Key": "VC_AC01_00336_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Witchy.",
+      "Vietnamese": "Ê Tennen-chan!"
+    },
+    {
+      "Key": "VC_AC01_00337_MTenne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "My name is not Witchy!!! It's Tenne!!!\\nWho are you to mock such a brilliant and unrivaled alchemist as I?!",
+      "Vietnamese": "Người ta là Tenne, không phải Tennen!! Một ma thuật sư minh mẫn hiếm có khó tìm như ta mà mi lại dám buông lời nhạo báng thế à!!"
+    },
+    {
+      "Key": "VC_AC01_00338_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm the leader of 31-A, AKA the assault squad. Why do you ask?",
+      "Vietnamese": "Tớ là đội trưởng đội xung kích 31A đấy, có vấn đề gì không hả?"
+    },
+    {
+      "Key": "VC_AC01_00339_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're just a fellow fresh meat! Do you think that you're better than the rest of us?!",
+      "Vietnamese": "Chẳng qua cũng chỉ là bạn đồng khóa thôi sao! Đừng tưởng mình hơn người nhá!"
+    },
+    {
+      "Key": "VC_AC01_00340_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I <i>am</i> in the \"A\" squad. So a bit, yeah.",
+      "Vietnamese": "Vì là đội \"A\" nên tớ có giỏi hơn một chút xíu thật."
+    },
+    {
+      "Key": "VC_AC01_00341_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why you little! You make me so mad!",
+      "Vietnamese": "Chết tiệt! Tức á!"
+    },
+    {
+      "Key": "VC_AC01_00342_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please hear her out, Miko.",
+      "Vietnamese": "Miko-chan, hãy nghe tôi nói."
+    },
+    {
+      "Key": "VC_AC01_00343_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ivar still hasn't returned. Because of this, I think 31-C has to come together to help find the two of them.",
+      "Vietnamese": "Tới tận bây giờ, Ivar-chan vẫn chưa trở về. Đây chính là lúc 31C chúng ta phải hợp sức lại để đi tìm hai người họ."
+    },
+    {
+      "Key": "VC_AC01_00344_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I understand where you're coming from, but it's like I said. We're inexperienced. And without our leader to give us orders, it would be reckless.",
+      "Vietnamese": "Ta hiểu cảm giác của mi, nhưng đã nói rồi, bọn ta suy cho cùng cũng chỉ là lính mới. Hơn nữa, đội trưởng không có mặt để chỉ huy thì quá là liều lĩnh."
+    },
+    {
+      "Key": "VC_AC01_00345_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well...",
+      "Vietnamese": "Ừ thì..."
+    },
+    {
+      "Key": "VC_AC01_00346_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's precisely because Wakkie is gone that Merry is stepping up like this. You don't even understand that, and you call yourself a loli character?",
+      "Vietnamese": "Chính vì đội trưởng Wakki không có mặt, nên Marie mới phải đứng ra gánh vác thay đấy. Cái đạo lý đó cũng không hiểu mà còn đòi làm loli sao."
+    },
+    {
+      "Key": "VC_AC01_00347_MTenne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That's your own subjective opinion!!!\\nMy height is just about average for my age!!!",
+      "Vietnamese": "Trông loli là do góc nhìn chủ quan của mi thôi!! Ta vẫn nằm trong chiều cao trung bình nhé!!"
+    },
+    {
+      "Key": "VC_AC01_00348_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yikes, guess I added meat to the fire.",
+      "Vietnamese": "Chết dở, đổ nhầm thịt thăn bò lên chảo lửa mất rồi..."
+    },
+    {
+      "Key": "VC_AC01_00349_MTenne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "<i>Fuel</i> to the fire! You'd just be cooking meat!",
+      "Vietnamese": "Đổ dầu vào lửa mới đúng chứ!! Thế thì chỉ nướng thịt ăn ngon thôi!!"
+    },
+    {
+      "Key": "VC_AC01_00350_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please hear her out, Miko.",
+      "Vietnamese": "Miko-chan, hãy nghe tôi nói."
+    },
+    {
+      "Key": "VC_AC01_00351_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What now?",
+      "Vietnamese": "Gì nữa."
+    },
+    {
+      "Key": "VC_AC01_00352_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-C is in dire straights right now! Which is exactly why we should be coming together to fight as a team! If we don't, then 31-C could be no more!",
+      "Vietnamese": "31C bây giờ đang gặp khủng hoảng! Chúng ta vẫn phải chiến đấu bên nhau như những người đồng đội từ nay về sau cơ mà! Nếu bây giờ không hợp sức lại, 31C sẽ thực sự tan rã mất...!"
+    },
+    {
+      "Key": "VC_AC01_00353_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like I said, it's too reckless. It won't work.",
+      "Vietnamese": "Đã bảo là quá mức liều lĩnh. Không được là không được."
+    },
+    {
+      "Key": "VC_AC01_00354_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I heard squads that are lacking members end up getting used in experiments.",
+      "Vietnamese": "Nghe bảo những đội bị thiếu người sẽ bị lôi ra làm vật thí nghiệm đó nha?"
+    },
+    {
+      "Key": "VC_AC01_00355_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? What do you mean?",
+      "Vietnamese": "Hả, là sao?"
+    },
+    {
+      "Key": "VC_AC01_00356_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To see which parts of people the Cancers eat, what they feed on to evolve.",
+      "Vietnamese": "Xem thử Cancer ăn bộ phận nào của con người, và dùng thứ gì làm thức ăn để tiến hóa."
+    },
+    {
+      "Key": "VC_AC01_00357_MTenne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "What the heck? That's scaryyy!!!",
+      "Vietnamese": "Chuyện quái gì mà đáng sợ thế hả trời!!"
+    },
+    {
+      "Key": "VC_AC01_00358_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since I'm the leader of 31-A, the commander told me everything...especially what becomes of Seraph squads that break up.",
+      "Vietnamese": "Vì tớ là đội trưởng 31A nên được Chỉ huy đặc cách kể cho nghe đấy, về kết cục của những đội Seraph bị tan rã á."
+    },
+    {
+      "Key": "VC_AC01_00359_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way...",
+      "Vietnamese": "Sao lại thế..."
+    },
+    {
+      "Key": "VC_AC01_00360_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It hasn't been that long, but haven't we already fought alongside each other?",
+      "Vietnamese": "Hơn nữa dù thời gian có ngắn ngủi, nhưng chúng ta đã từng sát cánh chiến đấu với tư cách đồng đội cơ mà."
+    },
+    {
+      "Key": "VC_AC01_00361_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Who will give the commands?",
+      "Vietnamese": "...Vậy ai sẽ chỉ huy?"
+    },
+    {
+      "Key": "VC_AC01_00362_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will handle that in Ivar's absence.",
+      "Vietnamese": "Tôi sẽ cố gắng thế chỗ cho Ivar-chan đó."
+    },
+    {
+      "Key": "VC_AC01_00363_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh boy...",
+      "Vietnamese": "Trời đất ơi..."
+    },
+    {
+      "Key": "VC_AC01_00364_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What you're saying is you need my help.",
+      "Vietnamese": "Tức là mi cần sức mạnh của ta chứ gì..."
+    },
+    {
+      "Key": "VC_AC01_00365_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. I need it. I need your strength, Miko.",
+      "Vietnamese": "Ừ. Tôi thật sự rất cần sức mạnh của Miko-chan."
+    },
+    {
+      "Key": "VC_AC01_00366_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Very well, I will lend it.",
+      "Vietnamese": "...Nếu đã nói thế thì đành chịu vậy."
+    },
+    {
+      "Key": "VC_AC01_00367_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you!",
+      "Vietnamese": "Cảm ơn cậu nhiều!"
+    },
+    {
+      "Key": "VC_AC01_00368_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, Saku.",
+      "Vietnamese": "Yo, Saku-chan."
+    },
+    {
+      "Key": "VC_AC01_00369_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Are you referring to me?",
+      "Vietnamese": "...Cậu đang gọi tôi sao."
+    },
+    {
+      "Key": "VC_AC01_00370_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh-huh, you betcha, cherry-pie!",
+      "Vietnamese": "Quá chuẩn không cần chỉnh ừm."
+    },
+    {
+      "Key": "VC_AC01_00371_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm...",
+      "Vietnamese": "..."
+    },
+    {
+      "Key": "VC_AC01_00372_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't think she found that funny at all!",
+      "Vietnamese": "Trượt vỏ chuối cái rầm luôn kìa...!"
+    },
+    {
+      "Key": "VC_AC01_00373_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't think you needed to say anything else other than \"uh-huh\" and a nod.",
+      "Vietnamese": "Nếu đoạn cuối đã có chữ ừm rồi thì vế quá chuẩn không cần chỉnh đằng trước bỏ đi cũng được mà?"
+    },
+    {
+      "Key": "VC_AC01_00374_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, that's exactly the kind of reaction I wanted.",
+      "Vietnamese": "Đúng đúng. Thứ tớ cần là màn quăng miếng này đó."
+    },
+    {
+      "Key": "VC_AC01_00375_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Izumi-san usually fills that role, doesn't she?",
+      "Vietnamese": "Bình thường người đóng vai trò đó là Izumi-san mà nhỉ."
+    },
+    {
+      "Key": "VC_AC01_00376_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, that's a real important role that she fills.",
+      "Vietnamese": "Sự tồn tại của Yukki quả thực vô cùng lớn lao..."
+    },
+    {
+      "Key": "VC_AC01_00377_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...You have come to me to ascertain your futures, have you not?",
+      "Vietnamese": "...Hai người tìm đến tôi nghĩa là muốn xem bói đúng không?"
+    },
+    {
+      "Key": "VC_AC01_00378_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, but please listen, Seira. As of now, Ivar has yet to return to base.",
+      "Vietnamese": "Không phải, nghe tôi nói này Seira-chan. Tới tận bây giờ, Ivar-chan vẫn chưa trở về."
+    },
+    {
+      "Key": "VC_AC01_00379_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-C needs to come together as a team to search for our two missing members.",
+      "Vietnamese": "Bây giờ chính là lúc 31C phải hợp sức lại để đi tìm hai người họ."
+    },
+    {
+      "Key": "VC_AC01_00380_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Very well, then you seek their fortunes?",
+      "Vietnamese": "...Vậy thì hãy quyết định bằng quẻ bói nhé."
+    },
+    {
+      "Key": "VC_AC01_00381_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, would be helpful if you could divine their location.",
+      "Vietnamese": "Quả nhiên quanh đi quẩn lại vẫn là xem bói à."
+    },
+    {
+      "Key": "VC_AC01_00382_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Darkness. An ominous shadow!!!",
+      "Vietnamese": "...Tối tăm quá. Bóng đen đầy điềm dữ!!"
+    },
+    {
+      "Key": "VC_AC01_00383_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way...",
+      "Vietnamese": "Sao lại thế..."
+    },
+    {
+      "Key": "VC_AC01_00384_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it because I'm standing here? What if I move over here?",
+      "Vietnamese": "Tại tớ đang đứng che ở đây đúng không? Thử qua bên này đứng xem sao."
+    },
+    {
+      "Key": "VC_AC01_00385_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...The ominious shadow has unexpectedly cleared. Perhaps rescue is a possibility. Let us go.",
+      "Vietnamese": "...Bóng đen đầy điềm dữ bỗng nhiên biến mất rồi. Thế này, chúng ta có thể sẽ cứu được họ. Đi thôi."
+    },
+    {
+      "Key": "VC_AC01_00386_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Apparently, that single action turned it into a good omen.",
+      "Vietnamese": "Chỉ nhờ một thay đổi nhỏ của tớ mà nó thành điềm lành luôn kìa."
+    },
+    {
+      "Key": "VC_AC01_00387_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you, Kayamori.",
+      "Vietnamese": "Kayamori-san, cảm ơn cậu nhiều."
+    },
+    {
+      "Key": "VC_AC01_00388_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There you are, Adel.",
+      "Vietnamese": "Đây rồi. A-san."
+    },
+    {
+      "Key": "VC_AC01_00389_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you referring to me?",
+      "Vietnamese": "Đang gọi tại hạ đó hử-degozaru?"
+    },
+    {
+      "Key": "VC_AC01_00390_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep.",
+      "Vietnamese": "Ừa."
+    },
+    {
+      "Key": "VC_AC01_00391_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Strange that you're referring to me as such, but...Satsuki-dono is with you. Does this concern Yamawaki-dono and Bungo-dono?",
+      "Vietnamese": "Một cái tên kỳ lạ quá-degozaru. Cả Satsuki-dono cũng ở đây-degozaru. Hẳn là vì chuyện của Yamawaki-dono và Bungo-dono hử-degozaru?"
+    },
+    {
+      "Key": "VC_AC01_00392_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It does. Now is the time to unite 31-C. Will you come with us to help them?",
+      "Vietnamese": "Ừ. Đây chính là lúc 31C phải hòa làm một. Cậu đi cứu họ cùng chúng tôi được không."
+    },
+    {
+      "Key": "VC_AC01_00393_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Irrespective of my desires, how might we unify without a squad leader?",
+      "Vietnamese": "Dù có muốn nhưng không có đội trưởng thì cũng chẳng thể hòa làm một được đâu hừ."
+    },
+    {
+      "Key": "VC_AC01_00394_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "While it may be audacious of me, I will take temporary command.",
+      "Vietnamese": "Tôi xin phép là người đứng ra gánh vác trách nhiệm đó."
+    },
+    {
+      "Key": "VC_AC01_00395_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Adel, it must seem like we just came here by chance.",
+      "Vietnamese": "A-san... Nhìn tụi này đến đây có vẻ như là tình cờ đi dạo đúng không."
+    },
+    {
+      "Key": "VC_AC01_00396_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you not?",
+      "Vietnamese": "Không phải vậy sao hử-degozaru?"
+    },
+    {
+      "Key": "VC_AC01_00397_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've been crawling around every inch of the base and we finally found you! Isn't that right, Merry?",
+      "Vietnamese": "Tụi tớ đã phải lùng sục từng ngóc ngách trong căn cứ mới tìm được bồ đó...! Phải không, Marie?"
+    },
+    {
+      "Key": "VC_AC01_00398_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. My knees are about to give out.",
+      "Vietnamese": "Ừ. Hai đầu gối tôi đang run bần bật đây."
+    },
+    {
+      "Key": "VC_AC01_00399_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even you, Satsuki-dono?",
+      "Vietnamese": "Cả Satsuki-dono mà cũng...?"
+    },
+    {
+      "Key": "VC_AC01_00400_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's because you're a ninja. With your ninjutsu, Adel, we'd have nothing to fear.",
+      "Vietnamese": "Quả không hổ danh ninja... chỉ cần có nhẫn thuật của A-san là chúng ta có sức mạnh bằng cả trăm người rồi..."
+    },
+    {
+      "Key": "VC_AC01_00401_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Will you help us? We need your strength.",
+      "Vietnamese": "Cậu hợp tác cùng chúng tôi chứ? Chúng tôi thực sự cần sức mạnh của Adel-chan."
+    },
+    {
+      "Key": "VC_AC01_00402_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I have no experience in searching for people.",
+      "Vietnamese": "Dù có muốn nhưng không có đội trưởng thì cũng chẳng thể hòa làm một được đâu-degozaru."
+    },
+    {
+      "Key": "VC_AC01_00403_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "W-Well...",
+      "Vietnamese": "Ừ thì..."
+    },
+    {
+      "Key": "VC_AC01_00404_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You've got it backwards.",
+      "Vietnamese": "Phải suy luận ngược lại chứ."
+    },
+    {
+      "Key": "VC_AC01_00405_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since you're a ninja, you're good at hiding, right? So you'd know where they could be hiding!",
+      "Vietnamese": "Ninja thì giỏi mấy vụ ẩn nấp mà đúng không? Vậy chắc chắn bồ phải biết họ đang nấp ở đâu!"
+    },
+    {
+      "Key": "VC_AC01_00406_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right. Ivar must have followed Bun-chan and they're probably hiding somewhere.",
+      "Vietnamese": "Đúng vậy. Chắc chắn Ivar-chan đã đuổi kịp Bun-chan và cả hai đang ẩn nấp ở đâu đó rồi."
+    },
+    {
+      "Key": "VC_AC01_00407_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see, I see! Then, I shall accept your petition! I will find Yamawaki-dono and Bungo-dono!",
+      "Vietnamese": "Hóa ra là thế! Cứ giao cho tại hạ-degozaru! Tại hạ nhất định sẽ tìm được Yamawaki-dono và Bungo-dono-degozaru!"
+    },
+    {
+      "Key": "VC_AC01_00408_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that leaves two more.",
+      "Vietnamese": "Vậy là còn hai người nữa."
+    },
+    {
+      "Key": "VC_AC01_00409_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": "Ừ!"
+    },
+    {
+      "Key": "VC_AC01_00410_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just one more.",
+      "Vietnamese": "Còn một người nữa thôi."
+    },
+    {
+      "Key": "VC_AC01_00411_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": "Ừ!"
+    },
+    {
+      "Key": "VC_AC01_00412_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm...",
+      "Vietnamese": "..."
+    },
+    {
+      "Key": "VC_AC01_00413_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This one.",
+      "Vietnamese": "Bấm nút này."
+    },
+    {
+      "Key": "VC_AC01_00414_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "AAAHHH——!!! What the heck did you just do?!",
+      "Vietnamese": "Ối á á á!! Cậu vừa làm cái quái gì vậy hả!!"
+    },
+    {
+      "Key": "VC_AC01_00415_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, you looked like you were having a hard time choosing. No need to thank me.",
+      "Vietnamese": "À không, thấy bồ đứng phân vân quá nên tớ chọn hộ thôi. Không cần cảm ơn đâu."
+    },
+    {
+      "Key": "VC_AC01_00416_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why would you pick cup ramen of all things?! I don't want to eat something with that many calories at a time like this!!!",
+      "Vietnamese": "Sao trong bao nhiêu thứ cậu lại đi chọn mì ly hả!! Tầm này ai mà muốn nuốt cái thứ nhiều calo như vậy vào bụng chứ!!"
+    },
+    {
+      "Key": "VC_AC01_00417_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I can't cancel it?! It's pouring hot water in!!!",
+      "Vietnamese": "Hủy đơn không được luôn hả!! Máy đang rót nước sôi rồi kìa!!"
+    },
+    {
+      "Key": "VC_AC01_00418_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You shouldn't waste food.",
+      "Vietnamese": "Lãng phí đồ ăn là không tốt đâu nha?"
+    },
+    {
+      "Key": "VC_AC01_00419_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I really want to waste it, but I WON'T!\\nFine, I'll eat it! Even though I just wanted a drink!\\nWhy did you pick food?!",
+      "Vietnamese": "Trông muốn ném đi ghê, nhưng tôi không làm đâu! Tôi ăn là được chứ gì! Dù đang khát khô cả cổ! Chẳng hiểu ăn bữa này để làm gì luôn!!"
+    },
+    {
+      "Key": "VC_AC01_00420_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm...",
+      "Vietnamese": "..."
+    },
+    {
+      "Key": "VC_AC01_00421_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm...",
+      "Vietnamese": "..."
+    },
+    {
+      "Key": "VC_AC01_00422_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I told ya not to meditate!\\nYou're a rock star, and I'm the psychic!\\nStay in your lane!",
+      "Vietnamese": "Đã bảo là đừng có ngồi thiền mà!! Bà là ngôi sao nhạc Rock! Còn tui là siêu năng lực gia! Chia việc rõ ràng ra coi!!"
+    },
+    {
+      "Key": "VC_AC01_00423_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I just thought that maybe the location of Bun-chan and Wakkie would come to me.",
+      "Vietnamese": "Chẳng qua tớ đang nghĩ xem vị trí của Wakki với Bun-chan có tự dưng hiện lên trong đầu không ấy mà."
+    },
+    {
+      "Key": "VC_AC01_00424_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "If that was possible, I'd have already done it!\\nWhy would ya be able to do it if I can't?!\\nStay. In. Your. Lane!!!",
+      "Vietnamese": "Nếu có thì tui đã làm được rồi!! Ngay cả tui còn làm không được thì sao bà làm được!! Chia. Việc. Rõ. Ràng. Ra!!"
+    },
+    {
+      "Key": "VC_AC01_00425_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, yeah. Fine.",
+      "Vietnamese": "Rồi rồi."
+    }
+  ],
+  "Inserts": []
+}

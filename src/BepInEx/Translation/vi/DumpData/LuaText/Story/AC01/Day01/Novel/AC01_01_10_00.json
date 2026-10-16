@@ -1,0 +1,78 @@
+{
+  "Script": "Story/AC01/Day01/Novel/AC01_01_10_00",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00160_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fwaaah... I'm beat.",
+      "Vietnamese": "Haaaa... mệt đứt hơi."
+    },
+    {
+      "Key": "VC_AC01_00161_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't take it anymore...",
+      "Vietnamese": "Em hết xí quách rồi..."
+    },
+    {
+      "Key": "VC_AC01_00162_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Running multiple stores <i>and</i> training on her days off... Is she even human?",
+      "Vietnamese": "Kiêm nhiệm làm nhân viên tiệm tạp hóa, ngày nghỉ cũng cắm đầu vào huấn luyện, con bé đó rốt cuộc là thánh thần phương nào vậy?"
+    },
+    {
+      "Key": "VC_AC01_00163_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's somethin', alright.",
+      "Vietnamese": "Kẻ siêu phàm."
+    },
+    {
+      "Key": "VC_AC01_00164_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, it's impressive...but doesn't it seem a bit odd?",
+      "Vietnamese": "Thì đúng là siêu phàm rồi... nhưng chắc hẳn phải có mánh khóe gì chứ?"
+    },
+    {
+      "Key": "VC_AC01_00165_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thinking about it hurts my head! You're supposed to be the brains here!",
+      "Vietnamese": "Tớ không rành mấy thứ phức tạp đâaaaau! Động não là nhiệm vụ của Yukki cơ mà!"
+    },
+    {
+      "Key": "VC_AC01_00166_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The brains, too? On top of everything else?",
+      "Vietnamese": "Cái nhiệm vụ của tôi hơi bị quá tải rồi đấy."
+    },
+    {
+      "Key": "VC_AC01_00167_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we never did find the 31-C.",
+      "Vietnamese": "Nhưng cuối cùng tụi mình cũng không đụng mặt mọi người đội 31C nhỉ."
+    },
+    {
+      "Key": "VC_AC01_00168_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right. I wonder how deep they went in.",
+      "Vietnamese": "Đúng vậy ha. Không biết họ lặn xuống tới tận tầng nào rồi."
+    },
+    {
+      "Key": "VC_AC01_00169_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you think they made it back safely?",
+      "Vietnamese": "Chắc họ bình an trở về rồi đúng không?"
+    },
+    {
+      "Key": "VC_AC01_00170_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, we'd have heard something by now if not.",
+      "Vietnamese": "Ui xời, lỡ mà có chuyện gì là tụi mình biết liền à."
+    },
+    {
+      "Key": "VC_AC01_00171_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I hope they're okay.",
+      "Vietnamese": "Được vậy thì tốt."
+    }
+  ],
+  "Inserts": []
+}

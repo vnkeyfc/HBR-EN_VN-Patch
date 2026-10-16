@@ -1,0 +1,194 @@
+{
+  "Script": "Story/MC02/Day22/Novel/MC02_22_06_04",
+  "Entries": [
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Convoy Rendezvous Zone",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Campaign Route",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00075_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No enemies nearby. I don't see any others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00094_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We do still bump into some here and there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00077_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is a pretty big area, after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00078_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The area's topography is full of hills and valleys, which makes Cancers harder to spot as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00079_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You might be right about that. Let's be extra alert moving forward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00080_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karerin, Cappy, could you go ahead and scout the area?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00081_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00100_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Leave it to us!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Campaign Route",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Point Delta",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00959_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've arrived at Point Delta.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00091_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, let's report our progress to HQ.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00960_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "HQ, do you read? This is 31-A. We've reached Point Delta. The convoy has been passed to the advance squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00104_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Copy that. Phase Four of the cumulative training is now complete. Good job so far, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00105_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "But don't lower your guard until Phase Five is done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00095_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew, we're finally nearing the end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00096_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It'd be nice if everything goes smoothly without any issues...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00107_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shot confirmed. Enemy eliminated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00108_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah... You can snipe enemies from that distance, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00109_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even I couldn't manage that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00110_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not even our gamer girl?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00111_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, let's tighten things up a bit. We're supposed to be on high alert right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00112_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? My eyes are totally peeled right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00124_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Does that mean naps are off-limits too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00125_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tell me it ain't so!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_22_06_00_Novel_00126_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone's awfully carefree, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00961_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey... I saw you closing your eyes just now. Why is everyone on this squad so sleepy during training? I'm getting kind of worried over here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00962_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's fine! For the frontliners, your task right now is to stand by and keep watch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00118_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In other words, it's the PERFECT time for us to kick back and relaaaax.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC02_ComprehensiveExercise02_00119_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hell no it isn't.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

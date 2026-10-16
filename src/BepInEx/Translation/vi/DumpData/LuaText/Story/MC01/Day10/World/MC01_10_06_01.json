@@ -1,0 +1,81 @@
+{
+  "Script": "Story/MC01/Day10/World/MC01_10_06_01",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The battles ahead will be difficult, so be sure to make the necessary preparations.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00003_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Are your preparations complete?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter the dungeon?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Head out|Not yet",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Abandoned Mines—Level 1",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00005_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "You can never be too prepared. Please come and talk to me once you're ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00279_v002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am ready! Burstin' with psychic energy over here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00280_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I feel like fighting in tight, cave-like spaces is my specialty! Not that it has anything to do with my height...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00281_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Those girls seem devoid of teamwork, yet they're speeding right along. Looks really can be deceiving...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00282_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We need to prove our \"A\" isn't just for show.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00283_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe the Cancers are stronger the further in we get... Let's do our best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00284_v002_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I dodge the enemy and counterattack faster than light...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00285_v002_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Hee hee! Preparatory visualization, complete!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

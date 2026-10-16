@@ -1,0 +1,66 @@
+{
+  "Script": "Story/MC01/Day12/Battle/MC01_12_07_06",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whew! Hey, Yukkie, any left?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Only a few more stragglers and we're golden.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Easy enough.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00003_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "My, vhat do vee have here? 31-A?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "'Sup? How goes it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00005_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ha! Swimmingly, peasant.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00006_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "They dropped like guppies, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? What's that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00008_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_Battle_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "On top of that building!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

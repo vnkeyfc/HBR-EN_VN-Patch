@@ -1,0 +1,51 @@
+{
+  "Script": "Story/MC01/Day07/World/MC01_07_10_00",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "New magnificent merchandise, freshly stocked! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can also do Extracurricular Activities during Free Time at night.\\n(Note that Free Time will end after engaging in an Extracurricular Activity.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can check where to increase each Personality Trait\\nby tapping Menu -> Personality Trait -> Places Acquired.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "New boosters and chips, so your squad can be their very best. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "As always, with our products, you get what you pay for. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Now come in and check out this amazing deal! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Take a look?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Munitions Store",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

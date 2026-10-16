@@ -1,0 +1,238 @@
+{
+  "Script": "Story/MC02/Day18/Novel/MC02_18_06_04",
+  "Entries": [
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation complete. Good work today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, the combat zone overlapped with the engineer corps' work area. Please be more aware of this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Remember, the engineers aren't protected by deflectors. This kind of carelessness could cause quite a lot of issues in the real mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies, I'll try harder not to drag everyone down...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00004_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'mon, pull yourself together! You're the squad leader!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00005_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our nine lives are on the line, meow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "O-Okay!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "I'm going to...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Stand up for her|Leave it be",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, it's not her fault. I bet it was because of me again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "According to the data, this is true.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See, I was right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then try a little harder.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, she's right. Who the hell do you think you are, draggin' us down like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you really have to change your attitude that dramatically?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00014_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "According to the data, you're the one who seems to be dragging the others down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm... We were able to get Phase Four's convoy escort down pretty easily, but this time it was weirdly difficult.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00017_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Unlike protecting a convoy, there's very little immediate risk to attend to, since most of the enemies at this point have been eliminated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00018_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You need to keep a continuous focus for a task like this. It's not the same as quick, short-term combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keeping focus? That's like the one thing I suck at the most!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It shows.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00021_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You'll have to pull through with willpower. When you're on standby, the worst thing you can do is let your guard down in the middle of it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00668_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, that's all for today's training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00669_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dismissed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00533_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00023_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A retreated prematurely. The front line of the bridgehead was breached due to unbalanced guard formations.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00810_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cancer reinforcements arrived from the west-southwest, and the engineering corps was wiped out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess we aren't getting top marks for that one, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00026_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not noticing an enemy is unacceptable. You all need to stay focused!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's easy enough to say...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00031_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For example, you shouldn't rely solely on your vision. You should be able to sense a Cancer's presence through the sound of its footsteps or even a change in the air.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Might as well taste the darned things too. How about a Cancer-flavored candy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00033_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you don't mind it never melting in your mouth, then it's possible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_02_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo, that's awful! There's no way that's candy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00499_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh*... Unfortunately, you leave me with no other option than to conclude that 31-A is unsuitable for this mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

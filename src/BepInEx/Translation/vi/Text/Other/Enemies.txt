@@ -29,6 +29,14 @@ r:"^Lasher (.+)$"=Octopus Tail $1
 r:"^Lacerator (.+)$"=Wireframe $1
 r:"^Lamia (.+)$"=Slimy Serpent $1
 
+[PrismGemBoss]
+Alloy Crusher=Berg Knocker
+Hail Gorgon=Hail Horse
+Pyle Golem T=Pile Golem T
+Gyrevault=Shell Protection
+Veiled Charon O=Veiled Death O
+Arachne A=Arachne Line A
+
 [Boss]
 Medusa=Rotary Mole
 Vertex Crimson=Red Crimson

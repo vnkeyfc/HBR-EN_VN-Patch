@@ -1,0 +1,107 @@
+{
+  "Script": "Foundation/spiritual_world_custom",
+  "Entries": [
+    {
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(I remember now...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000019_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(These are my kites. I'd pick out a different one to fly every day based on the weather and my mood.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000020_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(I really didn't have a lot at this point, huh.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000021_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(And these are chocolate cigarettes. I've had a liking for them for longer than I realized.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000022_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(I started buying them just because I thought women looked cool with cigarettes in their mouths, but they're so delicious that I can't get enough of them even now.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000023_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(Lip balm... Everyone I knew seemed to carry this around, so I bought some for myself.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000024_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(Ended up not needing it, though. My lips are plump and moist 24/7, so it just languished in my room.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000025_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(This is a bell to drive away bears.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000026_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(My dad was insistent I take it with me whenever I went into the forest, but I forgot it more often than not. Having fun made me forget all about bears.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000031_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(What sort of games was I playing back then? There's a girl with black hair on the cover of this one... Maybe it's about romancing her?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000032_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(No, there's a ghost behind her! It's a horror game! Damn, I was into the spicy stuff from a young age.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000027_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(A fashion magazine... Angelmaker's July 2027 issue.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000028_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(At the time, I never imagined that an outfit I designed would be featured in the pages of this magazine.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000029_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "That's right, I would always sleep with this hug pillow clutched to my chest. I didn't start using a regular pillow until life on the base.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000030_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(Could not get used to it at first. I fall asleep so fast it doesn't really bother me now, but I kinda want to start hugging something when I sleep again...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000033_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(A portable speaker. I used this baby in lieu of an alarm clock, woke me up real fast every morning.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000034_RKayamori",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(When it was time for me to get up, it'd start playing one of my favorite songs, this real wall of noise. If not for this speaker, I would have given my mom a real hard time.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

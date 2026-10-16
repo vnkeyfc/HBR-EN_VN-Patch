@@ -1,0 +1,251 @@
+{
+  "Script": "Story/MC01/Day03/Novel/MC01_03_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_00145_v002_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "Wow. Quite impressive for new recruits.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00146_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Well, well. You've improved more than I thought.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00147_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The winner is 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00148_v002_SKura",
+      "Context": "Adv.talk:1",
+      "Original": "Guess they weren't just all talk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00149_v002_CSugahara",
+      "Context": "Adv.talk:1",
+      "Original": "This was surprising, to say the least.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00150_v002_MTsukishiro",
+      "Context": "Adv.talk:1",
+      "Original": "Not bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00151_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sounds like we're pretty great, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00152_v002_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Hah...if I lost here, that'd be a terrible blow to my reputation as Scary Karrie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00153_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "This must be the result of all those grueling training sessions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00154_v002_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "The new recruits this term are quite promising.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00155_v002_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "Perhaps humanity's recovery is more than just a far-off dream.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00156_v002_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "I look forward to the day we fight side-by-side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00157_v002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "As you should. Don't you know who yer talkin' to? I'm the one who's gon' save this world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00158_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then go ahead, save the world by your lonesome. Oh wait, you need teammates for that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00159_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "While I'm sure you are all aware, allow me to remind you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00160_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Each Seraph weapon has its own advantages and disadvantages against enemies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00161_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Consider their resistances while forming your squad for certain victory.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00162_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The aptitude test is three days away. Do your best to prepare until then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00000_YShirakawa",
+      "Context": "Adv.talk:1",
+      "Original": "Is that all, Commander?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, that should be fine. Dismissed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Surprising no one, the overwhelming victory goes to 30-G.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00003_SKura",
+      "Context": "Adv.talk:1",
+      "Original": "Guess those girls were all just talk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00004_CSugahara",
+      "Context": "Adv.talk:1",
+      "Original": "Hardly worth lifting a pinky for.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00005_MTsukishiro",
+      "Context": "Adv.talk:1",
+      "Original": "Not a challenge in the least.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "DANG it, we lost!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00007_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Even my powers couldn't save us from losin'...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00008_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Clearly, they're far above us in terms of experience.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00009_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "THIS CAN'T BEEE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00010_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "My killer reputation—it's been slaughtered! Annihilated! RUINED!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00011_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Impossible... How could I have possibly lost?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You lost to me in the proficiency test too, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your teamwork is still quite lacking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I thought we were pretty solid...right, Megumin?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00015_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Don't ask me like we're friends or somethin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Good point!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00163_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Listen up. Each Seraph weapon has its own advantages and disadvantages against enemies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00164_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Consider their resistances while forming your squad for certain victory.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00165_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "With these results, your chances of passing the aptitude test coming up in three days are slim at best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00017_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You should be fully capable of attacking more efficiently. Reflect on that in the days ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Seraph weapons have three types: slashing, piercing, and blunt.\\nEnemy resistances will greatly impact damage output.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_08_00_Novel_00018_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That concludes today's training. Good work today.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

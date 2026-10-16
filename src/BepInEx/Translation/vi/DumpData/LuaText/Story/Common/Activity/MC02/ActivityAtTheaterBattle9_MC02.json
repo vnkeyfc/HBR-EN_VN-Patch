@@ -1,0 +1,26 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtTheaterBattle9_MC02",
+  "Entries": [
+    {
+      "Context": "Field.goToBattle9:2",
+      "Original": "Watch a movie",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToBattle9:3",
+      "Original": "Maybe next time",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToBattle9:4",
+      "Original": "Spend time at Battle 9 Theater?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToBattle9:5",
+      "Original": "Watch a movie to raise your Eccentricity.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

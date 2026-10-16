@@ -1,0 +1,78 @@
+{
+  "Script": "Story/MC01/Day12/Novel/MC01_12_09_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00000_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Good evening! Excellent work out there today. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? What's up? Did something happen?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00002_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Actually, I need to tell you about Bun-chan.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Why do you look so serious?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00004_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Because it's a serious topic.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00005_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "If you don't mind, could all of you please come to our room?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Our whole squad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Can't say no to that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00008_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00009_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00010_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_01_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, after you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

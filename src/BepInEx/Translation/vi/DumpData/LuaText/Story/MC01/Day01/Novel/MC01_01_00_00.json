@@ -1,0 +1,267 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_00_00",
+  "Entries": [
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Chapter 1\\nWorld Domination and A Broken Clock",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00000_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Heh, they wake us up with bugle calls here. Shoulda figured.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00001_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Good morning, cadets. It's time to get up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00002_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Assemble in the hallway for roll call by 06:05.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, Kayamori. Wake up. You are our leader, you know. Act like one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00005_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "She's still dozing, even when I shake her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00006_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Or when I grab her boobs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't be a creep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00008_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "What's all the fuss this early?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Incredible! I don't believe it! You're one with the hat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00011_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, do something 'bout this gal. Ain't no way I'm gettin' in trouble 'cause she wanna be late.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00012_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed. What do we do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00013_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Come on, Izumi. Yer best friends. Do somethin' 'bout it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I barely know her...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, I know one thing that might work... Sorry in advance, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00016_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? What do you mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00017_",
+      "Context": "Adv.bubble_SPEAKER_noWait:1",
+      "Original": "GYAYAGRAYYYBODODODODUOH!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00018_TTojo",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Eek!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00019_TKunimi",
+      "Context": "Adv.showCutIn:1",
+      "Original": "My ears!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00020_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Here I GOOO!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Woo-hooo!\\nBODODODODODUOOOHH!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00022_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ow, ow, OWWW! Get away from me, ya freak!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Alright. Now she's awake.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00024_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "What WAS that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00025_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "My ears!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That was her favorite band. Put it on full blast to get her hyped up, that's all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00027_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "This better not happen every morning... or I'm outta here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Did something happen?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00029_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, you were moshing.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Early morning mosh?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Sleep moshing? Yeah, right|I'd rather grab breakfast. I'm starved!|Aren't you forgetting roll call?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Aren't you forgetting roll call? Forward, march!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00031_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What the—?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00033_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "She actually sounded like a leader for once!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Gee, why are you girls so surprised...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sleep moshing? Yeah, right. Like that could happen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00036_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Next time, I'll make sure to leave you sleeping then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, what's with that murderous glare?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00038_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm feeling murderous, that's what.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00039_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Anyways, I'd rather grab breakfast. I'm starved!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_00_00_Novel_00040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We have roll call first. Geez...just why did she make you our leader?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

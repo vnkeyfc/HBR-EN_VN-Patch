@@ -1,0 +1,11 @@
+{
+  "Script": "Foundation/adv_custom",
+  "Entries": [
+    {
+      "Context": "Adv.AddBackLog:0",
+      "Original": "se",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

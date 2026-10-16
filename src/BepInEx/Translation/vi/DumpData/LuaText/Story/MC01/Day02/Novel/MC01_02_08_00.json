@@ -1,0 +1,114 @@
+{
+  "Script": "Story/MC01/Day02/Novel/MC01_02_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00000_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Good work, everyone. Kayamori's team is victorious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00001_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "FINALLY!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Who knew winning could feel so good?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00003_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Eee heheheheh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nothing stands a chance against me and Karerin. Humanity, prepare to be saved!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't let it go to your head...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00006_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone got a taste of victory—not bad, if you ask me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You said it. Altogether, we're a pretty well-rounded team, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, there is ONE person who has yet to be on the winning team...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Get outta here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00010_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "There can't be, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00011_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "There is, and it's me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "For real, Megumin? No wins whatsoever?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00013_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Sure love how it feels like I'm draggin' down the squad!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No one is saying that...but results are results.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00015_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Mark my words: once I get my powers working on this Seraph, you're goin' DOWN!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00016_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That concludes today's training. Well fought, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_08_00_Novel_00017_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "No friggin' waaay!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

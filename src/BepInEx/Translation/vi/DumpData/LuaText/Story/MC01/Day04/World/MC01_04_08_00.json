@@ -1,0 +1,76 @@
+{
+  "Script": "Story/MC01/Day04/World/MC01_04_08_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the munitions store!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Check out more of this hidden pathway!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "I'm starting to get my bearings.\\nMight as well explore the grounds for a change of pace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Should I stop by the store?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "When do these gals sleep? Do they even eat anything?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Haven't been down here before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "May as well check it out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whoa, the trees are so dense... Am I even on base anymore?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "If I don't head back soon, I'm so getting lost...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "What's that? Could this be a secret base?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Sounds like just what we need to spice up our lives!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_08_00_World_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Alright. Let's take a peek, see if the squad can use this.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

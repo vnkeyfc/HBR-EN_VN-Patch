@@ -1,0 +1,292 @@
+{
+  "Script": "Story/MC02/Day18/Novel/MC02_18_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please count off for roll call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Nanamin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I missed you sooo much!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00003_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please stop hugging me. We are in the middle of roll call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So it's okay if it's after roll call? I'm gonna give you the biggest hug!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00006_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think someone's jealous.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00007_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00008_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A lover's quarrel, eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00009_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're witnessing some serious business!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I haven't even said anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00012_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00014_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Four.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00015_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00016_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Six.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All six out of six members present and accounted for!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you. The commander has a message for you today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh, it's probably good news!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Has it ever been good news?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00021_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This Saturday, you will be taking a proficiency test.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00022_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's BAD NEWS!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's normal news. What about it is bad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00024_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "While training is at a peak right now, anyone who feels uncertain about the proficiency test should study and review.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Noo! That's like saying we have to put time and effort into both our studies <i>and</i> our extracurriculars!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't that what you've been doing anyways?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My brain's no good though!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "True. Can't argue with that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00029_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In order to survive these difficult times, a fair amount of knowledge is also required.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00030_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We don't know how long we can continue being there to back you up either.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ehh...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "But, I...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Don't ever wanna leave your side, Nanamin!|I'm gonna miss the commander",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't ever wanna leave your side, Nanamin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00033_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you don't care about the commander, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00034_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good. I can be as strict as I need.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm gonna miss you too, Commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00036_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're hopeless.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm gonna miss the commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00038_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's no need for that kind of sentimentality.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00039_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "OH MY RUKA! I'm in shock!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00040_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just keep those possibilities in mind. That's all we ask.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes'm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Trying to be a suck-up now, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00043_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "By the way, if you get a failing grade, your GP income from your battles will be reduced.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat! Then we won't have any money to spend on fun stuff!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00045_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You shouldn't be prioritizing fun right now anyways.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_03_00_Novel_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Darn, I have to actually study now...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

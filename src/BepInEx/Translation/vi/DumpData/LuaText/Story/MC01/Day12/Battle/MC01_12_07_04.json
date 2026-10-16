@@ -1,0 +1,66 @@
+{
+  "Script": "Story/MC01/Day12/Battle/MC01_12_07_04",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nice! We're really going ham!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00001_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "It feels like we're even stronger than we were in the dungeon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You can thank all those battles for that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00003_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "No, it's probably because you're surprisingly...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? What about me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uh-oh, that outer wall from earlier's on its last legs. Let's take down those Cancers there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00006_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed! Ruka, I'll act as a decoy. You can go deal the finishing blow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00008_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Let's take 'em all out in one swoop!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_04_Battle_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Okay!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

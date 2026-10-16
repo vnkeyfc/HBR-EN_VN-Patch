@@ -1,0 +1,100 @@
+{
+  "Script": "Story/MC02/Day21/Novel/MC02_21_06_04",
+  "Entries": [
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Campaign Route",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Point Gamma",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00937_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Finally! We've arrived at Kashima Shrine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00938_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*pant*...*gasp*...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00939_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That was quite a steep hike... Asakura, are you okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00940_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm more of a play-video-games-indoors type, so...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00941_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can go on FOREVER!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00942_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eeek!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00943_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what is it? Does your stamina also switch with your personality?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00944_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Aoi, can you do the report to HQ?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00945_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00946_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is Erika Aoi of Squad 31-B. We've arrived at Point Gamma.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00947_v001_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Understood. Phase Two is now complete. We've achieved the mission goals, so this marks the end of today's cumulative training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_02_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tomorrow's cumulative training will cover Phases Three through Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_06_02_Novel_00002_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's all for today. Please go get some rest.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

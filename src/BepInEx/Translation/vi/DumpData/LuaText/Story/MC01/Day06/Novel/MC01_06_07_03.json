@@ -1,0 +1,688 @@
+{
+  "Script": "Story/MC01/Day06/Novel/MC01_06_07_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00000_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Hold it right zere!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? What's this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00000_BIYamawaki#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hold it right zere!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uh, who're you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00004_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "She is a fellow new recruit and member of Squad 31-C.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00005_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Oh? What brings all of you here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00006_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "We would like to introduce ourselves once more to 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00007_BIYamawaki",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "31-C Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00007_BIYamawaki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Well, we would like to introduce ourselves to 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00008_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Go ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Bon Ivar Yamawaki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "Mad scientist, leader of an evil organization.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00009_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Listen up! I am ze brilliant scientist, Bon Ivar Yamawaki, AKA ze woman who will destroy zis pathetic planet. Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What is a wacko bent on destroying the world doing in the Seraph Squadron?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Yayoi Bungo",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "Yamawaki's trusted lackey.\nThe claw on her hand, the Vermillion Vice of Evil,\nis a sign of her servitude.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00012_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "If it was up to the Great Yamawaki, it'd be over in three days. Right, Master, <i>snip snip</i>? Keh he he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And this must be her evil minion, straight out of the comic books.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She even has an evil minion, just like the comic books.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00016_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Go on, introduce yourselves to ze good people.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00017_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Go on, now ist ze time for ze introductions we practiced!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:0",
+      "Original": "Adelheid Kanzaki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:1",
+      "Original": "A not-silent-but-deadly ninja. Her admiration of ninjas has led her to acquire countless ninjutsu.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00018_AKanzaki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I am not that kind of ninja.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Seira Sakuraba",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "A fortune teller divining from the stars.\nBut her accuracy rate is only 53%.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00019_SSakuraba",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "...I was dragged here against my will.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:0",
+      "Original": "Miko Tenne",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:1",
+      "Original": "An alchemist striving to perfect a potion.\nHer medicine cured many ailments globally.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00020_MTenne",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Let me return to my research.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Mari Satsuki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "A top-grade shop owner and combatant.\nHer tricks of the trade are shrouded in\nmystery.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00021_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "I came along because it seemed fun. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00023_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "But we all agreed it was too frustrating!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00024_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "You tell 'em, Master,<i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00026_AKanzaki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I recall no such thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00027_SSakuraba",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "...You forced us to participate. That is why I am here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00028_MTenne",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I have experiments to attend to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00029_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "I came along because it seemed fun. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00031_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Vhaaat?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00032_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "How could this be, Master, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00034_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Get your crew together!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Squad 31-C, our fellow recruits...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Let's be friends!|I am Ruka Kayamori of 31-A. How do you do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's be friends! I'm Ruka Kayamori of 31-A. Nice to meet you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00036_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's be friends! You might already know, but I'm Ruka Kayamori of 31-A. Nice to meet you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I am Ruka Kayamori of 31-A. How do you do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I am Ruka Kayamori of 31-A. How do you do? Have we perchance met before?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00039_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Despicable! Don't patronize me, filthy peasant!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00040_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Despicable! Don't patronize me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00041_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Don't you act all friendly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00042_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Why's that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00043_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Because, you are our fated rivals! Ze enemy we must vanquish! Bwahahaha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00044_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Tell her, Master, <i>snip</i>. Kehehehe!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00046_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Being labeled an enemy from the get-go...how refreshing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Suddenly being labeled an enemy...how refreshing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00048_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There's nothing \"refreshing\" about this. Why are our allies our enemies now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00049_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't it obvious? Of all ze new recruits, ze squad who should have \"A\" in ze title ist us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00050_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "You're in deep trouble now, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00052_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "What? Does \"A\" have some special meaning?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00053_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I hadn't explained yet, had I? As you know, all new recruits are split into six-member squads, and arbitrarily assigned a letter of the alphabet, yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00054_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00055_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The letters have no particular significance...except for the letter \"A.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00056_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "\"A\" is assigned to each term's most promising new squad. It's a special honor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00057_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Alright! I'm the greatest!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00058_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We're in there too, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00059_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Zis simply won't do! Commander, why were they assigned 31-\"A\" right away?! It ist beyond my comprehension!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00060_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Yamawaki isn't very smart, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00062_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Should a lackey really be saying that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00063_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "It was merely a result of their physical capabilities and potential. That is all I can tell you, and all you need to know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00064_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Are you saying zat I am physically less capable?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00065_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Don't you know the Great Yamawaki is a brilliant mad scientist, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00067_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Mad scientists are typically weak and frail...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00068_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I'm ze spitting image of health!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00069_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oof—shut down. I was TRYing not to get involved, too...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00070_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "To think...you'd even take the role of assault squad from us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00071_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Master won't allow it, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00073_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "While they were assigned \"A\" and made an elite assault squad, that simply means they are capable combatants.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00074_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As for your squad, 31-C, Yamawaki and Tenne's scientific knowledge and Sakuraba's fortune-telling will be a boon in future pursuits.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00075_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You are all vital assets to the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00076_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ha! Zat silver tongue serves you well, Commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00077_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Don't try and trick us, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00079_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You DO know that is our superior you're talking to...right? I guess our leader's not much better...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00080_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "My... NO! OUR pride won't allow it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00081_MTenne",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "\"My\" pride will suffice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00082_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "No, Tenne. We're a SQUAD, so OUR pride.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00083_AKanzaki",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I had no idea we were trying to pick a fight with ze commander, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00084_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "I came along because it seemed fun. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00086_MTenne",
+      "Context": "Adv.talk:1",
+      "Original": "Let me return to my research.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00087_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Get your crew together!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00088_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "What are you trying to say?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00089_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "A fight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00090_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "A fight, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00092_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "A fight?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00093_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Yes! I propose a fair fight between 31-A and 31-C! I sink vee already know vho vill vin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00094_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "And for the winner?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00095_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ze winner gets ze coveted A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00096_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So you'll become 31-CA? That's lame.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00097_BIYamawaki",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Why do you sink ve'll keep ze C?!\nYOU get ze C!\nWere you intending to just be Squad 31?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00098_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's short and sweet, ya know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00099_YBungo",
+      "Context": "Adv.playCutIn:3",
+      "Original": "YOU'll be 31-C, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00100_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "It's a battle of the dum-dums!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00101_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It sure is, but no need to say it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00102_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "What do you say, Commander?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00103_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Surely there are more important things to do, like saving humanity...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00104_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Hmm... I don't see why not.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00105_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Wait, seriously?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00106_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Nothing like a little friendly competition. Isn't that right, Nanase?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00107_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed. No objections here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00108_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Brilliant!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00109_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "You did it, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00111_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The rest of the day is yours. We will brief you on the specifics tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00112_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Zis should be fun. Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00113_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "You're on the chopping board now, <i>snip snip</i>! Ke he he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00115_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "We're leaving, Bungo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_03_Novel_00116_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Right, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

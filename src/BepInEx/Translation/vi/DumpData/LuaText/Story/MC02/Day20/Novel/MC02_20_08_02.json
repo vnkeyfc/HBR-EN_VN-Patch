@@ -1,0 +1,78 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_08_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, Aoi. We're doing it, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Staaarrreee.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We literally just got here. Explain it to her more clearly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm talking about the concert. Let's gather some people and DO IT.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! I can't perform in front of people! My skills aren't up to par!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you avoid concerts until you perfect your skills, you're not going to be on stage until you're old and wrinkly. That's how bands work. Ruka assured.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't need to keep assuring it. I'm sure people will quote you in the future if what you just said is that important.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00008_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A concert means we'll be performing right in front of an audience, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep. If we bring our instruments to the cafeteria and start jamming, people will start gathering naturally.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00010_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That sounds like a scene right out of an anime...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_02_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, this is real life! Here, let's start moving our equipment out and get ready to jam.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

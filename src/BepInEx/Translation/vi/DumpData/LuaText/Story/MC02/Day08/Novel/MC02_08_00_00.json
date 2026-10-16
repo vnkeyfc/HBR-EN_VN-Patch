@@ -1,0 +1,154 @@
+{
+  "Script": "Story/MC02/Day08/Novel/MC02_08_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please count off for roll call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00004_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Four.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00005_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Five.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00006_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Six.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Now what do I say?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What am I supposed to say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "All six out of six members present and accounted for|We're the comedy troupe, She is Legend!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All six out of six members present and accounted for!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Excellent. You're starting to sound like a leader.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A compliment! That had to have boosted one of my stats!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_06_merge_00005",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The comedy troupe, She is Legend!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if you are, now is not the time to say it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, hold up! There's no way we actually all just said that in unison!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00020_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyone from Kansai worth their salt knows that kinda setup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're the only one from Kansai here. And I'm the only one who was even a fan of She is Legend!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're invincible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00023_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if you are, please say \"All six out of six members present and accounted for.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if it's for the Nanami Show?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00025_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Especially if it's for the Nanami Show.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All six out of six members present and accounted for.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_00_00_Novel_00027_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "On that note, please clean your room and reconvene at the cafeteria by 06:30.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,41 @@
+{
+  "Script": "Level/LevelMainStreet",
+  "Entries": [
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to Union Street|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Enter the Academy Building|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to Flavor Street|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Enter the dormitories|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to the Mortuary|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to the Clock Tower Viewing Platform|Stay here",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Enter the cafeteria|Stay here",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

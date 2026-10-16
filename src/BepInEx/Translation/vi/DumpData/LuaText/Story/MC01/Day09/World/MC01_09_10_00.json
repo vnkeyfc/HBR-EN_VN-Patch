@@ -1,0 +1,102 @@
+{
+  "Script": "Story/MC01/Day09/World/MC01_09_10_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_09_09_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Is 31-C all right? Maybe someone's around.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh, there's one.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00002_SSakuraba",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00003_SSakuraba",
+      "Context": "Adv.talk:1",
+      "Original": "...Is there something you need?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're in 31-C, right? I don't think I caught your name yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00005_SSakuraba",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Then allow me to introduce myself. I am Seira Sakuraba.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nice to meet you, Saku. I'm Ruka Kayamori, but you knew that already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Your squad just sort of disappeared. We were worried.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00008_SSakuraba",
+      "Context": "Adv.talk:1",
+      "Original": "Thankfully, we escaped unharmed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00009_SSakuraba",
+      "Context": "Adv.talk:1",
+      "Original": "...The stars foretold this, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "They did?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00011_SSakuraba",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. I am versed in astrology.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woah, you mean like horoscopes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00013_SSakuraba",
+      "Context": "Adv.talk:1",
+      "Original": "Well...something in that realm of influence.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh. Well, I'm glad you're all safe. Just wanted to get that across.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_World_00015_SSakuraba",
+      "Context": "Adv.talk:1",
+      "Original": "Yes... May the stars guide us.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

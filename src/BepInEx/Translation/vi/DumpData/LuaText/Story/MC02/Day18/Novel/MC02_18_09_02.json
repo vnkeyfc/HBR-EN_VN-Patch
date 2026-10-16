@@ -1,0 +1,354 @@
+{
+  "Script": "Story/MC02/Day18/Novel/MC02_18_09_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Man, we need to start writing up proper lyrics for this thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "True. We can't really play it on stage when it's all a word salad...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, everyone...prepare to dish out in 30 minutes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uhh...dish out what? Food?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What're you saying? I mean dish out your lyrics!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't write lyrics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Silly Yukkie. Anyone can write lyrics if they know how to write words. Ruka assured!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In the end, it's just matching the number of syllables to the music.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00009_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I never knew writing lyrics was that easy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00010_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So I get to be a psychic and a lyricist... Not bad at all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So do we share our ideas, and then pick and choose the best parts?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup! That's the whole point of doing this as a band.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're soldiers first and foremost...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways, just start writing stuff on your mePads or sing it out, whatever you like! Let's all meet up in a bit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okie-dokie, everyone's here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are we going to do now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're gonna dish it. Dish it all out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh, this is embarrassing... Do I really have to show this stupid poem?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll do it all at once. It's not scary if everyone does it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00020_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm a little nervous...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay everyone, on one, two...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00022_RKayamori",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00023_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00024_EAoi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Please take a look!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00025_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Here's mine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00026_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Here you go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00027_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00028_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "How's this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00029_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your lyrics are so cool, Yuki!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00030_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How 'bout mine?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh, I really like this section.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00032_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I want to try singing this line from Tsukasa's idea...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00033_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, but, Ruka's lyrics are really good too... You really are a pro.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's try piecing some of these together bit by bit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here we go... The song's title is \"Dance! Dance! Dance!\".",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00036_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even though we cobbled the lyrics together from everyone's ideas, it still came out cohesive...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That just means we're all on the same page.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00038_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't know, but we're winning tonight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, let's go right into singing this thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00040_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Which means we're going to have to jam.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup. That's why we're all here, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh, fine! One, two...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00043_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sigh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, whaddya think?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00045_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "That felt...really amazing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00046_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think that sums it up nicely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00047_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe, my words were poppin' in the lyrics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00048_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mine, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's get started on the next song then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00050_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No! That's way too fast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00052_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just let us appreciate what we made for a little while longer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00053_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww. That must mean you really like the song, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00054_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I'm just freakin' tired.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00055_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you sure about that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00056_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I dunno...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_08_01_Novel_00057_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ughh, just shut up!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

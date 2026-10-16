@@ -1,0 +1,256 @@
+{
+  "Script": "Story/MC02/Day18/Novel/MC02_18_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good, everyone's present.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phase Five will be the last step in this operation. The engineering corps will be deployed to Point Delta, where they will set up a bridgehead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00805_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You all will be responsible for support. Be on standby at Point Beta, and keep alert of your surroundings.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00806_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Until the engineering corps completes installation, keep patrolling the surrounding areas.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00004_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can't be sure if Cancer reinforcements will appear from the mountains, so extirpate all that you encounter. Ideally, away from the bridgehead installation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why's that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you get into combat near the bridgehead, stray attacks could hit it. That's the last thing we want happening.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since 31-A is focused primarily on close-combat, try to defeat the enemies in a single engagement, then return to your posts afterwards.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00009_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In that regards, speed is an imperative.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00010_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "While there shouldn't be many enemies at this phase, be on alert for any unexpected reinforcements.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00011_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, and be sure to alternate taking breaks during this phase.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00012_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once the engineering corps completes the bridgehead, retreat back to the base through Point Alpha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600100_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since this is a training simulation, the operation will end once the time limit is reached.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cadet Kayamori, you're making a confused expression again. Was there a term you didn't understand?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "The word I didn't understand was...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Extirpate|Unexpected reinforcements|The meaning of life",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's \"extirpate\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00015_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It means eliminating the enemy completely, leaving none behind. Do you understand now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00018_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It means eliminating the enemy completely, leaving none behind. Do you understand now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00016_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00020_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Also, this is the second time I've explained this. For a second there, I thought it was just déjà vu, but no...you've definitely asked this before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ohh, so that's why you got \"......\" for a moment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00022_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This wasn't all that surprising, coming from you. But try to remember these things so you don't keep asking the same question over and over again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are...unexpected reinforcements.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00025_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Enemies that come out of nowhere. Was that simple enough for you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is the meaning of life?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00028_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Come again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know, like, what it means to be <i>alive</i>. I don't get it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00030_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "From a biological perspective, the meaning of life could be to preserve and propagate the species. From a philosophical perspective, I would say everyone has their own answer beyond that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00031_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, I'd advise you to focus on saving humanity first. If we perish, there'll be no meaning to life in the first place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That sounds pretty convincing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00033_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00034_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's all this? Haven't we heard this whole song 'n dance before?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00035_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't ask me, I don't know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00036_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, once all of the steps are complete, the operation will end. Just be aware that retreating is still part of the operation, so don't let your guards down until the very end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. It's like how the adventure's not over until you're back home from the concert.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00038_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't you mean journey?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_06_00_Novel_00041_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

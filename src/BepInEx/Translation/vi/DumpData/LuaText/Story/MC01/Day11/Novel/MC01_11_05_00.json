@@ -1,0 +1,78 @@
+{
+  "Script": "Story/MC01/Day11/Novel/MC01_11_05_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie, Yukkie. Look at this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What gives? It's just a mackerel.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's right. A grilled mackerel set meal! Can't call me a little kid anymore now, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh yeah? Then what're all those other things on your plate?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uh...they came as part of the set. Totally.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I've heard that excuse before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "They're just chicken nuggets...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How is that NOT childish?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But if I don't eat fried food, I can't give my all in combat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, at least don't slather them with all that ketchup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_05_00_Novel_00010_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Is that amount even legal?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Lunch_TKunimi_Quest_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yummy!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

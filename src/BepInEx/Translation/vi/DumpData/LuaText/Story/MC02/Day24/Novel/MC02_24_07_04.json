@@ -1,0 +1,132 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_07_04",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're...finally...here...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you really <i>that</i> tired?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Escorting the convoy took my entire attention span...and it took so long...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We still have to pass the convoy over to 30-G.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I know, I know...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uhh, this is 31-A and 31-B. Escorting complete, we'll be passing the convoy and engineering corps over to 30-G.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01008_v001_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've been waiting for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00007_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you for protecting the convoy. You've done well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00008_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll now take over the escort for the engineering corps, and begin setting up the bridgehead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't forget to report to HQ.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, you're acting like a mom.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I take offense to that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "HQ, do you copy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00014_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This is HQ. Go ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We finished passing the escort of the engineering corps and the convoy to 30-G.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please give us instructions on what to do next.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00017_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Understood. Please take some time to rest until we get back to you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoo, finally some hard-earned R&R!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_05_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good for you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

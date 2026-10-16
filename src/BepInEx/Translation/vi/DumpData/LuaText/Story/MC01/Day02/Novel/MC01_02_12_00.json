@@ -1,0 +1,90 @@
+{
+  "Script": "Story/MC01/Day02/Novel/MC01_02_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Another exhausting day. Well, good ni—Zzz.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You fell asleep before even finishing your sentence? You're so good at sleeping, you should add it to your resume...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Okay, gimme a pen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, you weren't asleep?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah yeah, I'm on it... Just how many of these do I hafta sign? Mmnnh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00005_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "She's just sleep talking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Sleep talking with the most perfect timing in the history of humanity!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00007_Karen",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "\"Her drowsiness will be her downfall,\" Yuki thought to herself. This was when she knew Ruka would be her first target.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00007_Karen#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "\"Her drowsiness will be her downfall,\" Yuki thought to herself. This was when she knew Ruka would be her first target.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's back! That creepy voice! Why does it always act like I'm plotting a murder?! I'm not, for the record!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Keep it down, Yukkie. How are we supposed to sleep?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And why am I always the one getting scolded?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00011_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "You have my condolences.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_11_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't act like you're not contributing to it.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

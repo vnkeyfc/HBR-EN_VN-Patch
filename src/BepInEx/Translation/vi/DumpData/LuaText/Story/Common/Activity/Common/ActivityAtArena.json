@@ -1,0 +1,163 @@
+{
+  "Script": "Story/Common/Activity/Common/ActivityAtArena",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtArena_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Maybe I'll do some training at the arena...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Train at the arena today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Train",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00001_v003_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Hello, Cadet Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00001_v003_NNanase#2",
+      "Context": "Adv.talk:1",
+      "Original": "Hello, Cadet Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00003_v003_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Good evening, Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Will you help us calibrate the test run?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, of course! I'd do anything for you, Nanamin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00000_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you. When you clear the specified missions for the first time, you will be granted some bonus credits as a reward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00004_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you come here to train today?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep, aren't I super diligent? I'm using my free time for this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00009_v003_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please wait a moment while I boot up the system.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press the L2 button to open a sub-menu where\\nyou can tweak the auto-battle mode settings.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButtonRect:4",
+      "Original": "Auto-Battle Mode Sub Menu",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Selecting FULL will allow the units to use all of their skills in auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Selecting NORMAL will prevent the use of skills with usage limits during auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press this button to enter auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the right directional button to enter auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButton:4",
+      "Original": "Next Page",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Selecting FULL via the R2 button will allow your units to use all of their skills in auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Selecting NORMAL via the L2 button will prevent the use of skills with usage limits during auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can also individually set which skills are allowed to be used in auto-battle mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Select and toggle the skills you want to use.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Select and toggle the check box of the skills you want to use with the □ button.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "After adjusting each member's settings, tap here again to return to normal and proceed to fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "After adjusting each squad member's settings, press the △ button again to return to normal and proceed to fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtArena_00026_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Okay, let's rock!!!",
+      "Vietnamese": "Quẩy thôi!!"
+    },
+    {
+      "Key": "VC_ActivityAtArena_00012_v003_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": "Mọi người vất vả rồi."
+    }
+  ],
+  "Inserts": []
+}

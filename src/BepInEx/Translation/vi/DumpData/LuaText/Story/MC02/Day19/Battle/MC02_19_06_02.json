@@ -1,0 +1,18 @@
+{
+  "Script": "Story/MC02/Day19/Battle/MC02_19_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00821_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See? I can get down to business, too. Wasn't I cool, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00822_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was right there with you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

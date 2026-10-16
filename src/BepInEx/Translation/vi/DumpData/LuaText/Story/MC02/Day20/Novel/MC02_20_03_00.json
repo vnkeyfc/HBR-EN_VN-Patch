@@ -1,0 +1,172 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The chocolate that we eat today originates from Mexico.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00001_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In ancient Mexico, the cacao plant was an important and expensive resource. Because of its cultural importance, it was also called by a special name.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori, what do you think it was?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "The cacao plant was referred to as...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Food of the devil|Food of the gods|Food of the fat",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was it \"the food of the gods\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00004_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woo-hoo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was it \"the food of the devil\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00007_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00009_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is \"the food of the gods.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was it \"the food of the fat\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00011_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd say \"the food of the fat\" is more like pizza or something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie! That's so rude!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, you're the one who said it first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00016_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is \"the food of the gods.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00017_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The cocoa plant was extremely valuable and was considered to be food for the gods.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00018_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Around the 16th century, the Aztec emperor, Moctezuma, was known to have drunk 50 cups of chocolate daily from a golden goblet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So they consumed chocolate as a liquid back then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whenever I eat chocolate my skin breaks out, so if I drank 50 cups of chocolate I'd probably die a horrible death with my entire face acne-fied...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um, gross.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00022_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Apparently, the chocolate back then wasn't exactly tasty.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00023_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "About 300 years later, the Dutch chemist, Coenraad Johannes van Houten, tried to find a way to make chocolate taste more appetizing, and through trial and error, cocoa powder was born.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00024_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You could say it was through this advancement that we have delicious chocolate as we know it today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_03_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh. Interesting.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

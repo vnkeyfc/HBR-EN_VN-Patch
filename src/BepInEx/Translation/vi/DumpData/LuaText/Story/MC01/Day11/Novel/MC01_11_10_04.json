@@ -1,0 +1,30 @@
+{
+  "Script": "Story/MC01/Day11/Novel/MC01_11_10_04",
+  "Entries": [
+    {
+      "Key": "VC_MC01_11_09_04_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sigh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_04_Novel_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "At least we're off the hook.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00293_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Now that we've got our gig booked, we gotta practice till we drop!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_04_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Not like humanity's dying or anything...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

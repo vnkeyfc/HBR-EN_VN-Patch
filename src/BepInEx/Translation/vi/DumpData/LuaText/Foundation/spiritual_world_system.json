@@ -1,0 +1,17 @@
+{
+  "Script": "Foundation/spiritual_world_system",
+  "Entries": [
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Remembered {0}.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC05A_v005_00187_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "(I can feel it... An important memory lies slumbering here...)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC02/Day04/MC02_04",
+  "Entries": [
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Narby Square",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

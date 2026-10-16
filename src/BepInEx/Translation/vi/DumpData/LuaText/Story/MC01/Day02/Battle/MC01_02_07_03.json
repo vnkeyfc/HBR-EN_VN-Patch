@@ -1,0 +1,34 @@
+{
+  "Script": "Story/MC01/Day02/Battle/MC01_02_07_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_07_02_Battle_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Tojo has the ability to enhance her allies' performance in battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_02_Battle_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "By utilizing her in tandem with Kayamori, you can inflict great damage to enemies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_02_Battle_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Let's see if you're capable of claiming victory faster than the other team.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tojo is a Buffer.\\nShe is proficient at supporting her teammates.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Use her support skills before another unit attacks to enhance the damage dealt.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

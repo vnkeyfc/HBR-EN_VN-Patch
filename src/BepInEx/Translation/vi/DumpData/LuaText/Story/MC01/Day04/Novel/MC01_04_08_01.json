@@ -1,0 +1,66 @@
+{
+  "Script": "Story/MC01/Day04/Novel/MC01_04_08_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "*GASP*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "A drum set...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "A guitar and amp, too...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "This is totally a studio!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Pretty dusty in here, though...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Even the guitar strings are rusty. Better replace these...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Looks like I gotta be the one to whip this place back in shape!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sigh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Dang. I've really outdone myself. I've never even cleaned my own room before!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_09_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Now that I've got a studio, nothing's stopping me from starting a band! Watch out, ladies, 'cause here I come!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

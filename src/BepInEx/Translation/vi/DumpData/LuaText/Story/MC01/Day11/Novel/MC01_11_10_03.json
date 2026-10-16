@@ -1,0 +1,108 @@
+{
+  "Script": "Story/MC01/Day11/Novel/MC01_11_10_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "So now you've gone rogue and formed some kind of guerilla band?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But everyone was enjoying themselves.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Even those who want to eat their meal in peace and quiet?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Come onnn, we've gotta have some fun every once in a while.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Well, I don't disagree with you there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If you broadcast it, even the dome dwellers could jam out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00006_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You may have a point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00288_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Let me mull it over. In the future, I might actually take you up on that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00289_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Then that means we can go all out in practice and take it easy in training! Woo-hoo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00290_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "A valiant attempt, but no. This is a military—your training comes first. Band practice is purely extracurricular.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00291_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Seriously? But that's what we've <i>been</i> doing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00292_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Stop. She's already made enough concessions. Don't keep pushing your luck.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeesh, why can't <i>you</i> be the commander instead, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00015_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Excuse me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00016_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Uh, just ignore her!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00017_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "No complaints here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_11_09_03_Novel_00018_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That's what I thought.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

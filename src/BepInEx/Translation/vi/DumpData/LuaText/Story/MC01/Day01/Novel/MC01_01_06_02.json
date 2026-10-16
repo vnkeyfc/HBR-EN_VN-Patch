@@ -1,0 +1,66 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00000_NNanase",
+      "Context": "Adv.bubble_SPEAKER_noWait:1",
+      "Original": "Initializing arena activation sequence. Please do not move from your positions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00001_NNanase",
+      "Context": "Adv.bubble_SPEAKER_noWait:1",
+      "Original": "In 5...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00006_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Now, everyone, please hold up your mePads and recite your Seraph Codes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00007_RKayamori",
+      "Context": "Adv.talkWaitTap:1",
+      "Original": "My legend begins now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00008_MAikawa",
+      "Context": "Adv.talkWaitTap:1",
+      "Original": "Yer savior has arrived!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00009_YIzumi",
+      "Context": "Adv.talkWaitTap:1",
+      "Original": "Hello world!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00010_TTojo",
+      "Context": "Adv.talkWaitTap:1",
+      "Original": "There exists more than one truth!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00011_TKunimi",
+      "Context": "Adv.talkWaitTap:1",
+      "Original": "Unsinkable!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00012_KAsakura",
+      "Context": "Adv.talkWaitTap:0",
+      "Original": "Karen Asakura?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_02_Novel_00012_KAsakura",
+      "Context": "Adv.talkWaitTap:1",
+      "Original": "Reaping your last breath!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

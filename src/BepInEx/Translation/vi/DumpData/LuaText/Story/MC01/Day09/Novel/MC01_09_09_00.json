@@ -1,0 +1,84 @@
+{
+  "Script": "Story/MC01/Day09/Novel/MC01_09_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Wow, who're they? They all look so cool.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00001_MYanagi",
+      "Context": "Adv.talk:1",
+      "Original": "Milady, your post-meal tea.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00002_KMaruyama",
+      "Context": "Adv.talk:1",
+      "Original": "Thank you. Don't forget the others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00003_SHanamura",
+      "Context": "Adv.talk:1",
+      "Original": "Mion, darling. Make sure mine is infused with a dollop of love.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00004_MKurosawa",
+      "Context": "Adv.talk:1",
+      "Original": "And make mine with a heapin' helpin' of <i>oomph</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00005_CMatsuoka",
+      "Context": "Adv.talk:1",
+      "Original": "I'll have barley tea. What about you, Inori?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00006_INatsume",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00007_MKurosawa",
+      "Context": "Adv.talk:1",
+      "Original": "Taciturn as always, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00008_MYanagi",
+      "Context": "Adv.talk:1",
+      "Original": "You would prefer matcha, correct?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00009_SHanamura",
+      "Context": "Adv.talk:1",
+      "Original": "How did you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00010_KMaruyama",
+      "Context": "Adv.talk:1",
+      "Original": "Yanagi is my butler. Her tastes are almost as refined as my own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00011_MYanagi",
+      "Context": "Adv.talk:1",
+      "Original": "You flatter me, milady.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_09_00_Novel_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(No fair! They've got their own attendant?!)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,61 @@
+{
+  "Script": "Foundation/fishing_system",
+  "Entries": [
+    {
+      "Context": "Adv.question:0",
+      "Original": "You didn't get any fish.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Nothing",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "{0} again",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What do I want to feed Rumi?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:1",
+      "Original": "Next Page",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "You don't got any bait.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "End",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "{0} unlocks at Lv. {1} (Held: {2})",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "{0} (Held: {1})",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "{0} | {1} unlocks at Lv. {2} (Held: {3})",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "{0} | {1} (Held: {2})",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

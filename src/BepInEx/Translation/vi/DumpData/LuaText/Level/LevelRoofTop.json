@@ -1,0 +1,11 @@
+{
+  "Script": "Level/LevelRoofTop",
+  "Entries": [
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to the first floor|Stay here",
+      "Vietnamese": "Đi xuống tầng trệt|Ở lại"
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,66 @@
+{
+  "Script": "Story/MC02/Day15/Novel/MC02_15_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even though I'm so talented at sleeping that I could put it on my résumé, I can't seem to fall asleep right now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess I'm just too full of energy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe I'll go out for a walk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whew... When you run all the way up at once, it really takes the wind out of you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, I've never seen a birdie like that before... Hey there buddy! Cheepy cheepy...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, leaving so soon?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder if it'll stay sunny tomorrow, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well...I hope it's sunny.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_12_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that I've got a bit of exercise in, I should be able to get to sleep. Let's get back to bed.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

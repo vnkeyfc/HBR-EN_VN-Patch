@@ -1,0 +1,114 @@
+{
+  "Script": "Story/MC01/Day09/Novel/MC01_09_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00000_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Unlike training, active combat tires out the mind more than the body.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Mm, for sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I try not to think about the hard stuff, so it felt the same to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00003_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I don't even think about the easy stuff.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Worrying remarks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00005_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't worry! You've got me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is that supposed to offer some sort of comfort?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00007_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "YO, TAMA!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00008_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Y-Yes?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00009_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yer basically the squad mascot. Contribute just by bein' there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That was even more condescending than what I just said.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00011_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I do think we've gotten better at communicating and working together. The battles <i>are</i> getting easier.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's 31-A for you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I thought you weren't thinking about stuff.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That was Megumin, not me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00015_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You said basically the same thing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You know, chatting like this has my eyelids... Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_10_01_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "At least I can count on you to fall asleep on cue.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

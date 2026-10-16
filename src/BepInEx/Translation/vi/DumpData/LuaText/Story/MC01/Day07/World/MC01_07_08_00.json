@@ -1,0 +1,222 @@
+{
+  "Script": "Story/MC01/Day07/World/MC01_07_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_07_09_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalkAsync:0",
+      "Original": "Oh, it's the cutie from 31-C. What was her name again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00001_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "I am a familiar of the Great Yamawaki. They call me...Bun-chan, the Claw, <i>snip</i>! Ke he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"Bun-chan\", huh? That's so adorable!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00003_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Hands off the merch, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What are you up to? Looking for something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00005_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Yamawaki is in need of more familiars, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00006_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The more familiars, the easier it is to destroy the world! My master will surely be pleased, <i>snip</i>! Ke he he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'm pretty strong too, you know? For a human.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00008_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "No humans allowed, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What exactly is a familiar, anyway? Creatures summoned here from another world?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00010_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Something like that, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So there's another world full of creatures just like you?\\nSounds like heaven!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00012_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "More like hell, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00013_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "It's ruled by an evil demon overlord, <i>snip</i>! Humanity has lost all hope there, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "When you put it that way, that's no different from the real world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00015_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Now you're starting to get it, <i>snip</i>. That's right. Now that the Great Yamawaki has been reborn into this world, its destruction is inevitable, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What? She was reborn?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00017_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "That's right, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What was she like before, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00019_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "She was sealed away behind a magic barrier, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I see... Let me try sealing her away behind a magic barrier.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00021_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Don't even try, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But humanity's already facing down the Cancer! If there's another enemy bent on destroying the world, we won't know who to fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00023_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Then you'll have to go through ME, first, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I could never lift a finger against such a cute kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00025_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The Claw strikes again! No one escapes my deadly charm, <i>snip</i>! Ke he he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00026_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Aghh, there you are! Vhere did you go running off zis time?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00027_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "I was on the hunt for more familiars for you, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00028_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Why vould I vant one of zose? All I need is my one underling trying her very best!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00029_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "You really mean it? All I've gotta do is try harder, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00030_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Zat's right! One familiar is all I need to rule ze world! So we must continue whipping you into tip-top shape!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00031_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "It seems my efforts were all for nothing, <i>snip</i>...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00032_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "But for you, Master, I'll put my best claw forward, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00033_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Zat is all I ask for! Now, let's move out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00034_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, master, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_World_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Those two sure do have a strange relationship...)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

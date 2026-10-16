@@ -1,0 +1,96 @@
+{
+  "Script": "Story/MC02/Day17/Novel/MC02_17_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00000_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The door's not locked!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "E-Excuse us...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, it's you all. What's wrong?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00004_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We don't know where Officer Nanase is, so we haven't been able to access the arena for training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry? The arena is under inspection today, so you can't access it. Officer Nanase should have informed you all about this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No one told us any of that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohhh, right. She told me about it after roll call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00010_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "AUUUGGGHHH!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00011_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's howling like a wild beast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "NOOO, SHE'S ANGRY! RUUUN!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh*... Honestly...I'm concerned about your future.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_17_06_02_Novel_00014_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, so are we...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

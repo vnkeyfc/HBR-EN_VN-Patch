@@ -1,0 +1,282 @@
+{
+  "Script": "Story/MC02/Day21/Novel/MC02_21_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hwuh? Who's there?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sniff* *sniff*...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Umm... Higumin?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00003_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who are you calling \"Higumin\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Umm... Higuchi?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you get all touchy-feely with me like that, a certain someone's going to get jealous...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00006_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not being touchy-feely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then what ARE you doing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00008_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was sniffing you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00010_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I felt that you're a little different than the others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I guess everyone's got their quirks. People do say I'm pretty weird.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00012_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even so, you're a particularly interesting test subject.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A test subject for what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00014_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A test subject for the studying of Seraphim, of course.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who's doing the experimenting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00016_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me. I'm even a test subject myself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't really understand anything you're saying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00018_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's only natural. You wouldn't be able to understand what goes on in the mind of a genius.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "People used to call me a genius way back when, does that count?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00020_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Never mind... I'm rather busy, so I shouldn't be wasting my time chatting here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, could I ask you something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00022_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As a fellow squad member, what do you think about Ichigo and Sumomo's plans?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As a fellow squad member, what do you think about Ichigo and Sumomo's plans?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00025_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Such a menial matter. I could hardly care less about it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But isn't your life on the line, in a way?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00027_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Personally, I don't think I'd mind dying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00029_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm very curious about the mysteries surrounding life...our lives.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But if you die, that's the end of it all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00031_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Or perhaps, death will let me see things from a different angle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't know about that one...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00033_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even so, it excites me to no end to consider the possibility...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00034_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways. I'm quite busy, so I'll be leaving now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00949_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, wait. Hold on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I want you to help Aoi out so the mission succeeds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00036_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why should I?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00950_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because she's your leader right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00951_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because she's your leader right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00037_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that a formal request from you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_21_12_00_Novel_00039_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose it's doable. You allowed me to sniff you, after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00952_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks, Higumin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00953_v001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't call me that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00954_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks, Higuchi!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

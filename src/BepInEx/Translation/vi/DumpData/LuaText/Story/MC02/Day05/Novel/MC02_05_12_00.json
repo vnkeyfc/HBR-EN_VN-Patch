@@ -1,0 +1,478 @@
+{
+  "Script": "Story/MC02/Day05/Novel/MC02_05_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00000_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey. How'd it go?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00429_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We talked. It got pretty heavy, but she opened up to me in the end. Yukkie, try not to get jealous.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not even if I was six feet under.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw, for real? Even if I mention that I told Aoi how much she means to me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00004_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh-oh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00005_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here they go again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00006_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A lover's quarrel?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00007_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00008_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's not LIKE that!\nDON'T GIVE ME THOSE LOOKS!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyway...if that's how you feel, then it's not my place to interfere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00010_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's jealous...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00011_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00012_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "No, I'm NOT!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry, I didn't mean it like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good, I sure hope you didn't!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00015_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's jealous...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00016_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00017_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "NOT EVEN A LITTLE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'mon, spit it out already. All this yelling is exhausting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoopsie gravy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. Not that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, right! While you were conveniently absent, my \"Whoopsie gravy\" got a laugh! It's confirmed: whoopsie gravy is the key to world peace!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what? Are you going to retire from the military and go around the world spreading the gospel of whoopsie gravy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold up! Wouldn't that mean I'd have to travel on foot for ages?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With all forms of transit in shambles, yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh...when you put it that way, I'm not so sure anymore...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sure defeating the Cancer is a quicker method of attaining world peace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I take it all back! I'll do that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There, there. Let's agree to never waste time with this pointless topic again, shall we?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "About Aoi's reason for fighting...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Aoi's reason for fighting is...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "To be a good leader and ensure that no one ever falls in battle again|To invent nifty kitchen utensils and be of service to the world|To stuff her face with marshmallows until, for a brief moment, not a single one's left in the world",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She wants to be a good leader and ensure that no one ever falls in battle again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She wants to invent nifty kitchen utensils and be of service to the world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00042_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's really risking her life for a such a domestic dream?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00043_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Humanity doesn't have much use for nifty kitchen utensils right now. Is that REALLY what she said?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I may be embellishing a bit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00045_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop that. This is a serious matter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00047_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She wants to be a good leader and ensure that no one ever falls in battle again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She wants to stuff her face with marshmallows until for the briefest of moments there's not a single one left in the whole world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00049_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What kind of reason is that?! Would marshmallows ceasing to exist accomplish something?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00050_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Making marshmallow fans everywhere despair?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00051_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not even possible to do alone. It's one thing to, say...burn them, but gobbling them all up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00052_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even a speed-eating pro couldn't fit all the marshmallows in Tokyo in their belly, let alone every marshmallow in the world!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00053_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's not a snowball's chance in hell she said that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00054_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, she didn't.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00055_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cut it out. This is a serious matter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00046_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00057_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So? What did she really say?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00047_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She wants to be a good leader and ensure that no one ever falls in battle again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00059_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's exactly what a proper leader would say.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00060_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But with the way she is now, that doesn't sound possible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00061_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She said pretty much the same thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00062_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So after this next operation, I want us to celebrate together with her. Let her know she did a good job.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00063_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00064_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Excellent idea.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00065_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, but no alcohol allowed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00066_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00067_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So I promised her I'd celebrate with her after this next operation. Let her know she did a good job.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00068_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00069_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, what about us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00070_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope. Just me and Aoi, on the down low.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00071_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00072_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A lover's quarrel?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00073_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00074_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "No, it's not!\nUgh, my throat hurts from all this yelling!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00075_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll take care of you afterwards, so let this one slide.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00076_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This has nothing to do with me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00077_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If that's how it is... Tama, let's have our own celebration, you and me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00078_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oooh! Good idea!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00079_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00080_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00081_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "What're you lookin' at?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00082_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We didn't say anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00083_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, but that's the same look y'all give Ruka and Izumi all the time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00084_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay. Then how about having our own one-on-one celebration, Asakura?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_12_00_Novel_00085_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, everyone else is taken.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

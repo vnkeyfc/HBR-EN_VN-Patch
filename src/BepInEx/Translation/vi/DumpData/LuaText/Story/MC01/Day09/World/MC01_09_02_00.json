@@ -1,0 +1,234 @@
+{
+  "Script": "Story/MC01/Day09/World/MC01_09_02_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_09_02_00_World_00000_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Feels good to sleep in, doesn't it? But I wonder if you can afford to waste that time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00001_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "After all, we made it all the way to the second level yesterday!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00002_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Jya! Jya-ra! Jya-rarararaaa! Jyararararararaa! Jya-jya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00003_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "What was that just now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00004_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "It's your theme song for when you're destroying the world, Master! Ke he he he, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00005_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "It vas so out of tune, it sounded like circus music.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00006_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Then...how's this, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00007_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Jya! Jya-ra! Jya-rarararaaa! Jyararararararaa! Jya-jya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00008_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ugh, no more! You call yourself my lackey when your singing is zis horrible?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00009_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "My sincerest apologies, Master. I'll be sure to practice my singing, <i>snip</i>...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00010_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Could you maybe demonstrate how it's supposed to go, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00011_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "M-Me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00012_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, Master, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00013_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "You cannot expect me, of all people, to sing...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00014_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "I'm begging you, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00015_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Very vell, you leave me no choice. Listen closely, my minion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00016_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00017_BIYamawaki",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Jya! Jya-ra! Jya-rarararaaa! Jyararararararaa! Jya-jya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00018_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "How'd I do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00019_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "I'm not wowed, Master, <i>snip</i>...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00020_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "In ze first place, do I even need a zeme song?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00021_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Yes! It's crabsolutely essential, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00022_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ughhh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00024_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "You zere! You dare laugh at me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No, I was just thinking you two are fun to watch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00026_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "We're plotting to destroy ze world here, and your response is to <i>laugh</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00027_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "She thinks she's better than us, Master! I'd like to hear <i>you</i> sing, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'm pretty decent at singing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00029_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Then prove it, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sure thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Jya! Jya-ra! Jya-rarararaaa! Jyararararararaa! Jya-jya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00032_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "She's good, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00033_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Too good!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00034_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "I'll practice until I can sing just as well as her, Master, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00035_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "But... No, you're right. It all comes down to hard work. Never forget zat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00036_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Cross my heart, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_09_02_00_World_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(I think we all just got a little closer. I think.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

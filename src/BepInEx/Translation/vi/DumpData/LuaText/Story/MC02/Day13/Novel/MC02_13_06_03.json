@@ -1,0 +1,96 @@
+{
+  "Script": "Story/MC02/Day13/Novel/MC02_13_06_03",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00649_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's kinda boring now with all the enemies wiped out. Can I just rest my little eyes for a bit?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00650_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course not. You're totally just going to fall asleep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00651_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But Cappy's doing it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00652_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00654_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're kidding me... Hey, wake up. You're a former captain, you should be the last one dozing off like this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00655_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Aah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00656_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "N-No! I wasn't sleeping at all, I was just resting my eyes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00657_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've heard that excuse before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00658_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YO, Tama!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00659_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00660_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You could've at least let us know before ya snooze.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00661_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She shouldn't be snoozing in the first place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00662_v001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh. No snoozing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00663_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You kind of seem like the type who could get away with it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00664_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Perhaps we should stay awake here...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

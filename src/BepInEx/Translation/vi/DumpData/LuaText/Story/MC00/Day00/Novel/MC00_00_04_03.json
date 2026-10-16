@@ -1,0 +1,178 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_04_03",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00000_STezuka",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Commander",
+      "Vietnamese": "Tư lệnh"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00000_STezuka",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "How's the situation?",
+      "Vietnamese": "Nanase, báo cáo tình hình."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00001_NNanase",
+      "Context": "Adv.AddBackLog:0",
+      "Original": "Nanase",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00001_NNanase",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "A Cancer swarm just breached our second line of defense. E.T.A. approximately 30 minutes.",
+      "Vietnamese": "Một bầy Cancer vừa đột kích phòng tuyến thứ hai. Dự kiến chúng sẽ tiếp cận căn cứ này trong vòng 30 phút tới."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00001_NNanase#2",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Nanase",
+      "Vietnamese": "Số lượng quân địch không nhiều. Chỉ riêng đội tuần tiễu cũng thừa khả năng đối phó."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00001_NNanase#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "A Cancer swarm just breached our second line of defense. E.T.A. approximately 30 minutes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00002_NNanase",
+      "Context": "Adv.AddBackLog:0",
+      "Original": "Nanase",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00002_NNanase",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Their numbers are few. Our patrols should be entirely capable of handling this threat on their own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00002_NNanase#2",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Nanase",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00002_NNanase#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Their numbers are few. Our patrols should be entirely capable of handling this threat on their own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00003_STezuka",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Commander",
+      "Vietnamese": "Tư lệnh"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00003_STezuka",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Good.",
+      "Vietnamese": "Tốt."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00004_STezuka",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Commander",
+      "Vietnamese": "Tư lệnh"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00004_STezuka",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "It's a perfect opportunity for you to offer them backup. Prepare to sortie immediately.",
+      "Vietnamese": "Nhân cơ hội này, các cô sẽ nhận nhiệm vụ hỗ trợ hậu phương. Khẩn trương chuẩn bị xuất kích."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Us?! You can't be serious!",
+      "Vietnamese": "Bọn em á?! Không đùa chứ?!"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Who's she, anyway?",
+      "Vietnamese": "Hửmm? Mà người này là ai vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You didn't even catch that?! She's the commanding officer of the Seraph Squadron, Commander Tezuka!",
+      "Vietnamese": "Đến chuyện đó mà cậu cũng để ngoài tai hả?! Là Tư lệnh Tezuka, tổng chỉ huy Quân đoàn Seraph đấy!"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00008_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "There's no time. This is all the briefing you'll get, so listen closely.",
+      "Vietnamese": "Không còn nhiều thời gian nữa nên tôi sẽ phổ biến nhiệm vụ ngay. Các cô tập trung lắng nghe cho kỹ."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Listen to the briefing?",
+      "Vietnamese": "Phổ biến nhiệm vụ à..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Listen closely|Ignore it",
+      "Vietnamese": "Lắng nghe kỹ|Phớt lờ"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sortie?",
+      "Vietnamese": "Xuất kích á?"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry, groups aren't really my thing. I prefer to walk my own path.",
+      "Vietnamese": "Tiếc ghê. Em đây không ham mấy trò bè cánh đâu. Cứ để em tự do hành động thì hơn."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The fate of humanity's at stake so we need to all come together as one! Just shut up and listen, already!",
+      "Vietnamese": "Nhân loại sắp tiêu tùng tới nơi rồi nên biết đoàn kết giùm đi——!! Đáng lý lúc này phải tỏ ra đồng lòng hiệp lực chứ——?!"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's not really my gig, though...",
+      "Vietnamese": "Ể—... Nghe chả giống tác phong của tớ tí nào."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Now's not the time! So, what's this about sortie?",
+      "Vietnamese": "Thôi dẹp mấy chuyện đó đi hộ! Vậy tóm lại \"xuất kích\" nghĩa là sao chứ?"
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00014_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "What do you think it means? We head out and attack the enemy to stop them in their tracks.",
+      "Vietnamese": "Đúng theo nghĩa đen. Từ giờ các cô sẽ ra trận và cầm chân kẻ địch."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, okay... Sounds reeeal easy.",
+      "Vietnamese": "Nghe vô lý hết sức..."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00016_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "There's no need to worry. I'll be nearby instructing and supporting you, able to assist at a moment's notice.",
+      "Vietnamese": "Cứ yên tâm. Tôi sẽ ở gần đó để chỉ đạo và trợ giúp các cô. Từ vị trí của tôi, ngộ nhỡ xảy ra bất trắc gì thì cũng ứng cứu được ngay."
+    },
+    {
+      "Key": "VC_MC00_00_04_03_Novel_00017_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Now, sortie!",
+      "Vietnamese": "Được rồi, xuất kích!"
+    }
+  ],
+  "Inserts": []
+}

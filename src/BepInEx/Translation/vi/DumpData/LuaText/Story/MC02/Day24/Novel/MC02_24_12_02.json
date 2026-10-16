@@ -1,0 +1,174 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_12_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, look at the stars... The night sky looks totally different when you're surrounded by nature.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I bet there's a bunch of Cancers around, too. Haha, imagine if we got ambushed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, did I jinx it?! Something's coming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, it's just you. You scared me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't it a bit early to switch out? You need to take all of your nap time, or else you're going to be tired tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I just came here to thank you, that's all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't think I've done anything deserving thanks. I've just been moseying along, doing my own thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, you've really done a lot for me. I truly appreciate it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm...you still look kinda tired to me. Have you been getting enough sleep lately?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00013_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To be honest, no...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... Well, we <i>are</i> in a battle zone. I doubt most of us here can fall asleep as easily as I do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00015_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're a very deep sleeper, aren't you? I kind of envy that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh, well, I'm probably just less sensitive than most people.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00017_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Words from a true genius...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, c'mon, stop that. It's embarrassing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00019_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, you really are an incredible person. You've become such a great leader for the assault squad, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can't argue with you there!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00021_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh! You accepted my compliment!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01010_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you've been doing pretty well too, Aoi. I see you've been getting along better with the rest of your squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00023_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-Yes... I think so...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gotta have more confidence in yourself!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00025_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YES! I'm doing great!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awesome. That's what I want to hear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00027_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Again, thank you. I feel like I can get some proper sleep now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a good sign. Give yourself a good rest, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_12_03_Novel_00029_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course. Good night, Ruka.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

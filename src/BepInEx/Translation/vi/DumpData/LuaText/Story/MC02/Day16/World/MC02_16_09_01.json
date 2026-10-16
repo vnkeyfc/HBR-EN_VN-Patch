@@ -1,0 +1,32 @@
+{
+  "Script": "Story/MC02/Day16/World/MC02_16_09_01",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "We have practice for the new song, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "I want to see how far we can get!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Send:1",
+      "Original": "c u at the studio",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Yes, of course!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

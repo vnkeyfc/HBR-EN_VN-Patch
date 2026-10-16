@@ -1,0 +1,105 @@
+{
+  "Script": "Story/MC01/Day04/World/MC01_04_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_04_06_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "My feet are developing a mind of their own. Not today, feetsies!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Uh-uh, I've got to head to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Woo-hoo! Let's get in there, kick some simulated Cancer butt, and get out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00011_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yo, Tama.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00012_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Wanna team up for today's training? I guarantee you won't regret it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00013_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka, you made it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00014_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "We were all waiting for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00015_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Let's hurry to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00016_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Ruka, I have something I'd like to ask you about.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00017_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "We can coordinate our skills together, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00018_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "How do you figure out what goes when?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "How to coordinate your buffs and attack skills?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Based on feeling|Based on whatever",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00019_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I'm surprised you're able to make it work, with an answer like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_00_World_00020_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "There's always one kid in every class who makes good grades and can't tell you how.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_00_World_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If you're all set, let's go.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,90 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_06_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We won...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, and pretty easily, ya ask me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "We really sank them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It didn't really register on the first day...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But I guess this is what it's like...to kill a Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Rest assured, they can't feel emotions or pain. They're nothing but cancer cells from outer space.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00007_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "That about does it, I think.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00008_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Yamawaki is unbeatable! Ke he he, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00009_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "We're progressing at ze same pace... It's almost looks like we're working together. How vexing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00010_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Bring it on, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "They're better than I thought.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We should stick close to them so we can have each other's backs. Don't you think?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_03_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sounds good to me. An adventure's only worth it if you live to tell the tale.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,179 @@
+{
+  "Script": "Story/TC01/Novel/TC01_01",
+  "Entries": [
+    {
+      "Key": "VC_Z_901700106_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Bungo! Wear zis, zen come inside!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700103_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*rustle rustle*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700104_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've never seen a room like this, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700107_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I prepared all zis for ze occasion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00007_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah! Master!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00008_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vhat is it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00009_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Why are you dressed like that, <i>snip</i>? What is that?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00010_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Zis? A reindeer, vhat else?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00011_YBungo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "A reindeer is an animal, <i>snip</i>! It's way beneath you, <i>snip</i>! That's as far away from a mad scientist as you can get, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00012_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe take a look at yourself in ze mirror first before you say zat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00013_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At myself?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00014_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00015_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You finally get it, don't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00016_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't get it, <i>snip</i>... No, I can't dress like this, <i>snip</i>! I'm a minion summoned from a world of evil!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00017_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't be seen in such a jolly merry getup, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00018_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I sink you've finally realized vhat day it is, zen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00019_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I haven't realized anything, <i>snip</i>! I'm going to change right now, <i>snip</i>! Without my menacing bat wings and helmet, I won't truly be me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00020_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You sink so? Put zat claw of yours on your chest and sink about it slowly and carefully.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00022_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, <i>snip</i>? I haven't felt this way for a long time, <i>snip</i>...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00023_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Indeed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00024_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Master, what is this feeling, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00025_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At least try to work zat out on your own. I shouldn't haff to teach you everysing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00026_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It feels kind of... tickly...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00027_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I bet it does.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00028_YBungo",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's just like a mosquito bite!\\nI need some anti-itching cream, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00029_BIYamawaki",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Vhere do you sink you're putting that cream?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00030_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My chest, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TC01_00031_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, fine! I'll help you put on your anti-itching cream if zat's vhat it takes to stop you. Show me where!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

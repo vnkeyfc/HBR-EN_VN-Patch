@@ -11,18 +11,18 @@
 Sortie=Xuất Trận
 
 [Title]
-Set Skills=<size\=80%>Thiết lập kỹ năng</size>
-Unit Details=<size\=80%>Chi tiết nhân vật</size>
-Memoria Details=<size\=80%>Chi tiết Style</size>
-Equip Boosters=<size\=80%>Trang bị Booster</size>
-Equip Accessories=<size\=80%>Trang bị phụ kiện</size>
-Support Unit Details=<size\=80%>Chi tiết hỗ trợ</size>
+Set Skills=<size\=80%><cspace\=-2px>Thiết lập kỹ năng</size>
+Unit Details=<size\=80%><cspace\=-2px>Chi tiết nhân vật</size>
+Memoria Details=<size\=80%><cspace\=-2px>Chi tiết Hồi Ức</size>
+Equip Boosters=<size\=80%><cspace\=-2px>Trang bị Bộ khuếch đại</size>
+Equip Accessories=<size\=80%><cspace\=-2px>Trang bị phụ kiện</size>
+Support Unit Details=<size\=80%><cspace\=-2px>Chi tiết hỗ trợ</size>
 
 [Option]
 スキル設定=<size\=90%>Thiết lập kỹ năng</size>
 キャラ詳細=<size\=90%>Chi tiết nhân vật</size>
-スタイル詳細=<size\=90%>Chi tiết Style</size>
-ブースター装備=<size\=90%>Trang bị Booster</size>
+スタイル詳細=<size\=90%>Chi tiết Hồi Ức</size>
+ブースター装備=<size\=90%>Trang bị Bộ khuếch đại</size>
 アクセサリ装備=<size\=90%>Trang bị phụ kiện</size>
 サポート詳細=<size\=90%>Chi tiết hỗ trợ</size>
 
@@ -31,12 +31,15 @@ Support Unit Details=<size\=80%>Chi tiết hỗ trợ</size>
 Active Skill=Kỹ năng chủ động
 
 [UI]
+Last Deployed Squad=Đội hình xuất trận trước
+前回バトル部隊=Đội hình xuất trận trước
 Story Squad=Đội hình cốt truyện
 ストーリー部隊=<size\=75%>Đội hình Cốt truyện
 通常部隊=<size\=75%>Đội hình thường
 Fixed Formation=Đội hình cố định
 Fixed=Cố định
-回=lần
+ 回= lần
+r:"^(\d+) Use\(s\)$"=$1 lần
 一括選択=<size\=85%>Chọn nhanh</size>
 総合戦力=Lực chiến
 アクセサリLv.= Phụ kiện Lv.
@@ -49,7 +52,7 @@ Reorder=<size\=85%>Đổi vị trí</size>
 前回クリア部隊=<size\=90%>Đội hình trước</size>
 合計ステータス=Chỉ số tổng
 基礎ステータス=Chỉ số cơ bản
-スタイルステータス=Chỉ số Style
+スタイルステータス=Chỉ số Hồi Ức
 設定可能=Có thể chọn
 はずす=<size\=80%>Gỡ bỏ</size>
 ストーリー状況と乖離しています=<size\=80%>Có đội viên không liên quan đến mạch truyện.
@@ -59,6 +62,7 @@ Do not include units that diverge from the actual storyline.=Loại trừ nhân 
 ストーリー状況と乖離するメンバーが\n編成されていますがよろしいですか？=Đội hình có đội viên không liên quan đến mạch truyện.\nBạn có chắc chắn muốn tiếp tục không?
 毎回警告を出す=<size\=80%>Luôn hiện cảnh báo này mọi lúc
 チーム編成へ=Thiết lập đội hình
+この部隊からコピー=Sao chép đội hình này
 
 [Switch]
 Main Formation=Đội hình chính
@@ -71,8 +75,8 @@ Unlock by clearing Main Scenario: Chapter 3.=Hoàn thành Chính Truyện: Chư�
 
 [Utils]
 31A=31A 
-31B=31B 
-31C=31C 
+31B\n=31B 
+31C\n=31C 
 31D=31D 
 31E=31E 
 31F=31F 
@@ -84,5 +88,5 @@ Overwrite this squad with the one you used to clear this assignment previously?=
 
 r:"^<size\=32>Squad</size> <size\=48>(\d+)</size>$"=<size\=32>Đội hình</size> <size\=48>$1</size>
 
-r:"^<size\=20>Slot</size> (\d+)$"=Slot $1
+r:"^<size\=20>Slot</size> (\d+)$"=<size\=60%>Ô kỹ năng $1
 r:"^(\d+) use\(s\)$"=Tối đa: $1 lần

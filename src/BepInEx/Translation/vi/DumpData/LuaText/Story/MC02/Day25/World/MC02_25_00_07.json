@@ -1,0 +1,95 @@
+{
+  "Script": "Story/MC02/Day25/World/MC02_25_00_07",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Let's keep moving forward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_07_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Huh? Is it just me, or does it seem like the Cancers have vanished?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_07_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We're about to come across a mountain ridge. Let's keep going.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's that sound? Or is it a voice?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Did you hear something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, did you hear like...a scream in the distance?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that you mention it... I've got a bad feeling about all of this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wherever the voice is coming from, it's got to be the origin of this anomaly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01064_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So a boss-level Cancer really showed up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's certainly a possibility.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's keep moving carefully to avoid it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll go ahead and report this to HQ.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00009_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This is HQ. Go ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So...we think a pretty strong Cancer popped up. Yukkie is comparing the data right now, so if HQ could get on that as well, that'd be great.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_03_Novel_00011_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Understood. We'll start looking into it immediately.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

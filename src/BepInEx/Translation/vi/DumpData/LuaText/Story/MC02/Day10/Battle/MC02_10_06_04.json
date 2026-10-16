@@ -1,0 +1,12 @@
+{
+  "Script": "Story/MC02/Day10/Battle/MC02_10_06_04",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00516_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew... That's the last of 'em.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

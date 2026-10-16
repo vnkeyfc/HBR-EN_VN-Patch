@@ -1,0 +1,34 @@
+{
+  "Script": "Story/MC01/Day02/Battle/MC01_02_07_05",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_07_04_Battle_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Kunimi has the ability to heal allies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_04_Battle_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "If an ally's deflector is close to depleted, heal them before it's too late.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_04_Battle_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Now, muster your strength. You want to win this, don't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Kunimi is a Healer.\\nShe is proficient at healing her teammates.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "However, some skills, including healing, have limited uses.\\nMake sure to use them wisely!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

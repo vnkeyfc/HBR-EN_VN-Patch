@@ -1,0 +1,394 @@
+{
+  "Script": "Story/MC01/Day02/Novel/MC01_02_07_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00000_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Good work, everyone. Kayamori's team is the winner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No surprise there!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "According to these readouts, Asakura dealt the most damage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00003_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "It's not \"Asakura\"...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00004_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "IIIT'S SCARY KARRIE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00005_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "According to these readouts, Karrie dealt the most damage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You don't need to oblige her...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00007_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "No friggin' way! Can't believe I lost to a runt like her...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "She's got you beat in cuteness, too. Is there any category where you CAN win?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00009_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Watch yer mouth, smartass!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00010_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "See, I decided not to use my psychic powers this time around. So I haven't even unleashed my REAL strength!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00011_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "You contributed the least damage. Don't hesitate to use these \"psychic powers.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Holding back and ranking last... Can you get any lamer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00013_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Ehe... Eeehee hee hee hya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00014_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Even WITH your foolish powers, you'll never defeat the invincible... SCARY KARRIEEEEEE!!! Eeehehyahyahaha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "To think I believed someone on this squad was normal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00016_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "She's like a character from a video game!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're one to talk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "When is my adorable Karerin coming back?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00019_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Hmph. When I feel like it, that's when.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00020_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Oh my, what's this? Why is everyone looking at me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Didn't take long for her to feel like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're back! Karerin! Tell me, do you remember me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00023_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, you're Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Karerin, thank goodnesssss!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00025_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "You're...squeezing me too hard...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, Asakura. Do you have any memory of the battle?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00027_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, I know we were fighting against Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00028_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then it can't be dissociative identity disorder, can it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00029_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I can't understand a single word that's coming out of your mouth!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00030_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Read a book or two, Miss Intel Agent.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00031_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, well, she filled me in on everything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She? Who?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00033_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Karrie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00034_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It IS dissociative identity disorder! I called it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So explain this for us dum-dums, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00036_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Within Asakura dwell two personalities: the demure Asakura we're acquainted with and the violent Karrie. They're capable of exchanging information with one another.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I don't really get it, but...as long as our beloved Karerin's come back to us, I'm happy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00038_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Yup, I'm right here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I get that there's someone else in there too, but why is a serial killer allowed to roam free?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00040_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Allow me to answer that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00041_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As long as she continues to aid in the fight against the Cancer threat, her sentence is suspended. As such, she is under the jurisdiction of the military.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Under the military's jurisdiction?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Is that really safe?|Then she's all set",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is that really safe?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whoa, Yukkie! That's exactly what I was going to say! For a moment there, I thought I ended up choosing YOUR dialogue option!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What on earth are you talking about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00045_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Rest assured. We have implanted an irremovable tracking chip in her, so there's no risk of her escaping. One step out of line, and she'll be back behind bars.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00046_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "How could you implant something so horrible in poor Karerin?! I say we remove it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00047_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I know you were about to ask if it was safe. This should put you at ease!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00048_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What I'm worried about is if it's safe to permanently implant a microchip in the human body!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00049_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If only there were a backlog feature. Then I could scroll up and show you how inconsistent you're being...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00050_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, I get that a lot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00051_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No kidding. Add this to the list of reasons why the band broke up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00052_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Then she's all set.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00053_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is that really safe?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00054_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Don't worry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00055_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why are <i>you</i> so confident about that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00056_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Rest assured. We have implanted an irremovable tracking chip in her, so there's no risk of her escaping. One step out of line, and she'll be back behind bars.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00057_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "See? All safe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00058_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wait—WHAT?! How could you implant something so horrible in poor Karerin?! I say we remove it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00059_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Attempting to remove the device will cause it to explode.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00060_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Whaaa—?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00061_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "It's fine, Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_07_01_Novel_00062_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry I can't do anything for you...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

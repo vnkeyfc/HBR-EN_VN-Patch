@@ -1,0 +1,108 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Morning, everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wow. You actually woke up like a normal person for once.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ugh... I'm gonna need at least another five minutes...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00003_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Me too...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Maybe <i>this</i> will wake you up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.bubble_SPEAKER_noWait:1",
+      "Original": "GYAYAGRAYYYBODODODODUOH!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00006_KAsakura",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Not again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00007_TTojo",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Eek!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Here I GOOO!!! BODODODODUOH!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Yahoo!\\nBODODODODODUOH!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00010_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "TURN THIS CRAP OFF!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone fired up now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If fired down is a thing, I'm that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Today kicks off our big showdown with 31-C, right? Everyone looked really tired, so...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone looks a little tired the moment they wake up. Give us time to wash our faces before you bust out the horrible cacophonies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00015_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "My ears!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_03_00_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If you wanted to help prepare us for the showdown, you've done the opposite.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

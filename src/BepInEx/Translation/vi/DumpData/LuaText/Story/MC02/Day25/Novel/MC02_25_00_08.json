@@ -1,0 +1,222 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_00_08",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah?! What is it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00001_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "31-A and 31-B, please listen calmly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00002_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "A giant Cancer has emerged 10 km northwest of Point Alpha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01025_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn, we were right... There's a big one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00005_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Moving forward, we will refer to the target as \"Vertex Crimson\".",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00006_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "The vertex crimson is moving straight from 9 o'clock to 3 o'clock.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00007_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "At this rate, it will undoubtedly breach the camp's defensive lines.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00008_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "From its appearance, it likely possesses organs that allow it to carry out long-range bombardment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00009_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Currently, the squads closest to the vertex crimson are 31-A and 31-B.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00010_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Stall the enemy until the other squads finish retreating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00011_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Be aware that the target is a new, unknown type of Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00012_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Our data indicates that this specimen is highly likely to be stronger than the Cancers you faced during training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00013_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Please keep your guard up, and prioritize survival above all else.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's gonna be stronger than the ones we fought in training?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00015_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way... The simulated Cancers were already enough of a challenge...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00016_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "It's been decided that from this point forward, Operation Pleiades will be aborted.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00017_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "For now, please move to Point Alpha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00018_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Please wait for instructions from HQ when you arrive.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The operation is being aborted? What's that supposed to mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Unfortunately, it means that the whole operation's a failure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00021_RKayamori",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00022_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "No way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00023_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Ehh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Calm down, folks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But that's just... I can't accept that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I understand how you feel, but that's reality.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we're already more than halfway through the plan! All the effort that we made to get here... It can't just be thrown out like that, right?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't get so hotheaded. If you keep going on like that, someone's going to end up dead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And it won't just be you who's going to suffer from that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I get it. Let's follow orders and stall that thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There you go. That's a good girl.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00033_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If that's what our leader's sayin', then that's that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00034_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There ain't nothin' else we can do!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00035_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_04_Novel_00036_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

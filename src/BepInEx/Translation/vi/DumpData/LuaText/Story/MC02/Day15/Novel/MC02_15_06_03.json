@@ -1,0 +1,108 @@
+{
+  "Script": "Story/MC02/Day15/Novel/MC02_15_06_03",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00730_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation complete. The convoy vehicles were escorted successfully to Point Delta.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The convoy's total damage reached 4%. If it's under 5%, then it's an acceptable value.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You just barely made it under the standard.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hell yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You did it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00006_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was a piece of cake because we're here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00007_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As long as I'm with Sis, we're unstoppable.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When you're escorting a large convoy, the formations tend to get spaced out. The way priorities and decisions were handled between both squads was excellent this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00009_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You all seem to have a grasp on how to change your behavior depending on remaining deflector capabilities now, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00012_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's all. Training is now adjourned.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00013_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_02_Novel_00014_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation ended. 31-A was defeated in emulated combat, and every convoy was destroyed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00731_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The squad was surrounded by enemy reinforcements and was unable to protect the convoy in time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00499_v001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "*sigh*... Unfortunately, you leave me with no other option than to conclude that 31-A is unsuitable for this mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

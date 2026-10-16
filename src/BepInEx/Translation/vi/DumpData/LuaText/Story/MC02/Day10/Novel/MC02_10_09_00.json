@@ -1,0 +1,186 @@
+{
+  "Script": "Story/MC02/Day10/Novel/MC02_10_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "While my old songs are fun and all, I'm dying to play something new.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I can't even keep the rhythm straight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00002_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me neither...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then today's agenda is a jam sesh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What're ya even talkin' about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00005_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A sesh without sheet music, where you play whatever and vibe together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00006_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then what are we supposed to read off of?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't read off of anything. Anything goes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's my Yukkie. A music whiz.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00009_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But that's going to sound terrible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can already play one song from memory. Just play something similar and try to match me or Tsukassie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00011_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh HYEHHH! Hear my wraaath!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, count us in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit! One, two... One, two, three, four!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Girls, just follow her lead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00015_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, how's this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00016_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Amazing! What if I added something like this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00017_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This may sound weird, but here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aaahhh! Don't go any faster!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00019_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Try THIS on for size, if you can handle it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00020_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "BODODODODODODUOH!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00021_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00022_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That last part almost sounded like a real song.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00023_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karrie told me everything. All of you were so amazing... Also, my throat hurts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You poor thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pretty fun, right? Let's try that again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00026_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rest if you want, but if you're joining, get in here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, count us in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_09_00_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, so it's okay to force ME?!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

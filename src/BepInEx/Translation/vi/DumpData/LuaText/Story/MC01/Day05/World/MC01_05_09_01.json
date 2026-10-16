@@ -1,0 +1,58 @@
+{
+  "Script": "Story/MC01/Day05/World/MC01_05_09_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_05_09_01_World_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What's the deal with this wooden shack?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "A wooden shack?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "It's fiiine. Come on, follow me!|What's a wooden shack?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00008_v003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's fiiine. Come on, follow me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00009_v003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What's a wooden shack?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_01_World_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Answering a question with another question? Really? Ah, whatever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_01_World_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I don't know what it actually is, I just said wooden shack because it's a small building made out of wood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_01_World_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is it really safe in there? It looks like it could collapse at any second...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_01_World_00004_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Someone scared? Yer shakin' like a leaf.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,51 @@
+{
+  "Script": "Story/MC01/Common/TimeLimit",
+  "Entries": [
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Days Remaining Until the Aptitude Test—4",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Days Remaining Until the Aptitude Test—3",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Days Remaining Until the Aptitude Test—2",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Days Remaining Until the Aptitude Test—1",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "The Day of the Aptitude Test",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Days Remaining in the Battle for 31-\"A\"—3",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Days Remaining in the Battle for 31-\"A\"—2",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Days Remaining in the Battle for 31-\"A\"—1",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "The Final Day of the Battle for 31-\"A\"",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

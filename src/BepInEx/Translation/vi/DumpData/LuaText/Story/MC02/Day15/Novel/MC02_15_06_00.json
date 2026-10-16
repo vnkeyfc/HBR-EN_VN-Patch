@@ -1,0 +1,66 @@
+{
+  "Script": "Story/MC02/Day15/Novel/MC02_15_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_15_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today is the last day of training for Phase Four.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00728_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The following emulation will be taking into account conditions of Phase Four in the real world, so we'll be setting a harder difficulty.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00729_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not even a moment's carelessness will be tolerated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, if we're caught off guard...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_00_Novel_00012_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No more talking. Get straight into the emulator.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_00_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You understand the operation details, don't you? This is a continuation of the convoy escort.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, ma'aaam.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_00_Novel_00015_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_15_06_00_Novel_00017_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

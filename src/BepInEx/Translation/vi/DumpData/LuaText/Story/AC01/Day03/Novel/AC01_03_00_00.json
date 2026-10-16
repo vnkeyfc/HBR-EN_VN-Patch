@@ -1,0 +1,156 @@
+{
+  "Script": "Story/AC01/Day03/Novel/AC01_03_00_00",
+  "Entries": [
+    {
+      "Key": "VC_Z_900600073_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With the help of everyone from 31-C, we'll find them this time!",
+      "Vietnamese": "Nhờ vào sức mạnh đồng lòng cùng 31C, hôm nay chúng ta chắc chắn sẽ tìm ra hai người họ!"
+    },
+    {
+      "Key": "VC_Z_900600047_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, I know we will!",
+      "Vietnamese": "Vâng, trăm sự nhờ mọi người!"
+    },
+    {
+      "Key": "VC_Z_900600033_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Leave it to me!",
+      "Vietnamese": "Cứ giao cho tại hạ-degozaru!"
+    },
+    {
+      "Key": "VC_Z_900600048_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll do what I can.",
+      "Vietnamese": "Ta sẽ làm hết sức có thể."
+    },
+    {
+      "Key": "VC_Z_900600082_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I will do my best to help.",
+      "Vietnamese": "...Tôi sẽ cố gắng đóng góp chút sức mọn."
+    },
+    {
+      "Key": "VC_Z_900600074_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great, let's go!",
+      "Vietnamese": "Tuyệt, lên đường thôi!"
+    },
+    {
+      "Key": "VC_AC01_00444_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, was the ground shaking just now?",
+      "Vietnamese": "Khoan đã, vừa nãy đất mới rung phải không?"
+    },
+    {
+      "Key": "VC_AC01_00445_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You probably thought that 'cause the helicopter just landed.",
+      "Vietnamese": "Chắc do trực thăng vừa đáp xuống nên bà tưởng thế thôi."
+    },
+    {
+      "Key": "VC_AC01_00446_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, it was definitely shaking.",
+      "Vietnamese": "Không, rung thật đấy..."
+    },
+    {
+      "Key": "VC_AC01_00447_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The aftershocks are still going...",
+      "Vietnamese": "Vẫn còn dư chấn một chút này..."
+    },
+    {
+      "Key": "VC_AC01_00448_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Earthquakes as soon as we get here...",
+      "Vietnamese": "Vừa tới nơi mà đã có động đất thế này..."
+    },
+    {
+      "Key": "VC_AC01_00449_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is a bad omen indeed.",
+      "Vietnamese": "...Quá đỗi bất thường."
+    },
+    {
+      "Key": "VC_AC01_00450_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is very dangerous.",
+      "Vietnamese": "Vô cùng nguy hiểm-degozaru..."
+    },
+    {
+      "Key": "VC_AC01_00452_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-C, we'll go on by ourselves.",
+      "Vietnamese": "Mọi người 31C, chúng ta tự đi thôi...!"
+    },
+    {
+      "Key": "VC_AC01_00453_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have no choice.",
+      "Vietnamese": "Hết cách rồi."
+    },
+    {
+      "Key": "VC_AC01_00454_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ja!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC01_00455_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Indeed.",
+      "Vietnamese": "...Ừ nhỉ."
+    },
+    {
+      "Key": "VC_AC01_00456_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not so fast. 31-A is coming too, right?!",
+      "Vietnamese": "Đừng có tự tiện quyết định thế chứ. 31A cũng đi mà, đúng không!?"
+    },
+    {
+      "Key": "VC_AC01_00457_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": "Ừm!"
+    },
+    {
+      "Key": "VC_AC01_00458_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yeah!",
+      "Vietnamese": "Ừ!"
+    },
+    {
+      "Key": "VC_AC01_00461_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Let's go get 'em!",
+      "Vietnamese": "Tới bến luôn đi ạ!!"
+    },
+    {
+      "Key": "VC_AC01_00460_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "We're coming!",
+      "Vietnamese": "Đi thì đi sợ gì!"
+    },
+    {
+      "Key": "VC_AC01_00459_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "No point fighting it.",
+      "Vietnamese": "Hết cách rồi."
+    },
+    {
+      "Key": "VC_AC01_00462_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then it's settled!",
+      "Vietnamese": "Chốt vậy đi!"
+    },
+    {
+      "Key": "VC_AC01_00463_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you!",
+      "Vietnamese": "Cảm ơn mọi người!"
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC01/Day04/Battle/MC01_04_06_02",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Some enemies will repair their shells and restore their DP gauges if left alive in a break state.\\nSave up SP and time the use of your skills wisely!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

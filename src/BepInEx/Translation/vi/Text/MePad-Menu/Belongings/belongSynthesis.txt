@@ -1,0 +1,7 @@
+リング=Nhẫn tay
+ピアス=Bông tai
+ブレス=Vòng tay
+チャーム=Bùa chú
+ソウル=Linh thể
+自動選択設定=<size\=70%>Thiết lập chọn tự động
+装備中=<size\=70%>Đang dùng

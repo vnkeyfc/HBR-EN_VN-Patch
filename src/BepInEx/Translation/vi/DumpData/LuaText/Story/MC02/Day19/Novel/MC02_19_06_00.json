@@ -1,0 +1,96 @@
+{
+  "Script": "Story/MC02/Day19/Novel/MC02_19_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll be continuing training for Phase Five today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your main task is to stay alert on standby, so it's important to keep your mood in check.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ehh, I'm not really good at that... I'd even get bored when waiting for my turn to play during a festival. Any way to work around that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You could try enjoying the other bands' music.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00004_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keeping well-rested is an important part of the job, so remember to rest when needed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You'll be taking rests in turns, so keep in mind who's resting and who's on standby as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you don't have an accurate grasp over what everyone is doing, you might find that the backup you were relying on isn't available.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is there a specific order we should be taking rests?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The order is up to you all to decide. A common method is to rotate out units with the same strategic role.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00009_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For example, in 31-A, you could have Kayamori and Aikawa take turns resting. This will let at least one close-combat unit be available in emergencies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about Aoi? There isn't another shield-wielder, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00011_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The exact roles don't have to be so precise. You could just split it between frontliner and reserve units.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00012_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! I'll be fine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Any other questions? If not, we'll begin the training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_06_00_Novel_00018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

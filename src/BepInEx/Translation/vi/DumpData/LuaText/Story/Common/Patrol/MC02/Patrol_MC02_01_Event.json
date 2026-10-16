@@ -1,0 +1,77 @@
+{
+  "Script": "Story/Common/Patrol/MC02/Patrol_MC02_01_Event",
+  "Entries": [
+    {
+      "Context": "Expedition.setTitle:0",
+      "Original": "Patrol Mission",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLocationTitle:0",
+      "Original": "Abandoned Mines",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "During patrol missions, your objective is to map out the area to which you have been deployed.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can see the percentage of the area you have mapped on this screen. Aim for 100%.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the X button to return.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Energy is consumed in accordance with the number of turns you spend in battle. When Energy reaches zero, HP will gradually decrease, so please be careful.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can return to base at any time via the mePad button.\\n(Your progress will not be lost.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can return to base at any time by opening the mePad menu via the Options button.\\n(Your progress will not be lost.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You have now mapped out 100% of this area.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "\"COMPLETE\" will be displayed once you have mapped 100% of the area.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Return to the base at any time once the entire area has been mapped!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "While an patrol mission is in progress, targets will appear in the field.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Proceed toward those targets and defeat them, preserving your energy as much as possible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00005_v002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "That one, eh?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,275 @@
+{
+  "Script": "Story/MC01/Day06/Novel/MC01_06_07_02",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Did it work?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is it over?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "There's no holding back...against her...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00003_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "EeeheeheheHEH! There's no coming back from that. Eeeehehyahya!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That was about as expected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00005_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "She stood up like it was nothin'!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00006_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Impossible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00007_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Just how strong <i>is</i> she?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00008_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Any more of this and...we're shark bait!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Dammit... We came so far, yet—!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00010_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Congratulations. You passed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Passed what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your capabilities are now at an appropriate level for you to engage in live combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "These results are based on your performance today, as well as from your training thus far.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00014_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I hereby appoint 31-A as an elite assault squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00015_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "That sounds so cool! Leet assault squad for the win!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Seriously. Where is all this old internet slang coming from?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00017_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "What does being an \"elite assault squad\" mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "For some reason, I've got a good feeling about this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Like I said, don't you mean \"bad feeling\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00020_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "So what exactly will we be doing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00021_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You will be fighting on the front lines, engaging the Cancer head-on as the first offense.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00022_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "How could you deceive us like this?! Lifting us up, then throwing us down!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00023_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That wasn't my intent. Only a chosen few can be tasked with such a role.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00024_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Squad 31-A, may you stand tall and carry out your duties with pride.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00025_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "When you put it like that, there's no room for complaints!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Haven't you experienced plenty of battles already?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00027_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "It's true, assault squads have a higher casualty rate than other squad types. That said, you won't be fighting alone and, worst comes to worst, you always have your deflector to fall back on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00028_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "In any case, when your deflectors expire, do not forget to immediately retreat to safety. As long as you follow that rule, you will not die.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00029_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh no...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00030_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hahaha...sounds great. That means I can really make a name fer myself...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Are you trembling?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00032_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, with excitement!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00033_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I'm scared.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Are you really going to stay excited after hearing all this, oh noble squad leader?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There's no way this is real... It's got to be a prank. Now's the part where the commander goes...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00036_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00037_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I TOLD you never to SAY that! It's only popular in your freaking head!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Commander! Say \"whoopsie gravy\" for me! If you don't, that means everything you said was real!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00039_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "It is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00040_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't YOU go saying it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00042_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I look forward to your accomplishments from this day forward. That is all for today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_07_02_Novel_00043_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Well done.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the auto-battle feature for all battles!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

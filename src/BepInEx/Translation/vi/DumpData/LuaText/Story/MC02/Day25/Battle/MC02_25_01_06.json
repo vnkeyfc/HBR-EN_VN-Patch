@@ -1,0 +1,204 @@
+{
+  "Script": "Story/MC02/Day25/Battle/MC02_25_01_06",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00000_EAoi",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "I won't let a single attack through!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z010900040_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I won't let a single attack through!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now! Everyone, go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's use this opening that Aoi made for us! We're going in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01014_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait! We can't go any further!! Ruka, we need to retreat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01015_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No can do! There's no way we can avoid that attack at this distance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_03_Novel_00002_Yizumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At this rate, we'll die!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01016_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01017_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Is there no other option?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00010_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't give up! I'll protect everyone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No... I'm just all talk... I don't have any strength left...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder what would work for me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yours is a shield, so...you gotta think of yourself as invincible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00014_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*...!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00015_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_06_Battle_00016_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm invincible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not going to stand by watching anymore...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00004_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm going to move forward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No matter what kind of hell awaits me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00006_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because all the memories I've shared with everyone have been so wonderful...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because I want to be with everyone for a little while longer...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00008_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's why I'm going to protect you all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_r_MC02_25_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I won't let anyone die on my watch!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01018_v001_EAoi",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "I'm...INVINCIBLE!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z010900091_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "I'm...INVINCIBLE!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01019_v001_RKayamori",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Aoi!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z010900104_RKayamori",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Aoi!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01020_v001_RKayamori",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z010900114_RKayamori",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01021_v001_RKayamori",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Aoi...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z010900120_RKayamori",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Aoi...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01022_v001_RKayamori",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "DAMN YOU!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z010900131_RKayamori",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "DAMN YOU!!!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

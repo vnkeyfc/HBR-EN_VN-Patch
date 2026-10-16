@@ -1,0 +1,69 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_04_05",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_04_05_Novel_00000_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancer swarm is approaching our third line of defense.",
+      "Vietnamese": "Bầy Cancer hiện tại đã áp sát tuyến phòng vệ thứ ba."
+    },
+    {
+      "Key": "VC_MC00_00_04_05_Novel_00002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Ready for departure?",
+      "Vietnamese": "Các cô sẵn sàng chưa?"
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Ready for departure?",
+      "Vietnamese": "Sẵn sàng chưa?"
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "All set!|As if!",
+      "Vietnamese": "Đi thôi!|Khoan đã!"
+    },
+    {
+      "Key": "VC_MC00_Z900000011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All set!",
+      "Vietnamese": "Đi thôi!"
+    },
+    {
+      "Key": "VC_MC00_00_04_05_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What, no qualms about being mobilized on the first day? You're something else...",
+      "Vietnamese": "Mới bị điều động đột ngột thế mà đã hăng máu rồi à. Cậu cũng đáng gờm ra trò đấy chứ."
+    },
+    {
+      "Key": "VC_MC00_00_04_05_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "As if! What about weapons?!",
+      "Vietnamese": "Khoan đã!"
+    },
+    {
+      "Key": "VC_MC00_00_04_05_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed. First you order us to fight, then leave us completely defenseless?",
+      "Vietnamese": "Đúng vậy đó, đột ngột nhận lệnh như vậy thì đời nào có chuyện đã sẵn sàng ngay được."
+    },
+    {
+      "Key": "VC_MC00_00_04_05_Novel_00007_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "There is nothing to fear. We have already prepared everything you will need.",
+      "Vietnamese": "Không sao cả. Công tác trù bị ứng chiến đã được chúng tôi sắp xếp ổn thỏa."
+    },
+    {
+      "Key": "VC_MC00_00_04_05_Novel_00008_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Now then, follow me.",
+      "Vietnamese": "Giờ tôi sẽ dẫn đường."
+    },
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Prologue:\\nThe End of the World and the Entrance Ceremony",
+      "Vietnamese": "— Chương mở đầu —\\nLễ nhập ngũ trong một thế giới tàn vong"
+    }
+  ],
+  "Inserts": []
+}

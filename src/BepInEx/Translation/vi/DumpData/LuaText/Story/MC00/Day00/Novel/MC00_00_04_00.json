@@ -1,0 +1,312 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_04_00",
+  "Entries": [
+    {
+      "Context": "Adv.introductionRight:0",
+      "Original": "Ruka Kayamori",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introductionRight:1",
+      "Original": "Former legendary rocker.\nJoined the academy after being scouted.",
+      "Vietnamese": "Cựu rocker huyền thoại.\nNhờ được chiêu mộ mà có mặt tại đây."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And you are?",
+      "Vietnamese": "Còn bồ là ai?"
+    },
+    {
+      "Context": "Adv.introduction:0",
+      "Original": "Yuki Izumi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.introduction:1",
+      "Original": "Ex-member of an elite hacker organization.\nHelped prevent World War III.",
+      "Vietnamese": "Cựu thành viên một tổ chức hacker ưu tú.\nLý lịch có đoạn từng giúp ngăn chặn Thế chiến III."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Me? The name's Izumi.",
+      "Vietnamese": "Tôi á? Cứ gọi tôi là Izumi."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Contrary to appearances, I'm a skilled hacker. Maybe you've heard of the hacker group, \"the Orchids\"? It IS world famous, after all.",
+      "Vietnamese": "Trông thế này thôi chứ tôi là một hacker cao tay đấy. Cậu đã bao giờ nghe danh nhóm hacker \"Orchid\" chưa? Lẫy lừng bốn phương luôn đấy."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The Orckids?! You're a fan of the legendary Orckids?!",
+      "Vietnamese": "ORCHID?! Bồ cũng thích ORCHID hả?!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That band's wild cries of \"GYAYAGRAYYYBODODODODUOH\" shake the foundations of my very soul!!!",
+      "Vietnamese": "Là ban nhạc cuồng nộ huyền thoại đó, với những màn gào thét kiểu \"GYAIA GUREII IBODODODOOOO!\" tới mức chấn động tâm can ấy!!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What? No. And what's with the yelling?",
+      "Vietnamese": "Nhầm rồi... Mà sao mới thoắt cái đã cao hứng khiếp thế...?"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I don't think I could ever take a band that screams \"GYAYAGRAYYYBODODODODUOH\" seriously.",
+      "Vietnamese": "Chưa kể tôi đây chúa ghét cái loại ban nhạc lậm trò hú hét\\n\"GYAIA GUREII IBODODODOOOO!\" giống vậy lắm..."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woah, woah, hold up! When you're bursting with anger to the point you're about to explode—tell me, what do you do?",
+      "Vietnamese": "Kìa kìa, sao lại nói thế?! Vậy vào những lúc mà cơn phẫn nộ bị dồn nén đến mức chẳng kiểm soát nổi bản thân nữa, thì bồ biết làm sao đây?!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What would I do? Well, I'd probably end up going off on somebody...",
+      "Vietnamese": "Làm sao á? Thì chắc là tôi sẽ trút giận đôi phần lên ai đó chăng..."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "WHAAAT?! You wouldn't scream \"GYAYAGRAYYYBODODODODUOH\"?!",
+      "Vietnamese": "Hảảả—?! Người bình thường phải gào thét \"GYAIA GUREII IBODODODOOOO!!\" mới đúng mà?!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "OF COURSE NOT! And even if I DID, that's the LAST thing I would scream!",
+      "Vietnamese": "Ai bảo cậu thế?! Với lại dù có gào đi nữa, thì tôi cũng tuyệt đối không bao giờ chọn kiểu gào đó đâu nhé!!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Don't tell me you wouldn't say anything.",
+      "Vietnamese": "Nhưng mà bồ cũng đâu thể cứ im thin thít mãi được?"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I might give out a \"HELL NO!\" or something to that effect.",
+      "Vietnamese": "Thì bất quá là la lớn mấy tiếng \"Chết tiệt!\" thôi chứ."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's almost a \"GYAYAGRAYYYBODODODODUOH,\" though.",
+      "Vietnamese": "Nghe có khác gì \"GYAIA GUREII IBODODODOOOO!\" đâu nào."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What? No. While \"HELL NO!\" and \"GYAYAGRAYYYBODODODODUOH\" aren't polar opposites, they're absolutely not the same thing!",
+      "Vietnamese": "Kìa kìa, giữa \"Chết tiệt!\" và \"GYAIA GUREII IBODODODOOOO!\" tuy chưa tới nỗi một trời một vực, nhưng khác xa vạn dặm đấy nhé!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Think of it this way. It's like \"Hey, you mind standing up? This is the elderly section.\" versus \"Hey MORON, you're sitting in the elderly section. Stand the hell up!\".",
+      "Vietnamese": "Xem nào... Khác như thể nói \"Vì đây là ghế ưu tiên, nên nhường chỗ mới phải phép đấy\", so với nói \"Mày bao nhiêu tuổi rồi hả, xéo ra chỗ khác mau—!!\" vậy."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What? Those are pretty close.",
+      "Vietnamese": "Ủa? Nghe có khác gì mấy đâu."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "CLOSE?! There's nothing more extreme than \"Hey MORON, you're sitting in the elderly section. Stand the hell up!\".",
+      "Vietnamese": "Khác rành rành ra—!! Trên đời này còn gì nặng nề hơn câu\\n\"Mày bao nhiêu tuổi rồi hả, xéo ra chỗ khác mau—!!\" chứ—?!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yes there is.",
+      "Vietnamese": "Có đầy luôn là khác."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "NEVER SIT AGAIN. STAND UNTIL YOU DIE. STAND AFTER YOU DIE. DON'T THINK YOUR SOUL IS GOING ANYWHERE, COZ WE'RE PUTTING YOU IN THE GROUND STANDING UP!",
+      "Vietnamese": "MÃN KIẾP ĐỪNG MONG ĐƯỢC NGỒI XUỐNG NỮA—! ĐỨNG ĐÓ TỚI NGHẺO LUÔN ĐI—! MÀ NGHẺO RỒI CŨNG PHẢI ĐỨNG NỐT—! ĐỪNG MƠ ĐƯỢC HỎA TÁNG RỒI CHÔN CẤT TỬ TẾ—! TAO SẼ ĐỊA TÁNG MÀY BẰNG CÁCH DỰNG ĐỨNG CÁI XÁC LUÔN!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "OH GOD, you're right! That would suck. At least let me lay down when I'm dead. Standing for eternity would be the WORST!",
+      "Vietnamese": "Có luôn kìa—!! Chết dựng đứng cơ á—! Tôi muốn được yên nghỉ—!\\nĐã chết rồi thì ít ra cũng phải cho tôi nằm ngang chứ——!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Right?",
+      "Vietnamese": "Thế mới đúng chứ."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00022_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah.",
+      "Vietnamese": "Phải đấy."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait—why am I agreeing with you?! I haven't even progressed an inch into my explanation of the Orchids! Let me tell you about the Orchids!",
+      "Vietnamese": "Mà khoan, đứng nằm gì ở đây chứ——?! Màn giới thiệu nhóm hacker nãy giờ vẫn giậm chân tại chỗ——! Để tôi khoe về Orchid một chút coi——!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The Orckids?! You're a fan of the legendary Orckids?!",
+      "Vietnamese": "ORCHID?! Bồ cũng thích ORCHID hả?!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That band's wild cries of \"GYAYAGRAYYYBODODODODUOH\" shake the foundations of my very soul!!!",
+      "Vietnamese": "Là ban nhạc cuồng nộ huyền thoại đó, với những màn gào thét kiểu \"GYAIA GUREII IBODODODOOOO!\" tới mức chấn động tâm can ấy!!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is this a bug or did you just copy-paste your previous line? What's wrong with you?!",
+      "Vietnamese": "Đừng có đảo trở lại câu thoại đầu tiên như kiểu bị ai đó nhấn Copy-Paste thế chứ——! Cậu làm tôi hãi quá đi mất!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Are you some broken NPC that only says the same thing, no matter how many times you talk to them?! Debuggers would be sending in tickets about you!",
+      "Vietnamese": "Cậu là loại NPC mà dù cố bắt chuyện cỡ nào cũng chỉ biết nhai lại đúng một câu đó thôi hả?! Cứ vậy kiểu gì cũng bị mấy gã debugger góp ý là \"phải biết đầu tư vào kịch bản hơn chứ\" cho mà xem!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00028_STezuka",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Commander",
+      "Vietnamese": "Tư lệnh"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00028_STezuka",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You two over there. You're being disruptive.",
+      "Vietnamese": "Đằng kia, bớt ồn ào lại hộ!"
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Your response?",
+      "Vietnamese": "Phản ứng lại Tư lệnh..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Snap back|Quiet down",
+      "Vietnamese": "Quát ngược|Hành xử chừng mực"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We're not disruptive! We're just \"GYAYAGRAYYYBODODODODUOH\"-ing!!!",
+      "Vietnamese": "Ồn ào hồi nào chứ! Bọn này chỉ \"GYAIA GUREII IBODODODOOOO!!\" thôi mà————!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's the battle cry of my soul, dammit!!!",
+      "Vietnamese": "Đó là lời hiệu triệu của linh hồn đấy! Quỷ tha ma bắt!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00031_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Female Cadet 1",
+      "Vietnamese": "Nữ đội viên 1"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00031_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "What's with her?",
+      "Vietnamese": "Cái người đó bị gì vậy..."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00032_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Female Cadet 2",
+      "Vietnamese": "Nữ đội viên 2"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00032_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I can't believe she talked to the commander like that...",
+      "Vietnamese": "Ứng đối với Tư lệnh mà dám lộng ngôn như thế sao..."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00033_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Cut it out. Everyone's staring at us! Unless you LIKE standing out for all the wrong reasons on the first day?!",
+      "Vietnamese": "K-Kìa, đừng có nổi khùng đến mức làm mọi người xung quanh khiếp vía thế chứ! Ngay ngày đầu tiên mà cậu đã chơi trội theo hướng tiêu cực rồi đấy!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What the heck? Is that what it sounds like to the uninitiated? Disruptive?",
+      "Vietnamese": "Gì chứ... Với dân ngoại đạo thì nghe thành ồn ào luôn à..."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's precisely how it is... What else would it be?",
+      "Vietnamese": "Nghe rõ mồn một là khác... Ngoài tiếng hú hét ra thì cậu nghĩ là còn nghe được gì khác nữa..."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00036_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "GYAYAGRAYYYBODODODODUOH is the battle cry of my soul, dammit!!!",
+      "Vietnamese": "Đã bảo \"GYAIA GUREII IBODODODOOOO!\" là lời hiệu triệu của linh hồn mà! Quỷ tha ma bắt!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00037_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeesh, there's no need to blow a gasket! Unless you LIKE standing out for all the wrong reasons on the first day?!",
+      "Vietnamese": "K-Kìa, đừng có đột ngột gắt lên như đám trẻ trâu thế chứ! Ngay ngày đầu tiên mà cậu đã chơi trội theo hướng tiêu cực rồi đấy!"
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry. I got a little excited there. I'm good now.",
+      "Vietnamese": "Xin lỗi, mới nãy tớ có hơi bị kích động quá. Giờ thì ổn rồi."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You know, I had you pegged as someone cool and collected, but boy was I wrong. You really can't judge a book by its cover.",
+      "Vietnamese": "Hầy... Hóa ra cậu lại là kiểu nhân vật đó hả... Làm tôi cứ ngỡ là mẫu người \"ngầu lòi\" cơ. Đúng là chớ nên trông mặt mà bắt hình dong."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00040_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Gracias.",
+      "Vietnamese": "Thanks."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That wasn't a compliment.",
+      "Vietnamese": "Tôi có khen cậu đâu."
+    },
+    {
+      "Key": "VC_MC00_00_04_00_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why did I have to sit next to the biggest weirdo on the planet on my first day?",
+      "Vietnamese": "Chết dở, mới ngày đầu mà đã dây vào thành phần quái đản gì thế này..."
+    }
+  ],
+  "Inserts": []
+}

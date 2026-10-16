@@ -1,0 +1,168 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_12_01",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All six of us in one room... Staring up at the same ceiling... It's like a sleepover.",
+      "Vietnamese": "Cả sáu đứa tụi mình cùng ngủ chung một phòng luôn ha. Cùng ngước nhìn lên một tấm trần thế này, trông như thể đang đi tham quan ngoại khóa ấy nhỉ."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Hah. What, we gonna talk about our love lives now?",
+      "Vietnamese": "Hử, tính chơi trò tám chuyện yêu đương sến sẩm luôn đấy à?"
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I guess I might've done something like that before? Feels like a lifetime ago...",
+      "Vietnamese": "Tụi mình cũng từng có thời như vậy mà ha... Sao nghe lại có cảm giác xa xăm quá chừng..."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00003_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Well, these are precarious times.",
+      "Vietnamese": "Cũng bởi ta đang sống dưới cái thời đại này mà."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00004_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I've always slept alone, so this is my first time.",
+      "Vietnamese": "Từ trước đến nay em toàn phải ngủ một mình thôi, nên đây là lần đầu tiên của em luôn..."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That hat—are you seriously wearing it to bed? Does it even come off? I'll be floored if it's still on your head in the morning.",
+      "Vietnamese": "Nhóc tính đội mũ đi ngủ luôn hả? Bộ nó mọc liền vô người luôn rồi chắc? Sáng ra mà cái mũ vẫn còn trên đầu chắc tôi bày mâm khấn vái luôn quá."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oooh, I just thought of something! That Narby would make the BEST pillow.",
+      "Vietnamese": "Ô, nghĩ ra món này hay lắm nè. Lấy Narby làm gối ôm thì nằm chắc sướng lắm nhỉ?"
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00007_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Nope.",
+      "Vietnamese": "Hông được."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat? Come on, just for a little while!",
+      "Vietnamese": "Ể——, keo thế, một chút xíu thôi thì đã sao đâu nà——"
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The commander said to treat them with respect, doofus.",
+      "Vietnamese": "Bên trên đã dặn là không được đối xử thô bạo với nó rồi mà..."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Plus, we have to wake up super early tomorrow. Go to sleep.",
+      "Vietnamese": "Với lại sáng mai phải dậy sớm đấy, nên là ngoan ngoãn đi ngủ giùm cho."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, yeah.",
+      "Vietnamese": "Rồi, rồi."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": "....."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Even with my eyes closed, I'm wide awake!",
+      "Vietnamese": "Ơ kìa? Mắt cứ tỉnh như sáo, chẳng thấy buồn ngủ tí nào luôn!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You seriously got your 8 hours in with that power nap? Incredible.",
+      "Vietnamese": "Chợp mắt có tý mà cậu ngủ đủ giấc rồi cơ à, bái phục thật đấy."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's no use. Time to par-tay! Squash, anyone?",
+      "Vietnamese": "Hết cách rồi. Chơi trò gì đi. Như bóng quần chẳng hạn."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm exhausted. Just be quiet and go to sleep. Plus, why in the world would I want to play such a demanding sport on a night like this?",
+      "Vietnamese": "Nhưng tôi buồn ngủ lắm rồi. Làm ơn ngậm miệng nhắm mắt lại giùm. Ai đời nửa đêm nửa hôm lại đi chơi cái môn thể thao vận động mạnh bạo như bóng quần cơ chứ..."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Tch...fine.",
+      "Vietnamese": "Xì... Biết rồi mà..."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nngh...",
+      "Vietnamese": "....."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Whew... Talk about a hectic day...",
+      "Vietnamese": "Phù... Đúng là một ngày cực hình mà..."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00020_Karen",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "But, with each new day, one of their companions would vanish... That was the game they were unknowingly playing.",
+      "Vietnamese": "Mỗi sáng khi tỉnh giấc, lại có một người biến mất... Trò chơi ấy đã cận kề thời khắc khai cuộc."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00020_Karen#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "But, with each new day, one of their companions would vanish... That was the game they were unknowingly playing.",
+      "Vietnamese": "Mỗi sáng khi tỉnh giấc, lại có một người biến mất... Trò chơi ấy đã cận kề thời khắc khai cuộc."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What? We're playing real Werewolf or something?!",
+      "Vietnamese": "Hả, cái trò chơi kiểu đấy sắp khai cuộc thật á?!"
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkiiiiie, you're the noisiest one here. Just be quiet and go to sleep.",
+      "Vietnamese": "Yukki, bồ là đứa ồn ào nhất phòng đấy biết không? Mau ngủ giùm cái đi."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How can I possibly sleep after hearing that?!",
+      "Vietnamese": "Nghe cái câu vừa rồi mà cậu bảo tôi cứ thế thản nhiên đi ngủ được chắc?!"
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone's out. It was probably sleep talk...",
+      "Vietnamese": "Mọi người ngủ hết cả rồi, chắc là ai đó nói mớ thôi mà..."
+    },
+    {
+      "Key": "VC_MC00_00_10_02_Novel_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's even worse! If this really is a game, then someone's going to...",
+      "Vietnamese": "Đáng sợ theo đủ nghĩa luôn đấy!! Rốt cuộc thì cái gì sắp sửa khai cuộc từ bây giờ đây trời...?"
+    }
+  ],
+  "Inserts": []
+}

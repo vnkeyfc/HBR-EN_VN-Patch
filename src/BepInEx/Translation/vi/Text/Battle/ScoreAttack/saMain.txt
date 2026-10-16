@@ -2,17 +2,23 @@
 スコアアタック=Score Challenge
 
 [New]
-A powerful enemy from the event story has appeared in the Score Challenge!\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch mới xuất hiện tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Style S trở lên\ncùng nguyên liệu Introjection!
+A powerful enemy from the event story has appeared in the Score Challenge!\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch mới xuất hiện tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Hồi Ức S trở lên\ncùng nguyên liệu Introjection!
 
 [Old]
-A certain powerful enemy is back with a vengeance!\n\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch cũ đã quay lại tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Style S trở lên\ncùng nguyên liệu Introjection!
+A certain powerful enemy is back with a vengeance!\n\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch cũ đã quay lại tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Hồi Ức S trở lên\ncùng nguyên liệu Introjection!
 
 r:^<style\=RubyPrefixTag></style>\nThis Score Challenge features a boss from the \"(.+)\" event\.\nIt is recommended that you attempt it after clearing the event story\. Are you sure you wish to continue\?$=<style\=RubyPrefixTag></style>\nScore Challenge này xuất hiện Boss từ sự kiện "$1".\nKhuyến khích tham gia sau khi hoàn thành cốt truyện sự kiện.\nBạn có chắc muốn tiếp tục không?
 
+r:"^期間(\d+)$"=Giai đoạn $1
 期間外=<size\=80%>Đã kết thúc
 
+<style\=RubyPrefixTag></style>\nRules updated=<style\=RubyPrefixTag></style>\nĐã cập nhật điều kiện mới
 難易度=Độ khó
 sr:"^(.+) \[(.+)\]$"=$1 [$2]
 敵ステータス=Chỉ số kẻ địch:
 難易度スコア=Điểm độ khó:
-グレード：=Grade:
+特殊ルール選択=Lựa chọn điều kiện đặc biệt
+特殊ルールは1つのみ選択できます=Bạn chỉ được chọn 1 điều kiện đặc biệt.
+No Special Rule=<cspace\=-1px>Không có điều kiện đặc biệt
+r:"^Rule (.+)$"=<size\=75%>Điều kiện $1
+r:"^Score Multiplier ×(.+)$"=Hệ số điểm thưởng ×$1

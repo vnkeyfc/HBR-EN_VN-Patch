@@ -1,0 +1,159 @@
+{
+  "Script": "Story/AC01/Day03/World/AC01_03_09_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Find a cable for the tablet!",
+      "Vietnamese": "Tìm dây cáp cho máy tính bảng nào!"
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go into the general store!",
+      "Vietnamese": "Hãy vào cửa hàng tạp hóa!"
+    },
+    {
+      "Key": "VC_AC01_00751_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Alright, let's find that cable!",
+      "Vietnamese": "Rồi, đi tìm thôi!"
+    },
+    {
+      "Key": "VC_AC01_00752_RKayamori",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "But where do we start?",
+      "Vietnamese": "Mà nó nằm ở đâu mới được chứ?"
+    },
+    {
+      "Key": "VC_AC01_00753_MSatsuki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We have some in the general store.",
+      "Vietnamese": "Trong cửa hàng tạp hóa có đấy."
+    },
+    {
+      "Key": "VC_AC01_00754_RKayamori",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Of course you'd know, you work there!",
+      "Vietnamese": "Chuẩn nhân viên bán hàng có khác!"
+    },
+    {
+      "Key": "VC_AC01_00772_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here it is! This one.",
+      "Vietnamese": "Có rồi! Cái này nè."
+    },
+    {
+      "Key": "VC_AC01_00773_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great, let's head back.",
+      "Vietnamese": "Tốt rồi, quay lại thôi."
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Mujina General Store",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC01_00755_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where are you off to in such a hurry? Did something happen?",
+      "Vietnamese": "Đi đâu mà vội vàng vậy? Lại có chuyện gì à?"
+    },
+    {
+      "Key": "VC_AC01_00756_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I put three narbies together, and they disappeared!",
+      "Vietnamese": "À, tớ vừa gom ba con Narby lại với nhau thì tự dưng chúng biến mất tiêu luôn."
+    },
+    {
+      "Key": "VC_AC01_00757_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds like one of those match-three puzzle games!",
+      "Vietnamese": "Hiện tượng kiểu game xếp hình rớt khối gì vậy!"
+    },
+    {
+      "Key": "VC_AC01_00758_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm gonna try it myself!",
+      "Vietnamese": "Tôi cũng đi thử đây!"
+    },
+    {
+      "Key": "VC_AC01_00759_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dang, I guess she didn't get the joke.",
+      "Vietnamese": "Chết dở, trò đùa không hiệu nghiệm..."
+    },
+    {
+      "Key": "VC_AC01_00760_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seems like it...",
+      "Vietnamese": "Có vẻ là vậy..."
+    },
+    {
+      "Key": "VC_AC01_00761_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder what happened to that little Cancer that ran away.",
+      "Vietnamese": "Con Cancer nhỏ chạy đi mất kia không biết giờ sao rồi nhỉ?"
+    },
+    {
+      "Key": "VC_AC01_00762_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hi! I'm the Cancer you let go!",
+      "Vietnamese": "Xin chào! Em là con Cancer lúc đó được các anh chị tha mạng đây ạ!"
+    },
+    {
+      "Key": "VC_AC01_00763_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah, so the little Cancer comes back to repay us!",
+      "Vietnamese": "A, Cancer báo ân!"
+    },
+    {
+      "Key": "VC_AC01_00764_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Or maybe, it could be the ending where the tragedy continues, as we cut to millions of Cancers hatching from eggs.",
+      "Vietnamese": "Hoặc là cutscene hàng đàn Cancer nở ra từ trứng báo hiệu bi kịch vẫn chưa kết thúc."
+    },
+    {
+      "Key": "VC_AC01_00765_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I like the first one better.",
+      "Vietnamese": "Tớ thích cái đằng trước hơn."
+    },
+    {
+      "Key": "VC_AC01_00766_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a good thing that everyone got out of that tight spot. I have to thank you.",
+      "Vietnamese": "Nhờ có mi mà bọn ta thoát được tình cảnh ngặt nghèo đó, mọi người ai nấy đều bình an vô sự. Cho ta gửi lời cảm tạ."
+    },
+    {
+      "Key": "VC_AC01_00767_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's because we worked together. And you were one of those people, Miko. Thank you.",
+      "Vietnamese": "Đó là sức mạnh đoàn kết của mọi người. Miko-chan cũng là một phần trong đó. Cảm ơn cậu."
+    },
+    {
+      "Key": "VC_AC01_00768_SSakuraba",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My crystal ball is glowing so vividly... The future of 31-C is bright.",
+      "Vietnamese": "...Quả cầu pha lê rực rỡ đến thế này... Tiền đồ của 31C rất xán lạn."
+    },
+    {
+      "Key": "VC_AC01_00769_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. Let's make a brilliant shining future together!",
+      "Vietnamese": "Ừ. Cùng nhau hướng đến một tương lai rực rỡ nhé!"
+    },
+    {
+      "Key": "VC_AC01_00770_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was but a minor sprain! Thank you very much for helping me!",
+      "Vietnamese": "Chỉ là bong gân nhẹ-degozaru! Thật sự đội ơn-degozaru!"
+    },
+    {
+      "Key": "VC_AC01_00771_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You really hung in there. Of course we'd help each other out!",
+      "Vietnamese": "Cậu cũng cố gắng chịu đựng giỏi đấy. Giúp đỡ lẫn nhau là chuyện đương nhiên mà!"
+    }
+  ],
+  "Inserts": []
+}

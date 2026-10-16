@@ -1,0 +1,36 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_06_05",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_06_05_Novel_00000_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "They really put up a fight that time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_05_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Sez you! I'm just gettin' started.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_05_Novel_00002_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "This should suffice for a warmup. It is about time I unleashed my full power...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_05_Novel_00003_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Terrifying! The Great Yamawaki is oh-so-terrifying, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_06_05_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "They don't seem like they're struggling, either.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

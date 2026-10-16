@@ -1,0 +1,240 @@
+{
+  "Script": "Story/MC02/Day04/World/MC02_04_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I CAN'T BELIEVE IIIT! WE LOOOST! NO NO NOOO!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your face right now is what's listed in the dictionary next to \"sore loser.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You lost too, Yukkie. Get sore with meee!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll pass...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00004_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh! Cobble together whatever team you want, we're the unbeatable Minase sisters. No one stands a chance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00005_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How pathetic, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00006_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Later, losers! Catch you on the field again, if you dare!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00007_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we'll purrrobably just wipe the floor with you again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rrrgh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're really such a kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "AGH, NOOO! WE LOOOST!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00011_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was off my game, literally. Coulda handled making a hazelnut disappear, but a baseball...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your face right now is what's listed in the dictionary next to \"sore loser.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00004_IMinase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh! Cobble together whatever team you want, we're the unbeatable Minase sisters. No one stands a chance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00005_SMinase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How pathetic, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00015_Maikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You askin' for a bloody nose? That baseball may've given me a hard time, but your face is nothin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey now, don't pick a fight with them. You lost fair and square, just accept it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00017_Maikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "DAMMIT!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00006_IMinase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Later, losers! Catch you on the field again, if you dare!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00007_SMinase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we'll purrrobably just wipe the floor with you again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00008_RKayamori#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Rrrgh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00021_Maikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Rrrgh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like two peas in a pod.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00000_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I CAN'T BELIEVE IIIT! WE LOOOST! NO NO NOOO!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00001_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your face right now is what's listed in the dictionary next to \"sore loser.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00004_IMinase#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh! Cobble together whatever team you want, we're the unbeatable Minase sisters. No one stands a chance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00005_SMinase#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How pathetic, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00027_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Enjoy laughing at us while you still can...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00028_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say that again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00029_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And so the two sisters of 31-B were never seen again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00030_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the—?! Who the hell said that?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00031_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa there. Tell me you're not thinking what I think you are, Karrie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00032_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Two slices is all it'd take...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00033_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Think about this rationally. You'd be imprisoned, and that'd be trouble for Asakura.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00034_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ngh... I'm well aware...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00006_IMinase#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Later, losers! Catch you on the field again, if you dare!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00007_SMinase#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we'll purrrobably just wipe the floor with you again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00008_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Rrrgh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_09_00_Novel_00009_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're really such a kid.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

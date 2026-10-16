@@ -1,0 +1,26 @@
+{
+  "Script": "Foundation/conquest_system",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "End the exploration and return to base?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Exploration will be suspended and you will return temporarily.\\nStory progress will be saved.\\nEnemies and some items will respawn.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Expedition.setTitle:0",
+      "Original": "Suppression Mission",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the target location!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

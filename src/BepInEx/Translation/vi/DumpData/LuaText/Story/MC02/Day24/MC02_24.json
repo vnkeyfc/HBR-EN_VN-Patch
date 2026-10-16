@@ -1,0 +1,21 @@
+{
+  "Script": "Story/MC02/Day24/MC02_24",
+  "Entries": [
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "Abyssal Crusher\\nRecommended Rating: 7,000\\nVulnerabilities: Slash\\nResistances: Pierce",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "Red Chrysalis\\nRecommended Rating: 7,000\\nVulnerabilities: Crush, Ice\\nResistances: Slash",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "Dark Razorwing\\nRecommended Rating: 7,000\\nVulnerabilities: Pierce, Light\\nResistances: Crush",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

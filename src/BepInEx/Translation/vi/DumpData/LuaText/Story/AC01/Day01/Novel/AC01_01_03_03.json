@@ -1,0 +1,160 @@
+{
+  "Script": "Story/AC01/Day01/Novel/AC01_01_03_03",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00069_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huff...huff... I'll be really surprised...if she's here...",
+      "Vietnamese": "Hợ hợ... Tới cỡ này rồi mà bồ vẫn ở đó thì đúng là hết hồn thật đấy..."
+    },
+    {
+      "Key": "VC_AC01_00070_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome. ♪",
+      "Vietnamese": "Kính chào quý khách~♪"
+    },
+    {
+      "Key": "VC_AC01_00071_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "YOU'RE HERE?!",
+      "Vietnamese": "BỒ Ở ĐÂY THẬT KÌAAAAAAA!!"
+    },
+    {
+      "Key": "VC_AC01_00072_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course. It's my job, after all. ♪",
+      "Vietnamese": "Chắc chắn rồi. Vì đó là công việc của tôi mà lị♪"
+    },
+    {
+      "Key": "VC_AC01_00073_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But HOW? I'm panting like crazy over here and you're just standing there perfectly fine?",
+      "Vietnamese": "Ơ tại sao chứ? Tớ chạy bở hơi tai, thở không ra hơi thế này cơ mà?"
+    },
+    {
+      "Key": "VC_AC01_00074_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Moving quickly is a specialty of mine.",
+      "Vietnamese": "Tôi rất rành khoản di chuyển tốc độ cao ạ."
+    },
+    {
+      "Key": "VC_AC01_00075_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say what? We were both headed to the same place, but I didn't see you at all.",
+      "Vietnamese": "Hả? Rõ ràng là tụi mình cùng di chuyển đến một chỗ, mà tớ còn chẳng thấy bóng dáng bồ đâu luôn á?"
+    },
+    {
+      "Key": "VC_AC01_00076_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I may have cheated just a bit. I use special shortcuts that only I can access. ♪",
+      "Vietnamese": "Riêng cái đó thì tôi có ăn gian một chút. Tôi đã dùng con đường tắt độc quyền mà chỉ mình tôi được phép đi ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00077_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what happens when customers show up at the same time? Like, what if Yukkie hits up the previous shop while I'm here?",
+      "Vietnamese": "Vậy nếu có khách hàng xuất hiện cùng lúc thì sao? Lỡ Yukki mò đến cửa hàng ban nãy thì bồ tính kiểu gì?"
+    },
+    {
+      "Key": "VC_AC01_00078_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is precisely what is happening right now. Take your time to choose. ♪",
+      "Vietnamese": "Tình huống đó đang diễn ra ngay lúc này đây ạ. Xin quý khách cứ thong thả chọn đồ nhé♪"
+    },
+    {
+      "Key": "VC_AC01_00079_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm...",
+      "Vietnamese": "Ừm..."
+    },
+    {
+      "Key": "VC_AC01_00080_RKayamori",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Hmm... This is pretty cool... Oh, this isn't bad either.",
+      "Vietnamese": "Hừm... Món này cũng được... Món kia cũng ngon."
+    },
+    {
+      "Key": "VC_AC01_00081_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Have you decided on a purchase?",
+      "Vietnamese": "Quý khách đã chọn được chưa ạ?"
+    },
+    {
+      "Key": "VC_AC01_00082_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? What were you doing just now?!",
+      "Vietnamese": "Hả? Vừa chớp mắt một cái bồ đã kịp làm gì rồi!?"
+    },
+    {
+      "Key": "VC_AC01_00083_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Customer service. ♪",
+      "Vietnamese": "Tiếp khách ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00084_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not that you're good at \"moving quickly\"—it's more like you can straight up teleport around!",
+      "Vietnamese": "Này đâu phải là \"rành khoản di chuyển tốc độ cao\", bồ xài dịch chuyển tức thời đúng không!?"
+    },
+    {
+      "Key": "VC_AC01_00085_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is not possible. ♪",
+      "Vietnamese": "Điều đó là bất khả thi ạ♪"
+    },
+    {
+      "Key": "VC_AC01_00086_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Very mysterious. But it makes sense that you'd be in the Seraph squadron... Your physical abilities seem to be out of this world. In fact, shouldn't you be focused on that?",
+      "Vietnamese": "Đáng sợ thật... Bảo sao lại bị lôi vào đội Seraph... Thể lực tầm này quá ao trình rồi. Thay vì bán hàng, nhẽ ra người ta nên để bồ tập trung toàn lực vào khoản đó mới phải..."
+    },
+    {
+      "Key": "VC_AC01_00087_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This level of multitasking comes naturally. So don't underestimate me, you bastard. Or else. ♪",
+      "Vietnamese": "Ba cái trò kiêm nhiệm này chỉ là muỗi thôi. Đừng có coi thường tôi. Đồ khốn khiếp♪"
+    },
+    {
+      "Key": "VC_AC01_00088_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The way you sometimes sound so rude out of nowhere scares me too...",
+      "Vietnamese": "Kể cả cái thói thỉnh thoảng lại văng tục đó của bồ cũng đáng sợ luôn..."
+    },
+    {
+      "Key": "VC_AC01_00089_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies. That's what happens when you grow up with brothers. ♪",
+      "Vietnamese": "Xin lỗi nhé. Do tôi lớn lên giữa bầy đực rựa ấy mà♪"
+    },
+    {
+      "Key": "VC_AC01_00090_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you even have time to participate in drills and stuff?",
+      "Vietnamese": "Mà bồ chạy sô thế này thì lấy đâu ra thời gian huấn luyện?"
+    },
+    {
+      "Key": "VC_AC01_00091_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I sure do. I was ordered to survey the Ikebukuro underground area this afternoon even though it's a day off. ♪",
+      "Vietnamese": "Vẫn có ạ. Dù hôm nay là ngày nghỉ nhưng chiều nay tôi có lệnh phải xuống khám phá khu vực dưới lòng đất đấy♪"
+    },
+    {
+      "Key": "VC_AC01_00092_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd die if it were me.",
+      "Vietnamese": "Đổi lại là tớ chắc tớ oẳng mất..."
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Mujina General Store",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Shopping Mall",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

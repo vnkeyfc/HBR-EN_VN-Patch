@@ -1,0 +1,233 @@
+{
+  "Script": "Story/MC02/Day14/World/MC02_14_00_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Leave the dormitories!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I know for a fact there's no breakfast this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Roll call's done, so let's go get some breakfast.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hmm? You look a bit tired today, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's because you keep dragging us to band practice every day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Oh. Then I guess there's no problem!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There IS a problem...but I guess it's still a nice change of pace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yukkie, your iciness is melting away! I shoulda recorded this for posterity!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It is not! Ugh, whatever... Let's just get food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "So, Tsukassie. How've you been doing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00009_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I learned a new trick... Look!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Woah! Your fingers are moving so flexibly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00011_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's probably because I've been on the keyboard constantly. Maybe I can make use of it with my Seraph.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Ohh, so maybe you can pull the trigger smoothly with those flexy fingers. I'm counting on you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00013_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe...I don't know how exactly it'll help, but I'll certainly feel cool doing it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00014_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Karerin, is your throat alright?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00015_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My throat? Now that I think about it, it was kind of hard to speak when I woke up this morning.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00016_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah, you've been singing all the time lately. Taking care of your throat is vital for vocals, so take this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00017_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is this...candy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "It's my favorite propolis cough drop. I can vouch for its effectiveness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00019_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks. I'll try it out after we eat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "What about you, Megumin? How're you feeling in the new role?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00021_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The noise stuff? Guess it works as stress relief.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Aww, if you think it's fun, you should say it loud and proud!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00023_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As if. I'm just playin' along with yer musical playtime. It ain't exactly my kinda fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00724_v001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Don't worry... I getcha completely. You'll get your fix the next free time we get!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00025_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey! Don't just leave it like I'm excited about it or somethin'!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "You seem to be having fun, Cappy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00027_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka! It's really busy with all the training and the band practice, but it's been very engaging.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00028_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Ohh, you're getting tougher. You used to get tired out more.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00029_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wh-What are you saying?! I used to be a battleship captain, you know?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hehehe... We'll see how long you can last with that attitude...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00031_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not going to lose! But first things first, we need breakfast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's get to the cafeteria already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00033_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder what's on the menu today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00034_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's work hard today too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00035_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Let's hurry and get somethin' to eat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_00_00_World_00036_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm hungry!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

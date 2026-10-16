@@ -1,0 +1,32 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtNarvySquare_MC02",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtNarvySquare_MC02_ADV_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at Narby Square, but what should I do?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Hang out at Narby Square today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Hang out",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Spend time at Narby Square to raise your Kindness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,47 @@
+{
+  "Script": "Story/MC02/Day16/World/MC02_16_09_00",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Kayamori. A word?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We've received more reports of a powerful Cancer by the dome.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "That's right, a new patrol mission. What do you say?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Of course, you will be compensated for your troubles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Take a look?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Near Heliport",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

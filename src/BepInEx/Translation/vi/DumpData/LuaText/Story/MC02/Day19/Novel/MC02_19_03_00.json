@@ -1,0 +1,142 @@
+{
+  "Script": "Story/MC02/Day19/Novel/MC02_19_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's often said that the first dimension is a line, the second dimension is a plane, and third dimension is the world of objects with depth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00001_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The fourth dimension is usually associated with the addition of time and is referred to as \"4D space-time.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Following that, the fifth dimension could be said to be a dimension with multiple different instances of time. Kayamori, do you know what this concept is commonly called?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What is it called?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Party-people Worlds|Parasol Worlds|Parallel Worlds",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aren't they called parallel worlds?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00004_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woo-hoo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aren't they called parasol worlds?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00007_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00009_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is parallel worlds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aren't they called party-people worlds?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00011_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, at least everyone in 31-A is a party-person. So you could say we're our own little party-people world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, no. Don't shove us into the same category as you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00015_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is parallel worlds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00016_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If the third dimension is the world we exist in, then the fourth dimension is a world with a time machine, and the fifth dimension is one where parallel worlds exist.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh. Interesting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00018_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, I'm simplifying things a lot, so this isn't necessarily an accurate explanation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00019_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It would probably be difficult for us to even imagine a world in the fourth or fifth dimension, given we exist in the third.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_03_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

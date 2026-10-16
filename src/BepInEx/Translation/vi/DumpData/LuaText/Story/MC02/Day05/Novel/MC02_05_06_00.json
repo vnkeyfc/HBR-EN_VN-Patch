@@ -1,0 +1,257 @@
+{
+  "Script": "Story/MC02/Day05/Novel/MC02_05_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today, you will be training for phase one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Greeeat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00002_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Two squad leaders, two very different reactions...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00004_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our squad's supposed to be the elite one, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00005_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In yesterday's training, you successfully secured the route leading to Point Alpha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00006_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today, your objective is to gain control of the route up until Point Beta, at Nanohana View Terrace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00007_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once Point Beta is secured, Phase One will be complete.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00008_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Speed is of the utmost importance in today's training. Be as efficient as possible in combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can't make any promises about that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00010_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will pretend I did not hear that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00011_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "First, please finish securing the rest of the route leading to Point Alpha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00012_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then, move on to today's objective: gaining control of the route leading to Point Beta, Nanohana View Terrace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00007_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once Point Beta is secured, Phase One will be complete.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00008_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Speed is of the utmost importance in today's training. Be as efficient as possible in combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00009_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can't make any promises about that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00010_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will pretend I did not hear that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00017_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "First, please finish securing the rest of the route leading to Afuri Shrine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Next, secure Point Alpha. Then you may move on to today's objective: gaining control of the route to Point Beta.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uhh, isn't that kind of a lot?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00020_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Only because you have been failing to make meaningful progress thus far. Use this opportunity to make up for lost time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold on... You can't really expect us to be able to do today what we couldn't do yesterday.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00022_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please don't get indignant about it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00023_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Speed is of the utmost importance in completing today's objective. Be as efficient as possible in combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00024_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Efficient combat performance requires honing your decision-making skills.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00025_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You will need to deduce what your allies are thinking, as well as predict their possible courses of action.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00026_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Especially you, Cadet Kayamori. Your orders direct the entire flow of battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, they do?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you think a squad leader does?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I KNOW what I have to do, it's just hard.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00030_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you feel the situation exceeds your capabilities, temporarily delegating command to another is a valid option.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00031_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For example, if there are not enough members on the front lines, you could have Izumi assume command and go to their aid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00033_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't give me those puppy dog eyes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00034_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course, you are not to take advantage of this and shirk your duties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awww, c'mon...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00036_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All that said, your efficacy as a squad has been steadily increasing, so you needn't be pessimistic.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heck yeah! Ten points for Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00038_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, just hang on to that optimism...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00039_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is all for today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_06_00_Novel_00040_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "A powerful enemy awaits ahead.\\nPrepare accordingly.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

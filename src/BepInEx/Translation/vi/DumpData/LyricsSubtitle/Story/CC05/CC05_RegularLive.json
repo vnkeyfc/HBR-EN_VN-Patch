@@ -1,0 +1,126 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/CC05/CC05_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 15.4,
+      "EndSecond": 22,
+      "OriginalText": "It's not a game                                                                                                                                I'm not a robot AI challenging you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 22.1,
+      "EndSecond": 30.9,
+      "OriginalText": "I'm not a phantom                                                                                                                                I'm in your face and I'm here to see it through",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 31,
+      "EndSecond": 34.1,
+      "OriginalText": "Right before your eyes",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 34.2,
+      "EndSecond": 37.6,
+      "OriginalText": "Watch us multiply",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 37.7,
+      "EndSecond": 40.9,
+      "OriginalText": "Come to claim our rights",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 41.2,
+      "EndSecond": 44.7,
+      "OriginalText": "it's time",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 53.1,
+      "EndSecond": 54.4,
+      "OriginalText": "And as your crippled brain",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 54.5,
+      "EndSecond": 55.8,
+      "OriginalText": "Tries to fight in vain",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 55.9,
+      "EndSecond": 57.9,
+      "OriginalText": "Your empire will fall apart",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 58,
+      "EndSecond": 65,
+      "OriginalText": "And you'll know we were out there                                                                                                                                Swatted lies in the making",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 65.1,
+      "EndSecond": 71.5,
+      "OriginalText": "Your empire for the taking                                                                                                                                Can't hold on or life won't change",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 73.1,
+      "EndSecond": 80.2,
+      "OriginalText": "And our voices rang out, here                                                                                                                                Took the mask off to feel free",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 80.3,
+      "EndSecond": 87.2,
+      "OriginalText": "Fought it out in the debris                                                                                                                                Now we know that life will change",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

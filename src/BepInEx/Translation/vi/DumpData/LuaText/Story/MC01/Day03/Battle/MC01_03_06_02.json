@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC01/Day03/Battle/MC01_03_06_02",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tapping a Cancer will show you its resistances.\\nKeep these in mind when using skills.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

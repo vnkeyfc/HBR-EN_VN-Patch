@@ -1,0 +1,399 @@
+{
+  "Script": "Story/MC02/Day03/Novel/MC02_03_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00016_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will choose to place my faith in you once more. Do remember that humanity's fate rests on your shoulders.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood better than ever, ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00018_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Strange phrasing, but that hardly concerns me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00015_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00020_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Again with your usual lip service, huh? Don't think I don't realize.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not at all, ma'am! I have thoroughly changed my ways!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00022_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh? I surely hope so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00015_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00024_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is there a reason you can't maintain that stance?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll maintain it properly now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00026_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm looking forward to it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00015_RKayamori#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00028_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sucking up will get you nowhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wasn't sucking up, I swear!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00030_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If only I believed you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00015_RKayamori#5",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00032_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh? Were you always this compliant?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00034_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If only you always behaved like this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "An operation is divided into phases, with objectives varying depending on the current situation. You will learn to accomplish the task at hand promptly and carefully.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Sounds like a pain.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Boo|Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaa? Boo, boooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Booing will get you nowhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It doesn't work if I do it alone...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But it's not too late! C'mon, Yukkie, boo with me! One...two...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Boo, booo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like I said, booing will get you nowhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, why didn't you join in?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because if we don't listen carefully, we may very well end up dead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Crap, you're right! You've convinced me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, all together, then. One...two...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00011_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU A DUM-DUM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're so good at pissing her off...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_03_00_Novel_00013_Maikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's like \"are you a dum-dum\" is all she ever says now... Normally, it's not somethin' ya ever say in yer life...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00014_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Way to set her off again.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Boo with Yukkie|Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, one...two...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_merge_00006",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Boo, booo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00039_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, why am I taking part in this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00040_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess it's my own damn fault for being baited so easily by the countdown...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00041_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We will not entertain complaints. The fate of humanity is at stake. Know that failure could mean the end of all mankind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00064_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our objective is to recapture the basin in Hadano, Kanagawa. Should we succeed in eliminating the Cancers in the area, we will secure a route with safe access to the west.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00065_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is of critical importance that this operation is a success. You will train hard and prepare yourselves accordingly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00066_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phase One will consist of securing a route of travel from which to commence Phase Two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00067_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The point of departure is Afuri Shrine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00068_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your route until that point is within human-controlled territory, meaning reaching the shrine will not be an issue.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00069_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The distance between Afuri Shrine and Point Alpha at Yabitsu Pass is roughly 2000 meters.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00070_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phase One will end once you reach Point Beta at Nanohana View Terrance, roughly 2100 meters away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00071_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your task is to swiftly seize control of the area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00072_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You will be in Cancer territory the moment you step out of Afuri Shrine, but bear in mind that this is but one part of the operation. Keep combat engagements to a minimum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00073_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Al-fuh? Bay-tuh? None of this is making any sense!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00074_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There you go embracing your inner dunce again, in just a matter of seconds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00075_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The true dum-dum is perhaps the one who expects anything from her to begin with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00076_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now I'm depressed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00077_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The battles you face will require both speed and firepower. Devise tactics which adequately combine the two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00078_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You must also be able to distinguish where a combat zone begins and ends. To avoid expending unnecessary effort, it is paramount that you keep this at the forefront of your mind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00079_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today's training consists of one objective: establishing a secure route to Afuri Shrine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00080_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The path itself is not long, so take this opportunity to acclimate to combat on a mountain pass.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00081_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, let us commence your training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00082_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanase.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00083_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes ma'am.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00084_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

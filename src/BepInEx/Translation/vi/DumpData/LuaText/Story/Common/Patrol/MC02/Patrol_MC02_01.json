@@ -1,0 +1,77 @@
+{
+  "Script": "Story/Common/Patrol/MC02/Patrol_MC02_01",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Thanks for investigating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00000_v003_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "So, will you accept this patrol mission?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Accept|Decline",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Patrol_MC02_00015_MAsami",
+      "Context": "Adv.talk:1",
+      "Original": "Shame. If you change your mind, let me know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "(expr):0",
+      "Original": "A target has appeared. Do you have time to take care of it?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "(expr):0",
+      "Original": "If you're up for it, come talk to me in front of the heliport.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Go talk to Makiko Asami?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Near Heliport",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00001_v003_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you. This should put the dome residents at ease.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00002_v003_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "More patrol missions will be issued in future. I will update you via RINNE.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00003_v003_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm counting on you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

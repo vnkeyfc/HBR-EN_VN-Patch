@@ -1,0 +1,17 @@
+{
+  "Script": "Story/MC02/Day25/World/MC02_25_00_04",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Defeat the enemies and keep moving forward!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_00_05_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "There's a boulder in the way. We'll have to go around!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

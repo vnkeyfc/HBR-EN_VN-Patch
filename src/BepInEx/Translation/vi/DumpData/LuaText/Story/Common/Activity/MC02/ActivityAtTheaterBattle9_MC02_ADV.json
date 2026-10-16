@@ -1,0 +1,208 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtTheaterBattle9_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Well, what should I watch?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What to watch?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Sci-fi movie|Horror movie|Comedy movie",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Since our world is kind of sci-fi right now, I'll watch a sci-fi movie to expand my horizons.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The movie that showing right now is...Inner-Stellar.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's an old classic about a introverted dad who goes to space to save Earth. I guess I'll watch it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Hopping dimensions and going back in time...it was kind of difficult to understand what was going on.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(But the theme of family was really nice.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Still, sort of a hard movie to digest.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(There was a lot of room for interpretation. I guess that's what made it a classic.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll watch a horror movie, and build up an immunity to scary stuff.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The movie showing right now is called The Ringing. It's the one where a ghost comes out of the TV. Let's give it a go!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Sammy is so creepy...! I know the plot, but it's still so scary! Also the theater's audio is super loud, and it's not helping.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(But...I didn't get scared! Nope, not at all!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I'm a part of the Seraph squadron...can't be spooked by things like this.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00014_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, this pride was what caught Ruka Kayamori off-guard. By the time she noticed the blade inching from behind, it was already too late...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gyaahh! Th-this creepy narration...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00016_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eeeeeehehehehehee! IIIIIIIT'S KARRIE!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00017_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your expression was <i>priceless</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When did you get behind me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00019_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've been following you since before you entered the theater...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously?! Then I should've picked a movie you'd enjoy instead of a horror movie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00021_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I had quite some fun, actually. I was dying trying to hold back my laughter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought I was watching a horror movie...but was it actually a comedy from the perspective of a killer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00023_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. It was the hilarity of watching from behind as you quivered in fear, trying so hard to contain your terror.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heyyy, I'm the leader! Where's my dignity?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I want something funny and easy to watch.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The movie that's on right now is...Warlord Bustle?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A weird period movie about a bunch of warlords running nonstop to Edo.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(This isn't a comedy at all! It's super intense!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Plots and intrigues, murders and friendships, and love...man, this is packed with coolness!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(We need to like, put together a temp crew of katana-style Seraph users like this.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Then, we could do a high-speed Seraph Shuffle in the dungeons!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtTheaterBattle9_MC02_ADV_Battle_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Guess it's about time to head back.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

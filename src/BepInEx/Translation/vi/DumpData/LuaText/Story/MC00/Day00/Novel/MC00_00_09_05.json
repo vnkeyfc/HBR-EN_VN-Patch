@@ -1,0 +1,444 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_09_05",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Oooh, it's one of those! What did the commander call them? Curvies? or was it Kirb—?",
+      "Vietnamese": "Uầy, ra là bọn này sao! Lũ \"Narby Tinh tú\" danh bất hư truyền đây à!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I'll stop you right there before trademark lawyers go after you. Narbies. They're called Narbies.",
+      "Vietnamese": "Người ta có đế thêm chữ \"Tinh tú\" vào đâu! Láo nháo là bị đánh gậy bản quyền nhé."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00002_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Wh-Whoa! It jumped! It's more nimble than it looks!",
+      "Vietnamese": "Oa, giỏi quá! Nó vừa nhảy lên kìa! Nhìn vậy mà nhanh nhẹn quá chừng!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "There's another one over there. In fact, the whole place is crawling with them.",
+      "Vietnamese": "Đằng kia cũng có kìa, xem ra chỗ nào cũng thấy bọn chúng nhung nhúc cả đàn."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00004_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "But to what end? I must investigate further.",
+      "Vietnamese": "Bọn chúng xuất hiện với động cơ gì mới được... Chuyện này nhất định phải điều tra kỹ."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "We expected you to know that already. You DID call yourself an intel agent, after all.",
+      "Vietnamese": "Làm tình báo thì mấy chuyện này phải biết chứ. Người ta trông chờ ở cậu vì lẽ gì nào?"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00006_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I wonder where these little critters came from.",
+      "Vietnamese": "Sinh vật này rốt cuộc thì có lai lịch như thế nào nhỉ?"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "That's, uh...",
+      "Vietnamese": "Cái đó thì..."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(According to my hypothesis...)",
+      "Vietnamese": "(Theo suy đoán của mình thì chuyện là thế này...)"
+    },
+    {
+      "Context": "Adv.doubleQuestion:0",
+      "Original": "How did they get here?",
+      "Vietnamese": "Chúng từ đâu tới, và tới đây bằng cách nào?"
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "They came from outer space|They came from the sea|They came to rebuild our cities",
+      "Vietnamese": "Từ vũ trụ tới...|Từ dưới lòng biển lên...|Tới vực dậy ngành du lịch..."
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "on a UFO|in a taxi|and became mascots",
+      "Vietnamese": "...bằng đĩa bay UFO|...bằng cách bắt taxi|<size=95%>...với vai trò linh vật quảng bá"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came from outer space on a UFO.",
+      "Vietnamese": "Bọn chúng lái UFO từ ngoài vũ trụ tới đây."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00016_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Checks out. They are pretty peculiar.",
+      "Vietnamese": "Cũng đúng nhỉ, trông kỳ lạ và đáng yêu thế này cơ mà. Có khi là vậy thật rồi!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "The Cancer came from space, too. So it does seem plausible.",
+      "Vietnamese": "Kẻ địch vốn dĩ cũng từ vũ trụ tới mà, nên cũng chẳng lạ."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "My answer was super effective! Plus 5 Reputation Points!",
+      "Vietnamese": "Câu trả lời chính xác! Độ thiện cảm trong mắt mọi người đã tăng lên!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Please. Anyone could've thought of that.",
+      "Vietnamese": "Tăng cái con khỉ, câu đó ai mà chẳng trả lời được."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Aw, come on! I really wracked my brains on that one!",
+      "Vietnamese": "Ơ kìa! Người ta đã mất công vắt óc suy nghĩ mãi mới ra câu đó đấy!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came from outer space in a taxi.",
+      "Vietnamese": "Bọn chúng bắt taxi từ ngoài vũ trụ tới đây."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "A taxi? Seriously?",
+      "Vietnamese": "Loại taxi quỷ quái nào kia?"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Anything's possible in times like these!",
+      "Vietnamese": "Thời đại đảo điên rồi, có là vậy cũng bình thường chán."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yeah, anything except a taxi in space.",
+      "Vietnamese": "Đảo điên tới đâu thì taxi cũng không có cửa bay ra ngoài vũ trụ đâu nhé!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00025_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Can't argue with that.",
+      "Vietnamese": "Thật là một pha bẻ chữ nắn câu sắc sảo...!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Aw, come on! I really wracked my brains on that one!",
+      "Vietnamese": "Ơ kìa! Người ta đã mất công vắt óc suy nghĩ mãi mới ra câu đó đấy!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came from outer space and became mascots.",
+      "Vietnamese": "Bọn chúng từ vũ trụ tới đây để làm linh vật vực dậy ngành du lịch."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You really had to stretch for that one.",
+      "Vietnamese": "Biết lựa lúc lựa nơi để du lịch gớm nhể."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00029_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Anything's possible in times like these!",
+      "Vietnamese": "Thời đại đảo điên rồi, có là vậy cũng bình thường chán."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Oh yeah? If they're really mascots, then what's their slogan?",
+      "Vietnamese": "Đã biết là đảo điên mà còn quảng bá du lịch thì vực dậy nổi chỗ nào?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00031_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "You can Narby Narby doo it!",
+      "Vietnamese": "Chỗ tinh thần tụi mình ấy mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00032_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Mmhmm.",
+      "Vietnamese": "Ừm, ừm!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00033_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Well, good for you I guess...",
+      "Vietnamese": "Quý hóa thật đấy."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00034_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came from the sea in a UFO.",
+      "Vietnamese": "Bọn chúng từ dưới lòng biển sâu lên đây bằng đĩa bay UFO."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00035_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "UFOs are unidentified <i>flying</i> objects. They don't swim.",
+      "Vietnamese": "Đã gọi UFO là đĩa bay rồi thì nó chui từ dưới lòng biển lên kiểu gì?"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00036_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I bet they're from outer space. They are pretty peculiar.",
+      "Vietnamese": "Cơ mà giả sử sinh vật lạ lẫm này từ vũ trụ xuống thì nghe chừng hợp lý đấy. Có khi là vậy thật."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00037_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah, that's what I meant—they came from space. Man, I'm good.",
+      "Vietnamese": "Chuẩn luôn, ý tớ đích thị là vậy đó. Quả nhiên tớ đúng là thiên tài mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00038_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Really? Good luck sharing THAT theory with an oceanographer.",
+      "Vietnamese": "Thiên tài về học lại định nghĩa từ \"bay\" hộ tôi."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00039_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came from the sea in a taxi.",
+      "Vietnamese": "Bọn chúng bắt taxi từ dưới lòng biển sâu lên đây."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00040_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "A taxi? Seriously?",
+      "Vietnamese": "Loại taxi quỷ quái nào kia?"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00041_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Anything's possible in times like these!",
+      "Vietnamese": "Thời đại đảo điên rồi, có là vậy cũng bình thường chán."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00042_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yeah, anything except a taxi that can swim!",
+      "Vietnamese": "Đảo điên tới đâu thì taxi cũng không có cửa chạy dưới đáy biển đâu nhé!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00025_KAsakura#2",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Can't argue with that.",
+      "Vietnamese": "Thật là một pha bẻ chữ nắn câu sắc sảo...!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00043_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Aw, come on! I really wracked my brains on that one!",
+      "Vietnamese": "Ơ kìa! Người ta đã mất công vắt óc suy nghĩ mãi mới ra câu đó đấy!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00047_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came from the sea and became mascots.",
+      "Vietnamese": "Bọn chúng từ dưới lòng biển sâu lên đây để làm linh vật vực dậy ngành du lịch."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00048_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "They don't originate from the sea and they're not mascots.",
+      "Vietnamese": "Lũ chúng nó không sống dưới biển, mà cũng chả phải linh vật linh quái gì đâu nhé!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00049_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Shut down, just like that! I really wracked my brains for that one, too!",
+      "Vietnamese": "Bị bác bỏ sạch trơn luôn kìa! Người ta đã mất công vắt óc suy nghĩ mãi mới ra câu đó mà...!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00036_KAsakura#2",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I bet they're from outer space. They are pretty peculiar.",
+      "Vietnamese": "Cơ mà giả sử sinh vật lạ lẫm này từ vũ trụ xuống thì nghe chừng hợp lý đấy. Có khi là vậy thật."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00051_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah, that's what I meant—the sea of space. Man, I'm good.",
+      "Vietnamese": "Chuẩn luôn, ý tớ đích thị là vậy đó. Quả nhiên tớ đúng là thiên tài mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00052_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You're not fooling anyone.",
+      "Vietnamese": "Cậu còn chẳng nói trúng lấy một chữ nữa là."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00053_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came to rebuild our cities on a UFO.",
+      "Vietnamese": "Bọn chúng lái UFO tới đây để vực dậy ngành du lịch."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00054_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "So...mankind made them an offer they couldn't resist, or something?",
+      "Vietnamese": "Nhân loại chơi lớn phết, mời chào vố làm ăn khó đỡ thật."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00055_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "In time's like these...anything's possible!",
+      "Vietnamese": "Giữa thời đại này thì có gì là không thể cơ chứ?"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00056_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "What, are they going to start rebuilding ruins without any limbs?",
+      "Vietnamese": "Phố xá tan tành bình địa luôn rồi thì có ma nào thèm tới du lịch!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00036_KAsakura#3",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I bet they're from outer space. They are pretty peculiar.",
+      "Vietnamese": "Cơ mà giả sử sinh vật lạ lẫm này từ vũ trụ xuống thì nghe chừng hợp lý đấy. Có khi là vậy thật."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00058_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah, that's what I meant—a UFO from space. Man, I'm good.",
+      "Vietnamese": "Chuẩn luôn, ý tớ đích thị là vậy đó. Quả nhiên tớ đúng là thiên tài mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00059_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "So rebuilding had nothing to do with it?!",
+      "Vietnamese": "Nhắc lại cho nhớ, không có vụ du lịch du liếc gì ở đây hết!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00060_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came to rebuild the cities in a taxi.",
+      "Vietnamese": "Bọn chúng bắt taxi tới đây để vực dậy ngành du lịch."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00061_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "How does a creature with no limbs hail a taxi, let alone drive one?",
+      "Vietnamese": "Hình thù chúng nó như thế kia thì vẫy taxi kiểu gì, bớt giỡn."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00062_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They just jumped on and off the hood.",
+      "Vietnamese": "Nó nhảy lên mui xe á."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00063_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "In times like these? Taxis aren't even in service anymore.",
+      "Vietnamese": "Thời đại này đố cậu đào ra được một chiếc taxi đang chạy bon bon trên phố đấy!"
+    },
+    {
+      "Key": "VC_MC00_00005_v002_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Plus, how would they rebuild anything without any limbs?",
+      "Vietnamese": "Chưa kể là phố xá cũng tan tành bình địa luôn rồi còn đâu?"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00036_KAsakura#4",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I bet they're from outer space. They are pretty peculiar.",
+      "Vietnamese": "Cơ mà giả sử sinh vật lạ lẫm này từ vũ trụ xuống thì nghe chừng hợp lý đấy. Có khi là vậy thật."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00065_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah, that's what I meant—a taxi from space. Man, I'm good.",
+      "Vietnamese": "Chuẩn luôn, ý tớ đích thị là vậy đó. Quả nhiên tớ đúng là thiên tài mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00066_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You're not fooling anyone.",
+      "Vietnamese": "Cậu còn chẳng nói trúng lấy một chữ nữa là."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00067_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "They came to rebuild the cities and became mascots.",
+      "Vietnamese": "Bọn chúng được tạo ra để làm linh vật vực dậy ngành du lịch."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00068_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "What, are they going to start rebuilding ruins without any limbs?",
+      "Vietnamese": "Phố xá tan tành bình địa luôn rồi thì có cái nịt ấy mà vực dậy."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00069_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hey now, is that really the kind of world we live in?",
+      "Vietnamese": "Hóa ra thế gian đã bê bết tới mức đó sao..."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00070_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Besides, mascots are fictional characters. Do those look fictional to you?",
+      "Vietnamese": "Chưa kể linh vật chỉ là nhân vật hư cấu thôi. Còn lũ trước mặt này là hàng thật giá thật kia mà?"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00036_KAsakura#5",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I bet they're from outer space. They are pretty peculiar.",
+      "Vietnamese": "Cơ mà giả sử sinh vật lạ lẫm này từ vũ trụ xuống thì nghe chừng hợp lý đấy. Có khi là vậy thật."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00072_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yeah, that's what I meant—they came from space. Man, I'm good.",
+      "Vietnamese": "Chuẩn luôn, ý tớ đích thị là vậy đó. Quả nhiên tớ đúng là thiên tài mà."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00073_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "So rebuilding had nothing to do with it?!",
+      "Vietnamese": "Nhắc lại cho nhớ, không có vụ du lịch du liếc gì ở đây hết!"
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00074_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "What a weirdo...",
+      "Vietnamese": "Người đâu mà kỳ cục."
+    },
+    {
+      "Key": "VC_MC00_00_09_05_Novel_00075_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It takes one to know one, huh?",
+      "Vietnamese": "Cậu kỳ cục chẳng kém đâu mà phê bình ké."
+    }
+  ],
+  "Inserts": [
+    {
+      "Before": "VC_MC00_00_09_05_Novel_00000_RKayamori",
+      "Lua": "local note = Adv.NoteInfoCustom([[※Nhái theo trò chơi <b>Hoshi no Kirby</b> (Kirby Tinh tú) của Nintendo, thường được biết đến qua nhan đề tiếng Anh là <b>Kirby's Dream Land</b>.]],1000)\r\nAdv.show(note,0.3)"
+    },
+    {
+      "After": "VC_MC00_00_09_05_Novel_00001_YIzumi",
+      "Lua": "Adv.hide(note, 0.3)"
+    }
+  ]
+}

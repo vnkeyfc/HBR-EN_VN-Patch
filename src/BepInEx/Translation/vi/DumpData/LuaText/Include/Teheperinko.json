@@ -1,0 +1,264 @@
+{
+  "Script": "Include/Teheperinko",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00054_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What's that? The new \"word-of-the-year\"?",
+      "Vietnamese": "Gì vậy nè? Mốt mới chắc?"
+    },
+    {
+      "Key": "VC_MC00_00_09_00_Novel_00057_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nope, this is the first time I've ever used it.",
+      "Vietnamese": "Đâu có, đây là lần đầu tiên tớ thốt ra từ đó đấy."
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00056_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is that a fad or something?",
+      "Vietnamese": "Bộ... cái từ đó thật sự đang là mốt à?"
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nope, this is only the second time I've used it in my life.",
+      "Vietnamese": "Đây là lần thứ hai trong đời tớ nói từ đó đấy nhá."
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00059_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm already sick of hearing that. Cut it out already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00060_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But it's all the rage in Ruka Land. Who am I supposed to share the joy with, if not you?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No one, that's who. Stop trying to make it happen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00075_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00027_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "My god, stop saying that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00029_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Didn't I say to stop trying to make it a thing?! So, stop!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But if I don't whoopsie gravy every once in a while, my head's going to explode from stress! Like, literally KABOOM!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's not going to happen! That's NEVER going to happen!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00032_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Whyyy not?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "C'mon, I'm begging you! Just let me say it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I'll only use it sometimes, I swear! It'll be as rare as a unicorn!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ugh, fine...only sometimes, you got that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00040_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00041_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You've earned all my love and devotion just now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't go around handing out your love and devotion for something as stupid as this...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Also, didn't I say you can only use it sometimes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, this is that sometime. It's been a while since I said it, so my head was just about to explode. What a relief!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00022_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Just let that head of yours explode, if you're so bent on that!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why are you so angry all of a sudden?! Please, go back to the normal Yukkie I know and love!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00024_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "My \"normal\" is me being constantly annoyed and angry with you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way?! In that case, are you usually more lovey-dovey-Yukkie, or angry-Yukkie?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00026_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Angry. I've never been lovey-dovey.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But what about that passionate night we spent together?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00028_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Don't go around\nmaking up weird stuff on your own!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00029_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Stop it right now\nbefore I get <i>seriously</i> angry!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uwh...sniff...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What? Do you think that if you cry, I'll let you whoopsie gravy yourself out of this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00032_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No, it's not about the gravy anymore...I just don't want you to hate me, Yukkie...that's all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00033_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ugh...look, I don't hate you or anything...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Seriously?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why are you so happy about that...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00036_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because I love you sooo much, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00037_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "God, you're like a little kid...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00038_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Whatever. Fine. I'll let it go for today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00039_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Really? You're gonna let me whoopsie? You're gonna let me gravy?! Alright, whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00040_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU A DUM-DUM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Thank you, commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00042_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You're welcome. Now, let's begin.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

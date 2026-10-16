@@ -1,0 +1,191 @@
+{
+  "Script": "Story/MC02/Day22/World/MC02_22_09_00",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Ruka, can I talk to you for a minute?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00966_v001_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "(Kozie wants to talk... I can't leave her hanging.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00967_v001_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "(Hiiragi wants to talk... I can't leave her hanging.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00968_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's up, Kozie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00969_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's up, Hiiragi?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00970_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm...getting kind of scared as the operation day nears...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00971_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's understandable. It's a huge operation this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00972_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course, the mission itself will be dangerous, but...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00973_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm more worried about Aoi...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00974_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Yeah, I figured it might be that...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00975_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm starting to lose confidence in my actions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00976_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I spent my days pushing our leader in what ways I could...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00977_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I'm still not sure if that was even necessary, let alone correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00978_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe it would have been better to have left Aoi alone and let her remain unsure, cautious, afraid...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00979_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because then, 31-B would have failed training over and over, and eventually, we'd be assigned to less dangerous missions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00980_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...that didn't happen in the end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00981_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you think my choice was correct?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00982_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think that's something you'd have to ask Aoi yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00983_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00984_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if another squad were to take 31-B's place, that would just mean they're the ones thrust into danger instead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00985_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If that were to happen, what would Aoi think? And she's the only one who can give you that answer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00986_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No...I think I know, even without asking her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00987_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She'd think it was all her fault...and retreat further into her shell...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00988_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kozie, if you think that would be a better result, you should stop her now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00989_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hiiragi, if you think that would be a better result, you should stop her now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00990_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I understand what you're saying. I'm sorry I asked such a foolish question...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00991_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll just believe that what I did was right...or, at least, I hope so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00992_v001_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you, Ruka. I'm glad I could confide in you about this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00993_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No prob, I was just lending an ear. You're the one who found your answer, Kozie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00994_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No prob, I was just lending an ear. You're the one who found your answer, Hiiragi.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

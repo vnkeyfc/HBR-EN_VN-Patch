@@ -1,0 +1,162 @@
+{
+  "Script": "Story/MC02/Common/SpecialPatrol/Novel/Novel_After_SpecialPatrol_MC02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00142_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, with this, our patrol of the designated areas is complete.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00143_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is as far as we go, huh. We didn't find the Medusa in the end, but I guess we should hurry on back and report to the commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00144_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... All designated areas were checked, but no sign of the target.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00145_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Either way, good job everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00146_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But since our primary objective isn't yet complete, we'll have you continue with the special patrol mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00147_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please stay on standby until you receive your orders.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00148_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00149_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is Ruka Kayamori from 31-A. Can you connect me to the commander?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00150_v001_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Understood. Please give me a moment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00151_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "I see... So it got away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00152_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry about that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00153_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "There's nothing to apologize about. We didn't expect it to flee underground.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00154_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "If it was able to get away from your squad, then I doubt the other squads have a high chance of defeating it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00155_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "You said that it ran away after its exoskeleton was destroyed. Is that correct?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00156_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup, that's what it felt like.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00157_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "What did fighting it feel like?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00158_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It didn't seem that strong. If it didn't run away, I think we would've got 'em.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00159_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "I see. We'll send a helicopter to pick you up, so return to base for now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00160_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, we can head back now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00161_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "We'll have a surveillance squad take over. Or did you want to pull an all-nighter to stand watch? I have no qualms about that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00162_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo thanks! We still have training for the operation, so an all-nighter is a big nope!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00163_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "That's what I thought. Now, we'll halt the patrol mission from this point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00164_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Thanks to your efforts, the risk level has gone down significantly. I think we can approach this issue with regular patrol routes for the next few days.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00165_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "If we find the Medusa, we'll issue an order for deployment. Stay ready in the meantime.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00166_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00167_v001_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Copy. Good work today, girls.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,209 @@
+{
+  "Script": "Story/MC02/Day08/World/MC02_08_04_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the academy building!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Doesn't look like it's this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Man, my head feels like a water balloon full of knowledge.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Next up: lunchtime! It can't get here fast enough!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm? Someone's coming down...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00004_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Oh, Nanamin! What's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00005_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hello. How are you doing with your training?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00006_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I mean, we're the assault squad. Nothing stands in our way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00007_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is good to hear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00008_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I'm surrounded by a ton of great people.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00009_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I believe you are quite capable, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00010_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You think so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about you, Nanamin? What are you good at?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00012_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me? I have to say, nothing in particular.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, don't give me that. All the soldiers here have some kind of outstanding talent, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00014_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true. We only select the best of the best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So that includes you, doesn't it? C'mon, out with it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00016_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My skill is calmly performing my duties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the heck? That's not what I was expecting at all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then what were you expecting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Something like, a legendary rock star or something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00020_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't that your specialty?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Naaah, all She is Legend did was pop songs. The real rock 'n' rollers go GYAYAGRAYYYBODODODODUOH, with screams that shake the foundations of my very soul.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00022_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, that was what got you in trouble at the entrance ceremony. I suppose there are a lot of musical genres out there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup. I know all about real rock 'n' roll, so next time I'll make a playlist for you and share it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00024_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I appreciate the thought, but I am afraid I do not have the time to listen to music.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, but, if you blast GYAYAGRAYYYBODODODODUOH around the commander, I'm sure it'll boost her morale.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00026_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That kind of high-energy music will only lead to distraction.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa! You're not hopping aboard the hype train at all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00028_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I believe I told you just now that my talent is calmly performing my duties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No kidding! So THAT'S why you're so expressionless all the time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit! The next time we meet, I'll definitely make that poker face of yours crack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00031_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As you wish. As long as it does not interfere with training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_04_00_World_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okaaay!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

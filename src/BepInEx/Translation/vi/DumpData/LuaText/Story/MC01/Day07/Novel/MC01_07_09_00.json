@@ -1,0 +1,84 @@
+{
+  "Script": "Story/MC01/Day07/Novel/MC01_07_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Is it just me, or did the cosplay parade march into town?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00001_MdAngelis",
+      "Context": "Adv.talk:1",
+      "Original": "Che schifo! Damn these peace-loving Giapponese!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00002_LShanhua",
+      "Context": "Adv.talk:1",
+      "Original": "Even the inexperienced have a role. What matters most is strategy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00003_CReaper",
+      "Context": "Adv.talk:1",
+      "Original": "Then it's up to us to save 'em, girls. Like the heroes we are!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00004_CSkopovskaya",
+      "Context": "Adv.talk:1",
+      "Original": "It matters not. Everyone dies before me, anyways...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00005_IRedmayne",
+      "Context": "Adv.talk:1",
+      "Original": "Have you abandoned all logic? We were brought here because we each possess unique talents.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00006_VBalakrishnan",
+      "Context": "Adv.talk:1",
+      "Original": "Can a person's potential...truly be calculated?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00007_VBalakrishnan",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00008_LShanhua",
+      "Context": "Adv.talk:1",
+      "Original": "Mm? There Vritika goes again, into one of her trances.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00009_CReaper",
+      "Context": "Adv.talk:1",
+      "Original": "She must be calculating somethin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00010_MdAngelis",
+      "Context": "Adv.talk:1",
+      "Original": "Santo cielo, how has she managed to stay alive this long?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00011_CSkopovskaya",
+      "Context": "Adv.talk:1",
+      "Original": "It must be so... All are destined to leave me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_09_00_Novel_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(A squad from abroad, huh?)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

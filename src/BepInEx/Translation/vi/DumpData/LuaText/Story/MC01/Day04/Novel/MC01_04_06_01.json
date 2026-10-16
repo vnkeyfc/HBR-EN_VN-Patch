@@ -1,0 +1,178 @@
+{
+  "Script": "Story/MC01/Day04/Novel/MC01_04_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You will be fighting simulated Cancers again today.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Fighting in the arena?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Hell yeah, bring it on!|Is not what I'm gonna say, because I'm not some easily-excited kid|Is what I would say if I weren't, in fact, totally hyped!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hell yeah, bring it on!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Same! I'm psyched! Brace yerself for a psychic smackdown!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You two said the exact same thing yesterday, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_01_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're all so thirsty for blood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Is not what I'm gonna say, because I'm not some easily-excited kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00006_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You didn't say anything, though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, I just thought \"Hell yeah, bring it on!\" internally.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Is what I would say if I weren't, in fact, totally hyped!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00009_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Humor me. Tell me everything that was going through your head.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"Hell yeah, bring it on!\" followed by \"Is not what I'm gonna say, because I'm not some easily-excited kid.\" followed by \"Is what I would say if I weren't, in fact, totally hyped!\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00011_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Ahem.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00012_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU A DUM-DUM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're way too good at making people angry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Also, please keep ALL of your internal monologue internal. Unless you're trying to get locked up in the loony bin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00023_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Nanase, I trust you can handle the rest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00024_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Alright.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00184_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Today's opponents are even more formidable than yesterday's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00185_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Even if you break their shell, it may be restored with time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00186_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Therefore, please conserve your power so you may eliminate the enemy immediately after destroying its shell.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00187_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wow! It's like a video game!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00188_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No, we're talking military tactics. Get serious—your life is on the line here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00189_v002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Conserve our power?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00190_v002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Like I need some lame ol' tactic like that...all I need's my psychic powers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00191_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Tactics are exactly what you need. When have these psychic powers of yours EVER been useful in combat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00192_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Today's training session will also have a set clear time. Work to claim victory quickly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_01_Novel_00058_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone, please hold up your mePads and recite your Seraph Codes!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,17 @@
+{
+  "Script": "Foundation/bath_system",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Return to the Home screen?",
+      "Vietnamese": "Quay về Màn hình chính?"
+    },
+    {
+      "Key": "VC_ADate_Lv1_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nothing beats bath time.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

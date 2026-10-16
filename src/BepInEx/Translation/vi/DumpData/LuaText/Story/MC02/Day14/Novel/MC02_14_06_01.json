@@ -1,0 +1,72 @@
+{
+  "Script": "Story/MC02/Day14/Novel/MC02_14_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll be continuing with training on Phase Four today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Critical decision making is vital here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00002_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are many methods you can use, such as fending off attacks to the convoy only, eliminating the enemy in advance, or even pushing the enemy back to a range where their attacks can't land.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If need be, you can always call on the other squads in the area to aid you. There's no need to handle everything all on your own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00004_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Use every option and resource you have to create a favorable situation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00005_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ma'am, can I ask somethin'?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00006_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, what is it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00007_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What should I be doin'? I'm only real good for close-combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00008_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Position yourself to the front of the convoy. You'll likely be on standby for now, however.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00009_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alrighty then...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_06_01_Novel_00013_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

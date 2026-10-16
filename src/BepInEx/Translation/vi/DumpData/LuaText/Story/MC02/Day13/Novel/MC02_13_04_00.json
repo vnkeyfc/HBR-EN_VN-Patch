@@ -1,0 +1,160 @@
+{
+  "Script": "Story/MC02/Day13/Novel/MC02_13_04_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00001_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Kayamori!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?! What's up, ma'am?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00003_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were dozing off just now, weren't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me? Doze off? Never! I wasn't asleep, right?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00005_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're terrible at lying...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00006_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, on that subject. Did you know there's a term for that jolting reaction you get when you're just on the verge of dozing off?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00007_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori, what do you think it's called?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "The thing where you jolt awake when you're sleepy?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Jerking|Jogging|Dozing",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Jerking?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00009_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct, it's called hypnic jerking. I'm surprised you knew.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Jogging!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00012_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00014_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct term is hypnic jerking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dozing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00016_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where's the waking up part? Dozing is just sleeping...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00019_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct term is hypnic jerking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00020_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The exact cause of a hypnic jerk is unknown, but there are theories that suggest the brain is misinterpreting muscles relaxing in sleep as a sudden fall from a height.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00021_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hypnic jerks occur most often while awake for prolonged periods of time, as well as when tired.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00022_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So don't stay up too late, and get to sleep early.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okaaay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_04_00_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you, a kid?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

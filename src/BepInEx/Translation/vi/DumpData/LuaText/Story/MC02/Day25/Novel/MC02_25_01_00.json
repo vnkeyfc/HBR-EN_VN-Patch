@@ -1,0 +1,216 @@
+{
+  "Script": "Story/MC02/Day25/Novel/MC02_25_01_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_01_00_Novel_00000_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This way, Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01029_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Coming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01030_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're finally here... Aoi, could you go ahead and report to HQ?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_00_Novel_00022_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is Erika Aoi of 31-B. We've arrived with 31-A at the designated location.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_00_Novel_00023_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "This is HQ. The vertex is currently 8,900 meters from your location.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_00_Novel_00024_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Are you able to get a visual?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_00_Novel_00025_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't think so... This area is enclosed, so we're not able to see it clearly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600026_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Understood. Please head northwest to see if you can get a clear view of the target.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600061_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What just happened?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600050_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "It might be an attack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600062_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, this is Kayamori!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600083_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "This is Tezuka! Report your current situation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600063_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I don't know what happened. We heard an explosion, then the ground started shaking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600084_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Let me share the data from our side. The Vertex's attack destroyed the unmanned observation device we had installed in the northern part of Hadano.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600085_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "The strength of the attack, as well as its range, is far beyond any Cancer we've observed in the past.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600086_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Thus, HQ has designated the vertex crimson as a high-priority target for elimination.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600087_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Squads 31-A and 31-B, I give you the following commands.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600088_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Ward the vertex's attacks with Aoi's shield, and teleport close to the Cancer. Then, proceed to eliminate the target.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01032_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, isn't that kind of reckless?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01033_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Of course, this mission is extremely dangerous.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01034_v001_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "However, if the vertex breaches our defensive lines, multiple domes will be destroyed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01035_v001_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "We cannot allow that risk. That's what HQ has determined.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, this is Izumi. Sorry for butting in, but what about reinforcements?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600089_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "I'm sorry, but it's all on your two squads. All other squads will be retreating, or moving outside of the attack range.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If you're leaving it to just us, there's probably a good reason for it, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600090_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Yes. There's no time to spare, and we can't send in reinforcements due to the risk of more casualties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Tch. Just what I thought...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600064_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So, in other words?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It means that sending reinforcements in would only make the situation worse. There's no time to gather them in the first place, and if they aren't covered by Aoi's shields, they're goners.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600091_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "That's correct. HQ decided upon the most effective plan with the lowest amount of potential casualties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600092_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "However, this whole plan hinges on Aoi's defensive capabilities, which is why it's up to you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600093_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "This will be an incredibly difficult battle, and I won't force you into it. If this seems impossible, we'll switch to the next contingency.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600051_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "No, I'll do it! I'll make sure to see it through!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600094_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "What about you, Kayamori?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900600065_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If Aoi's in, I'm all in as well!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,50 @@
+{
+  "Script": "Story/MC01/Day06/World/MC01_06_06_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Talk to Nanase!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_01_World_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Let's strategize. Who's in front?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Form a balanced squad complete with healing, buffs,\\nand a variety of offensive skills to face this challenge.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Boosters and chips are also essential.\\nCheck that all units are equipped with best available boosters fitted out with the latest chips.\\nIf not, return to a previous day's free time period and stock up on munitions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00264_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Have you finished preparing?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "We're all set!|Not yet",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_MC01_06_110300681_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "We're all set!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_06_01_World_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Alright. Let's go.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,268 @@
+{
+  "Script": "Story/MC02/Day04/Novel/MC02_04_06_03",
+  "Entries": [
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good work today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Both squads reached Point Alpha, and you succeeded in establishing a secure route.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How's that for ya, Nanamin?! There's no training module we can't do!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00003_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, well. While you may have passed...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00328_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your clear time was well over the target. Going forward, please try to be more efficient in battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh? Sounds like someone on the squad is dragging everyone else down. We've gotta do something about that...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "The person dragging us down...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Which one of you is it?|That person is me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Which one of you is it? You can be honest, I won't get mad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00007_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looking at the data, that person is you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That person is me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00010_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looking at the data, that is correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaa?! I said that to protect the real culprit, but it was me the whole time?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00012_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Moron...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry for dragging us down, girls.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00014_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "There's nothing to apologize for! You were all so fast, we couldn't keep up with you! We were struggling to even clear out the Cancers in our path...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_06_01_Novel_00197_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vrrawr...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00016_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*huff huff* That was so much harder than I expected...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, some of the blame is on us for failing to keep track of your squad. We need to work on our teamwork.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe we should hold back the Cancers on our end so 31-B can move more freely?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, that sounds optimal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay. Let's try that. Aoi, if you have any requests, I'm all ears. You can be frank with me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00021_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you! I'll try to be as frank as possible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00023_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look at them, acting all friendly and carefree.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00024_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do they think this is some kind of game, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00025_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It would be far more entertaining if someone died. How about it, any takers?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00026_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn, girl, you're even crazier than we are...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00027_KHiiragi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I-I-Is this squad r-really going to be alright?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00028_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good work today, cadets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm feeling good about this one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00329_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A, 31-B. You received too many hits. With these numbers, your deflectors will be depleted before the operation is completed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What part of our performance did you have a good feeling about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00033_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please train further and return when you are ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Greeeat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00028_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good work today, cadets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00029_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm feeling good about this one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00037_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A. You were defeated in simulated combat. Your broken formation led to Cancers surrounding and defeating 31-B.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00031_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00032_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What part of our performance did you have a good feeling about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00033_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please train further and return when you are ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_04_06_03_Novel_00034_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Greeeat.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

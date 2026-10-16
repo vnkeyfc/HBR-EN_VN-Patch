@@ -1,0 +1,191 @@
+{
+  "Script": "Foundation/field_custom",
+  "Entries": [
+    {
+      "Key": "VC_field_custom_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nah, I'll do that next time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00001_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nah, I'll do that next time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00183_v003_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I'm at Miemie Spa. Now what?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00176_v006_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I'm at Miemie Spa. Now what?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000107_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I'm at Miemie Spa. Now what?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at Miemie Spa. Now what?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00001_RKayamori#3",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nah, I'll do that next time.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter Miemie Spa?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter Mujina?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter the boutique?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter POPOTAN?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00294_v003_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I'm at the cinema. Now what?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00263_v006_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I'm at the cinema. Now what?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000110_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I'm at the cinema. Now what?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the cinema. Now what...?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00001_RKayamori#4",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nah, I'll do that next time.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter Battle 9 Theater?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter Lonely Mart?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter Mostco?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00029_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Nice view. May as well snack while I enjoy it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC02_ADV_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Wow, lotsa people today. I bet a street performance would draw a crowd.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_MC03_ADV_00000_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(What a great location. I'd love to sing here sometime.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00082_v003_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(Pretty busy today. I should be able to find some way to help people out.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Activity_00079_v006_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(As busy as always... What should I do today?) ",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_904000104_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(As busy as always... What should I do today?) ",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00001_RKayamori#5",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Nah, I'll do that next time.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:0",
+      "Original": "Flavor Street",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Fountain Square",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Hang out at Fountain Square?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Hang out|Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.FormatText:0",
+      "Original": "Fight {0}?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

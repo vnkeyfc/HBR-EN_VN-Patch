@@ -1,0 +1,72 @@
+{
+  "Script": "Story/MC01/Day04/Novel/MC01_04_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_00218_v001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(So hungryyy... Oh? There's Higuchi, the Seraphim researcher.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00219_v001_SHiguchi",
+      "Context": "Adv.talk:1",
+      "Original": "I expected something more urgent, being summoned like this. Was it really just an invitation to dine? I take my meals in my own time. May I leave?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00220_v001_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "We're a squad, so we eat together. Shut up, sit down, and eat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00221_v001_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Meow. You tell her, Sis.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00222_v001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Huh, must be another squad.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00223_v001_EAoi",
+      "Context": "Adv.talk:1",
+      "Original": "Now, now, let's all get along...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00224_v001_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "None of that soft crap, Aoi. You're our squad leader, start acting like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00225_v001_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "For real. Don't be mousey, just speak your mind, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00226_v001_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "It's only been a few days... I think you two are being a b-bit harsh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00229_v001_SHiguchi",
+      "Context": "Adv.talk:1",
+      "Original": "Hmph...how boring. I'd love to see a little more conflict here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00230_v001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Looks like they've got some stuff to work through... Hope they can learn to get along.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

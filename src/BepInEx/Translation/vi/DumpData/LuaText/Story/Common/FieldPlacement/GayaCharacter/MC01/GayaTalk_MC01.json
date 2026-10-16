@@ -1,0 +1,246 @@
+{
+  "Script": "Story/Common/FieldPlacement/GayaCharacter/MC01/GayaTalk_MC01",
+  "Entries": [
+    {
+      "Key": "VC_Common_00048_v001_AKanzaki",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Sugoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00040_v001_SSakuraba",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I feel the stars are guiding us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00021_NiOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "The allowable calorie intake is...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00027_YoOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Zzz... Zzz...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00024_MiOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Outta the way! Comin' through!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00060_IRedmayne",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Never overlook even the smallest of clue!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00069_CSkopovskaya",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Alone, again...it is inevitable.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00051_MKurosawa",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Let's get this over with then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00040_KMaruyama",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Do you get it, Yanagi?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00036_MYanagi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Understood, my lady.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00045_CMatsuoka",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Ha, ha, ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00063_v001_CSugahara",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Will you hear me out?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00060_v001_MKiryu",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Certainly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00054_v001_YShirakawa",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Everyone, listen up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00057_v001_MTsukishiro",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00070_v001_SKura",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Hm, now this is troublesome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00068_v001_HOgasawara",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Phew!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtLibrary_00007_Byakko",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Grrar.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00018_v001_EAoi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "What is it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00024_v001_SMinase",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Just dispose of it, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00021_v001_IMinase",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "She may be my sister, but she's terrifying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00000_MNikaido",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "It looks like a Go stone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00005_IIshii",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I'm going to go draw some Narbies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00012_ADate",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Someone like me couldn't...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00009_RMurohushi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Oh my, oh my.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00048_INatsume",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "...Hm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00033_MuOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Hah...hah...hah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00006_FMikoto",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Feelin' bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00015_AMizuhara",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00042_v001_MTenne",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Hm. So that's what it is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00018_IcOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I wonder if the library is open?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00030_IrOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Darn, this is tough.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00045_v001_YBungo",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I want to try it, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00036_v001_BIYamawaki",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Come on...just leave it there already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00063_VBalakrishnan",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "The above theory will\\nlead us to the answer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00054_CReaper",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "That's right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00066_MdAngelis",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Make up your mind.\\nOr I <i>will</i> kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00059_LShanhua",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "My strategies are unbeatable.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_00030_v001_KHiiragi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "...Thank goodness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00042_SHanamura",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "What do you say,\\nmy little songbird?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

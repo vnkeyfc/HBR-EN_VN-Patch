@@ -1,0 +1,42 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_08_07",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_08_05_Novel_00000_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I would never have guessed Aoi was the last surviving member of the 29th generation of squads... We probably could've gotten some interesting intel from her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_05_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't believe I missed something that important... But we've already promised not to interfere, so our hands are tied.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_05_Novel_00002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep... We need to leave 31-B alone for now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_05_Novel_00003_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once the battle's over, we can all go back to being friendly again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_05_Novel_00004_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Precisely! Let's fight to bring peace to the world for that future!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_08_05_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, let's make it happen.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

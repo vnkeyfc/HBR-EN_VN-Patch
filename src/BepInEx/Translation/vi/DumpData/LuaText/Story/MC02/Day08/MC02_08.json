@@ -1,0 +1,16 @@
+{
+  "Script": "Story/MC02/Day08/MC02_08",
+  "Entries": [
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "[Trainer] Chrysalis\\nRecommended Rating: 4,500\\nVulnerabilities: Crush\\nResistances: None",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Narby Square",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

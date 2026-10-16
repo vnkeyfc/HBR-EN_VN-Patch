@@ -1,0 +1,258 @@
+{
+  "Script": "Story/AC01/Day03/World/AC01_03_09_02",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00774_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here's the goods. Now show me the money!",
+      "Vietnamese": "Hàng đây. Xòe tiền ra."
+    },
+    {
+      "Key": "VC_AC01_00775_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're asking me for money when I'm the one helping <i>you</i> out?",
+      "Vietnamese": "Người ta đã có lòng giúp mà cậu còn dám đưa ra yêu cầu vô lý đó à."
+    },
+    {
+      "Key": "VC_AC01_00776_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm just kidding! You know—if you're too serious, you won't get along with the rest of the class.",
+      "Vietnamese": "Tớ đùa đấy mà! Có thế cũng tưởng thật, như vậy ở lớp là bị tẩy chay đó nha?"
+    },
+    {
+      "Key": "VC_AC01_00777_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All of the schools are closed.",
+      "Vietnamese": "Tất cả trường học đều bị đóng cửa rồi."
+    },
+    {
+      "Key": "VC_AC01_00778_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Has the world really become such a scary place...?",
+      "Vietnamese": "Hóa ra thế giới này đáng sợ đến vậy sao..."
+    },
+    {
+      "Key": "VC_AC01_00779_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am sure we've had this discussion before.",
+      "Vietnamese": "Tôi đã giải thích độ nguy cấp sương sương rồi cơ mà."
+    },
+    {
+      "Key": "VC_AC01_00780_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is going to take me some time, so you'll need to wait.",
+      "Vietnamese": "Từ bây giờ sẽ tốn chút thời gian đấy. Ráng đợi đi..."
+    },
+    {
+      "Key": "VC_AC01_00781_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In that case, we'll just go get something to drink. C'mon, Merry.",
+      "Vietnamese": "Vậy đi uống nước đi. Đi nào Marie."
+    },
+    {
+      "Key": "VC_AC01_00782_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't do something like that while Izumi-san is working so hard!",
+      "Vietnamese": "Izumi-san đang dốc sức thế kia, tôi không thể làm chuyện đó được!"
+    },
+    {
+      "Key": "VC_AC01_00783_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you for that rebuttal on my behalf. I get thinner with each day I have to spend brain power on her nonsense.",
+      "Vietnamese": "Cảm ơn cậu đã vặn họng nó thay tôi... mỗi ngày tôi tốn quá nhiều sức vào việc tsukkomi cho nó nên gầy mòn hết cả đi đây này..."
+    },
+    {
+      "Key": "VC_AC01_00784_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Must be nice. I wish my body could avoid putting on weight like that.",
+      "Vietnamese": "Sướng nhề. Tớ cũng ước gì mình có cơ địa khó mập như thế."
+    },
+    {
+      "Key": "VC_AC01_00785_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not my body. It's the environment. And on that note, it's the fault of all five of you.",
+      "Vietnamese": "Không phải cơ địa. Mà là hoàn cảnh đếch cho phép tôi mập. Hay nói đúng hơn là lỗi tại cả 5 đứa bọn cậu."
+    },
+    {
+      "Key": "VC_AC01_00786_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew...",
+      "Vietnamese": "Phù..."
+    },
+    {
+      "Key": "VC_AC01_00787_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I managed to break the lock by bypassing the fingerprint scanner.",
+      "Vietnamese": "Tôi cài đặt cho mở khóa không cần xác thực vân tay được rồi."
+    },
+    {
+      "Key": "VC_AC01_00788_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haah...ungh... You say somethin'?",
+      "Vietnamese": "Oáp... ừm... Bồ nói gì à...?"
+    },
+    {
+      "Key": "VC_AC01_00789_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm slaving away here. How can you just fall asleep like that?",
+      "Vietnamese": "Người ta thì đang trầy trật mà cậu lại lăn ra ngủ là sao."
+    },
+    {
+      "Key": "VC_AC01_00790_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She managed to open the tablet without using the fingerprint scanner!",
+      "Vietnamese": "Cậu ấy bảo là không cần vân tay vẫn mở được rồi...!!"
+    },
+    {
+      "Key": "VC_AC01_00791_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right on, Yukkie!",
+      "Vietnamese": "Quá xịn luôn, Yukki!"
+    },
+    {
+      "Key": "VC_AC01_00792_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's a folder entitled \"Diary\" here.",
+      "Vietnamese": "Có một thư mục tên \"Diary\" này..."
+    },
+    {
+      "Key": "VC_AC01_00793_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My mother's diary...",
+      "Vietnamese": "Nhật ký của mẹ..."
+    },
+    {
+      "Key": "VC_AC01_00794_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're gonna read it, right?",
+      "Vietnamese": "Vậy là chỉ còn cách đọc thôi nhỉ."
+    },
+    {
+      "Key": "VC_AC01_00795_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm scared to...",
+      "Vietnamese": "Tôi sợ quá..."
+    },
+    {
+      "Key": "VC_AC01_00796_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why's that?",
+      "Vietnamese": "Tại sao?"
+    },
+    {
+      "Key": "VC_AC01_00797_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My mother was very cold towards me. She always watched on with ice-cold eyes while I trained under my father.",
+      "Vietnamese": "Vì mẹ tôi cũng rất lạnh nhạt với tôi... Lúc tôi huấn luyện cùng cha, mẹ luôn nhìn bằng ánh mắt lạnh lùng..."
+    },
+    {
+      "Key": "VC_AC01_00798_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So I just don't know what kind of bitterness awaits within it.",
+      "Vietnamese": "Nên tôi không biết trong đó sẽ viết những lời cay đắng thế nào..."
+    },
+    {
+      "Key": "VC_AC01_00799_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm, how about I read it and only tell you the good parts?",
+      "Vietnamese": "Vậy thì, tớ sẽ đọc giùm rồi kể lại những đoạn tốt đẹp thôi."
+    },
+    {
+      "Key": "VC_AC01_00800_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That would defeat the whole purpose, I think.",
+      "Vietnamese": "Tôi nghĩ thế thì vô nghĩa."
+    },
+    {
+      "Key": "VC_AC01_00801_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're right...",
+      "Vietnamese": "Đúng như tôi nghĩ..."
+    },
+    {
+      "Key": "VC_AC01_00802_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have to read it myself. All of it.",
+      "Vietnamese": "Phải tự tay tôi đọc hết toàn bộ..."
+    },
+    {
+      "Key": "VC_AC01_00803_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I agree.",
+      "Vietnamese": "Tôi cũng nghĩ vậy."
+    },
+    {
+      "Key": "VC_AC01_00804_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes...",
+      "Vietnamese": "Ừ..."
+    },
+    {
+      "Key": "VC_AC01_00805_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's an old device, but I managed to charge it via that cable. Come on, Ruka, let's give her some space.",
+      "Vietnamese": "Thiết bị cũ rồi nhưng tôi đã sạc điện qua dây cáp rồi đấy. Nào, đi thôi Ruka."
+    },
+    {
+      "Key": "VC_AC01_00806_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? But this is the juiciest part!",
+      "Vietnamese": "Hả? Giờ mới tới đoạn gây cấn cơ mà?"
+    },
+    {
+      "Key": "VC_AC01_00807_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It would be pretty tasteless of us if we stayed. Come on, let's go back to our room. We can play UNO or something.",
+      "Vietnamese": "Tụi mình mà ở lại thì bần nông lắm. Nhanh lên, về phòng thôi. Về đó mà chơi UNO với mọi người."
+    },
+    {
+      "Key": "VC_AC01_00808_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm, that's an awesome idea. Alright, back we go!",
+      "Vietnamese": "Nghe cũng hấp dẫn nhỉ. Về thôi!"
+    },
+    {
+      "Key": "VC_AC01_00809_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you, a kid?",
+      "Vietnamese": "Cậu là con nít à."
+    },
+    {
+      "Key": "VC_AC01_00810_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Kayamori, Izumi...",
+      "Vietnamese": "A, cả hai người..."
+    },
+    {
+      "Key": "VC_AC01_00811_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Sup?",
+      "Vietnamese": "Sao thế?"
+    },
+    {
+      "Key": "VC_AC01_00812_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm?",
+      "Vietnamese": "Hử?"
+    },
+    {
+      "Key": "VC_AC01_00813_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you so much.",
+      "Vietnamese": "Thực sự cảm ơn hai người rất nhiều."
+    },
+    {
+      "Key": "VC_AC01_00814_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ehe.",
+      "Vietnamese": "Ehehe."
+    },
+    {
+      "Key": "VC_AC01_00815_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No problem. Glad I could help.",
+      "Vietnamese": "Không có gì."
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,189 @@
+{
+  "Script": "Story/MC01/Day06/World/MC01_06_10_02",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Find a pick!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Find the source of that voice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Now where's a good pick around here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone except Tojo went to search on Union Street.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00002_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "A medium rare pick...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00003_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Don't want to eat one of those...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_Z900000024_MAikawa",
+      "Context": "Adv.bubble_ANGRY:1",
+      "Original": "C'mon, scram!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00005_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "What's going on? Should we check it out?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00006_MAikawa",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "There's somethin' under yer butt!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Found one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Can't believe you were actually right...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00011_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "What's the thickness?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Just what we wanted: medium.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00013_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "She's all yers, Tama.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00014_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Are you sure?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00015_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Go for it. Worst-case scenario, I'll use a scallop shell.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Stop right there. Any further and we're a joke band.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie... I had no idea you took our band so seriously. We've gotta find that pick!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00018_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There I go, running my mouth again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00019_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Um, I found something pick-like in the forest earlier.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "The Woodway",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Found one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Since when were picks this common?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00022_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "How 'bout the thickness?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Heavy. It's pretty stiff, so it may be hard for a beginner...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00024_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Fine by me. Easier than usin' a scallop shell.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00025_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How'd you use a scallop shell in the first place?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00026_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Now we have all the picks we need!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_10_02_World_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's hit the studio!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

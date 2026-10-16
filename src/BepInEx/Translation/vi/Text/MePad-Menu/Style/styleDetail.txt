@@ -32,3 +32,5 @@ r:"^All Attributes <color\=#91EAF2>\+(\d+)%</color>$"=Tất cả chỉ số <col
 ※専用ピースから消費されます　専用ピースが足りない場合、万能ピースが消費されます=※Ưu tiên tiêu hao Mảnh Ghép chuyên dụng trước.\nTrong trường hợp không đủ Mảnh Ghép chuyên dụng, hệ thống sẽ tiêu hao Mảnh Ghép Vạn Năng.
 r:"^Shards required: (\d+)$"=Số lượng mảnh yêu cầu: $1
 r:"^Limit Break successful! (\d+) → (\d+)$"=Đột Phá Giới Hạn hoàn tất!  $1 → $2
+
+Unlocked From Start=Mở khoá mặc định

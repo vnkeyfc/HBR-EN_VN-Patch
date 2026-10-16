@@ -1,0 +1,98 @@
+{
+  "Script": "Story/MC01/Day08/World/MC01_08_06_02",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Looks like 31-C still hasn't arrived yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Guess I'll go on ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The battles ahead will be difficult, so be sure to make the necessary preparations.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "From this point forward, your DP, HP, and SP will not be replenished between battles,\\nnor will your skill usages.\\nMake sure you have enough healing on your squad before proceeding.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00003_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Are your preparations complete?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter the dungeon?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Head out|Not yet",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00004_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The enemies you will be facing are real, not simulations. Remain on high alert.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Abandoned Mines—Level 1",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00005_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "You can never be too prepared. Please come and talk to me once you're ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00006_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I ain't gonna lose here. Can't afford to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00007_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I refuse to suffer another defeat! We'll show the Cancer exactly who steers this ship!\\n...Hopefully.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The commander said this place is crawling with Cancers. Prepare accordingly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00009_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What a huge cavern...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00010_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I hope we don't get lost.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00011_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh my, getting cold feet?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

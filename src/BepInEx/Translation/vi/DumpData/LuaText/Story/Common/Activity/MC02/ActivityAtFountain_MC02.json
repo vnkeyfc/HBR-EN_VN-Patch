@@ -1,0 +1,16 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtFountain_MC02",
+  "Entries": [
+    {
+      "Context": "Field.goToFountain:4",
+      "Original": "Should I do a street performance?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToFountain:5",
+      "Original": "Spend time at Fountain Square to raise your Openness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

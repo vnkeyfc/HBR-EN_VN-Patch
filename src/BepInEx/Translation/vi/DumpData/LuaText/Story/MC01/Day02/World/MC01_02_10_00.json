@@ -1,0 +1,52 @@
+{
+  "Script": "Story/MC01/Day02/World/MC01_02_10_00",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Pass the aptitude test to unlock the heliport.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_10_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Everything was so expensive...\\nGuess I have some time to kill now.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Socializing will end free time. Make sure to check out the arena and munitions store first!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can equip boosters and chips on the Squad Formation Screen.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can equip boosters and chips on the Squad Formation Screen.\\nOpen up your mePad and give it a try!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButtonRect:4",
+      "Original": "次へ",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "From here, boosters and chips can be equipped to a character's Seraph.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can also equip accessories here, which will be unlocked later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Make the most of your items and equipment and power up your squad!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

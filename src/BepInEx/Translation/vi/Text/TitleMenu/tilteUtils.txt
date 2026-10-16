@@ -1,4 +1,5 @@
 タップしてIDを表示=Nhấn vào để xem ID
+Tap to show ID=Nhấn vào để xem ID
 r:"^Synchronizing data (\d+) / (\d+)$"=Đồng bộ dữ liệu  $1 / $2
 r:"^ver: (.+)\((\d+)\)$"=Phiên bản: $1($2)
 

@@ -1,0 +1,387 @@
+{
+  "Script": "Story/MC01/Day04/Novel/MC01_04_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00046_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00047_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The contents will range from middle school to high school level.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00048_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00049_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "There is a high likelihood you will use English while on duty, making daily study imperative.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00050_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00051_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That being said, this test is only meant to measure your current ability. Just do the best you can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00052_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00053_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Please begin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00054_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "WHAAAAA?! What happened to my get-out-of-testing-free pass for being such a good girl?! This just ain't fair!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00055_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "In what world is that a thing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00056_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Alright.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00057_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00040_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Sucking up will get you nowhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00059_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I wasn't sucking up! Not this time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_03_06_01_Novel_00030_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "If only I believed you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00049_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "There is a high likelihood you will use English while on duty, making daily study imperative.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00051_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "That being said, this test is only meant to measure your current ability. Just do the best you can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00079_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way! Nuh-uh! This isn't gonna end well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00080_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Still can't keep the act up for even a minute, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00062_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00063_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Oh? Were you always this compliant?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00064_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yes ma'am!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "If only you always behaved so well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00061_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00049_STezuka#3",
+      "Context": "Adv.talk:1",
+      "Original": "There is a high likelihood you will use English while on duty, making daily study imperative.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00051_STezuka#3",
+      "Context": "Adv.talk:1",
+      "Original": "That being said, this test is only meant to measure your current ability. Just do the best you can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00079_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "No way! Nuh-uh! This isn't gonna end well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00080_YIzumi#2",
+      "Context": "Adv.talk:1",
+      "Original": "Still can't keep the act up for even a minute, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00092_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Can't keep the act up for even a minute, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Today, you will be tested on your English ability.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "An English test?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Boo with Yukkie|Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "1... 2... Boo, boooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As I've told you before, booing requires more than one participant to be effective.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie?! Why didn't you join in and boo with me?! I even gave a countdown! What the heck?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "When did I agree to it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "In my head, I CLEARLY chose \"Boo with Yukkie\"! Keep up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Again, you have your answer. That was in your head. I do have my own free will, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "There's your answer. That was in your head. I do have my own free will, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I guess that makes sense.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00047_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You two. Are you quite finished?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_03_00_Novel_00048_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We are.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00045_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Did the commander really just wait for us to finish that ridiculous exchange? She's way too patient with us. It's honestly kind of scary...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00049_STezuka#4",
+      "Context": "Adv.talk:1",
+      "Original": "There is a high likelihood you will use English while on duty, making daily study imperative.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00051_STezuka#4",
+      "Context": "Adv.talk:1",
+      "Original": "That being said, this test is only meant to measure your current ability. Just do the best you can.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Boo|Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00036_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaa? Boo, boooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Booing is typically a group effort.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Join me, Yukkie! Boo, boooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Leave me out of this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00049_STezuka#5",
+      "Context": "Adv.talk:1",
+      "Original": "There is a high likelihood you will use English while on duty, making daily study imperative.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00051_STezuka#5",
+      "Context": "Adv.talk:1",
+      "Original": "That being said, this test is only meant to measure your current ability. Just do the best you can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00053_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "Please begin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00068_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "First up...insert the appropriate word in the brackets?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00069_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Okay, [appropriate].",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00070_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I hope you realize that's not what it's asking for.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00071_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Wha—?! It ain't?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00072_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm surrounded by idiots...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00073_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That's it. Time's up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00074_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uuurggh...glad that's finally over!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00075_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You can say that again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00076_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So Yukkie, what now? How about we hit up a karaoke place and let off some steam?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_03_00_Novel_00077_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What do you think this is, a slice-of-life school drama?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

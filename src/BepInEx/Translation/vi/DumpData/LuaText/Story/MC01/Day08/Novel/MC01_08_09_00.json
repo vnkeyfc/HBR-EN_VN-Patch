@@ -1,0 +1,90 @@
+{
+  "Script": "Story/MC01/Day08/Novel/MC01_08_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(They look like they just came back from their school club activities.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00001_FMikoto",
+      "Context": "Adv.talk:1",
+      "Original": "I crave succulent, juicy meat. The rarer and bloodier, the better... And yet, we're having fish again today...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00002_MNikaido",
+      "Context": "Adv.talk:1",
+      "Original": "Do not complain. By eating the same meals, our unity as a squad increases.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00003_ADate",
+      "Context": "Adv.talk:1",
+      "Original": "I-I'm sorry... I don't do red meat...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00004_AMizuhara",
+      "Context": "Adv.talk:1",
+      "Original": "Eating fish helps with your circulation, and it's good for your bones, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00005_IIshii",
+      "Context": "Adv.talk:1",
+      "Original": "No complaints from me. Same squad, same food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00006_FMikoto",
+      "Context": "Adv.talk:1",
+      "Original": "But pulling out all the bones one-by-one is such a bloody freaking hassle...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00007_RMurohushi",
+      "Context": "Adv.talk:1",
+      "Original": "Now, now, Fubuki. It's okay, I'll take care of that for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00008_MNikaido",
+      "Context": "Adv.talk:1",
+      "Original": "Murofushi. You're going to spoil her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00009_RMurohushi",
+      "Context": "Adv.talk:1",
+      "Original": "Misato, did you get enough to eat? I can go fetch some more, if you'd like.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00010_IIshii",
+      "Context": "Adv.talk:1",
+      "Original": "Risacchi, mind if I take you up on that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00011_RMurohushi",
+      "Context": "Adv.talk:1",
+      "Original": "Of course, dear. Aina, sweetheart, would you like some too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00012_AMizuhara",
+      "Context": "Adv.talk:1",
+      "Original": "Aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_08_09_00_Novel_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(They're not wearing our uniforms, but I guess they're a Seraph squad too.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

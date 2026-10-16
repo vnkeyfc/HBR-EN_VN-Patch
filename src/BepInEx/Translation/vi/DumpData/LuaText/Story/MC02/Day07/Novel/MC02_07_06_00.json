@@ -1,0 +1,84 @@
+{
+  "Script": "Story/MC02/Day07/Novel/MC02_07_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today marks another day of Phase Two training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yesterday, you successfully secured one-third of the route leading to Point Gamma.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00445_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Which means today's objective is to complete the next third of the route.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yesterday's objective was to secure a third of the route leading to Point Gamma.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00446_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today's objective is to finish securing two-thirds of the route, including what you didn't complete yesterday.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw, maaan...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00006_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll do our best!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00007_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, yeah. Can't be that hard with us on the job.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00008_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow. You tell her, Sis.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00009_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep in mind that in the actual operation, you won't be tackling one third at a time, but securing the entire route in one fell swoop.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00010_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carefully assess the situation and make judgements accordingly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, yeah. We got it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_06_00_Novel_00012_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

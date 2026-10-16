@@ -1,0 +1,228 @@
+{
+  "Script": "Story/MC02/Day19/Novel/MC02_19_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00850_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today was another long day... Wonder what's fer dinner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00851_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I could go for something hot and juicy right now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00852_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YO, Tama!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00853_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00854_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's kinda pervy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00855_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's more than one thing that fits that description. Get your mind out of the gutter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00856_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00857_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's up? You froze up all of a sudden.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00858_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I just got a weird chill down my neck.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00859_v001_NNanase",
+      "Context": "Adv.bubble_SPEAKER:1",
+      "Original": "Warning! Reports of Cancer sightings 4 kilometers south of the Ariake Dome. Squad 31-A, prepare for immediate deployment and report to the heliport.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00860_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's gotta be the Medusa...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00861_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously?! What's up with your neck?! You totally just sensed that Cancer! What the heck?! That's so convenient! You really need to use that more often!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00862_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you even saying, Yukkie? Anyways, I'll go contact Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00863_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To think there'd come a day where Ruka's the one looking at me like I'm crazy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00864_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No time to think about dinner, girls. We gotta go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00865_v001_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Indeed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00866_v001_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00867_v001_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "A'ight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00868_v001_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00869_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry for the wait!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00870_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We let it get away last time, but with Aoi on our side things are going to be different. Let's beat that thing together!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00871_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course! I'll do my best to meet your expectations!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00872_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good evening. The helicopter is ready for departure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00873_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We spotted the Medusa south of the Ariake Dome, southeast of a landfill area. The location is slightly beyond the area you were patrolling.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00874_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I figured as much...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00875_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn, what's with you today?! You're really cool! What happened to your goofiness?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00876_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The patrol squad reports that the target doesn't seem likely to move anytime soon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00877_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And in order to prevent the target from escaping, Cadet Aoi is going to be joining this deployment. Is that correct?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00878_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, that's correct! I received a request for backup from Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00879_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you'll be using your skill to prevent the Cancer's escape, while 31-A takes it down with their firepower... Not a bad plan.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00880_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But coordinating your timing will be vital. Cadet Aoi, you take command of 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00881_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me?! But I wouldn't want to impose!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00882_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Think back on your training. You've already learned the necessary leadership skills to take command.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00883_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Does it appear that way?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00884_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The commander's right. You gotta take the reins and ride it, Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00885_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn! Even your weird statements are sounding really cool right now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00886_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

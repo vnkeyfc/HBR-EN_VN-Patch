@@ -1,0 +1,144 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_10_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "HQ, do you copy? We've reached Nanohana View Terrace.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00003_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This is Tezuka from HQ. We've been waiting for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Commander, what do we do from here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00005_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "For now, remain in the area on standby.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Standby? Here? But why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00007_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "A helicopter should be arriving from the base in about ten minutes or so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00008_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "This was only possible because of your work in securing the surrounding area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00009_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "There will be a delivery of camping supplies via a parachute drop, so make sure to receive it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01009_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With a parachute? Is it okay to be delivering supplies like that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00011_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "This is a common method of dropping supplies to the front lines.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00012_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "There will be food, water, flashlights, tents, and other such supplies included.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00013_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "You all haven't had proper training for camping in the field yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00014_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "So be sure to follow Aoi's directions on how to use the supplies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, that's right. Camping's totally new to us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00016_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Set up a shift schedule so everyone can eat, rest, and sleep in turns.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really?! We can actually sleep?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00018_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Temporarily. Think of it more as a brief nap.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A nap's good enough for me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Knowing you, you're going to be completely out cold...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What exactly is a nap, anyway? I mean, people are either awake or asleep. So, is a nap kind of like being half-awake and half-asleep?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't describe it as if it were some abomination of nature...not like it matters. The whole point is that you need to be able to wake up on short notice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Am I really capable of such a challenging feat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_10_01_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you can't, then you'd better start now. It's going to be an important skill for you as a soldier.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

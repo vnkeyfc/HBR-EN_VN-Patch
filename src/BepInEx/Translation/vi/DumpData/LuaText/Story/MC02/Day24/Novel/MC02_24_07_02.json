@@ -1,0 +1,144 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_07_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00000_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Allies approaching from 3 o'clock. It's 30-G and the engineering corps.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure took 'em a while.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nice, nice. We're all finally united!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00003_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry for the delay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00004_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seems like we kept you waiting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00005_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My sincere apologies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, it's fine. The roads were pretty bad, weren't they? How was it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00007_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In quite terrible shape. The abandoned regions have fallen into greater disrepair than expected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00008_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Removing obstacles from the path was exactly the same as in training, but the sheer amount was a struggle to deal with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00009_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There were a lot of cracks in the ground, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00010_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We worked with the engineering corps to secure the paths so we could proceed, but it was barely enough to let the convoys through. It took a long time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, that sounds like it was a doozy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00012_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm afraid things won't get much easier from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00013_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've heard from the commander that the roads ahead may have portions that the convoys can't traverse.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00014_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll do our best to secure the path as we move ahead, but there will still be a large burden on your squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll be fine! We covered a lot of cases with convoy troubles in training, so it's no sweat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01006_v001_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm... That's good to hear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, let's continue the operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01007_v001_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right. 30-G will continue ahead on Route 246, removing blockages and obstacles. We should aid the path-laying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00023_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A, I want you to take over the escort for the engineering corps and the convoy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger that. 31-A is taking over the escort.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00025_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're counting on you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_07_04_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Leave it to me!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

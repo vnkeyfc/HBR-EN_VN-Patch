@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC01/Day12/World/MC01_12_07_05",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_07_05_World_00000_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Follow my lead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_World_00001_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Let's do this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_07_05_World_00002_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Let's go get 'em!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

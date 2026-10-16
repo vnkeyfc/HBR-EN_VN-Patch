@@ -1,0 +1,154 @@
+{
+  "Script": "Story/MC02/Day18/Novel/MC02_18_04_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00000_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "History might seem constant, but it's something that changes over the ages.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00001_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say, for example... Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry. She's out sick today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00003_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're right here. What are you talking about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't believe you'd try such a stupid lie in a class of just six people...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00006_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, Kayamori. Do you know what year the Kamakura shogunate was established?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What year was the Kamakura shogunate established?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "In 1185|In 1192|In 1173",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was it in 1185?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00008_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was it in 1192?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00011_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way... So you're saying it's not the Ninja Nineties?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was it in 1173?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00014_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way... So you're saying it's not the Samurai Seventies?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've never even heard of that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But it's a shogunate! That means there's gotta be a bunch of samurai, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if there were, no one's ever going to call it the Samurai Seventies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00019_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was thought to have started in 1192 previously, but later research set the date to 1185, when Minamoto no Yoritomo began to establish his power.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00020_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So it wasn't the Ninja Nineties, but the Emperor Eighties. Good to know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00021_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways, this is how our understanding of history changes through the ages.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_18_04_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh. Interesting.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,18 @@
+{
+  "Script": "Story/MC02/Day20/Battle/MC02_20_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00909_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is how it should be done, right? Eheehe-HYAA!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00910_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gotta say, I'm surprised by how seriously she's taking this training.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

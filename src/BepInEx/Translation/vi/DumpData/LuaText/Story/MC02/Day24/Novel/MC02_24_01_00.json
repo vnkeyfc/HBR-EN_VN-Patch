@@ -1,0 +1,156 @@
+{
+  "Script": "Story/MC02/Day24/Novel/MC02_24_01_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00000_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Everyone, can you hear me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00002_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "This is as far as the helicopter can go. Everything beyond this point is a buffer zone between you and the enemy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00003_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "You'll need to proceed on foot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00004_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "The operation will commence in two minutes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00005_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "You may come across combat situations that weren't covered in training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00006_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "But I believe you've all gained the ability to overcome these difficulties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00007_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Stay calm and rational, and carry out your roles.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00008_KAsakura",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00009_TTojo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00010_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "I've got this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00011_RKayamori",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00012_TKunimi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye aye!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00013_YIzumi",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00014_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Area data received.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00015_NNanase",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Squads 31-A and 31-B, the enemy count within your operational range is approximately sixty. This is within expected parameters.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We were dealing with ninety Cancers in the training simulation...so as long as we stay sharp, we can't lose.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00017_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hell yeah! It's time to flex my skills!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00018_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's go get 'em!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00019_NNanase",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "All units in position. Please wait for the go-sign.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00021_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood, we're all ready to begin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi! We're the squad leaders, so let's show 'em what we're made of!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00023_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course! Let's do our best!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_24_01_00_Novel_00024_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Commencing operation.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

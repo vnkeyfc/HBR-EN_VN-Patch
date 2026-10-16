@@ -1,5 +1,5 @@
 <style\=RubyPrefixTag></style>\nA network error has occurred. Returning to title screen.\nIf this error continues to occur, allow for some time to pass and reboot the application.\nError Code: D25=<style\=RubyPrefixTag></style>\nCó vấn đề khi cố gắng kết nối mạng. Quay về Màn hình tiêu đề.\nNếu lỗi này tiếp tục xuất hiện, hãy thử khởi động lại trò chơi.\nMã lỗi: D25
 
-<style\=RubyPrefixTag></style>\nThe game is currently undergoing maintenance. Returning to title screen.\nYou may be able to remedy this by selecting "Restore Save Data" from the title menu.\nError Code: D22-E2000001=<style\=RubyPrefixTag></style>\nĐang diễn ra quá trình bảo trì game. Quay về Màn hình tiêu đề.\nMã lỗi: D22-E2000001
+r:"<style\=RubyPrefixTag></style>\nThe game is currently undergoing maintenance. Returning to title screen.\nYou may be able to remedy this by selecting "Restore Save Data" from the title menu.\nError Code: (.+)"=<style\=RubyPrefixTag></style>\nĐang diễn ra quá trình bảo trì game. Quay về Màn hình tiêu đề.\nMã lỗi: $1
 
 <style\=RubyPrefixTag></style>\nWe were unable to detect an internet connection.\nPlease ensure you are connected to the internet.\nError Code: E-1=<style\=RubyPrefixTag></style>\nHệ thống không tìm thấy kết nối mạng nào.\nHãy chắc chắn thiết bị của bạn đã kết nối với mạng.\nMã lỗi: E-1

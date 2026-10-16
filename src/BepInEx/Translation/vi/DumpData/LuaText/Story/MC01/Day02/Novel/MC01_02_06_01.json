@@ -1,0 +1,538 @@
+{
+  "Script": "Story/MC01/Day02/Novel/MC01_02_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Today, you'll be facing off against each other in teams of three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What? A Seraphim showdown?! All RIGHT! Come at me, Megumin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00002_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU TRYING TO DESTROY HUMANITY'S GREATEST WEAPON?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Here we go again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry, she's a dum-dum. Please understand. She can't help it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_190300016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Like I said, don't cover for me. And she's talking to you, dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00006_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "You are fighting simulated Cancers, not one another.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00135_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The first team to defeat them all is the victor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And if your team loses?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00009_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Physical training until you're good and sore.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Anything but that again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00011_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "No way I'm losin' this one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The teams: Kayamori, Izumi, Asakura on one side, Aikawa, Kunimi, and Tojo on the other.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Talk about a dream team!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Really playing favorites, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00015_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Now I REALLY can't lose.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00016_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, you're right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00017_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Can't...hold back...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? What's wrong, Karerin?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00019_Karen",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Karen Asakura?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00019_Karen",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Ehehe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00020_Karen",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Karen Asakura?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00020_Karen",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Eh HEH heh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00021_Karen",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Karen Asakura?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00021_Karen",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "EEEHYAHAAHAHAHAHA!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00022_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Was there something funny? Why are you laughing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00023_Karen",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Karen Asakura?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00023_Karen",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I can't lurk in the shadows any longer!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00024_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Who the hell're YOU? You ain't Asakura!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00025_Karen",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Indeed...don't mistake me for that pushover...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00026_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Explain yourself. Who are you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00027_Karen",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Meee? You may call me...KARRIEEE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00028_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "All you did was tweak yer name a li'l bit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh no...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "This has gotta be...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "A split personality!|A drinking problem!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Split-personality disorder!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Seems like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00032_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "A drinking problem!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00033_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That doesn't look like tipsiness to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "She HAS to be drunk, there's no other explanation!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She's been with us all morning. There was no time for a cheeky swig.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00036_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "That's right... You have quite the keen eye, girl.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Only SHE gets praised?! No fair!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00038_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, because I refuted your baseless claim.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00039_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I wanna be praised toooo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00040_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Is this REALLY the time? Try to stay focused.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00041_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Admonished by the last person you'd ever want to be admonished by yet again! The shame!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00042_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "You're aware I'm on your side?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00043_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, and hopefully you aren't deadweight...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Anyway, now it makes sense—this is the Asakura we were fighting alongside. No wonder I had a bad feeling the whole time...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00045_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I can smell her bloodlust! I must stay vigilant!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00046_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "To think...those innocent amber eyes held such ruby red rage...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00047_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And those ears on her hood...they're practically demonic.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00048_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Also, that name...Karrie. Where have I heard that? Let me search my memory...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00049_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_merge_00002",
+      "Context": "Adv.talk:0",
+      "Original": "Ruka/Karen/Megumi/Tama/Nanase",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_merge_00002",
+      "Context": "Adv.talk:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00055_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00056_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Hurry up and remember! \nWe're all waiting on you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00057_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00058_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Even the commander!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00059_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Umm, there's this urban legend...telling of a mysterious...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00060_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Good girl. Almost there. Just a little further...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00061_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You even have a cheerleader!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00062_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "A mysterious, gruesome...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00063_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "You're nearly there. Keep going...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00064_TTojo",
+      "Context": "Adv.playCutIn:3",
+      "Original": "A mysterious, gruesome, and devilish...idol!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00065_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "I'm afraid you're completely off the mark...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00066_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Aren't you supposed to be an Intel Agent?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00067_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "I'll give you one last chance...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00068_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Despite the aura of violence, she's surprisingly accommodating...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00069_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "A gruesome...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00070_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Yesss... You've got that part right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00071_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "A gruuuesome...uhhh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00072_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Keep at it. You're VERY close...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00073_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If \"gruesome\" is on the right track, then maybe a serial killer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00074_TTojo",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Aha, that's it! You're clearly a serial killer who commits gruesome murders!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00075_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You can't use \"clearly\" if the answer didn't come to you right away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00076_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Ding-ding-ding! Say hello to the demon whose rampage shook the very underworld itself, the one and only...SCARY KARRIE!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00077_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why do you sound like you're an MC announcing the headliner?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00078_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, I remember this. \"Scary Karrie\" was all over the news.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00079_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I was so bored whenever I skipped school because reports of the latest murder were ALL that was on TV.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00080_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So you remember this because you were a lazy delinquent.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00081_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I was writing songs while I watched TV in the background!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00082_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Right, right. Pardon me, miss superstar.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00083_Karen",
+      "Context": "Adv.talk:1",
+      "Original": "Chop chop, it's slaughtering time. Let's make it rain—blood, that is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00084_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "HA! I dunno 'bout no serial killers, but show us what yer made of!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_06_01_Novel_00085_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Alright, once more, everyone—please hold up your mePads and recite your Seraph Codes!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

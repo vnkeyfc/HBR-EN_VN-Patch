@@ -1,0 +1,340 @@
+{
+  "Script": "Story/MC02/Day08/Novel/MC02_08_10_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00000_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is this...a studio?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Correct!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here we go...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We recently brought back the band She is Legend.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't remember ever doing that myself...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see...which means?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Starting today, you're our new member!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00007_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But isn't seven a little much for one stage?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Perfect. In that case—",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00009_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Have at it! My electric guitar's all yers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00010_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aikawa...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold up. I was going to give up drum duty...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you're our bandleader, Yukkie. The show can't go on without you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, but Aikawa's off the hook?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, she'll take over as our noise lead, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00015_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That kinda role exists?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup. It's common in lots of bands with a hardcore beat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00017_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh heh hyaaa! Our sound's gonna be crazier than ever before!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then that means you're on guitar, Aoi. It's basically the same as a violin that's a tad bigger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00019_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That sounds like a stretch...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Try looking up the sheet music for She is Legend's \"Burn My Soul\" on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00021_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "R-Right...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, try to match with us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00023_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But this is my first time?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're a musician. You've got this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00025_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I started from scratch, and now look at me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00026_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? This song... It says here, \"Music and lyrics by Ruka Kayamori\"?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00027_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At this point, I'd say it's better if you don't dig any deeper into that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, count us in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, yeah. One, two... One, two, three!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00031_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the heck?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00032_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That sounded amazing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00033_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is this? This feeling... I've never felt this way on the violin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How was that, Aoi?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "How was that, Aoi?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Feeling refreshed?|Feeling confident?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Feeling refreshed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00036_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! I've never felt fresher!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Feeling confident?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00038_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! I'm starting to feel confident!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Glad to hear it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hang with us and you can have fun like that all the time! We're the Fun Squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't just decide that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why the heck not? We're the strongest. We're the assault squad. Plus, we have the most fun!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00043_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're the best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00044_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Work hard, play hard!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00045_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, your squad really is something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And you're a part of it, Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00047_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But if I don't train, I won't get any stronger. I don't have time for fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess you'll just have to stay awake 24/7.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00049_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sleep is important, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00050_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you for everything today. It was really fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And you'll have lots more fun starting tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00052_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I truly hope so. Good night.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_10_00_Novel_00053_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Night night!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,81 @@
+{
+  "Script": "Foundation/event_system",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Skip the rest of this period and move on to the next?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "In Front of Dormitories",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "In Front of Academy Building",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Arena Road",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Clock Tower",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Dormitory Entrance",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Common Area",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Dormitory Roof",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Academy Entrance",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Munitions Store",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Narby Square",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Clock Tower Viewing Platform",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Miemie Spa",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Battle 9 Theater",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.gotoFastTravel:0",
+      "Original": "Fountain Square",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC02/Day15/MC02_15",
+  "Entries": [
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "Medusa\\nRecommended Rating: 5,000\\nVulnerabilities: Pierce\\nResistances: Crush",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

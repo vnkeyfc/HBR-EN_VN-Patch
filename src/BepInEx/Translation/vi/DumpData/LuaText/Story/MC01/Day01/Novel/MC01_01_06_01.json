@@ -1,0 +1,958 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You're all here. We will now commence combat training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Wait a sec. What 'bout our clothes? We fightin' in uniform?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "As for me, I have this cape on! Any movement, and I'll be a sweaty mess!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then toss it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I must not have mentioned. Those are no ordinary uniforms. Try moving around.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00005_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "...No kiddin'! Ain't no resistance, no matter how much I move!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00006_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "The flexibility is incredible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00007_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "It's like I'm moving through air!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Expect more, pay less!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Isn't that a slogan from somewhere? Plus, it's not like you bought it. They were given to us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00010_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "The navy-issued cape is too tight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then toss it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Have you caught on? The uniforms we provided also serve as combat suits.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00013_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "So that's it? We're combat ready?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Woo-hoo, time to see whose Seraph kicks the most butt!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00015_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "YOU WOULD RISK HUMANITY'S GREATEST WEAPON?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Look who finally broke the commander...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00017_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Seraphim are precious tools, the key to humanity's survival...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00018_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Yet you would use it for sport?!\nARE YOU SOME KIND OF DUM-DUM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yes, she's a dum-dum. Please forgive her. She can't help it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't cover for me. And she's talking to you, dum-dum.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00021_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Nanase will now lead you in combat training. You will do as she says.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00022_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Okay, go ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sweet, you're here. You're on our side. The other team's just Megumi. Let's show her who's boss.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00024_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "WHAT'D YOU SAY?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ha, is that fear I smell?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00026_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "That's just victory through numbers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00027_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone. Your enemy is the Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Where? In here?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00029_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Through AR and magnetic forces, we can simulate virtual Cancers on par with the real thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Will our Seraphim still work?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00031_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The data for your Seraphim have been fully analyzed. They will have the same effect against pseudo-Cancers as in actual combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00032_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Effectively, this simulates real combat without the risk of death.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00033_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That said, today's data will impact the next training session. Don't make your future selves regret anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yikes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "In other words, don't hold back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00036_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "If even one of you is unable to fight, it will be considered a defeat. Do you remember what to do when your deflectors expire?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Once our deflectors expire...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Retreat|Stick your hand in the ground and recharge it with Gaia Energy",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00037_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Stick your hand in the ground and recharge it with Gaia Energy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00038_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Such an energy does not exist.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00039_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00040_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Your answer?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Retreat|Cut off our ally's head\\nand borrow their spare deflector unit",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00041_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Cut off our ally's head and borrow their spare deflector unit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00042_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "There is no such thing as a \"deflector unit.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00044_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Also, that is murder.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00045_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00046_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Your answer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Retreat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00048_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That is correct. Please retreat once your deflector expires.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00049_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "While your life is not at stake in the arena, practicing this kind of retreat is invaluable. Do so until it becomes second nature.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00050_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Guess that means we'll die in the real deal if we don't...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00051_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Seems so...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00052_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "We must commit it to memory, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500018_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Moving on. By consuming the deflector's energy, you can instantaneously move a set distance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500019_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "In other words, you will be capable of teleportation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500020_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That said, teleporting a great distance or consecutive times will deplete the deflector exponentially, causing it to quickly expire.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500021_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You can consecutively teleport, at most, three times. Use this wisely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_900500022_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Nanase, take it from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00053_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone, do you remember your Seraph Codes to summon your Seraphims?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "My Seraph Code?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|I forgot",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00054_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(I totally remember, it was...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00055_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I dunno, forgot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00056_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "It's written on your mePad. Please check it now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00057_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I forgot that, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00058_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Didn't we instruct you to keep it on your person at all times?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00059_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I forgot about that, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00060_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Where is your home?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00061_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I forgot about that, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00062_STezuka",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU A DUM-DUM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00063_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Way to set her off again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00068_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Let me ask you again. Do you remember your Seraph Code?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00069_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I do. Here goes. One moment, please.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00070_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00073_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You completely forgot, didn't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00074_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "(Come on, remember already...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:0",
+      "Original": "My code is...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "My legend...|Your tragedy...|The Cancer's legend...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "begins now|a drinker with a bottomless thirst|surprisingly good with penmanship",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00081_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "My legend begins now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00082_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That is correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00083_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "My legend is drinking with a bottomless thirst.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00084_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You're underage, young lady.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00085_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00086_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That would never be a Seraph Code to begin with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00087_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That much was clear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00088_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please check what is written on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00089_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"My legend begins now,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00090_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "My legend is having surprisingly good penmanship.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00091_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Is that so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00092_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No, not really.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00093_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "In that case, it would never have been your Seraph Code.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00094_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "That's true.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00088_NNanase#2",
+      "Context": "Adv.talk:1",
+      "Original": "Please check what is written on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00096_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"My legend begins now,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00097_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Your tragedy begins now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00098_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "How ill-omened...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00099_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That would never be a Seraph Code to begin with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00087_RKayamori#2",
+      "Context": "Adv.talk:1",
+      "Original": "That much was clear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00088_NNanase#3",
+      "Context": "Adv.talk:1",
+      "Original": "Please check what is written on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00102_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"My legend begins now,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00103_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Your tragedy is drinking with a bottomless thirst.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00104_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Are you implying that I drink to drown my sorrows?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00105_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Watch it. Are you TRYING to set her off again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00106_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Moreover, that would never be a Seraph Code to begin with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00087_RKayamori#3",
+      "Context": "Adv.talk:1",
+      "Original": "That much was clear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00088_NNanase#4",
+      "Context": "Adv.talk:1",
+      "Original": "Please check what is written on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00109_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"My legend begins now,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00110_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Your tragedy is having surprisingly good penmanship.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00111_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "How is that a tragedy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00112_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Because, everything is typed nowadays, duh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00113_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Such a nonsensical Seraph Code would never exist to begin with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00087_RKayamori#4",
+      "Context": "Adv.talk:1",
+      "Original": "That much was clear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00088_NNanase#5",
+      "Context": "Adv.talk:1",
+      "Original": "Please check what is written on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00116_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"My legend begins now,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00117_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancer's legend begins now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00098_STezuka#2",
+      "Context": "Adv.talk:1",
+      "Original": "How ill-omened...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00099_NNanase#2",
+      "Context": "Adv.talk:1",
+      "Original": "That would never be a Seraph Code to begin with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00087_RKayamori#5",
+      "Context": "Adv.talk:1",
+      "Original": "That much was clear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00088_NNanase#6",
+      "Context": "Adv.talk:1",
+      "Original": "Please check what is written on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00122_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"My legend begins now,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00123_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancer's legend is drinking with a bottomless thirst.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00124_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "They are incapable of consuming alcohol.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00106_NNanase#2",
+      "Context": "Adv.talk:1",
+      "Original": "Moreover, that would never be a Seraph Code to begin with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00087_RKayamori#6",
+      "Context": "Adv.talk:1",
+      "Original": "That much was clear.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00088_NNanase#7",
+      "Context": "Adv.talk:1",
+      "Original": "Please check what is written on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00128_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"My legend begins now,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00129_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "The Cancer's legend is having surprisingly good penmanship.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00130_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "As if.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00113_NNanase#2",
+      "Context": "Adv.talk:1",
+      "Original": "Such a nonsensical Seraph Code would never exist to begin with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00132_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Right you are.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00088_NNanase#8",
+      "Context": "Adv.talk:1",
+      "Original": "Please check what is written on your mePad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00134_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "\"My legend begins now,\" huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00135_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Mine is \"Hello world.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00136_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "And mine is \"There exists more than one truth.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00137_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Mine's \"Yer Savior has arrived.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00138_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I have \"Unsinkable.\" Why does mine sound like a Titanic mistake?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00139_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Karerin?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00140_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "...I'll tell you later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00141_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Simply hold up your mePad and recite your Seraph Code to summon your Seraph weapon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00142_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Can I just summon it whenever I want?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00143_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "For what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00144_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Like when my back's itchy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00145_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Use something else.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00146_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You're right. It can't be good for my skin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00147_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That should be the least of your worries.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00148_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "It is humanity's greatest weapon and must not be used out of combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00149_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "As such, please take care not to accidentally say your Seraph Code.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00150_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Question for ya: Why is my code \"My legend begins now\"? I already made my mark and retired, so it sounds super lame, like I'm a musician past her prime, begging for attention.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00151_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "We selected the statements that would best bolster your morale.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00152_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "And how did you determine that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00153_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "They were assigned after your three-month assessment period.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00154_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "On what evidence? I've never said this in my life.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00155_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "On account of the fact that you summoned your Seraphim.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00156_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Indeed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00157_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Please, at least TRY to remain skeptical.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_06_01_Novel_00158_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That's enough chatter. Let's begin the training.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

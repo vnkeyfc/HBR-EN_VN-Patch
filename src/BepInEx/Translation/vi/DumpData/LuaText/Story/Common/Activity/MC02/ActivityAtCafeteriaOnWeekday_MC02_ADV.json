@@ -1,0 +1,190 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtCafeteriaOnWeekday_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(What should I order?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Order what?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Royal milk tea|Creamy corn soup|Vietnamese coffee",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll have some ROYAL milk tea!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I have no clue what is royal about it, but it's a lot creamier than other teas, so it's easy to drink.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm starting to feel like royalty myself, just drinking this tea...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Oh my, this fancy drink is perfect for my dainty little tastebuds. Oh-ho-ho-hoo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(...Hm. I bet if I made Cappy say this, it'd be so weird and hilarious.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll ask her to do so next time!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm getting some creamy corn soup, no contest.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "*slurp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00010_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Ahh...it's such a familiar, comfortable taste.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Back when I was on tour, I'd order this all the time from family restaurants.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00012_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I also remember pouring soda from the drink machine into my corn soup for some reason, which turned out to be totally disgusting.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(But I bet there's a way to elevate corn soup to the next level, something I can add.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00014_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll find it someday. Until then, wait for me...my dear corn soup.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(What IS Vietnamese coffee?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00016_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Is it coffee beans from Vietnam? I guess I'll try it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00017_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It’s in a glass cup, and the bottom is...white? Is it milk?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'll try it first as is...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Eugh, it's pretty bitter...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's try stirring it this time...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Mm! Now THIS is yummy! It has a kind of addictive sweetness to it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00022_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, nice to see you here. Did you come for coffee as well?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, the Vietnamese coffee. I drank it straight without stirring and it was really bitter and disgusting. Cool, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00024_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It'd be cooler if you were able to say it was delicious despite the bitterness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vietnamese people must be super cool then if they can drink it without the milk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00026_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No? It's normal to stir it before drinking in Vietnam as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then why send it out like this?! Give me the pre-mixed version!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnWeekday_MC02_ADV_00028_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think that kind of defeats the point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_MC02_ADV_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Guess it's about time to head back.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

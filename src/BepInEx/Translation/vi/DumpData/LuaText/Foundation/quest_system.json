@@ -1,0 +1,34 @@
+{
+  "Script": "Foundation/quest_system",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "Any of these jobs to your liking?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_03456_v001_MediatorBoy",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You lookin' for work, kid?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_902200334_MediatorBoy",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm counting on you, kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_902200335_MediatorBoy",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you're ever looking for work, come talk to me, kid.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Return to the Home screen?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

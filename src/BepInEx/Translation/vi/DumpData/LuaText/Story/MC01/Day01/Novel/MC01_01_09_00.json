@@ -1,0 +1,120 @@
+{
+  "Script": "Story/MC01/Day01/Novel/MC01_01_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "*sigh*... Guess dinner really isn't all-you-can-eat...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And here I was, ready to spend another glorious night with Salisbury steak curry like some kind of idiot!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00002_v003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "And here I was, ready to spend another glorious night with curry seaweed rice like some kind of idiot!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "\"Some kind\"? From my vantage point, you're a fully fledged idiot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What?! What happened to all-you-can-eat?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00015_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "You're right. Now it's just school lunch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00016_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Looks like it was just a welcome feast.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00017_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There was so much good grub on offer, but I stuffed my tummy full with nothing but Salisbury steak curry and knife-cut noodles!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00003_v003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There was so much good grub on offer, but I stuffed my tummy full with nothing but curry seaweed rice and carbonara!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There was so much good grub on offer, but I stuffed my tummy full with nothing but curry seaweed rice and knife-cut noodles!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00020_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ha, good fer ya.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "This is a perfectly decent line up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I want a buffet!!! No school lunch, no school lunch!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Don't throw a tantrum like a kid, you're in public... Remind me, why are you our leader again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00024_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "It's still as tasty as ever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00025_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, landlubber food is nutritious and delicious!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00026_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Well, it darn better be! Gross food is bad fer morale.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wait—could it be?! Is the rice all-you-can-eat?! Alright! Daddy's gonna dig right in, then!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_01_09_00_Novel_00028_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Your levels of excitement are as unstable as the stock market. That has to be why the band broke up...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

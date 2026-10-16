@@ -1,0 +1,300 @@
+{
+  "Script": "Story/MC02/Day08/Novel/MC02_08_06_02",
+  "Entries": [
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Operation complete. You successfully reached Point Gamma.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00476_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, you went over the clear time by seven seconds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00477_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So close!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00478_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So close, it hurts!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00479_v001_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn. So much for a beautiful disaster...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00480_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori, do you know what led to this result?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00481_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's probably...that extra battle we fought when we ran down the ridge.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00482_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I should've just let 31-B distract it and continued on...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00483_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Also...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00484_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We provided cover fire two times when it wasn't needed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00485_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Given 31-A's strength, we should have focused more on the enemies in front of us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00486_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you're able to see that, I have no issue.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00487_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, then does that mean...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00488_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your teamwork is up to par. You passed...this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00489_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "ALRIIIGHT!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00490_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You did it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00491_v001_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can thank us for that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00492_v001_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meow, that's right. Don't take all the crrredit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00493_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That concludes your training for Phase Two. Well done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00494_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You will also be working alongside Squad 30-G in Phase Three. Keep that in mind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00495_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tomorrow is your day off, so please get your rest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00005_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were unable to reach today's objective, Point Gamma. Training failed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00006_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who was it? Who dragged us down?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was most likely me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00008_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The issue was teamwork.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00496_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-B provided spur-of-the-moment support far too much. It slowed you down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00497_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In doing so, they didn't have enough firepower when it mattered, thereby hindering 31-A's progress.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00498_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meanwhile, 31-A's orders and judgment were lacking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, then it's me that's the problem!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00014_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "While I understand it's a high-pressure situation, you need to keep your vantage clear to make good judgements.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00015_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep that in mind, and move together as a cohesive unit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah, we'll just keep doing what we've been doing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00499_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh*... Unfortunately, you leave me with no other option than to conclude that 31-A is unsuitable for this mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00021_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A. You were defeated in simulated combat. Your broken formation led to Cancers surrounding and defeating 31-B.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00501_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You repeated your previous mistakes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ughhh, this is more difficult than I thought.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00023_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you taking this seriously?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am, but you can't expect us to do the impossible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00025_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's only trainin'. No need to be so serious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00026_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If this were the actual operation, you would be dead. Understood?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00027_RKayamori",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Eek!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_Z900100025_MAikawa",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Ack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's with you two?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00502_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm afraid you leave me no choice but to take your squad off the operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,120 @@
+{
+  "Script": "Story/AC01/Day01/Novel/AC01_01_00_00",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Finally, a day off! Let's rock out with hardcore punk like there's no tomorrow!",
+      "Vietnamese": "Cuối cùng cũng được nghỉ ngơiiii!! Tớ bật nhạc hardcore rồi quẩy tung nóc được không?"
+    },
+    {
+      "Key": "VC_AC01_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just so you're aware, the rest of us just want to take it easy.",
+      "Vietnamese": "Bọn tôi muốn được nghỉ ngơi."
+    },
+    {
+      "Key": "VC_AC01_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It gets rid of all the stress, ya know?",
+      "Vietnamese": "Đó là cách xả stress đỉnh nhất đấy nhé?"
+    },
+    {
+      "Key": "VC_AC01_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know how much the rest of us suffer every time you play that music? We don't need another blow from you right after we fought the Death Slug.",
+      "Vietnamese": "Mỗi lần bà bật cái thứ đó lên là cả đám đều bị dính sát thương đấy. Đừng có bồi thêm đòn sau khi vừa tử chiến với Death Slug nữa."
+    },
+    {
+      "Key": "VC_AC01_00014_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Death Slug... It was so incredibly strong...",
+      "Vietnamese": "Death Slug... mạnh ghê..."
+    },
+    {
+      "Key": "VC_AC01_00015_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It looked really huge, even to me!",
+      "Vietnamese": "Ngay cả em nhìn cũng thấy nó to khủng khiếp luôn...!"
+    },
+    {
+      "Key": "VC_AC01_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, of course it would seem huge to you.",
+      "Vietnamese": "Nhóc lùn nhất nên thấy nó to nhất cũng là hiển nhiên thôi."
+    },
+    {
+      "Key": "VC_AC01_00017_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YO, Tama!",
+      "Vietnamese": "Này, Tama!!"
+    },
+    {
+      "Key": "VC_AC01_00018_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-Yes!!",
+      "Vietnamese": "D-Dạ!!"
+    },
+    {
+      "Key": "VC_AC01_00019_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe try wearing a chef's hat to make yerself taller.",
+      "Vietnamese": "Nhóc cứ đội cái mũ đầu bếp lên ăn gian chiều cao là được chứ gì."
+    },
+    {
+      "Key": "VC_AC01_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd rather die than have to fight next to someone wearing one.",
+      "Vietnamese": "Tôi chả muốn chiến đấu cạnh một đứa đội cái thứ đó trên đầu đâu."
+    },
+    {
+      "Key": "VC_AC01_00021_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose we're going to have to look forward to more battles like this.",
+      "Vietnamese": "Những trận chiến thế này sẽ còn tiếp diễn nhỉ."
+    },
+    {
+      "Key": "VC_AC01_00022_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, why don't we review our overall fighting ability for future engagements?",
+      "Vietnamese": "Này, tính đến chuyện tương lai thì chúng ta có nên xem xét lại chiến lực không?"
+    },
+    {
+      "Key": "VC_AC01_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohh, I've got a bunch of GP saved up. Why don't we do some window shopping while we're at it?",
+      "Vietnamese": "Tớ cũng tích được kha khá GP rồi, hay tụi mình đi lượn window shopping cho sang chảnh xíu đi?"
+    },
+    {
+      "Key": "VC_AC01_00024_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm totally on board this boat!!!",
+      "Vietnamese": "Tuyệt quá ạ!!"
+    },
+    {
+      "Key": "VC_AC01_00025_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No point fightin' it.",
+      "Vietnamese": "Thôi đành vậy."
+    },
+    {
+      "Key": "VC_AC01_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're coming too, right, Yukkie?",
+      "Vietnamese": "Yukki cũng đi đúng không?"
+    },
+    {
+      "Key": "VC_AC01_00027_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If everyone else is going.",
+      "Vietnamese": "Nếu mọi người đều đi thì tôi cũng đi."
+    },
+    {
+      "Key": "VC_AC01_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, let's rock!",
+      "Vietnamese": "Ngon, chốt vậy đi!"
+    }
+  ],
+  "Inserts": []
+}

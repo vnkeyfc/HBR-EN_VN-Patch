@@ -1,0 +1,369 @@
+{
+  "Script": "Story/MC02/Day23/Novel/MC02_23_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's fiiiiinally heeeeere! Suuuuuunday morning!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're awfully excited today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00995_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We beat the Medusa, finished our tests, and completed all the training with flying colors. Of course I'm excited!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The operation is right around the corner, though. Don't get too ahead of yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I knooow! I just want to go wild for a little bit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know what? Relaxing sounds like a better plan than going wild.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00006_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we could die at any time out there, so might as well go wild while ya can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please don't jinx it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, how about we try a little game I thought up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What did you cook up this time...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(That would be...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:0",
+      "Original": "The game I thought of is a...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "Life-or-death|Girly|Five-person",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "mystery hot pot party|Russian roulette|Cancer-eating tour",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A life-or-death mystery hot pot party.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, no thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You take one bite and you're a goner...a thrilling hot pot full of deadly things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I said, NO THANKS.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Life-or-death Russian roulette.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A life-or-death Cancer-eating tour.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A girly mystery hot pot party.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And? What makes it so girly?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We fill it up with a whole bunch of tapioca balls and boil it to all hell.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And it'll just melt into a gooey mess.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Girly Russian roulette.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How does that work?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm...we can lift our pinkies up daintily when we pull the trigger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A girly Cancer-eating tour.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00028_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How does that work?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can dip them in those fancy chocolate fountains. Cancer-fondue, if you will.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A five-person mystery hot pot party. Excluding me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00034_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why just us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because I'm scared I'll die!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00036_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You think we wouldn't be scared, too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you'll do it anyways, right? You're all so brave...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00038_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If the person suggesting it isn't participating, no one's going to do it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, do I have to?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00040_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are ya dumb? I wouldn't do it even if all six of us participated. What a waste of time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But it'd be fun!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Five-person Russian roulette. Excluding me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00034_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why just us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00035_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because I'm scared I'll die!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00036_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You think we wouldn't be scared, too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00037_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you'll do it anyways, right? You're all so brave...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00047_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No one's going to do it, dummy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great! What a relief! I'm glad no one said they wanted to do it. It's way too scary and dangerous.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A five-person Cancer-eating tour. Excluding me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00050_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That just means everyone's getting food poisoning, except you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh no! That'd be bad! Then we wouldn't be able to fight!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00052_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're the one who suggested it, dummy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00053_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Someone could die.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00054_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh no! That'd be bad! It'd be stupid if someone died for a reason like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00052_Yizumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're the one who suggested it, dummy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00056_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone's going to get food poisoning.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh no! That'd be bad! It'd be stupid if we all got sick!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00052_Yizumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're the one who suggested it, dummy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00059_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways, this is one of our rare days off. Why don't we just take it easy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00060_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00061_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00062_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Might as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_00_00_Novel_00063_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I agree wholeheartedly!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

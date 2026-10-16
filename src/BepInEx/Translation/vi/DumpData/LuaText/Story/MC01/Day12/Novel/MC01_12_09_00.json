@@ -1,0 +1,120 @@
+{
+  "Script": "Story/MC01/Day12/Novel/MC01_12_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "First off, congratulations on completing your first mission. For your first outing, your performance was truly remarkable.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Also, I overheard on comms that you were competing to defeat the most Cancers to win the \"A\" title...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "And in the end, 31-C came out on top. In sum, 31-C is the new 31-A, correct?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Dang. So that's that, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yamawaki. Do you accept these results and this victory for your squad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00005_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "...No.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00006_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Oh? Why not?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00007_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Because no matter what happens, our duty is to protect humanity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00008_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You're right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00009_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "But on this mission, I lost sight of that vital goal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00010_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I wanted to win... I put that above all else today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00011_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "And by doing so, I failed to protect what matters most.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "To most, protecting themselves and those closest to them is all they can manage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00013_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, the Seraph Squadron expects more of its members. Protecting oneself, one's comrades, and the world—<i>That</i> is our mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00014_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I'm still too immature... So, this victory...belongs to them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00015_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Congratulations! 31-A, you truly earned it. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Alright!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well aren't you happy? You must've really wanted that \"A.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_00_Novel_00018_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "So we still ended up losing. ♪",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

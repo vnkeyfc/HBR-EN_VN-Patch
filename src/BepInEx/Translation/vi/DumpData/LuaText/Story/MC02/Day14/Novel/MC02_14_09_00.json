@@ -1,0 +1,204 @@
+{
+  "Script": "Story/MC02/Day14/Novel/MC02_14_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I hope today's dinner is meat!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just how much do you love meat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That crispy golden-brown color seems to indicate...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00003_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Pork cutlet!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00004_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At last! It's finally time to pork out!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00005_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can even choose the sauce we want, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ooh, what kinds are there?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00007_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's the normal sauce, and...this one's miso.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Miso? So we can turn it into miso-flavored pork cutlet?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, duh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've never eaten it before! Even when I went to tour in Nagoya, everyone voted in favor of spaghetti with starchy tomato sauce! Which was good, but still!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So just eat it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I'm afraid I'll want the normal sauce too. I don't want to regret my decision...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why not just try it on one slice first?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00014_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Oooh, great idea! Niiice hackiiing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00015_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. This has nothing to do with hacking.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00016_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In Kansai, 's always barbecue sauce. Miso's straight up blasphemy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The miso one is...kind of thick and sticky, unlike the normal sauce...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00018_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep. That's how it's supposed to be.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks delicious!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mngh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you surprised about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is...sweet! Almost like candy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd totally eat this at my 3 o'clock teatime if I could!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00025_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah. You're like a kid, as usual.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've lived so long without experiencing this sensation...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone...let's take back Nagoya. ASAP.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if we get Nagoya back, the pork cutlet places aren't just going to magically pop back up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll do it. I'll manage the shops.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, <i>you</i> need to go fight. Don't throw away your duty for a career in pork. There's not even going to be any customers anyways.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00031_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess tasting that miso pork cutlet was life changing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_14_09_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew... I'm going to sleep well tonight.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

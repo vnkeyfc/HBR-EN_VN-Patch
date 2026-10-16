@@ -1,0 +1,336 @@
+{
+  "Script": "Story/MC01/Day12/Novel/MC01_12_09_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00000_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Bun-chan is about to lose her memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What?! Why?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00002_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "This is something that happens regularly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, just how much of her memories is she losing?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00004_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Everything up to the present time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So even the memories of meeting all of us? Of fighting the Cancer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00006_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "That's right. She's unable to form new memories. They quickly fade.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So that explains it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Explains what, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That explains why we kept having the same conversations, over and over.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00010_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Yamawaki isn't very smart, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Should a lackey really be saying that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00012_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "Don't you know the Great Yamawaki is a brilliant mad scientist, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She forgot every encounter we had... To her, each time was brand new.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00015_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "It's also why she's still playing make-believe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Make-believe?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00017_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "The evil mad scientist and her trusty familiar.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00013_v005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You mean, her and Yamawaki's schtick about destroying the world?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00019_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. The two of them are childhood friends.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00020_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "It's a game they came up with as kids, and they've been playing it ever since.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00021_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "They were playing it one day when the Cancer attacked, and...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00022_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "While both survived, Bun-chan suffered serious brain damage. Now, she loses her memory whenever she falls into a deep sleep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00023_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Every time she awakens, it's as Ivar's lackey.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00024_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Meanwhile, Ivar's grown up... And even though she is tired of playing make-believe...Bun-chan keeps waking up to be her lackey.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00025_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "And so she asks, \"How're we gonna destroy the world today, Master? Ke he he!\" with an innocent smile on her face.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "No way...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00027_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "I need you to prepare for the day when you will no longer be my familiar.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00028_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "But why, Master? Why would you say such a sad thing, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So <i>that’s</i> why Wakkie said that back then...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00030_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "That takes the wind right out of my sails...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00031_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "It isn't that we wanted to win to be recognized by the commander...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00032_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "It was in order to continue rising up in the ranks. We wanted to one day be able to ask the Seraph researchers for a solution to Bun-chan’s condition.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00033_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "To ask if there's a way to cure her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00034_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "To beg them to please...put an end to their never-ending make-believe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Take the \"A\" then! It's yours!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00036_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "No. Make no mistake, out of the two of us, you are the stronger squad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00037_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Therefore, after you've climbed the ranks, we would like you to ask the researchers in our place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00038_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Oh...it looks like she just fell asleep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00039_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Ivar is always at her side like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00040_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Crying like a little kid until the sun comes up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00041_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ngh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00042_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Mngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00043_BIYamawaki_b",
+      "Context": "Adv.talk:1",
+      "Original": "Hh... Aaahhh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00043_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Waahhh!!! Aaahh!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00044_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You have our word. We'll ask them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00045_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Going forward, we'll carry the hopes of 31-C in our fight against the Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00046_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Thank you very much.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00047_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I don't even know what to say...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00048_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "All I know is...my heart aches...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00049_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Humanity is on the brink...and no doubt, countless people are carrying heavy despair in their hearts, just like them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00050_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We can't afford to forget that as we continue forward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00051_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah. Well said.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00052_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Yes...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_03_Novel_00053_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yea...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

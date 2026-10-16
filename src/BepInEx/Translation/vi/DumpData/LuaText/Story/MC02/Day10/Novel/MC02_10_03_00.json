@@ -1,0 +1,447 @@
+{
+  "Script": "Story/MC02/Day10/Novel/MC02_10_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today's lesson is tailoring.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00001_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Pft... Ha ha ha!\\nNice try, Commander!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00002_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Tailoring?!\\nWe ain't no housewives!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00003_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah ha ha ha ha!\\nHeroes don't have time for stupid needlework!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you two plan that ahead of time? You were scarily in sync.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mean, what does tailoring have to do with fighting, anyway?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00006_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Any tears or frays on your uniform are marks of shame for the Seraph Squadron. You must care for your attire accordingly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaa? But going \"au naturel\" is all the rage these days.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is this, some kind of porno game?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00009_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No uniform means no deflector. In a word: death.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, Megumin... She makes a good point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00011_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure does...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You two even gotta chicken out together, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00013_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let us begin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00014_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The uniforms we gave you are military-grade apparel created with special materials.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00015_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "While quite durable, you will have to mend the more fragile areas yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it okay to add our own unique flair?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00017_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As it may interfere with your deflectors, you should refrain from doing so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaa? But everyone else already has!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00019_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a problem.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So what you're saying is, it's fine as long as the deflector works in the end, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you planning?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Good question...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:0",
+      "Original": "What are you planning?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "A super cool|A super sexy|A see-through",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "dress|mascot getup|loincloth",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A super cool dress.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A super cool mascot getup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00031_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's already an oxymoron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? How so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00033_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's nothing cool about mascots, so don't try to force it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A super cool loincloth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00035_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your boobs would be hanging out for all to see.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, you're right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00037_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Besides, there's absolutely no way your deflector would work then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's even worse!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00039_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Than exposing your boobs?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A super sexy dress.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00041_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A super sexy mascot getup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's already an oxymoron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? How so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00044_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's nothing sexy about mascots, so don't try to force it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A super sexy loincloth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00046_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That would be super masculine instead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00047_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? How so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00048_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Only guys wear loincloths.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My boobies would be on full display, though?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00050_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's still masculine even with your boobies on full display.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00051_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please don't put your boobies on full display.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00052_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okaaay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00053_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Crap... I totally let myself get carried away there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00054_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A see-through dress.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00055_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They'd have to change the ratings.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00056_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A see-through mascot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00057_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then you'd see who's inside.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00058_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A see-through loincloth.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00059_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You may as well be naked then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00060_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, you're right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00061_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And there's absolutely no way your deflector would work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00062_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My plan's falling apart!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00063_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was anything holding it together to begin with?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00064_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, you're right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00065_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't make me explain myself, dum-dum. It's a waste of energy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00066_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As much as I'd like to see that, there's definitely not enough fabric.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_merge_00010",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00070_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yuki's blushing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00071_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "FORGET YOU HEARD THAT! She was my favorite singer, okay?! That's why! GOT IT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00072_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No takesie backsies!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00073_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, say that again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00074_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00075_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Settle down. Let's get those needles moving.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00076_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But things were just gettin' good!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00077_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank goodness!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_10_03_00_Novel_00078_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Settle down. Let's get those needles moving.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

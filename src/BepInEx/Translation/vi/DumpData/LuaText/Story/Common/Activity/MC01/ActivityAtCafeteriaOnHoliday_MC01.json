@@ -1,0 +1,210 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtCafeteriaOnHoliday_MC01",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm at the cafeteria, should I get something to eat?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:0",
+      "Original": "Have a meal at the cafeteria?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:1",
+      "Original": "Eat a meal",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:2",
+      "Original": "Leave",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.isItPossibleActivity:3",
+      "Original": "Spend time at the Cafeteria to raise Silliness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hm, what should I order?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Order what?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Pizza|Some hot dogs|A hamburger",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Pizza time! I'll copy Karerin and eat a whole pizza by myself!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Yes, pizza! I'm going to devour this whole thing!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(You know what? I'll eat it without even cutting it. That seems pretty decadent!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(...Nom nom.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's just endless, warm bread dough...where's the toppings?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Also it's super hard to eat like this...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00008_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is this! This is no pizza!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is definitely a pizza.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00010_MdAngelis",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Dannazione!!!\\nIt's pizza americana!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00011_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let me into the cucina! I'll show you a real pizza!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, seriously? I'm excited.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00013_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Take it. This is a true pizza d'italia.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oohh, the crust is thin and so aromatic! This feels super authentic!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00015_MdAngelis",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Dannazione! Without a stone oven, the flavor is only half as good!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I dunno, I think it's pretty delicious as it is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00017_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's have some hot dogs. Maybe I'll see how many I can scarf down.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Apparently, there's an international hot dog eating competition. They call it 'Tokyo Style' when you eat the buns and sausages separately.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Maybe I'll try that...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "No, wait! That's not even a hot dog anymore! What's the point if they aren't together?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Yeah. I'll just eat it normally instead.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The best burgers in the world are often the simplest.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's go for the secret options...more onions and pickles, and extra ketchup!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Mmm...delicious!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hamburgers are one of the best types of junk food.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(...Or so I'd like to say, but I hate that phrasing! Why is it 'one of' the best? Just let it be the best, the mostest, the only one!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew, I'm stuffed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtCafeteriaOnHoliday_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Guess it's about time to head back.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

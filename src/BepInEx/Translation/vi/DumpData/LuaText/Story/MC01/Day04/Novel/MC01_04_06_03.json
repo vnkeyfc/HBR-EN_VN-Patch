@@ -1,0 +1,222 @@
+{
+  "Script": "Story/MC01/Day04/Novel/MC01_04_06_03",
+  "Entries": [
+    {
+      "Key": "VC_MC01_00193_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Oh? An admirable display of improvement.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00194_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Clear time achieved.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00195_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wow, we're pretty great!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00196_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We're really coming together as a team.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00197_v002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Yay, we did it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00198_v002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I can't say it went exactly according to plan, but overall, not too shabby.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00199_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then I say scrap the plan. Don't think, just fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00200_v002_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "We need to keep this energy going until the aptitude test.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00201_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Indeed. Work to continue increasing your basic damage output.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00202_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Do not rest on your laurels, and do not slack off on training during free time. Understood?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00203_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Still far from adequate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00204_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Clear time not met. Today's session was a failure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00205_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "If this were active combat, you would be dead by now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00206_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Quit it with the scare tactics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00207_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "We're in a scary situation. Be thankful this was only training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00208_v002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "But everything went according to plan...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00209_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then your plan was the problem. Don't think, just fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00210_v002_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Wow, things are starting to get real... We need to get our act together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00211_v002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm too young to die!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00212_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Strategy is important, but all strategy is predicated on having adequate damage output.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00213_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "If this is the best you can do, passing the aptitude test will be all but impossible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00214_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Use your free time to train. Understood?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00215_v002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Guess I gotta meditate even more now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00216_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "If that were all it took to get stronger, we wouldn't need training in the first place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00217_v002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ha! Who do ya think I am? I'm a PSYCHIC, moron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00218_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And what has that done for you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00219_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Don't worry your pretty little head, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00220_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Megumin and I just gotta combine our psychic powers, and bam. The enemy won't know what hit 'em!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00221_v002_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "What did I tell ya?! Quit tryna steal my thing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00222_v002_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "You're the ROCK STAR!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00223_v002_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I'm the PSYCHIC!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00224_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wrong. I'm a psychic rock star. End of story.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00225_v002_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Get real! Be happy you have ONE gift!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00226_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Not again... Should I even ask what you two are fighting over?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00227_v002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The aptitude test is in two days' time. Don't slack off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_03_Novel_00006_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "That concludes today's training. Good work, everyone.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

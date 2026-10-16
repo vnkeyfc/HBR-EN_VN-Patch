@@ -1,0 +1,332 @@
+{
+  "Script": "Story/MC02/Day02/Novel/MC02_02_05_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woah, you got a sandwich for once, Yukkie! Could I have a bite?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, but it has smoked salmon inside.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is that? A bizarre mix of smoke and fish?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, a smoke plus salmon sandwich.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ew, gross! No thanks!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Real polite of you, calling what someone is currently eating gross to their face...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, give it to me for a sec. I'll take it to the kitchen and have them deep fry it for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why do you sound like one of those content creators from back in the day who said everything's better fried? Cut it out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00008_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So...are we just going to keep training like nothing's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00291_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not quite. With our new intel, we can start making moves.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, do you have some kind of plan?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What's your plan?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Meet the leader of 31-B|Practice Sepak Takraw",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, you want to be a Sepak Takraw champ, right? Let's practice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00012_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Where did you get that idea?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? I thought you wanted to be a hero in Thailand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've never said anything remotely approaching that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I must've misunderstood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. More than should be possible to misunderstand.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Meet the leader of 31-B|Practice parkour",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll train you to be a parkour pro. Let's start off with a few laps around the base at full speed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00018_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "In your dreams!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And what do you mean, start off at <i>full speed</i>? You trying to give me an injury?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine, after warmups, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Perfect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, wait. I'm still not doing that.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Meet the leader of 31-B|Practice cavalry fighting",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's practice cavalry fighting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00024_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I told you, we can't host a sports tournament on the base!\\nAnd cavalry fighting, where you ride on people's shoulders?!\\nWe only have enough people for one team!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, we can just pick someone up and walk around the base like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you <i>want</i> everyone to think we've lost our minds?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine. Then how about we fight the Cancer like that instead?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Still falls on the side of having lost our minds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00292_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's meet the leader of 31-B. We might be able to learn something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00033_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00034_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00035_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grazie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's with the surprised looks?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00037_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's nothing. We were just moved by the discovery that <i>anyone</i> really can grow and change.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00038_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoops, I let out a little Italian there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00039_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You do know that \"grazie\" means \"thanks,\" right? You can't use it the same way as \"great\" or \"incredible.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00040_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I...I'm well aware!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Be careful, you're rapidly losing all dignity you may have once had.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00293_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine, whatever. Let's give the leader of 31-A a visit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00294_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-<i>B</i>. You're the leader of 31-A, in case you forgot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00044_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good thinking. She might give us some sort of lead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00045_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I got this. I'll give her a beatin' she won't forget.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00046_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're not going to pick a fight with her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00047_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If I go, I'm worried I'll scare her off before we can say anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_01_Novel_00048_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If anything, you being there will make her let her guard down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00295_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But, how are we supposed to find her on this giant military base in the first place, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00296_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just use your mePad. This is easy. See? This has to be her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00297_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Way to go, Yukkie. Niiiiice hackiiing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00298_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That was browsing, not hacking.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

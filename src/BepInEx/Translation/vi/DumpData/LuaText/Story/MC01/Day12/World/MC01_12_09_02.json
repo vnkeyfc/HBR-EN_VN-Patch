@@ -1,0 +1,47 @@
+{
+  "Script": "Story/MC01/Day12/World/MC01_12_09_02",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to 31-C's room!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_02_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Wrong way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_02_World_00001_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "We should join Merry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_02_World_00002_MSatsuki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "This way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_02_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Wonder what's up...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_02_World_00004_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "This is our room.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_09_02_World_00005_MSatsuki",
+      "Context": "Adv.talk:1",
+      "Original": "Please, go ahead.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

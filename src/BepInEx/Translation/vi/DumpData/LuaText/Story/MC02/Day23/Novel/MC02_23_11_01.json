@@ -1,0 +1,174 @@
+{
+  "Script": "Story/MC02/Day23/Novel/MC02_23_11_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_23_10_01_World_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Yukkie. Did you know there's another supermarket here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, I know. And no, we don't need to go there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's apparently called the Shadow Market! Sounds interesting, huh? Wanna go?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you listen to a word I just said?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...but...I've been putting off going there because I wanted to go with <i>you</i>, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00005_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How could you refuse a reason like that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00006_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "H-Hey! How can you pin something like that on me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you'll come with me, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00998_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why do we have to do this right on the day before the operation? Let me take this day off to rest and prepare...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00999_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's <i>because</i> it's an off day that we should go! We need to treat ourselves for all the hard work we've put in so far!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sleeping in all day would be the best treat, hands down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo! Yukkie, you're not thinking girly enough!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look, we're soldiers before we're girls right now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welp, that's too bad then... I suppose I'll just have to go with the others instead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00015_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds like a plan!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00016_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah, you're absolutely helpless. Reckon I can come with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00017_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00018_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, EVERYONE's going?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00020_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00021_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that a problem?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's with you all... Did you plan this out together in advance?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00023_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope, heard about it just now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you're usually the type that complains about these kinds of random excursions...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, we're leeaaving. You good with that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh, fine... You're all going to get into trouble on your own, so I suppose I'll tag along.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_23_10_01_World_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awesome! Welcome aboard!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

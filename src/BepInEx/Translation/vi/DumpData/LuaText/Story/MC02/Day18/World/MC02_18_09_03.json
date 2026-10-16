@@ -1,0 +1,77 @@
+{
+  "Script": "Story/MC02/Day18/World/MC02_18_09_03",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Find Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Whoo, we got some good practice in today... I guess it's a good time to head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hm? Where'd Aoi go? That's not great. Maybe I should go look for her.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Aoi? She was here just now, wasn't she?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00004_Karen",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Hyeheheh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00005_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi? Why would we know where she is?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00006_SMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Meow. She probably just went straight home.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00007_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, I see... That must be terrible...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00008_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Aoi? No, I haven't seen her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00009_KHiiragi",
+      "Context": "Adv.talk:1",
+      "Original": "I haven't seen her.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00010_SHiguchi",
+      "Context": "Adv.talk:1",
+      "Original": "You're asking me if I know where Aoi is?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_19_10_00_World_00011_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What a ridiculous question. Look. Don't you see that oh-so-loyal tiger waiting over there?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,192 @@
+{
+  "Script": "Story/Common/Activity/MC01/ActivityAtFountain_MC01",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtFountain_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hm, what should I order?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Order what?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Hashimaki|Gozasourou|Tamasen",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Fountain area",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Let's eat some Hashimaki. I remember eating it once on a tour in Kyushu.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's a type of street food, where okonomiyaki batter is fried and wrapped around chopsticks. I wonder who first thought of this?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Tastes delicious with all this sauce and mayonnaise drizzled on top!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The pickled ginger topping also give it a nice punch! Mmmm!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Gozasourou? What a funky name, but I guess it's a type of food.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Wait, I've seen this before! It's just an Imagawa-yaki cake, why does it have such a funny name?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Maybe the flavor is different...?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "*nom nom*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(This is definitely just an Imagawa-yaki! No doubt about it!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00010_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "What the heck?! This thing's a Kaiten-yaki!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "'Sup, Megumin? Are you getting angry over the Imagawa-yaki with an identity crisis, too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00012_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Imagawa-yaki? The heck is that? This thing here is a Kaiten-yaki.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "What's a Kaiten-yaki?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00014_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Why?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00016_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Oh. This must be an Oban-yaki.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00017_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Attacked?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Attacked?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00019_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm gonna eat some Tamasen! I remember eating it on tour in Osaka, and it was real tasty.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(With the crispy feel of shrimp chips and a sweet-and-salty sauce and mayonnaise flavor, you can't just stop with just one!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's junky and gourmet at the same time!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Despite it being so thin and light, it really fills you up. An awesome snack, 10/10, would try again!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Whew...that felt like a foodie adventure.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtFountain_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I should probably head back now.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToFountain:2",
+      "Original": "Yeah, food time!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToFountain:4",
+      "Original": "Should I buy myself a little something to eat?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.goToFountain:5",
+      "Original": "Spend time at Fountain Square to raise your Openness.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

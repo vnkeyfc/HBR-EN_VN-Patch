@@ -1,0 +1,225 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtGym_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Okay, I'm going to work out today!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What kind of training?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Hot yoga|Weight lifting|Exercise bike",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Hot yoga really is HOT! This room is warm as heck, wow.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Spreading both arms out to the side, bending one knee ninety degrees, and stretching the other leg out really far...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(...Warrior Pose: Virabhadrasana)!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Ahh, that feels good around the scapula and down around the hips!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Next, sitting down cross-legged...and bringing both hands near the stomach.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00007_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(The meditating pose...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00008_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sa, ta, na, ma...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(V.B.?! When did she get next to me?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Who's this?! When did she get next to me?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00011_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sa, ta, na, ma...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(She's totally rocking this yoga thing.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00013_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sa, ta, na, ma...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sa, ta, na, ma...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00016_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Hm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oops, sorry. Didn't mean to bother you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00018_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. When you speak, it is good to focus on the stomach.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00020_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sa, ta, na, ma...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sa, ta, na, ma...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Not clue what that's about, but I feel more at ease!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm going to lift weights to get some super toned arms.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Breathing is always important for these kinds of things.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Inhale...exhale. Inhaaale...exhale.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Whoo, my arms are bulging! This is working great!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I wonder what happens if I try it while holding my breath?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00028_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh god...the veins in my head feel like they're gonna burst. Yeah, let's go back to breathing normally.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00029_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's a bikey-thingy.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Depending on the course you're running, the scenery on the monitor changes. That's fancy.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00031_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(There's a lot of different scenes, including backgrounds along the river side, or even in a town.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*swish* *swish*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00033_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh man, this sure takes me back...these are all images of a world before the Cancer attacked.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00035_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(This is...kind of emotional...I've never had such an emotional exercise...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whew, I worked up a good sweat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtGym_MC02_ADV_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I should probably head back now.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

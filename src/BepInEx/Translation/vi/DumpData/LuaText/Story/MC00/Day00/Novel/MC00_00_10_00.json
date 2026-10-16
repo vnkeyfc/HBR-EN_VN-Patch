@@ -1,0 +1,555 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_10_00",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whatever they're feeding us, I hope it's good.",
+      "Vietnamese": "Mong là được xơi món gì hảo hạng một tí haa~"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00001_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Well, it's a military facility. I suggest not getting your hopes up. A step above hospital food is a safe bet, so brace yourselves.",
+      "Vietnamese": "Nên nhớ đây chẳng qua là quân doanh. Đừng có mà kỳ vọng nhiều quá. Cùng lắm thì chỉ dễ nuốt hơn cơm bệnh viện thôi. Đừng để bị sốc đấy."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "WOAH! An all-you-can-eat buffet! BOO-yah!",
+      "Vietnamese": "Ú ô ô ô ô ô o!! Tiệc buffet luôn kìa bà con!! Đỉnh của đỉnh!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00003_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Amazing!",
+      "Vietnamese": "Tuyệt quá...!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00004_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I'm drooling...",
+      "Vietnamese": "Trông ngon mắt ghê..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00005_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Woooah, look at all this food!",
+      "Vietnamese": "Tiếp đãi chất quá trời quá đất luôn gòi!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Tojo, will you ever have any USEFUL intel for us?",
+      "Vietnamese": "Tojo, đã bao giờ cái miệng cậu thốt ra được câu nào có ý nghĩa một chút chưa?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00007_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Darn... So close!",
+      "Vietnamese": "Suýt soát luôn rồi mà...!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You couldn't have been farther off! This is a veritable feast!",
+      "Vietnamese": "Trật lất luôn chứ \"suýt\" chỗ nào, thịnh soạn thế kia cơ mà!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, hey...if I put this with THIS...",
+      "Vietnamese": "Ê ê... Đem món này đi trộn với món này một phát thì..."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "This plus this equals?",
+      "Vietnamese": "Đem món này trộn với món này thì..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "A Salisbury steak curry!|Seaweed-on-rice bowl!",
+      "Vietnamese": "Là ra ngay món Cà ri thịt viên chứ đâu!|Là ra ngay món Cơm hộp phủ rong biển chứ đâu!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I get a Salisbury steak curry! I'm getting all fired up!",
+      "Vietnamese": "Là ra ngay món Cà ri thịt viên chứ đâu! Càng trông càng đói!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I get a seaweed-on-rice bowl! I'm getting all fired up!",
+      "Vietnamese": "Là ra ngay món Cơm hộp phủ rong biển chứ đâu! Càng trông càng đói!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Of all the possibilities, how did you end up with such an F-tier combo? Explain yourself.",
+      "Vietnamese": "Cả vựa đồ ăn sang xịn mịn thế này, mắc mớ gì lại tự đày mình đi chọn cái combo nghèo nàn, dở hơi cám hấp đó vậy hả...?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, if you pour the curry on top like so, you get curry seaweed rice!",
+      "Vietnamese": "Vậy thì, chan thêm cà ri lên trên. Ra món Cơm rong biển sốt cà ri bá cháy bọ chét nè!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How does that change anything?",
+      "Vietnamese": "Bộ chan xong thì cám hóa tấm được à...?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00015_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Heh. You done messed up, that's for sure.",
+      "Vietnamese": "Ha, cái đồ óc bã đậu đúng là trăm năm chẳng chịu khôn."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh?",
+      "Vietnamese": "Hả?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00017_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Lemme explain it in a way even a moron like you can understand, aight?",
+      "Vietnamese": "Để tui khai sáng cho kẻ gà mờ tép riu mà cứ ngỡ mình biết tuốt nghe nhen."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What's your deal this time?",
+      "Vietnamese": "Gì nữa vậy trời?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00019_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Now listen...",
+      "Vietnamese": "Nghe kỹ đây..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00020_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Buffets always put curry front-n'-center cause they know that it's a trap. You make one bowl of curry rice and that's it, yer full. Ya been got.",
+      "Vietnamese": "Đi ăn buffet mà quất cà ri là sập ngay cái bẫy dụ no của người ta rồi đó!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00021_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Uh-oh!",
+      "Vietnamese": "Lý nào lại vậy...!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00022_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why are you acting like that was some major plot reveal...",
+      "Vietnamese": "Diễn vẻ bàng hoàng hơi lố rồi đó mẹ trẻ..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00023_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ya gotta watch out for noodles, too.",
+      "Vietnamese": "Mấy món mì cũng y chang đó."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "But...",
+      "Vietnamese": "Không thể nào..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "I was just about to go for carbonara!|I was just about to go for knife-cut noodles!",
+      "Vietnamese": "Đang định qua múc đĩa Carbonara ăn luôn á...|Đang tính quất thêm tô Mì gọt nữa..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00024_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I was just about to go for carbonara!",
+      "Vietnamese": "Đang định qua múc đĩa Carbonara ăn luôn á..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00025_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ya playin' right into the buffet's hands, girl! Resist!",
+      "Vietnamese": "Ăn dzậy là lọt bẫy quân thù ngay tắp lự rồi ngốc ạ!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I was just about to go for knife-cut noodles!",
+      "Vietnamese": "Đang tính quất thêm tô Mì gọt nữa..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00027_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "The hell are knife-cut noodles?",
+      "Vietnamese": "Mì gọt? Món chi mà nghe ngộ dzậy?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You don't know?! The ones where you stand in front of a boiling pot of water, a knife in one hand, dough in the other, and slice nice-and-thin pieces into the pot until they're boiled!",
+      "Vietnamese": "Không biết thiệt luôn?! Cái món mà một tay cầm cục bột, một tay cầm cây dao đứng trước nồi nước sôi sùng sục, rồi cứ thế gọt bột thành từng sợi thả vào nồi luộc đó!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00029_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Are you daft or what? You think they're gonna put expensive-ass noodles like that in a military cafe?",
+      "Vietnamese": "Tỉnh lẹ đi má!! Buffet ở đây đào đâu ra món mì trên trời đó mà đòi ăn!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00030_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Even if they did, though. Remember, it's a trap. Got it?",
+      "Vietnamese": "Huống hồ nha, ăn kiểu dzậy là lọt thỏm vô cái bẫy của quân thù rồi ngốc ạ!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "WHOSE trap? This isn't some extreme eating challenge with a prize at the end.",
+      "Vietnamese": "\"Bẫy\" với chả \"quân thù\"... Rốt cuộc cả bọn đang choảng nhau với ai vậy...?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00032_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "It's all about maximizin', got it. You take a small portion of each dish, just enough to savor the flavor.",
+      "Vietnamese": "Đầu tiên vô là phải như dzầy nè... Món nào bà cũng chỉ múc đúng một miếng nhỏ tẹo thôi."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00033_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Just like this.",
+      "Vietnamese": "Như cái mắt muỗi luôn..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00034_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "The restaurant manager would be QUAKIN' if they saw this. Shakin' in their boots!",
+      "Vietnamese": "Chủ tiệm mà ngó thấy cái đĩa đồ ăn này là bảo đảm xanh rờn mặt mày liền cho coi!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00035_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "This isn't a restaurant, you know.",
+      "Vietnamese": "Chỗ này thành hàng quán từ bao giờ thế?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00036_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Oh, the harmony of this super airy cake and rich, fluffy cream... I think I'm in heaven!",
+      "Vietnamese": "Gì thế này...! Sự hòa quyện giữa lớp vỏ bánh nhẹ tênh với phần sốt kem béo ngậy này là sao vậy?!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00037_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Are you eating a roll cake right now? This is supposed to be dinner...",
+      "Vietnamese": "Đùng một cái đã đớp bánh kem cuộn rồi. Đây là bữa tối đó biết chưa."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00038_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "These simmered veggies...they're so flavorful!",
+      "Vietnamese": "Món kho này... Thấm tháp vị đậm đà, ăn dính dữ lắm luôn!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why does it look like there's a home-cooked meal on your plate?",
+      "Vietnamese": "Đùng một cái đi dứt ngay món nhìn y chang cơm mẹ nấu dưới quê vậy."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "And you, you're just a big a dumbass as the rest of them! Take a look in the mirror already!",
+      "Vietnamese": "Thấy chưa, nhóc tấu hề có thua gì mấy đứa kia đâu?! Biết thân biết phận đi!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00041_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Could it be? Is this our reward for being super special students?",
+      "Vietnamese": "Chẳng thiếu món gì cả... Không lẽ tụi mình thuộc diện học sinh ưu tú nên mới được ăn ngon vậy sao?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00042_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "A most peculiar welcome feast, indeed...suspicious. Wouldn't you agree?",
+      "Vietnamese": "Cái kiểu tiếp đãi nồng hậu đến mức phi tự nhiên thế này... Mọi người không nghĩ là có uẩn khúc gì ở phía sau sao?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well, I used to be a famous rock star.",
+      "Vietnamese": "Hồi trước, tớ vốn là rocker nổi tiếng mà."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00044_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Oh! Then that must be why they're being so hospitable!",
+      "Vietnamese": "Nếu vậy thì, tiếp đãi cỡ này cũng hợp tình hợp lý rồi. Ăn thôi mọi người."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00045_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Stay suspicious!",
+      "Vietnamese": "Thắc mắc tiếp đi chứ!!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00046_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Question everything! You're an AGENT!",
+      "Vietnamese": "Phải biết đa nghi lên! Tình báo viên mà\nlàm như nhà quê ra phố không bằng vậy trời!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00047_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You can rant and rave all you want, but your stomach doesn't lie. It's been growling nonstop.",
+      "Vietnamese": "Cứ mải gào la người ta, chứ cái bụng của Izumi đang kêu sùng sục nãy giờ, cả bọn nghe hết trơn rồi nhá."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00048_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ugh...",
+      "Vietnamese": "Ư..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00049_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "My ears don't miss a thing.",
+      "Vietnamese": "Tai của tớ là hàng siêu cấp mà lị."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00050_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hmph. I can't very well fight on an empty stomach. Fine... I'll eat. Happy?",
+      "Vietnamese": "Thì... tại vì \"có thực mới vực được đạo\" mà... tôi ăn là được chứ gì."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00051_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I've got it, I've got it. This plus that plus these plus those make...",
+      "Vietnamese": "Để tớ lựa món cho. Cứ gom cái này, cái này, cái này với cái này lại trộn chung thử xem sao."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "This plus that plus these plus those make...",
+      "Vietnamese": "Trộn cái này, cái này, với cái này lại thì..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "An eel curry beef bowl!|A deluxe fried fish and eel seaweed rice bowl!|An eyeballs-and-tentacles-a-plenty mystery meat bowl!",
+      "Vietnamese": "Ra món Cơm lươn nướng thịt bò sốt cà ri nè!|Ra hộp Bento lươn nướng rong biển đặc chế nè!|<size=90%>Ra món Cơm hầm bà lằng mọi con thú có chân trên đời nè!</size>"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00052_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "An eel curry beef bowl!",
+      "Vietnamese": "Ra món Cơm lươn nướng thịt bò sốt cà ri nè!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00053_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's one thing too many! If I was at a fast-food joint, I'd order an eel beef bowl, or a curry beef bowl! But not all three at once!",
+      "Vietnamese": "Bị dư một món rồi kìa! Hàng quán xưa giờ chỉ bán cơm lươn thịt bò hoặc cơm cà ri thịt bò thôi, đừng có cầm đèn đi trước ô tô!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00054_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "A deluxe fried fish and eel seaweed rice bowl!",
+      "Vietnamese": "Ra hộp Bento lươn nướng rong biển đặc chế nè!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00055_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'd rather have a plain eel bowl. You can keep your fried fish.",
+      "Vietnamese": "Ăn cơm lươn bình thường chẳng ngon hơn à. Bỏ thêm cá rán vào không thấy thừa thãi sao?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00056_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You don't like fried fish?",
+      "Vietnamese": "Bồ không ưa ăn kèm thêm đồ chiên xù sao?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00057_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "One slimy or scaley creature is plenty.",
+      "Vietnamese": "Để yên cho con thưởng thức đúng vị món lươn đi mẹ trẻ..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00058_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "An eyeballs-and-tentacles-a-plenty mystery meat bowl!",
+      "Vietnamese": "Ra món Cơm hầm bà lằng mọi con thú có chân trên đời nè!"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00059_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Gross... I happen to like my stomach, thank you very much.",
+      "Vietnamese": "Đổ sọt rác giùm đi... Từ giờ chắc tôi ăn chay cả đời quá..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00060_Karen",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "At that moment, little did they know that, come daybreak, one of them would be...dead.",
+      "Vietnamese": "Những thiếu nữ kia cho đến lúc ấy vẫn chẳng mảy may hay biết, rằng qua ngày mai, một người trong số họ sẽ không còn ở nơi đây nữa."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00060_Karen#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "At that moment, little did they know that, come daybreak, one of them would be...dead.",
+      "Vietnamese": "Những thiếu nữ kia cho đến lúc ấy vẫn chẳng mảy may hay biết, rằng qua ngày mai, một người trong số họ sẽ không còn ở nơi đây nữa."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00061_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Was that narration I heard just now?",
+      "Vietnamese": "Hửm? Sao nghe như có tiếng thuyết minh đâu đâu?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00062_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Talk about ominous...",
+      "Vietnamese": "Mà lại còn sặc mùi u ám nữa chứ..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00063_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Who said that? Karerin?",
+      "Vietnamese": "Ai mới nói câu đó vậy? Karerin à?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00064_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Not me.",
+      "Vietnamese": "Không có nha."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00065_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You, Intel Agent?",
+      "Vietnamese": "Vậy thì... tình báo viên?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00066_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "No, wasn't me.",
+      "Vietnamese": "Không hề."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00067_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Cappy, don't scare us like that. You sounded completely different.",
+      "Vietnamese": "O-Tama làm chị giật cả mình, ai mà ngờ nhóc lại rặn được cái giọng kinh dị như vậy chứ."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00068_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "But, it wasn't me.",
+      "Vietnamese": "Không phải em mà."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00069_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Then who was it?",
+      "Vietnamese": "Thế, rốt cuộc là ai đã nói vậy...?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00070_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "If it wasn't any of us, that leaves only one possibility.",
+      "Vietnamese": "Nếu giọng vừa rồi không phải của bất kỳ ai trong chúng ta... thì tôi chỉ nghĩ ra được một khả năng duy nhất thôi."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00071_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What's this all about?",
+      "Vietnamese": "Là thế nào cơ?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00072_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Another uninvited guest.",
+      "Vietnamese": "Một vị khách không mời mà đến..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00073_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Who could it be?",
+      "Vietnamese": "Người đó là ai mới được...?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00074_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "A...poltergeist.",
+      "Vietnamese": "...Tọa phu đồng tử."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00075_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Believing in ghosts is the last thing\nan intel agent should be doing!",
+      "Vietnamese": "Tình báo viên kiểu gì mà\nđi đổ thừa yêu ma quỷ quái vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00076_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "If not a ghost, what else might it have been?",
+      "Vietnamese": "Thì ngoài việc có ma ra còn nghĩ được là ai khác đâu chứ."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00077_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Literally anything else. Don't jump straight to the supernatural!",
+      "Vietnamese": "Gì cũng được, miễn đừng có viện cớ nhát ma người ta."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00078_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Then, I suppose we're at an impasse. I can't think of any other explanation.",
+      "Vietnamese": "Thế thì chịu chết. Tôi hoàn toàn không nghĩ ra được gì nữa hết."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00079_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Absolutely useless...",
+      "Vietnamese": "Cậu thiệt tình chẳng được cái tích sự gì cả..."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00080_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Um, what about this Narby?",
+      "Vietnamese": "Thế nhỡ là bé Narby này nói thì sao?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00081_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Does it look like it has human vocal chords to you?",
+      "Vietnamese": "Nhìn bản mặt nó xem có chỗ nào giống như miệng mồm không?"
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00082_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Guess not... Pity. I was really hoping to talk with it.",
+      "Vietnamese": "Tội chưa kìa... Ước gì em nói chuyện được với tụi chị ha."
+    },
+    {
+      "Key": "VC_MC00_00_10_00_Novel_00083_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Right? *nom nom*",
+      "Vietnamese": "Chí phải. <i>*nhồm nhoàm*</i>"
+    }
+  ],
+  "Inserts": [
+    {
+      "After": "VC_MC00_00_10_00_Novel_00052_RKayamori",
+      "Lua": "local note = Adv.NoteInfoCustom([[※Trong thực đơn các chuỗi quán ăn Nhật thường có những món kết hợp hai thành phần như unagyu (lươn và thịt bò) hoặc karegyu (cà ri và thịt bò). Ở đây Ruka ghép cả ba món lại thành una-kare-gyu.]],1000)\r\nAdv.show(note,0.3)"
+    },
+    {
+      "After": "VC_MC00_00_10_00_Novel_00053_YIzumi",
+      "Lua": "Adv.hide(note,0.3)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "Script": "Story/MC02/Day06/World/MC02_06_08_00",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Kayamori, are you free?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Another patrol mission, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We're low on soldiers, as usual, and could use the help.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "If you have the time, we'd really appreciate it. You will be pleasantly rewarded.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Take a look?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Near Heliport",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,377 @@
+{
+  "Script": "Story/MC00/Day00/World/MC00_00_09_02",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Follow Nanase to the dormitories!",
+      "Vietnamese": "Theo Nanase đến ký túc xá!"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00001_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The dormitories are at the far end of the base.",
+      "Vietnamese": "Ký túc xá nằm ở mạn bên kia căn cứ, nên chúng ta phải đi vòng sang đó."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "I'll show you the way. Please come with me.",
+      "Vietnamese": "Tôi sẽ dẫn các cô đi. Hãy theo tôi."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try upgrading a Memoria!\\nTap the button in the bottom left corner to open the main menu.",
+      "Vietnamese": "Hãy thử cường hóa Hồi Ức nào!\\nBạn có thể mở MENU bằng nút bấm ở góc dưới bên trái màn hình."
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Try upgrading a Memoria!\\nPress the Options button to open your mePad menu.",
+      "Vietnamese": "Hãy thử cường hóa Hồi Ức nào!\\nNhấn nút Option để mở MENU."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap the Learn button to check the upgrade details.",
+      "Vietnamese": "Nhấn vào mũi tên để kiểm tra chi tiết nội dung cường hóa."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You successfully upgraded this Memoria!\\nNow press the return button.",
+      "Vietnamese": "Đã cường hóa Hồi Ức thành công!\\nHãy nhấn nút \"Quay lại\" nào."
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You successfully upgraded this Memoria!\\nNow press the X button to return.",
+      "Vietnamese": "Đã cường hóa Hồi Ức thành công!\\nHãy nhấn nút X để quay lại."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap outside of the mePad's screen to close the main menu.",
+      "Vietnamese": "Chạm vào vùng bên ngoài thiết bị hiển thị trên màn hình để đóng MENU."
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can close the menu by pressing the X button.",
+      "Vietnamese": "Bạn có thể đóng MENU bằng cách nhấn nút X."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Upgrade your Memorias to build stronger and more adaptable squads!",
+      "Vietnamese": "Hãy cường hóa nhiều Hồi Ức khác nhau để có một đội hình mạnh mẽ hơn!"
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press the □ button to auto-run to the next target location.\\n(Press the □ button again to disengage.)",
+      "Vietnamese": "Nhấn nút □ để tự động di chuyển đến điểm tiếp theo.\\n(Nhấn nút □ lần nữa để hủy bỏ.)"
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap this button to auto-run to the next target location.\\n(Tap again to disengage.)",
+      "Vietnamese": "Nhấn nút này để tự động di chuyển đến điểm tiếp theo.\\n(Chạm vào màn hình để hủy bỏ.)"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm?",
+      "Vietnamese": "Hửm?"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00004_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "This way to the dormitory buildings.",
+      "Vietnamese": "Giờ tôi sẽ tiếp tục dẫn các cô tới ký túc xá."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00005_IMinase",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "More fresh meat for the grinder!",
+      "Vietnamese": "Đám đằng kia cùng khóa với chị em mình thì phải."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00006_SMinase",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "They're the ones who fought today, meow!",
+      "Vietnamese": "Là mấy đứa vừa ra trận lúc nãy kìa, meo!"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00007_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Is it just me, or is everyone watching us?",
+      "Vietnamese": "Hình như... mọi người đang nhìn tụi mình ấy nhỉ...?"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00008_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "New kids always stand out.",
+      "Vietnamese": "Tân binh bao giờ chẳng bị dòm ngó."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00009_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00009_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Thank you kindly for the support earlier.",
+      "Vietnamese": "Hậu phương mấy đứa đã vất vả rồi."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00010_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00010_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "The heliport is up this path.",
+      "Vietnamese": "Lên theo lối này sẽ ra đến bãi đáp trực thăng."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00011_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00011_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "If you are looking for the dorms, they are that way.",
+      "Vietnamese": "Còn khu ký túc xá nằm ở hướng bên kia."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00012_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00012_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Once the commander authorizes you, you'll be assigned your own helicopter, too.",
+      "Vietnamese": "Nếu được Tư lệnh công nhận, chắc chắn mấy đứa cũng sẽ được cấp riêng chiến cơ chuyên dụng."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00013_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00013_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I look forward to the day we fight side-by-side on the battlefield.",
+      "Vietnamese": "Chị rất mong chờ ngày chúng ta cùng kề vai sát cánh trên chiến trường."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00014_YShirakawa",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Aristocratic Girl",
+      "Vietnamese": "Thiếu nữ quý tộc"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00014_YShirakawa",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I'll be off now. Take care.",
+      "Vietnamese": "Tới đây thôi, hẹn gặp lại sau nhé."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00015_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Another day, another step closer...",
+      "Vietnamese": "Lại qua được một ngày nữa rồi..."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00016_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Can't wait for tomorrow, <i>snip</i>!",
+      "Vietnamese": "Ngày mai cũng siêu đáng mong chờ đó hen!"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00017_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I wonder what our dorms will be like.",
+      "Vietnamese": "Khu ký túc xá đó trông ra sao ta..."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00018_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Hey, what do you think that is?",
+      "Vietnamese": "Này, cậu đoán xem thứ ở kia là gì nào?"
+    },
+    {
+      "Key": "VC_MC00_00008_v002_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "How do they keep track of the population in the first place?",
+      "Vietnamese": "Không biết họ làm cách nào mà đếm được từng người nhỉ?"
+    },
+    {
+      "Key": "VC_MC00_00009_v002_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Think they just grab a clipboard and start counting?",
+      "Vietnamese": "Không chừng một ai đó đang ngồi sau bấm máy đếm tạch tạch đấy."
+    },
+    {
+      "Key": "VC_MC00_00010_v002_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Y'know, like people from the birdwatching society?",
+      "Vietnamese": "Kiểu như hội điểu học chuyên kiểm đếm chim trời ấy mà."
+    },
+    {
+      "Key": "VC_MC00_00011_v002_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "As if that would work...",
+      "Vietnamese": "Sức mấy mà có vụ đó..."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00025_TTojo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "A helicopter?! How exciting!",
+      "Vietnamese": "Trực thăng luôn kìa! Hóng quá đi mất!"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00026_YIzumi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "You think?",
+      "Vietnamese": "Cũng dữ ta..."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00027_KAsakura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "The seniors are so nice here.",
+      "Vietnamese": "Xem ra... vẫn có những tiền bối tử tế nhỉ."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00028_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The dormitory buildings are down this road.",
+      "Vietnamese": "Khu ký túc xá nằm dưới chân con dốc này."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap the arrow to enter the dorms.",
+      "Vietnamese": "Chạm vào mũi tên trên bản đồ để di chuyển đến Ký túc xá."
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Proceed in the direction of the arrow to enter the dormitories.",
+      "Vietnamese": "Theo hướng mũi tên trên bản đồ để di chuyển đến Ký túc xá."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00029_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Were you listening? The dormitories are the buildings just down this road.",
+      "Vietnamese": "Không nghe rõ sao? Khu ký túc xá là toà nhà nằm ở cuối con dốc này."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00030_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Were you listening? Your dormitory is just down this road. Do you see it?",
+      "Vietnamese": "Không nghe rõ sao? Khu ký túc xá là toà nhà nằm ở cuối con dốc này. Đứng từ đây cũng thấy mà?"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Oi, you've gotta be kidding me... How many times are you going to do this?",
+      "Vietnamese": "Ê, tính diễn cái trò này tới bao giờ nữa hả? Thôi giùm tôi cái đi..."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00032_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Were you listening? The dormitories are just down this road.",
+      "Vietnamese": "Không nghe rõ sao? Khu ký túc xá là toà nhà nằm ở cuối con dốc này."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00033_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Seems suspicious, right? I was just thinking the same thing.",
+      "Vietnamese": "Đằng đó có mùi khả nghi phải không...? Tôi cũng vừa ngờ ngợ y như vậy luôn."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Suspicious or not, we're heading to our dorms.",
+      "Vietnamese": "Khả nghi tới đâu thì ưu tiên hiện tại vẫn là di chuyển về khu ký túc xá."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00032_NNanase#2",
+      "Context": "Adv.talk:1",
+      "Original": "Were you listening? The dormitories are just down this road.",
+      "Vietnamese": "Không nghe rõ sao? Khu ký túc xá là toà nhà nằm ở cuối con dốc này."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00036_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "But, there might be more Narbies over there.",
+      "Vietnamese": "Nhưng mà, biết đâu ở phía bên này cũng có Narby thì sao..."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00037_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Narbies or no, we should be heading to our dorms now.",
+      "Vietnamese": "Có hay không cũng mặc, việc quan trọng nhất bây giờ là tới được khu ký túc xá."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00032_NNanase#3",
+      "Context": "Adv.talk:1",
+      "Original": "Were you listening? The dormitories are just down this road.",
+      "Vietnamese": "Không nghe rõ sao? Khu ký túc xá là toà nhà nằm ở cuối con dốc này."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00039_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "How many times do you think she'll make you repeat yourself?!",
+      "Vietnamese": "Nghe rõ tới mòn cả màng nhĩ luôn là khác!"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I heard you the first time, but THIS one refuses to listen!",
+      "Vietnamese": "Bên đây thì nghe mà, chỉ tại cái đám này không thèm nghe đấy chứ!"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00032_NNanase#4",
+      "Context": "Adv.talk:1",
+      "Original": "Were you listening? The dormitories are just down this road.",
+      "Vietnamese": "Không nghe rõ sao? Khu ký túc xá là toà nhà nằm ở cuối con dốc này."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Fine. Just keep going back and forth until you've had enough.",
+      "Vietnamese": "Đủ lắm rồi... Cứ chạy tới chạy lui chỗ này cho đến khi nào vừa lòng mấy người đi..."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00032_NNanase#5",
+      "Context": "Adv.talk:1",
+      "Original": "Were you listening? The dormitories are just down this road.",
+      "Vietnamese": "Không nghe rõ sao? Khu ký túc xá là toà nhà nằm ở cuối con dốc này."
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Is this some kind of training?! Or a test of will?",
+      "Vietnamese": "Trò này là một phương pháp huấn luyện à? Hay là loại nghi thức cúng tế nào đó?"
+    },
+    {
+      "Key": "VC_MC00_00_09_02_World_00032_NNanase#6",
+      "Context": "Adv.talk:1",
+      "Original": "Were you listening? The dormitories are just down this road.",
+      "Vietnamese": "Không nghe rõ sao? Khu ký túc xá là toà nhà nằm ở cuối con dốc này."
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00027_YoOhshima",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Zzz... Zzz...",
+      "Vietnamese": "Khò... khò..."
+    },
+    {
+      "Key": "VC_FieldPlacementVoice_00033_MuOhshima",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Hah...hah...hah...",
+      "Vietnamese": "Hộc... hộc... hộc..."
+    }
+  ],
+  "Inserts": []
+}

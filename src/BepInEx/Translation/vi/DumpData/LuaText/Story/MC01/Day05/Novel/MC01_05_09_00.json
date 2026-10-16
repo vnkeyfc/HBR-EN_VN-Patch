@@ -1,0 +1,90 @@
+{
+  "Script": "Story/MC01/Day05/Novel/MC01_05_09_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey girls, you got some free time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm totally pooped from all that training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hey now, don't be like that. Let me show you there are some things in life more fun than training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00003_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "We're not doing it because it's <i>fun</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00004_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "What're ya even goin' on about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What experience do you all have playing musical instruments?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Literally none.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00007_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "That makes two!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00008_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Got nothin' for ya.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00009_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I've only played video games.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00010_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I studied the piano when I was younger, but—",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Success! Your contributions are appreciated. This match is mine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Whatever she's going on about, good luck, Tojo. I pity you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_09_00_Novel_00013_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

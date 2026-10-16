@@ -1,2 +1,2 @@
 Shining Circuit Burst Acquired=Đã nhận Thiểm Quang Circuit Burst
-If you already possess a Memoria, any duplicate Memorias drawn will be converted into Memoria shards.=Nếu bạn đã sở hữu Style tương ứng, chúng sẽ được chuyển hoá thành Mảnh Ghép.
+If you already possess a Memoria, any duplicate Memorias drawn will be converted into Memoria shards.=Nếu bạn đã sở hữu Hồi Ức tương ứng, chúng sẽ được chuyển hoá thành Mảnh Ghép.

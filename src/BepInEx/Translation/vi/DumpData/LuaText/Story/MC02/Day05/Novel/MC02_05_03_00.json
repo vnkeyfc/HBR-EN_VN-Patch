@@ -1,0 +1,166 @@
+{
+  "Script": "Story/MC02/Day05/Novel/MC02_05_03_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00000_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today, we'll be learning about sound waves.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Booyah! I've got this one in the bag. I am a sound expert, after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00002_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're familiar with how the pitch of an ambulance lowers as it passes by, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00003_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can you tell me what this phenomenon is called?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What is this phenomenon called?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "The Drunkard Effect|The Donshari Effect|The Doppler Effect",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Doppler Effect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00005_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Woo-hoo!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Donshari Effect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00008_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What was that about being an expert?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, haven't you heard of the term donshari? It's when high and low frequencies are emphasized, like in rock or hip-hop.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00012_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just accept you were wrong.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00013_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is the Doppler Effect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Drunkard Effect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00015_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's incorrect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What was that about being an expert?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, people were practically drunk on the sound by the time I finished one of my shows.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00019_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're a minor, how do you know what being drunk is like? Just hurry up and accept you were wrong.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00020_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The correct answer is the Doppler Effect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00021_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sound is a type of longitudinal wave. Higher frequency waves produce a higher pitch, while lower frequency waves produce a lower one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00022_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When an ambulance drives past, the siren's sound waves move away from the listener, producing a lower pitch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, that's interesting!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_05_03_00_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So much for being a sound expert.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

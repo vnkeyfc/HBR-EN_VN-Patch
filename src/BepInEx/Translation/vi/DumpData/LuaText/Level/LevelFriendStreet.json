@@ -1,0 +1,16 @@
+{
+  "Script": "Level/LevelFriendStreet",
+  "Entries": [
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to Main Street|Stay here",
+      "Vietnamese": "Đi đến đường chính|Ở lại"
+    },
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to the woodway|Stay here",
+      "Vietnamese": "Đi đến ngõ sau|Ở lại"
+    }
+  ],
+  "Inserts": []
+}

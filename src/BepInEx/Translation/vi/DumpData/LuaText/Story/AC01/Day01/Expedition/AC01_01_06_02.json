@@ -1,0 +1,119 @@
+{
+  "Script": "Story/AC01/Day01/Expedition/AC01_01_06_02",
+  "Entries": [
+    {
+      "Context": "Expedition.setTitle:0",
+      "Original": "Ikebukuro Underground",
+      "Vietnamese": "Tầng hầm Ikebukuro"
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Suspend the event and return to the home screen?",
+      "Vietnamese": "Bạn có muốn tạm dừng sự kiện và quay về màn hình chính không?"
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B1",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B2",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Ikebukuro Underground Reservoir B3",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC01_00153_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Alright! Everyone ready to rock 'n' roll?",
+      "Vietnamese": "Ngonnn, xốc lại tinh thần và triển thôi!"
+    },
+    {
+      "Key": "VC_AC01_00154_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Let's head to where 31-C are!",
+      "Vietnamese": "Cứ thế thẳng tiến tới khu vực mà 31C đang nhắm đến nào!"
+    },
+    {
+      "Key": "VC_AC01_00149_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "It's so thick...",
+      "Vietnamese": "To chà bá luôn..."
+    },
+    {
+      "Key": "VC_AC01_00150_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "That's because it's a discharge tunnel built to reduce flood damage. It has to be incredibly strong.",
+      "Vietnamese": "Vì đây là kênh xả lũ được xây để giảm thiểu thiệt hại ngập lụt mà. Nên độ vững chắc phải ở mức đỉnh rồi."
+    },
+    {
+      "Key": "VC_AC01_00151_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Ah I see. NIIICE hacking!",
+      "Vietnamese": "Ra là thế. Haaaaack đỉnnhhhhhhhh quuuuuá!"
+    },
+    {
+      "Key": "VC_AC01_00152_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It's not hacking, it's common sense.",
+      "Vietnamese": "Tôi chả làm gì cả. Chỉ là kiến thức thôi."
+    },
+    {
+      "Key": "VC_AC01_00155_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We should stop, Ruka. Everyone is exhausted. Going any further would be dangerous.",
+      "Vietnamese": "Dừng lại đi, Ruka. Mọi người đuối sức hết rồi, tiến thêm nữa sẽ nguy hiểm lắm đấy."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Everyone's tired, should we return?",
+      "Vietnamese": "Mọi người đuối sức hết rồi..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": "Quay về|Không quay về"
+    },
+    {
+      "Key": "VC_AC01_00156_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're right. I think this is enough for today. Let's report back to HQ.",
+      "Vietnamese": "Bồ nói đúng... Hôm nay dừng ở đây thôi. Báo cáo lại cho Bộ Tư lệnh nào."
+    },
+    {
+      "Key": "VC_AC01_00157_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is Kayamori of 31-A. Do you copy?",
+      "Vietnamese": "Đây là Kayamori đội 31A, xin nghe máy."
+    },
+    {
+      "Key": "VC_AC01_00001_v001_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This is Tezuka. How's the situation?",
+      "Vietnamese": "Tezuka đây. Tình hình thế nào rồi?"
+    },
+    {
+      "Key": "VC_AC01_00158_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have yet to reach our objective, but we are at our limit. Permission to return?",
+      "Vietnamese": "Bọn em vẫn chưa hoàn thành mục tiêu, nhưng mọi người sắp tới giới hạn rồi. Hôm nay tụi em rút lui được không cô?"
+    },
+    {
+      "Key": "VC_AC01_00002_v001_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "I see... Very well. Permission granted. You may continue your assignment tomorrow.",
+      "Vietnamese": "...Vậy sao. Tôi hiểu rồi. Chấp thuận yêu cầu rút lui. Ngày mai các cô hãy tiếp tục nhiệm vụ khám phá nhé."
+    },
+    {
+      "Key": "VC_AC01_00159_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": "Đã rõ."
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,77 @@
+{
+  "Script": "Story/MC02/Day02/World/MC02_02_05_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go to the cafeteria!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Maybe I'll take a nice stroll... No, wait, I'm famished!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00000_RKayamori#2",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "Maybe I'll take a nice stroll... No, wait, I'm famished!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Man, training's about to start up again... Kill me now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today's a rare day off, so I've gotta enjoy it. First, some grub.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just try not to do anything stupid... I'm sick and tired of cleaning up your messes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyway, let's head to the cafeteria.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00006_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "It's been one thing after another lately, but right now, there's only one thing on my mind...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00007_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What should I have for lunch today?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00008_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "This upcoming operation seems tough... Let's give our all, Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00009_TKunimi",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What to choose...what to choose...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_02_05_00_World_00010_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "It's already lunchtime.\\nJust stick with one.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

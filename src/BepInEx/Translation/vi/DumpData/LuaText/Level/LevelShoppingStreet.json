@@ -1,0 +1,11 @@
+{
+  "Script": "Level/LevelShoppingStreet",
+  "Entries": [
+    {
+      "Context": "Adv.gateQuestion:1",
+      "Original": "Go to Main Street|Stay here",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

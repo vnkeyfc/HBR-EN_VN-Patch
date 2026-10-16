@@ -1,0 +1,60 @@
+{
+  "Script": "Story/MC02/Day14/Novel/MC02_14_06_06",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00677_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't you think the smaller Cancers look surprisingly cute sometimes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00678_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I get you. Sometimes I feel bad when we defeat them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00679_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It feels more like an animal than a thing, like a sea sponge.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00680_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, like a...what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00681_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? A sea sponge is an animal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00682_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really?! I thought they were plants or something, like coral!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00683_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Corals are animals too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00684_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way! What's with the ocean?! How can corals and sea sponges both be animals?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00685_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, hey. Stop confusing her with these surprising animal facts.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

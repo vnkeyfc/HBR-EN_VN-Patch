@@ -1,0 +1,490 @@
+{
+  "Script": "Story/MC01/Day12/Novel/MC01_12_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Let's leave the hard stuff to 31-C.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Tch. Chicken.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What about the whole face-off?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00003_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You'll be judged on your performance thus far.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Both squads have made it to the fourth level.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00005_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "However, it was 31-C that made it there first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00006_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "In other words, victory is ours. Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00007_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "No one beats the Great Yamawaki, <i>snip</i>! Ke he he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Well. That's that. Guess I'll have to start calling you 31-CA now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00009_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Vhy do you vant to be boring old Squad 31 so badly?! <i>You</i> get ze \"C\" now, not us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So <i>we</i>'re 31-C now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00011_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I ain't gon' just sit here and take that. We're goin' to the front lines, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "This isn't a game, you know. That lack of resolve will get you killed out there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00013_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "I got plenty of resolve!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She means all of us. Now let's stay calm and fall in line.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, what she said.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00016_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "This isn't a game, you know. Lacking the necessary strength will get you killed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00017_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Dagnabbit...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00018_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "She's not wrong. Now let's stay calm and fall in line.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00019_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, what she said.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's so...quiet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00021_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No surprise. We're quite far from the front lines.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00022_STezuka",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Commander Tezuka speaking. Squad Leader Kayamori of 31-A, do you read me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00023_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, yeah, Kayamori here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00024_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "The Death Slug mission failed. Shinjuku Dome is partly destroyed. Combat is widespread, and the primary swarm approaches from the southwest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00025_STezuka",
+      "Context": "Adv.showMiniCutIn:2",
+      "Original": "Head to the Shinjuku Dome immediately, and defend the rescue squads and civilians from the remaining Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00027_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "No...how could this be?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00028_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "How horrible...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00029_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Darn it... Anyone alive out there?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00030_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Let's split up and search the area!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00031_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's another squad's duty. <i>Our</i> duty is to guard them so they can properly carry out their task.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00033_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey, Ruka. Get it together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00034_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You have to be kidding... This has got to be a bad dream.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00035_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "This is reality.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00036_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Commander...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00037_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "The Seraph Squadron is humanity's last hope. If we fall, the rest shall follow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00038_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "How did this happen?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00039_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Blame your own powerlessness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00040_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Although... I suppose I should say the same to myself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00041_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Dammit.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00042_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "What...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00044_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "DAMMIT! This CAN'T be HAPPENING!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00045_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Get a hold of yourself!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00046_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I CAN'T TAKE THIS!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00047_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You're all here. Any last-minute preparations?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00048_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "None here. Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00049_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "All good on our end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00050_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The footage analysis is complete. The level-two enemy is a Death Slug, and the swarm is heading directly for the Shinjuku Dome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00051_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Level-two? Death Slug?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00052_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The giant Cancer we defeated in the dungeon was a level-one threat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00053_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The giant Cancer we fought in the dungeon was a level-one threat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00054_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Correct. Which is why you'll be defending the area around the base while the seniors continue on to the front lines.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00055_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Not so fast. Let us join ze front lines, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00056_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "For what reason?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00057_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Because vee vere the first ones to make it to the dungeon's fourth level. I can't speak for 31-A, but 31-C is ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00058_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I see. In that case, you may very well be ready for this encounter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00059_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Now we can take all ze credit!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00060_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "The Great Yamawaki strikes again, <i>snip</i>! Ke he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00061_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Yo, Ruka. We can't just let 'em win.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What do I say now?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Let's leave the hard stuff to 31-C|We're going, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00062_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We're going, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00063_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "We've gained a bunch of experience fighting in the dungeon, too, and now we can tell which battles we can and can't win. You won't regret sending us, I promise!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00064_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Understood. It's true that your rapid growth has far exceeded any of our predictions. I have faith in your abilities.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00065_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "I hereby order 31-A and 31-C to take part in the Death Slug annihilation mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00066_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Alright!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00067_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Ze slug is ours!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00068_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You can count on us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00069_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "That slug better say its prayers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00070_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What exactly is a Death Slug?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00071_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "An enormous Cancer unlike anything you have encountered thus far.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00072_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So this is like a boss fight, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00073_BIYamawaki",
+      "Context": "Adv.talk:1",
+      "Original": "Finally, a real challenge for once. Bwa ha ha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00074_YBungo",
+      "Context": "Adv.talk:1",
+      "Original": "You tell 'em, Master. Ke he he he!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00075_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "There is no need for you to engage the Death Slug. You can leave that to your much more experienced seniors.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00076_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Your task is to thoroughly eliminate all the Cancers within and surrounding the dome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_06_01_Novel_00077_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "There is no time to waste. All units, sortie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_merge_00011",
+      "Context": "Adv.talk:0",
+      "Original": "Ruka/Bon Ivar",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_12_merge_00011",
+      "Context": "Adv.talk:1",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

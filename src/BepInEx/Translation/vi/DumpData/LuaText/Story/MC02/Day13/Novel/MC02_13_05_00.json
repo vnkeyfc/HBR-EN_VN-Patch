@@ -1,0 +1,358 @@
+{
+  "Script": "Story/MC02/Day13/Novel/MC02_13_05_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, Cappy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You've put on some pounds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00003_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00004_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's... That can't be...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00005_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Actually, I was thinkin' the same thing. Ya used to be more scrawny.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00006_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo...not you too, Megumi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00007_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it true?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00008_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I just can't help it! We can actually eat three square meals here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess things were different on the sea, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00010_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. There was always a limit to how much we could stow on the ship.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you did gain some weight after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00012_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just a little bit...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00013_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...but is that such a bad thing?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey now, no one's criticizing you. I think it's healthy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00015_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, better to be a round li'l thing than a skinny stick.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00016_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I don't want to be round! It's all about self-control in the end, and if you can't even control your appetite, only a pointless death awaits on the battlefield!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00018_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like there's someone else here with a glum expression.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00019_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You worried about your weight too, Tojo?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00020_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I...I used to be underweight, so right now I should be at a standard weight...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cappy's gonna have to start scolding you about self-control.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00022_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I DO have self-control!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ooh, I didn't know you could be that scary, Tsukassie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Come to think of it, I guess it's already been a whole month since we started living here, huh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh, is that so?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It feels like...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "It feels like...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "The days flew by|The days dragged on|I can't go on anymore",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's like the days flew by in an instant.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, we were struggling just to keep up with all the training every day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's like the days dragged on forever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really? For me, it was so hectic that it went by in a flash... Guess it wasn't as hectic for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I tend to go to sleep, forget about everything bothersome, and wake up fresh and new.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "An empty head like that's kind of convenient.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You make it sound like I'm an idiot!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00034_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I <i>am</i> calling you an idiot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, it's true I'm an idiot, so whatever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00036_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I figured you'd say that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00037_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look at them flirtin' again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00038_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00039_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, we're NOT!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think...I can't go on anymore.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were fine just now, what's wrong with you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, see, I just realized these hectic days are going to go on every day, forever... There's no hope...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00043_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, you're supposed to be the squad leader. Don't get so defeated this early in the morning...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00044_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's because you haven't been supportin' her right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00045_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yuki, you need to take responsibility.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00046_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, it's your fault!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00047_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you all putting it on me? Dammit...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00048_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey. I've got some yogurt here, you want it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No! I don't like the sour stuff!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00050_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here, let me sprinkle some sugar on it. It's sweet now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yaaay, yummy! I feel great now! Gonna save humanity and everything!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00052_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm glad you're such a simpleton...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00053_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's been a lot of stuff to get used to, but we've adapted well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00665_v001_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't believe I was just a normal high school girl before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00055_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's kind of scary how quickly we got used to all this...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00056_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This really is delicious...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_13_05_00_Novel_00057_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I just can't stop eating!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,809 @@
+{
+  "Script": "Include/HomeTutorial",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Welcome to the world of Heaven Burns Red!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "This is the \"Home\" screen.\\nIt has a variety of helpful features for your adventures.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00075_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Along the long path of destiny, you may need to make occasional detours.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00076_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Welcome home! And well done! I have been watching over your efforts from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00079_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "You appear to have had a bad dream. But there is plenty more that you can do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00080_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "The powers you receive here shall certainly aid you.\\nBy no means should you ever give up.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can increase your units' attributes by equipping accessories and boosters.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The Recommended Rating for Day 6 is: 2,000.\\nTry improving your squad's rating before attempting to progress further in the main scenario.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00081_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Welcome home! And well done! I have been watching over your efforts from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00082_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Welcome home! There is still much for you to do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00083_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "The powers you receive here shall certainly aid you.\\nBy no means should you ever give up.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can increase your units' attributes by equipping accessories and boosters.\\nTry improving your squad's rating before attempting to progress further in the main scenario.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00084_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Welcome home! The efforts you made here will surely not go wasted.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00085_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "You appear to have had a bad dream. But there is plenty more that you can do.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try replaying Chapter 1, Day 11 to fully complete the dungeon!\\n(Any previously unlocked checkpoints will remain available during subsequent playthroughs.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00086_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "You appear to have had a bad dream. But there is plenty more that you can do.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Progress through the main scenario\\nand try to find the correct selections.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00087_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "You appear to have had a bad dream. But there is plenty more that you can do.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can obtain large amounts of experience and important materials used to\\nraise up Memorias from flashback battles in the Garden of Memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The Recommended Rating for Day 12 is: 3,800.\\nTry improving your squad's rating before attempting to progress further in the main scenario.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00088_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Welcome home! You seem to have overcome a massive hurdle. Well done!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00089_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "You shall require even more power to progress further along the path of destiny.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00090_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Try building up your fighting power as you proceed with utmost caution.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00091_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "I see that some special training is being held. Try that out in order to gain greater power.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00091_#2",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Welcome home! Were you able to find what you needed to do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00092_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Welcome home! If the going gets tough, you know you can always return here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Jamaisvu_00093_",
+      "Context": "Adv.talkNoCharacter:1",
+      "Original": "Welcome home! Believe in yourself as you forge your own destiny!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can use lifestones to restore your Life Points.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Feel free to use them when you want to carry out\\nfurther socializations and flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "On top of the currently active event,\\nmost parts of past events will remain accessible from the archives.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can use edelweiss to unlock the parts of past events' content\\nwhere you obtain tokens, which are in turn used\\nat the corresponding Token Exchange to receive prizes.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can play through the story sections of past events at any time.\\nIn fact, many events' stories are best enjoyed in parallel\\nwith your progress through the main scenario.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The \"Protean Shard Conversion\" feature has been added.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Socializations\" menu option.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Battle Familiarization\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "\"Battle Familiarization\" can now be accessed in the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "If you ever run into trouble in battle, be sure to have a look.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "[The Lost World of Baseball ~Powerful Seraphs~] Ichigo Minase and Hisame Ogasahara are now playable characters.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the Garden of Memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You are now able to visit the Garden of Memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can obtain large amounts of experience and important materials\\nused to raise up Memorias from flashback battles in the Garden of Memories.\\nTry improving your squad's rating before attempting to progress further in the main scenario.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Flashback Batch Battles\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Orb Boss Batch Battles\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Delimiter\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked recollections available from people found throughout the Garden of Memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Profile\" menu option.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "[Battle] Menu Unlocked!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "[SS Memoria Exchange] and [Season Token Exchange] have been unlocked in Token Exchange",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Anachronies\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Free Practice\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "\"Free Practice\" can now be accessed in the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "In \"Free Practice\", you can freely adjust the enemy's settings and formation.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "[TIP: Enhance a Variety of Memorias!]\nBy upgrading the different Memorias a unit possesses, you strengthen the overall unit as a whole.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Proving Ground Challenges\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "\"Proving Ground Challenges\" can now be accessed in the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "There, you can attempt special challenges in which you can try out certain Memorias.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Master Skill\" feature",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "[TIP: Play Event Stories!]\nYou can collect tokens and perform Limit Breaks on event-exclusive S Memorias!\nThe more Limit Breaks you perform on a character, the higher her max level gets!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Ruka's S-rank [Passing Moment of Reprieve] Memoria,\\nobtainable from the \"Summer, Swimsuits, and Tropical Festivals!\" story event,\\ncan acquire a fire-based skill that attacks all enemies!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Such fire-element offensive skills are useful when battling enemies that are vulnerable to fire,\\nso make the most of them!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked dungeon courses accessible from the Garden of Memories' heliport.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "\\nYou can acquire powerful accessories and valuable upgrade materials\\nfrom the different dungeon courses,\\nIt is well worth exploring them!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Gem Flashback Battles in the Garden of Memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The gemstones you obtain from these gem flashback battles\ncan be used to craft accessories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Higher difficulty levels reap greater gem rewards,\nso rise to the challenge by strengthening your squad's rating,\nand create the most powerful accessories that you can!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "New items have been added to the crafting shop.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "\\nNew accessories have been added to the \"Crafting\" option's lineup.\\nYou can now use gems to craft chains with 6 ★s.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Accessory Synthesis\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "[TIP: Make the Most of Auto-Battle Mode!]\nYou can change how your squad acts in auto-battle mode, such as when to perform offensive skills or trigger overdrive, via the Auto Battle Advanced Settings sub-menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the clock tower!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Oubliette of Tears\" dungeon course (Garden of Memories' heliport).",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The \"Oubliette of Tears\" course has been added to the Garden of Memories' dungeon.\\nThe gemstone \"tears\" found within there are enhancement items\\nused to unlock passive powers and other attributes.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Flashback battle and dungeon passes can be won from limited-time score challenge events.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try it out and see how good you are!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the Orb Boss battles option in the Power Training menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "When you first defeat an Orb Boss, you will receive an orb that,\\nwhile equipped, will grant that unit an exclusive skill.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Repeatedly defeating the Orb Boss with that orb equipped\\nwill allow your unit to gain proficiency in that orb's skill.\\nOnce their proficiency reaches 100%,\\nthey will be able to use that orb's skill without having to equip the orb.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The higher the boss's level, the more powerful their attacks become.\\nTo reduce the damage incurred by them on your squad,\\ntry equipping the exclusive accessories which that kind of boss occasionally drop\\nwhen you take on their higher-level versions.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can attempt to fight Orb Bosses from the Power Training menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "[TIP: Limit Break Your Memorias!]\nWhen you perform Limit Breaks on your Memorias, you increase their attributes and max level. Further, the \"Inspiring Spark\" passive power that many SS Memorias possess, will grant an additional +1 SP while that squad member is in the front line.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Protean shards (SS), that can be used to Limit Break any SS-rank Memoria,\\nare obtainable as prizes from the Token Exchange of each story event.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Collect and cash in tokens at the story event Token Exchange\\nin order to obtain such prizes that help power up your squad members further!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Orb Boss II in the Power Training menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the Orb Boss III battles in the Power Training menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Orb Boss IV in the Power Training menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 10 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 9 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 8 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 7 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 6 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 5 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 4 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 3 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Lv. 2 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The lineup of goods for sale in the Garden of Memories Shop has changed.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Main Scenario: Interlude I \"Colors of a Distant Sea\" is now available.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Main Scenario: Interlude II \"Us, in the Season of Dying\" is now available.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The squad members you take will level up during the battles that occur in this story.\\nIt's wise to choose members you want to train when forming your squad in advance.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Once you are ready, you can start your Heaven Burns Red adventure from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Start by claiming a reward.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the △ button to claim all.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the X button to return.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Now try using the item you received to perform a recruitment draw.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "From here you can choose to socialize with other cadets.\\nCompleting such socializations will increase your Bond (♡ Lv.) with them,\\nas well as help raise your Player Rank.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Raising Bond (♡ Lv.) will make enhancing that character's Memorias easier.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked some shortcut buttons.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You've unlocked some Main Scenario shortcut buttons.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "This shortcut will take you to the most recent munitions store.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "This shortcut will take you directly to the latest Free Time period you had.\\nUse it to carry out socializations and extracurricular activities.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You've unlocked the \"Power Training\" menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "This will allow you to train at the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Furthermore, the \"Battle Familiarization\" feature can now be accessed in the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "If you ever find yourself having any trouble with battles, be sure to give it a try.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The Garden of Memories can now be accessed in the Power Training menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Let's start by checking out the Garden of Memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Home Screen Customization\" menu option.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can change the Home screen's background from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You are now able to recover fellow cadets' memories\\nby talking with them in the Garden of Memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "From here on out, remember to keep strengthening your squad\\nas you progress through new scenario segments.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Lv. 2 flashback battles will give you\\nmore than double the experience of Lv. 1 ones.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You'll need to clear L10 of the Maze of Memories\\nin order to unlock Lv. 2 flashback battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The main scenario's interludes\\nare accessible from the Events menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the Extras menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Diorama Mode allows you to create your own unique tableau\\nby combining character models and backgrounds as you please.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can enjoy a rhythm mini-game,\\nfeaturing your favorite HBR songs, in Gig Mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can look back on the illustrations uncovered\\nduring your adventures from the Art Gallery.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can view the list of\\nSeraph Squadron members in [Roster].",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"SS Memoria Exchange\" feature!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can access this through Token Exchange > SS Memoria Exchange",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Arts Battles.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "In Arts Battles, you fight using cards that showcase the artwork of your Memorias.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the dungeon \"Garden of Sacred Rings\".",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "In the Garden of Sacred Rings,\\nyou can attempt limited-time, high-difficulty dungeons\\ngeared toward specific elements.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Complete these dungeons to earn ★6 rings\\nthat boost the ATK of skills of the same element and other stats.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Suppression Mission\".",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can play the Suppression Mission under Events > Suppression Mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap the Suppression Mission button to begin.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the \"Title Badge\" feature.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can check it in [Power Training] > Title Badges.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Be sure to enhance your Memorias\\nand learn their new skills whenever you can.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The \"Duelo\" feature has been added.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "From here, you can go back in time and play Duelo matches.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked the Hyperbolic Time Arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can try out the Hyperbolic Time Arena here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "You've unlocked Anachrony EX.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Head to the [Battle] menu to challenge it.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 120.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 110.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 100.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 90.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 80.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 70.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 60.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 50.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 40.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 30.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "The maximum number of Reward Pts. usable in the Hyperbolic Time Arena has been raised to 15.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

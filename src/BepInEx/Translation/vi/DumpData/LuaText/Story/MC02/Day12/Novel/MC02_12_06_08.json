@@ -1,0 +1,174 @@
+{
+  "Script": "Story/MC02/Day12/Novel/MC02_12_06_08",
+  "Entries": [
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00000_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The operation objective was completed successfully, and your deflector levels are within standard ranges.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not bad. You also finished within the time limit, so this is a passing result.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yesss, we did it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00003_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you so much, Ruka!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00004_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What were you expecting? This was easy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00005_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Especially when you have me on the team, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You—! Now listen here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're absolutely right!!! Thanks for picking up the slack for our less capable members!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How come we're being trash-talked by HER...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00009_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yer the one who's makin' trouble all the time. Have some self-awareness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo, I was just trying to phrase it in a way that boosts Squad 31-B's confidence!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My apologies for making you go that far...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyways, we passed, so let's all go out to eat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00013_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00014_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Each squad must make sure to submit a post-operation report by 17:00, with analysis on how to improve your weaknesses.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00016_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "After that, convene for a meeting at 17:15. Don't be late.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00017_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00018_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, that's all for today's training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00019_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You are dismissed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_02_Novel_00020_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00639_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all for your hard work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00640_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A wasn't able to act in time to prevent 31-B's deflectors from being destroyed. There was no other option than to retreat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00641_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm so sorry...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00642_v001_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I apologize for not being able last longer...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00643_v001_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "*sigh* This is unfortunate, but these results indicate that your squads aren't fit for this operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00500_v001_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll need to do a complete reconfiguration of the squadron.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_06_02_Novel_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, seriously?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

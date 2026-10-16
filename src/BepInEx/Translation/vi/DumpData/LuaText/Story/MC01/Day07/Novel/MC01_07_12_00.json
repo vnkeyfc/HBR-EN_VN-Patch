@@ -1,0 +1,288 @@
+{
+  "Script": "Story/MC01/Day07/Novel/MC01_07_12_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So tomorrow, we're finally facing-off with 31-C.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00001_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "No way we can lose. We'll show 'em who's the better squad, once and fer all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00002_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "You said it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's the Cancer we're fighting, not them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00004_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00005_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Agreed. The Cancers take priority.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, true... I nearly lost sight of our objective. Nothing matters if one of us dies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "If things start to get hairy, we go crying to the seniors right away.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00008_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You sure changed your tune.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00009_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Now that we've had lunch together, we've had a chance to bond, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00010_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Who do ya mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00011_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "What? You haven't invited everyone yet?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00012_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Ha. So that's what she was up to, eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Beats me. I wasn't invited...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry! You're next, I swear!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "It's not like I'm upset or anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00016_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well, after seeing you work so hard to unify the squad and have lunch with everyone...I think I'll do what I can to help.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00017_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "You had lunch with Ruka?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00018_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I've never been invited.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00019_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Me neither!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait...so was it just me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00021_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00022_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why do you sound so cheerful?! I praised your efforts, but now I look like a fool!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00023_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Hmm. It might be best to give them some alone time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00024_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "We don't need \"alone time\"!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00025_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "We better win this, or there was no point goin' to lunch with you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00026_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "You had lunch with Ruka?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00027_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I mean, I had to close the distance between us, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00029_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie, you're next. Promise!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00030_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I'm not upset about it!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00025_MAikawa#2",
+      "Context": "Adv.talk:1",
+      "Original": "We better win this, or there was no point goin' to lunch with you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00032_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "You had lunch with Ruka?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I mean, I had to close the distance between us, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00034_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So you're implying that we had some distance too, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00035_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Not at all! I invited you just out of pure love, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00036_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Damn...ya love bugs...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_merge_00006",
+      "Context": "Adv.talk:0",
+      "Original": "Karen/Tsukasa/Tama",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00040_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Quit LOOKING at me like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00041_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Eh, 31-C's teamwork is garbage, and we're the REAL 31-A. They ain't got nothin' on us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00042_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You say that, but even our lunches aren't in sync, so we're not much better off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00043_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, so if I asked you all to lunch, would you have come?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00044_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Yeah, duh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00045_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "Of course.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00046_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Likewise.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00047_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "On my honor!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00048_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wow...sorry, girls. I dropped the ball on this one...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_07_10_02_Novel_00049_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey now, don't get down on yourself.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

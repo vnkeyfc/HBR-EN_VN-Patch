@@ -1,0 +1,86 @@
+{
+  "Script": "Story/MC01/Day09/World/MC01_09_06_01",
+  "Entries": [
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "The battles ahead will be difficult, so be sure to make the necessary preparations.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Don't forget to upgrade your Memoria with the materials you've found before taking on the dungeon!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00003_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Are your preparations complete?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Enter the dungeon?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Head out|Not yet",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "Abandoned Mines—Level 1",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Expedition_MC01_InFrontOfTheCave_00005_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "You can never be too prepared. Please come and talk to me once you're ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00272_v002_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Gotta stay focused...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00273_v002_MAikawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "My psychic powers are the key to victory...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00274_v002_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Another day, another dungeon crawl. Into the dark depths... Do they have to be so dark?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00275_v002_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We were running around like madwomen yesterday. Let's try to keep our cool today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00276_v002_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose we'll have to get used to this whole dungeon-crawling business.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00277_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Judging by our progress thus far and our capability as a squad, today will proceed smoothly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00278_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Or it will be a trying ordeal. Hard to say.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

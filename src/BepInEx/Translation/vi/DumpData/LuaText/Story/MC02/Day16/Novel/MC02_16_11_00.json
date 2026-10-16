@@ -1,0 +1,240 @@
+{
+  "Script": "Story/MC02/Day16/Novel/MC02_16_11_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Girls! There's a really nice breeze right now. How about we go chill outside?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm totally on board this boat!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00002_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, why not?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "First things first...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's this all about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we're gonna be chilling out in the dead of the night, we need something fizzy to drink.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're not going to sell us beer, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00007_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I know that! But I found something close... Ta-da!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00008_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sparkling water?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00009_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, are we gonna have to buy our own?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00011_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the heck?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay...let's toast! Cheers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00013_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cheers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00014_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cheers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00015_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Urgh... This tastes like nothin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If it had any flavor, it'd basically be beer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00017_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think you mean soda.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe? I guess?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00019_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Such a nice breeze...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00020_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It feels like spring is ending, and summer's right around the corner...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Man, this spring was like...all about meeting new people, new things.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was also the start of all this fighting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00796_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, yeah. It's been super busy with all the training and missions and whatnot, but I'm most grateful for the fact I got to meet you all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00024_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What're you even talkin' about, we're the assault squad. The squad leader shouldn't be spoutin' off soft things like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00025_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Now now, it's fine. We may be soldiers, but we're also just regular girls in the end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00026_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "You too, Tama? Man...everyone here's too soft...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As long as everyone can stay safe and alive, I think it'd be great if this kind of life went on forever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Unfortunately, there's no way to assure survival.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not even you, Yukkie?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm just a hacker. Do you really think I'd be tougher than you? I'm probably the weakest of us. You've at least lugged around a guitar while you were touring.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I dunno, you seem super tough to me. Like, I bet you'd be totally fine even if an elephant stepped on you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's just plain rude to a girl...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00033_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe it's more so about a tough mentality. You're always very blunt with everyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00034_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And you can be scary sometimes, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00035_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look, I'm not blunt because I want to be.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00036_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I getcha. This team's total chaos, ain't it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00037_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't want to hear that from you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_16_12_00_Novel_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It'd be really nice if these kind of days could last forever.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

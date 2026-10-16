@@ -1,0 +1,144 @@
+{
+  "Script": "Story/MC01/Day11/Novel/MC01_11_11_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ahhh... Nothing like a hot dip in the tub after battling the Cancer all day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00001_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Even without all the fighting, baths are so relaxing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaa? You're kidding, right, Yukkie? Baths are nothing but a hassle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wait, what did you just say?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00004_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I mean, why do we have to still brush our teeth and wash our bodies anyway?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00005_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Admittedly, we haven't made much progress in those areas...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "So many things are automated now, yet that stuff's still in the dark ages.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hm? Does that mean you don't like baths OR brushing your teeth?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yup. I used to hate it as a kid, so I don't have any memories of it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What about now?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00010_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yukkie, c'mon, you've seen me. I get in, brush all proper-like, and get out squeaky clean.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00011_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm glad I met you now and not then...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00012_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "You make it sound like I was a little ball of filth!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I mean, weren't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00014_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "I didn't need to bathe to be clean.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00015_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Well that's just inhuman.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00016_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But now I'm REALLY clean. Look, look! See? Spick and span!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00017_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Get away from me! Don't be a creep!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00018_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaa—? But whyyy Yukkie? Woah... You’re freakin’ stacked!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00019_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Cut it out. People will get the wrong idea.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_merge_00009",
+      "Context": "Adv.talk:0",
+      "Original": "Karen/Tsukasa/Megumi/Tama",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00024_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "For crying out loud, stop looking at me like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_10_10_00_Novel_00025_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Nothing beats bath time.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

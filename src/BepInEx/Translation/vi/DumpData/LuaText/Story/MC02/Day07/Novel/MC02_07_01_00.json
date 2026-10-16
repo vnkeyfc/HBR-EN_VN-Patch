@@ -1,0 +1,501 @@
+{
+  "Script": "Story/MC02/Day07/Novel/MC02_07_01_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say, did anything awful happen at all? News said anything?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you saying? Mankind's been in an awful spot all along.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, like, was Tsu destroyed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00444_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tsu? Why would such a random, specific place be destroyed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00004_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't believe you use mayonnaise!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, what now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00006_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Asakura puts mayonnaise on top of her natto!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00007_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It tastes good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dang, your taste buds are wild, Karerin. Pass the ketchup?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To put on what, exactly?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, my natto.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's WAY weirder than mayo! I can't even imagine what that tastes like!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? You put ketchup and mustard on hot dogs, don't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ohhh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That literally doesn't explain anything! You do know natto and hot dogs are nothing alike, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00015_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When it comes to condiments on natto, nothing beats mushy mushrooms!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, that...I can actually see working. I bet they go well together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00017_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nah. Hands down, it's gotta be tempura bits and pickled ginger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't that for takoyaki, not natto?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about you, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00020_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I usually just go with the dipping sauce they include or soy sauce. But if I really had to choose, I do enjoy a good egg yolk...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seriously? Natto and eggs? You put the two together, Yukkie?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Is there a problem?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00023_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "GROSSS! That's straight up NASTY!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00024_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Just thinking about you eating that\nmakes my sides hurt like crazy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00025_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ahahaha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit... I shouldn't have said anything!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00027_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Natto is such a precious commodity nowadays, yet you're all tarnishing it with your strange condiments.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That reminds me... I thought I heard something about it being manufactured in a dome somewhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, Tojo. What do YOU put on your natto?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00030_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me? Steak sauce.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00031_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's the most ridiculous one out of all of us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00032_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's just Worcestershire sauce.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00033_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't say that like it's something natural.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00034_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The rest of you understand, don't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_merge_00022",
+      "Context": "Adv.talk:0",
+      "Original": "Ruka/Karen/Megumi",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_merge_00022",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00038_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tama?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00039_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00040_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even the one person who agrees with everything is looking at me like I'm crazy?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Congratulations. You've discovered you're the crazy one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00042_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No! It's too much! I don't know if I can go on in these conditions!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, everyone's natto preferences are different... The crisis the squad found themselves in would later be known as...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00044_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Known as what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(That would be...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:0",
+      "Original": "What's the crisis the squad finds itself in?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:1",
+      "Original": "Natto|Tsukasa Tojo|Commander Tezuka",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.doubleQuestion:2",
+      "Original": "Rebellion|Sticky Incident|With a side of Cancer",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00052_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Natto Rebellion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00053_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! Is it that dramatic?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00054_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You say that like it went down in history or something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Natto Sticky Incident.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00056_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's some grade school-level naming sense you've got there, and it's terrible even by grade school standards.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Natto with a side of Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00058_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Easily the world's worst food combination.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00059_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Tsukasa Tojo Rebellion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00060_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait...just me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00061_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Afraid so, you poor thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00062_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Tsukasa Tojo Sticky Incident.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00063_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, is my name going down in history under such an embarrassing phrase?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00064_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's some grade school-level naming sense you've got there, and it's terrible even by grade school standards.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00065_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tsukasa Tojo with a side of Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00066_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait...just me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00067_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why not? You'd be on the winning side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00068_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, don't discount mankind so easily...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00069_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Commander Tezuka Rebellion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00070_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's not even relevant here. But if she rebelled, we'd all be in trouble.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00071_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, true! That'd be terrifying!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00072_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Think first, speak later. Plus, that's just asking for punishment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00073_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were doing it too, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00074_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Crap. You're right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00075_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Commander Tezuka Sticky Incident.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00076_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's not even relevant here. Although it'd be pretty scary if she was uh, sticky.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00071_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, true! That'd be terrifying!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00078_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Think first, speak later. Plus, that's just asking for punishment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00073_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were doing it too, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00080_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Crap. You're right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00081_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Commander Tezuka with a side of Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00082_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They'd be unstoppable. Nothing would come close to standing in their way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00071_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, true! That'd be terrifying!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00084_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Think first, speak later. Plus, that's just asking for punishment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00073_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were doing it too, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_01_00_Novel_00086_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Crap. You're right.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

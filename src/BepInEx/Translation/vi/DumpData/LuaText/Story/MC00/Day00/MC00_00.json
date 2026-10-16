@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC00/Day00/MC00_00",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Skip the tutorial?",
+      "Vietnamese": "Bỏ qua hướng dẫn?"
+    }
+  ],
+  "Inserts": []
+}

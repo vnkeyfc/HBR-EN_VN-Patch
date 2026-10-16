@@ -1,0 +1,11 @@
+{
+  "Script": "Story/MC02/Day05/MC02_05",
+  "Entries": [
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "[Trainer] Abyssal Crusher\\nRecommended Rating: 4,000\\nVulnerabilities: Slash\\nResistances: None",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

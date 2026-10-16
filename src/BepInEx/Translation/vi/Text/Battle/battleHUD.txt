@@ -7,6 +7,7 @@ AUTO CONFIG=<size\=80%>Điều chỉnh tự động</size>
 対象を選択=Chọn mục tiêu 
 
 [Navigation]
+リトライ=<cspace\=2px>Thử lại
 Withdraw=Rút lui
 Choose Enemy Target=Chọn mục tiêu kẻ địch
 Choose Unit=Đội viên
@@ -19,6 +20,7 @@ Close=Thoát
 [OVERDRIVE]
 効果=Hiệu ứng
 ボーナスターン=Lượt Bonus
+追加ターン\n=Lượt Thêm\n
 ダメージ上昇=Tăng sát thương
 SP上昇=Tăng SP
 OD発動数=Điểm kích hoạt
@@ -26,7 +28,7 @@ ODゲージ=Thanh OD
 LEVEL1=MỨC 1
 LEVEL2=MỨC 2
 LEVEL3=MỨC 3
-r:"(\d+) Turn\(s\)"=$1 Lượt
+r:"^(\d+) Turn\(s\)$"=$1 Lượt
 
 [Result_Screen]
 リザルト=<size\=90%>Kết quả thảo phạt
@@ -39,6 +41,7 @@ r:"(\d+) Turn\(s\)"=$1 Lượt
 *Items exceeding the maximum limit have been discarded.=※Vật phẩm đạt giới hạn sức chứa đã được loại bỏ
 
 [Other]
+
 発動=<size\=80%>Kích hoạt
 発動中=<size\=80%>Hiệu lực
 ENERGY=<size\=130%><voffset\=10px>THỂ LỰC
@@ -60,6 +63,8 @@ Activate at highest level possible=Kích hoạt Overdrive ở mức cao nhất
 Consider enemy resistances=Ưu tiên điểm yếu của kẻ địch
 CHANGE=<size\=80%>Thay đổi trạng thái</size>
 <style\=RubyPrefixTag></style>\nAccept defeat and withdraw from battle?=<style\=RubyPrefixTag></style>\nChấp nhận bị đánh bại và rút lui khỏi trận chiến?
+撤退しますか？\r\nリトライボタンからはバトルをやりなおすことができます。=Rút lui khỏi trận chiến?\r\nBạn có thể tái khiêu chiến bằng cách nhấn vào nút "Thử lại".
+<style\=RubyPrefixTag></style>\nRestart this battle from the beginning?=<style\=RubyPrefixTag></style>\nKhiếu chiến lại từ đầu?
 TOTAL=TỔNG
 AVERAGE=TRUNG BÌNH
 r:"^TURN <cspace\=0.1em><size\=36>(\d+)</size></cspace>$"=LƯỢT <cspace\=0.1em><size\=36>$1</size></cspace>
@@ -74,8 +79,8 @@ sr:"^\[Trainer\] (.+)$"=[Huấn luyện] $1
 sr:"^\[DIFF (.+)\] (.+)$"=[Độ khó $1] $2
 sr:"^\[DIFF (.+) (.+)\] (.+)$"=[Độ khó $1$2] $3
 Status Effects Details=Trạng thái
-Passive Powers=Nội tại Style
-Fixed Passive Powers=Nội tại Style mặc định
+Passive Powers=Nội tại Hồi Ức
+Fixed Passive Powers=Nội tại Hồi Ức mặc định
 Skill Effects Increased=Hiệu ứng Cường Kỹ
 <size\=24>Skill Effects Increased</size>=<size\=24>Hiệu ứng Cường Kỹ</size>
 Passive Skill=Kỹ năng nội tại

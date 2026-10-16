@@ -1,4 +1,4 @@
-ライブ準備=Chuẩn bị
+ライブ準備=<size\=80%>Chuẩn bị
 難易度設定=Cài đặt độ khó
 Difficulty Level Setting=Cài đặt độ khó
 r:"^Music Difficulty: (\d+)$"=Độ khó của bài: $1
@@ -10,7 +10,7 @@ MVライブ=MV
 背景=Nền khi lúc live
 クリア回数=Hoàn thành
 結果発表=Công bố kết quả
-部隊選択=Chọn đội hình
+部隊選択=<size\=80%>Chọn đội hình
 スコア報酬=Thưởng điểm
 ライブ報酬=<size\=80%>Thưởng Live
 ・ライブ中にPOWERが0になるとゲームオーバー\n・AUTO PLAYを選択した場合総合スコアには加算されません\n・スコアは2周目のプレイで上書きすることができます=・Nếu POWER giảm về 0 trong lúc đang Live, trò chơi sẽ kết thúc.\n・Điểm số sẽ không được cộng vào Tổng điểm khi chọn chế độ AUTO PLAY.\n・Điểm số có thể được ghi đè ở lần chơi thứ 2.

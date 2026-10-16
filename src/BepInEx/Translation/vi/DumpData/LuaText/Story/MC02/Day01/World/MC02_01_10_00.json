@@ -1,0 +1,107 @@
+{
+  "Script": "Story/MC02/Day01/World/MC02_01_10_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to 31-A's room!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00000_RKayamori",
+      "Context": "Field.returnToWayPoint:2",
+      "Original": "I had a thing to do... Nah, I'll do it tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "No use worrying about it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Might as well hit the hay and get a fresh start tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Whether we can actually rise in the ranks or not is riding on our own efforts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00004_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I have to find out about my mother. No matter what.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00005_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "But...something's not quite right. Hmm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00006_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "We've got a rough road ahead, but...tomorrow's our day off. Have to rest up while we can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00008_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder if we'll have to fight more scary Cancers like that Death Slug...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00007_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Bring 'em on! I'll blast 'em with my powers, bam.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00009_BIYamawaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We shall continue to hone our skills, Minion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00010_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "No doubt, Master, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00011_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We'll be the baddest baddies in the world, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00012_AKanzaki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "In the end, we were not able to become Squad 31-A...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00013_MSatsuki",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "What's so bad about that? 31-C is all right with me. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00014_SSakuraba",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Yes... What matters is that we are all safe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_10_00_World_00015_MTenne",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "At long last, I can return to my research...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

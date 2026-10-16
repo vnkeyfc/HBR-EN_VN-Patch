@@ -1,0 +1,256 @@
+{
+  "Script": "Story/MC02/Day08/Novel/MC02_08_08_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00000_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Hell yeah, it's over! Time to PLAY BALL!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00001_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not baseball again. Can't we do anything else, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00002_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's baseball or bust! It puts all other sports to shame! Besides, there's no way in hell I'm playing soccer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00003_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But triangle baseball's for kids, meow...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00004_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not my problem we don't have enough players.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00005_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh... Um...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00006_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, meow?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00007_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00008_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Spit it out. What kind of squad leader can't even talk to their squad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00009_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00010_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "What are you, a broken record? If you've got something to say, then say it.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Is Aoi a broken record?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "That's right|Cut the crap|No, I...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00012_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? YOU again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00013_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There she goes again... What's it gonna be this time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi wants nothing to do with you anymore. She doesn't care about you. She's with us now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cut the crap.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00016_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? YOU again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00013_MAikawa#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There she goes again... What's it gonna be this time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00014_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi wants nothing to do with you anymore. She doesn't care about you. She's with us now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00020_IMinase",
+      "Context": "Adv.talk:1",
+      "Original": "Where the hell did YOU come from? What, now we've got two broken records to worry about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00013_MAikawa#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There she goes again... What's it gonna be this time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00022_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You got something to say?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00024_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's picking a fight with us, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I...I'm just messing with you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00026_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Those're fighting words if I ever heard 'em!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not here for you two. I came for Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00028_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? Why me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah. Aoi wants nothing to do with you anymore. She doesn't care about you. She's with us now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00030_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00031_IMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Off to join the loser squad, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00032_SMinase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How pathetic, meow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00033_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whatever helps you sleep at night. Let's go, Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00034_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we are supposed to rest in the dorms...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They say a lot of things! It's fine. You have MY permission, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00036_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah, okay...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31B_03_00001_Byakko",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Grawr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00038_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um, can I bring Byakko along, too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_08_08_00_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course! Byakko's always welcome.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

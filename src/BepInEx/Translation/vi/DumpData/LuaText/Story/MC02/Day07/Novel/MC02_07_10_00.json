@@ -1,0 +1,192 @@
+{
+  "Script": "Story/MC02/Day07/Novel/MC02_07_10_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alriiight! Time to kick off another practice sesh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So which one's supposed to be your real gig again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They both are.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Surely saving mankind holds more weight?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, how about a 60/40 ratio?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The band's really that important, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00006_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a whale of a time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe to you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00008_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I like it too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00009_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that so...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00010_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The rush of performing live was pretty incredible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00011_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00012_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This guitar responds real well to my electrokinesis. I like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00014_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! Everyone's a fan of this but me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't lie, Yukkie. I know you wanna jam, too. You just like being contrary.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not even remotely true.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, but...today, I was officially going to give you the title of bandleader...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What on earth does that mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What it sounds like. You'd be pulling the band together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "ME?! But I don't know anything about music!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mean, the drums are the foundation of the band and get to watch everyone's every move from behind. They're the glue that holds everything together. You already do that for 31-A, so I figured…",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00023_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She can't refuse now, can she?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00024_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yuki, stay strong.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00025_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "FINE, OKAY?! I'll be your stupid bandleader! Are you happy now?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00027_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She gave in?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00028_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, she followed her heart...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can it, peanut gallery! Less talking, more playing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_07_10_00_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's my Yukkie! Fiery as ever!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

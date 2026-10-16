@@ -1,0 +1,196 @@
+{
+  "Script": "Story/Common/Activity/MC02/ActivityAtMiemie_MC02_ADV",
+  "Entries": [
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00001_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Okay, which bath should I try first?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Which type of bath?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Mist sauna|Cold water bath|Jet bath",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00002_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Huh, the mist in the sauna is pretty warm.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00003_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Everything's so white and misty. Funky.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It feels like I'm being warmed up from my core...this is nice.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00005_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I feel like my skin's gotten a little smoother, too. Thanks, mist sauna!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00006_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(When I breathe in, my entire airway gets moisturized!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00007_STezuka",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Ah, Kayamori. I didn't know you also come here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yes, ma'am! Good work as always, Commander!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00009_STezuka",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You don't need to be so formal here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00010_STezuka",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Since you're here, why don't you try relaxing with this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00011_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "What's this little bottle?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00012_STezuka",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It's some lavender and chamomile aroma oil. Try opening it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00013_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Woahh...the scent's mixing in with the mist...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00014_STezuka",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "See? Now you can relax your mind and your body...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00015_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "You're like super loosened up, Commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00016_STezuka",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Hmm...how relaxing...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00017_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(What are water baths for, anyways? Well, it's give it a try.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00018_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hoooaaahh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00019_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(COLD! Cold, it's s-so cold!!! My skin hurts! My heart is racing!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00020_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(Oh, but...if I stay really still, I feel kind of warm all of a sudden?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00021_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(All the stress is just slowly making it's way out of my body...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(You could get hooked on this.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00023_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Bbbrrrbblll!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00024_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(My body is being massaged by the force of the water!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00025_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(It's like getting punched by a watery fist!!!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00026_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(When I put my back against it, it hits all the tough spots!!!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00027_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(If I put my stomach against it, maybe it'll even tone my abs?!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00028_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I thought this was supposed to be a bath! It's...kind of exhausting!!!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00029_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whooo, I feel refreshed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_ActivityAtMiemie_MC02_ADV_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess it's about time to head back.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

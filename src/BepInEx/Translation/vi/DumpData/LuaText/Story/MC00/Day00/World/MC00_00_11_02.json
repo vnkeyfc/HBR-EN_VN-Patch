@@ -1,0 +1,31 @@
+{
+  "Script": "Story/MC00/Day00/World/MC00_00_11_02",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try forming a squad with the new Memoria you just received in it.",
+      "Vietnamese": "Hãy thử sắp xếp đội hình với Hồi Ức mới nhận được xem sao."
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Try forming a squad with the new Memoria you just received in it.\\nPress the Options button to open your mePad's menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Use the Auto Formation function to create a squad\\nthat prioritizes the most powerful Memorias you possess.",
+      "Vietnamese": "Sử dụng \"Đội hình đề xuất\" sẽ giúp bạn tự động\\nsắp xếp đội hình ưu tiên các Hồi Ức mạnh nhất."
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Auto Formation created a squad with the strongest Memorias you possess.",
+      "Vietnamese": "Đội hình mạnh hơn đã được tạo thành công theo đề xuất tự động."
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the X button to return.",
+      "Vietnamese": "Nhấn nút X để quay trở về."
+    }
+  ],
+  "Inserts": []
+}

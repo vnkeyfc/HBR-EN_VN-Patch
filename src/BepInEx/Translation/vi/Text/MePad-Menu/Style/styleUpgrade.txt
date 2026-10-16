@@ -1,9 +1,9 @@
 [Title]
 Learn/Upgrade Skills=Học/Cường hoá kỹ năng
-Stat Increases I=Nâng cấp sức mạnh I
-Stat Increases II=Nâng cấp sức mạnh II
-Stat Increases III=Nâng cấp sức mạnh III
-Stat Increases IV=Nâng cấp sức mạnh IV
+r:"^Stat Increases (.+)$"=Cường hoá sức mạnh $1
+Skill Upgrades=Cường hoá kỹ năng
+Skill Upgrades/Introjection=Cường hoá/Introjection
+Introjection/Skill Evolution=Introjection/Tiến hoá
 Tear Enhancements=Cường hóa Bảo Ngọc
 
 Skill=Kỹ năng
@@ -20,12 +20,12 @@ Stats =Chỉ số
 
 All Attributes +1=Tất cả thuộc tính +1
 
-sr:"^(.+) Follow-Up Rate \+1%$"=Tỉ lệ Follow-Up cho hệ $1 +1% 
+sr:"^(.+) Follow-Up Rate \+1%$"=Tỉ lệ Follow-Up hệ $1 +1% 
 
 必要Lv. =Yêu cầu Lv.
 
 強化結果=<size\=90%>Kết quả nâng cấp
-一括強化=Nâng cấp nhanh
+一括強化=Cường hoá nhanh
 習得=Lĩnh hội
 
 Slash=Trảm
@@ -36,3 +36,5 @@ Thunder=Lôi
 Ice=Băng
 Dark=Ám
 Light=Quang
+
+使用=<cspace\=-2px>Dùng

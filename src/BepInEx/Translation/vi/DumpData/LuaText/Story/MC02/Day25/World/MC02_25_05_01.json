@@ -1,0 +1,234 @@
+{
+  "Script": "Story/MC02/Day25/World/MC02_25_05_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_25_01_09_World_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, it's a little Narby. What're you doing there, little one? Did you wander in?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, you can hang out with me. I'm just killing some time here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See this? These aren't real cigarettes. They're just candy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And this here's a nice canned coffee.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Some sweets and a dose of caffeine. The perfect combination for a little me-time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmm...tastes great.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, I have a friend. Or...had a friend.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She was the leader of Squad 31-B.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I guess, since we got assigned to the assault squad, that made her lose confidence.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Or maybe not. She probably didn't care about that part so much.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She was a really hard worker, but she just couldn't find confidence in herself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Her name was Erika Aoi.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00013_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Aoi? There's something familiar about that word...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00013_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(Aoi? There's something familiar about that word...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00014_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(This voice... The way they talk... It's all so familiar...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00014_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(This voice... The way they talk... It's all so familiar...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00015_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(I think...that's somebody I really cherished.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00015_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(I think...that's somebody I really cherished.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00016_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(But I can't remember a thing...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00016_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(But I can't remember a thing...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00017_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(I'm sorry...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00017_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(I'm sorry...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00018_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(I feel so useless...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00018_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(I feel so useless...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was so fun hanging out together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And there was a lot that she taught me, fighting alongside each other.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...I wish I could have gotten to know her better.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See, I'm always calling everyone by nicknames. It's just my way of being friendly, y'know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I didn't think she'd be gone...before I could even give her a nickname.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry, Aoi...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00025_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Why are you so sad?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00025_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(Why are you so sad?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Ruka. They're starting soon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oops, I'm getting called in. Gotta go now. Bye, little buddy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00028_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Where are you going?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00028_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(Where are you going?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00029_EAoi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Can I come with you?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_25_01_09_World_00029_EAoi#2",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "(Can I come with you?)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

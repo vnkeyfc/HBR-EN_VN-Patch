@@ -1,0 +1,236 @@
+{
+  "Script": "Story/MC00/Day00/Novel/MC00_00_09_01",
+  "Entries": [
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Ladies, line up.",
+      "Vietnamese": "Các cô, vào hàng nhanh đi."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Who, us?",
+      "Vietnamese": "Hả? Tụi em á?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00002_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You did well out there today.",
+      "Vietnamese": "Các cô đã thể hiện rất tốt trong ngày hôm nay."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00003_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "But tomorrow marks the first day of your training as fully-fledged soldiers. Keep that in mind before you get too cocky.",
+      "Vietnamese": "Nhưng từ ngày mai, khóa huấn luyện như một quân nhân thực thụ sẽ chính thức bắt đầu. Các cô liệu mà hành động có ý thức một chút."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00004_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Kayamori, I hereby declare you the leader of Squad 31-A. Report to me once everyone is acquainted with the dorms.",
+      "Vietnamese": "Kayamori, tôi bổ nhiệm cô làm Đội trưởng Đội 31A. Hãy báo cáo lại cho tôi sau khi cả đội đã về ký túc xá."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Report to the commander afterwards?",
+      "Vietnamese": "Về ký túc xá xong là phải báo cáo ấy à..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Sorry, groups aren't really my thing|Ma'am, yes, ma'am!",
+      "Vietnamese": "Tiếc ghê. Em đây không ưa đàn đúm gì cho cam|Xin tuân lệnh!"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Sorry, groups aren't really my thing. I'm more of a lone wolf kind of gal.",
+      "Vietnamese": "Tiếc ghê. Em đây không ưa đàn đúm gì cho cam. Làm sói cô độc mới là lẽ sống của em."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The fate of humanity's at stake so we need to all come together as one! Just shut up and listen, already! ...Wait a sec—didn't I say this exact same phrase before?!",
+      "Vietnamese": "Nhân loại sắp tiêu tùng tới nơi rồi nên biết đoàn kết giùm đi——!! Đáng lý lúc này phải tỏ ra đồng lòng hiệp lực chứ——?! Ủa mà tính ra đây là lần thứ hai tôi ca lại bài này rồi còn gì——?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00006_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The fate of humanity's at stake so we need to all come together as one! Just shut up and listen, already!",
+      "Vietnamese": "Nhân loại sắp tiêu tùng tới nơi rồi nên biết đoàn kết giùm đi——!! Đáng lý lúc này phải tỏ ra đồng lòng hiệp lực chứ——?!"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But I'm not cut out for leading. Why not choose her?",
+      "Vietnamese": "Ể—... Trông tớ có ra dáng sếp sòng gì đâu mà. Hay là biểu đứa này làm đi được không?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Ma'am, yes, ma'am!",
+      "Vietnamese": "Xin tuân lệnh!"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00010_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Since when were you such a teacher's pet?",
+      "Vietnamese": "Ô hay? Bản tính cậu lại nghiêm chuẩn đến vậy luôn đó hả?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Milady, beeth there anything thou requirest of me?",
+      "Vietnamese": "Tại hạ đang chờ được ban chỉ thị!"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00012_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why are you talking like some knight now? And didn't you hear the commander? She told you to report in once we've settled into our dorms.",
+      "Vietnamese": "Mắc chứng gì mà chuyển tông thành võ sĩ luôn vậy?! Và chỉ thị chẳng phải là về ký túc xá xong thì báo cáo lại à?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00013_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Uggghhh, I'm not cut out for this whole leader thing.",
+      "Vietnamese": "Tại vììì... Nó đâu có hợp với phong cách của người ta đâuuu..."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00014_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "So much for being a teacher's pet...",
+      "Vietnamese": "Chưa được ba chữ bẻ đôi là đã lộ nguyên hình rồi à..."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00015_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why not her instead?",
+      "Vietnamese": "Hay là để đứa này lên thế chỗ tớ đi được không?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00016_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Who, me? Lead this sorry group? You must be joking... But I don't see any other capable candidates, so if you really do insi—",
+      "Vietnamese": "Ai? Tôi á? Bắt tôi quản cái hội vô tri này sao? Thật tình, hết cách với mấy người luôn á... Cơ mà nhìn quanh cũng chẳng thấy ai có đủ năng lực, nếu mọi người đã tha thiết cầu cạnh đến nước đó thì tôi cũng đành nhận."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00017_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Not happening.",
+      "Vietnamese": "Bác bỏ."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00018_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Ooohhhhhhh! REJECTED!",
+      "Vietnamese": "Bị từ chối thẳng luôn kìììa——!! Quê dữ chưa——!!"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00019_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Besides, you're in no position to refuse.",
+      "Vietnamese": "Ngay từ đầu các cô đã không có quyền từ chối rồi."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00020_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": "Ơ kìa..."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00021_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That's an order, Kayamori.",
+      "Vietnamese": "Tuân theo quân lệnh đi, Đội trưởng Kayamori."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00022_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "There ya have it, folks. Say hello to your new, overqualified squad leader.",
+      "Vietnamese": "Hầy, thôi thì tuy xét thấy bản thân tài hèn sức mọn, song tớ đây cũng đành hạ cố mà đảm nhận chức danh Đội trưởng vậy."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00023_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I don't think you understand what overqualified actually means...",
+      "Vietnamese": "Văn vở cho lắm vào nhưng ý tứ sai bét cả rồi..."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00024_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Now head to your dorms and confirm that the facilities and your equipment are all in order.",
+      "Vietnamese": "Bây giờ, các cô hãy về ký túc xá để xác nhận lại phòng ở và quân nhu."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00025_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "From now on, you must keep your mePad on you at all times.",
+      "Vietnamese": "Nhớ kỹ: sổ tay quân nhân điện tử là vật bất ly thân, phải luôn mang theo bên người."
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Keep it on me even...",
+      "Vietnamese": "Vật bất ly thân, phải luôn mang theo bên người..."
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Even in the bath?|Even on the toilet?|Even during passionate girl-on-girl bonding time?",
+      "Vietnamese": "Kể cả lúc đi tắm á?|Kể cả lúc đi giải quyết nỗi buồn á?|Kể cả lúc con gái tụi em mặn nồng ân ái với nhau á?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00026_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Even in the bath?",
+      "Vietnamese": "Kể cả lúc đi tắm á?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00027_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. It is completely waterproof. Submerging it in hot water should not be an issue.",
+      "Vietnamese": "Đúng. Nó đã qua xử lý chống nước tuyệt đối, nên có thả vào nước nóng cũng chẳng hề hấn gì."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Even on the toilet?",
+      "Vietnamese": "Kể cả lúc đi giải quyết nỗi buồn á?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00029_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. It is completely waterproof. Accidentally dropping it in the toilet should not be an issue.",
+      "Vietnamese": "Đúng. Nó đã qua xử lý chống nước tuyệt đối, nhỡ bị chìm trong nước cũng vô sự."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00030_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Even during passionate girl-on-girl bonding time?",
+      "Vietnamese": "Kể cả lúc con gái tụi em mặn nồng ân ái với nhau á?"
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00031_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Yes. It is completely waterproof. Getting sweat or other bodily fluids on it should not be an issue.",
+      "Vietnamese": "Đúng. Nó đã qua xử lý chống nước tuyệt đối, bất luận có dính nhớp nháp mồ hôi cũng chẳng là vấn đề."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00032_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Wow...she shut that down real quick. Didn't even bat an eye.",
+      "Vietnamese": "Đỉnh vậy... Người ta không thèm bắt bẻ mà giữ nguyên mặt lạnh trả lời luôn kìa..."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00033_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Lastly, you may encounter slime-like life-forms around base. These are Narbies. They are harmless and good-natured, so treat them with respect.",
+      "Vietnamese": "Còn một điều nữa, trong căn cứ có loài sinh vật gọi là Narby. Chúng rất hiền lành và vô hại, nhưng tuyệt đối không được đối xử thô bạo với chúng."
+    },
+    {
+      "Key": "VC_MC00_00_09_01_Novel_00034_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Follow me this way, please.",
+      "Vietnamese": "Giờ tôi sẽ dẫn đường."
+    }
+  ],
+  "Inserts": []
+}

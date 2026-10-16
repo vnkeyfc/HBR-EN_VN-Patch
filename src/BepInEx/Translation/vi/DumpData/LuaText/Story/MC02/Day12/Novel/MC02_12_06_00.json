@@ -1,0 +1,132 @@
+{
+  "Script": "Story/MC02/Day12/Novel/MC02_12_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00633_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Today will cover the last portion of Phase Three.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00634_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Complete the training by achieving the operation objective within the target time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At last...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00635_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aoi, be sure to balance both defense and offense. Don't focus entirely on defensive support.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00011_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00012_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-A, make sure you aren't relying too much on raw firepower.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You hear that, girls?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00014_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm talking about you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00016_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your squad's coordination has developed to a workable point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00017_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep that fact in mind, and try branching out to more flexible tactics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00636_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Also, be aware that there are far more enemies compared to the last session.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00021_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can never know what will happen on the battlefield.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00637_v001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are some other unpredictable, randomized parameters set within this session, so keep your wits about you no matter the situation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00024_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep considering any and all possibilities so that you can better react to changing circumstances.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, come on. That sounds like...super-duper difficult.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll do what I can to support you, alright?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're my one and only hope, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't shove it ALL on me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_12_06_00_Novel_00029_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

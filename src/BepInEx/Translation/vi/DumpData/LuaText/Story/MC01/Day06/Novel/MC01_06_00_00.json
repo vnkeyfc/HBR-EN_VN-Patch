@@ -1,0 +1,66 @@
+{
+  "Script": "Story/MC01/Day06/Novel/MC01_06_00_00",
+  "Entries": [
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00000_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "*yaaawn*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Why does it feel like I had a terrible nightmare?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "What happened?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00003_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Aliens invaded Earth, and it was pretty much the end of the world as we know it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "That's not a dream! It's our reality!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00005_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Heh heh. I'm kidding, Yukkie. Let's get to roll call.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00006_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "More nonsense, I see.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're the last person I want to hear THAT from.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00008_TKunimi",
+      "Context": "Adv.talk:1",
+      "Original": "Huh? Why do I feel so awake this morning?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_06_00_00_Novel_00009_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Because you went to sleep first.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

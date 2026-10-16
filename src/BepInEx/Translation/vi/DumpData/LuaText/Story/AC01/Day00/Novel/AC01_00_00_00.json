@@ -1,0 +1,66 @@
+{
+  "Script": "Story/AC01/Day00/Novel/AC01_00_00_00",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00000_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In the end, we weren't able to become 31-A.",
+      "Vietnamese": "Rốt cuộc thì tụi mình vẫn không thể trở thành 31A..."
+    },
+    {
+      "Key": "VC_AC01_00001_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess I'm not too bothered by that.",
+      "Vietnamese": "Nhưng bản thân chuyện đó cũng không có gì đáng để nuối tiếc..."
+    },
+    {
+      "Key": "VC_AC01_00002_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What bothers me is that I completely lost sight of what was most important.",
+      "Vietnamese": "Điều khiến mình day dứt là đã quá mù quáng chạy theo nó mà bỏ quên đi những thứ thực sự quan trọng..."
+    },
+    {
+      "Key": "VC_AC01_00003_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we had come together sooner, maybe I could have helped everyone in some other way...",
+      "Vietnamese": "Giá như cả đội gắn kết với nhau sớm hơn, có lẽ tụi mình đã giúp ích được cho mọi người theo một cách nào đó khác..."
+    },
+    {
+      "Key": "VC_AC01_00004_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If I had done something differently, maybe I could have changed the outcome...",
+      "Vietnamese": "Chỉ cần cách hành xử của mình khác đi một chút thôi, có lẽ mọi chuyện đã rẽ sang một hướng khác..."
+    },
+    {
+      "Key": "VC_AC01_00005_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Will I be of any use to 31-C?",
+      "Vietnamese": "Rốt cuộc thì mình có thực sự đang giúp ích gì được cho 31C hay không...?"
+    },
+    {
+      "Key": "VC_AC01_00006_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I honestly don't know.",
+      "Vietnamese": "Mình thấy mông lung quá..."
+    },
+    {
+      "Key": "VC_AC01_00007_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mother...",
+      "Vietnamese": "Mẹ ơi..."
+    },
+    {
+      "Key": "VC_AC01_00008_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you're in this tablet somewhere, answer me...",
+      "Vietnamese": "Nếu mẹ đang ở đâu đó bên trong chiếc máy tính bảng này, xin mẹ hãy trả lời con..."
+    },
+    {
+      "Key": "VC_AC01_00009_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What should I do?",
+      "Vietnamese": "Con biết phải làm sao bây giờ đây..."
+    }
+  ],
+  "Inserts": []
+}

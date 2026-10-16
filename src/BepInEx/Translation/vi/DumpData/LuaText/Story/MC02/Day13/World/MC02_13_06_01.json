@@ -1,0 +1,24 @@
+{
+  "Script": "Story/MC02/Day13/World/MC02_13_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_00646_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guard duty makes me wanna go to sleep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00647_v001_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Doesn't look like the enemy's going to let you, though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00648_v001_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Then I'll have to grin and bear it, huh?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,190 @@
+{
+  "Script": "Story/MC01/Day05/Novel/MC01_05_06_01",
+  "Entries": [
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00000_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You will be fighting simulated Cancers again today.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "An arena battle?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Hell yeah, bring it on!|Is what she wanted to say, but decided to put it to rest|Wait—whose POV is this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00001_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Hell yeah, bring it on!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00002_MAikawa",
+      "Context": "Adv.talk:1",
+      "Original": "Same! I'm psyched! Brace yerself for a psychic smackdown!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You two have said the exact same thing for three days now. Are the writers just lazy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_04_06_01_Novel_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You two said the exact same thing yesterday, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_01_Novel_00007_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You're all so thirsty for blood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00006_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Is what she wanted to say, but decided to put it to rest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00007_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "That's for me to decide.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00008_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00009_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Wait—whose POV is this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00010_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "What on earth are you reacting to?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00011_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Myself. It went like this in my head: \"Hell yeah, bring it on!\" \"Is what she wanted to say, but decided to put it to rest.\" \"Wait—whose POV IS this?!\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00012_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "You really are a dum-dum...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00013_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "You've reached the point where she's just taking pity on you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00020_STezuka",
+      "Context": "Adv.talk:1",
+      "Original": "Nanase, I trust you can handle the rest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00021_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Okay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00229_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "In yesterday's training, you fought Cancers that were able to restore their exoskeletons.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00230_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "You will be putting the knowledge you gained from this to use today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00231_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Preserve your strength for the right moment, then go all in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00232_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Please leave the task of coordinating skill usage to your squad leader, Cadet Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00233_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Man, I'm cool. You girls have to obey my every whim.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00027_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Here's hoping your whims don't get us killed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00028_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Yeesh, no need to lay on the pressure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00029_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The stakes warrant some pressure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00234_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Choosing the appropriate target for each skill type is also crucial.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_05_06_01_Novel_00031_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "It's like a video game! Fun!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00235_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Steer away from the video game mindset. Humanity's survival depends on us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_00236_v002_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Today's training session will also have a set clear time. Work to claim victory quickly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_03_06_01_Novel_00058_NNanase",
+      "Context": "Adv.talk:1",
+      "Original": "Everyone, please hold up your mePads and recite your Seraph Codes!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

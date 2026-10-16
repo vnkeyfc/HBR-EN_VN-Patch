@@ -1,0 +1,11 @@
+{
+  "Script": "Foundation/sneaking_custom",
+  "Entries": [
+    {
+      "Context": "Sound.playEx:0",
+      "Original": "AS _DiamondEyeballGiant_GameOver",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

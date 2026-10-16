@@ -13,7 +13,7 @@ Silliness=Ngây ngô
 Eccentricity=Điên rồ
 
 [Location]
-獲得場所=Vị trí nhận
+獲得場所=Địa điểm nhận
 センス獲得場所=VỊ TRÍ NHẬN NHỮNG ĐẶC TÍNH
 ・Library=・Thư viện
 ・Narby Square=・Quảng trường Narby

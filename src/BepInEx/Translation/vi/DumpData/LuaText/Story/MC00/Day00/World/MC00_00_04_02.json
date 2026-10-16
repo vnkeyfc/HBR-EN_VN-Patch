@@ -1,0 +1,53 @@
+{
+  "Script": "Story/MC00/Day00/World/MC00_00_04_02",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the right!",
+      "Vietnamese": "Hướng về phía bên phải!"
+    },
+    {
+      "Key": "VC_MC00_00_04_02_World_00001_RKayamori",
+      "Context": "Adv.kayamoriTalkAsync:0",
+      "Original": "What the hell? I've never been in combat before!",
+      "Vietnamese": "N-Này, mình đã bao giờ thực chiến đâu chứ..."
+    },
+    {
+      "Key": "VC_MC00_00_04_02_World_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "People seem to be gathering in the other direction!",
+      "Vietnamese": "Mọi người dường như đang tập hợp ở hướng khác cơ!"
+    },
+    {
+      "Key": "VC_MC00_00_04_02_World_00002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Hey! What's taking you so long?",
+      "Vietnamese": "Ê này, coi bộ cậu bình thản ra phết nhỉ?"
+    },
+    {
+      "Key": "VC_MC00_00_04_02_World_00003_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "They were saying something about defensive positions, but...",
+      "Vietnamese": "...Lúc nãy các chỉ huy có nói về... trạng thái phòng thủ gì đó."
+    },
+    {
+      "Key": "VC_MC00_00_04_02_World_00004_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Anyways, we'd better hurry outside with the others.",
+      "Vietnamese": "...Dù là gì thì chúng ta vẫn nên khẩn trương ra ngoài theo họ thôi."
+    },
+    {
+      "Key": "VC_MC00_00_04_02_World_00005_YShirakawa",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "This is rather sudden. What happened?",
+      "Vietnamese": "<size=90%>...Đường đột quá, chuyện gì xảy ra vậy?"
+    },
+    {
+      "Key": "VC_MC00_00_04_02_World_00006_SKura",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "We're probably\\nunder attack.",
+      "Vietnamese": "<size=90%>...Phải xuất kích rồi à."
+    }
+  ],
+  "Inserts": []
+}

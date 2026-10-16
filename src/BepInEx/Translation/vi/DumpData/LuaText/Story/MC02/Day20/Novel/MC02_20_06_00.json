@@ -1,0 +1,60 @@
+{
+  "Script": "Story/MC02/Day20/Novel/MC02_20_06_00",
+  "Entries": [
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll continue with the training for Phase Five today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It will be the last day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What a long journey it's been...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You all will be continuing to stand by at the bridgehead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00004_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't just coast along, and try to maintain a clear sense of purpose.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00005_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You shouldn't discount any potential dangers. Keep alert, and react accordingly to the situation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger that, ma'am. The real deal's coming up, so we should put in extra effort in training.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00007_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_20_06_00_Novel_00020_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now initializing training module. Remember what we taught you.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

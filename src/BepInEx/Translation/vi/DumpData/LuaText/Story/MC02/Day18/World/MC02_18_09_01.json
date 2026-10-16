@@ -1,0 +1,32 @@
+{
+  "Script": "Story/MC02/Day18/World/MC02_18_09_01",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "About the new song...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_field_custom_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Hm?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We still have to figure out the lyrics, don't we?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Send:1",
+      "Original": "c u at the studio",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Alrighty!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

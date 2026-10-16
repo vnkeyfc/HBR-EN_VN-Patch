@@ -1,0 +1,864 @@
+{
+  "Script": "Story/MC02/Day01/Novel/MC02_01_10_01",
+  "Entries": [
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00000_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, listen to this.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Looks like Tsukassie wants to share something...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "What the heck is it?|What's with the furrowed brows?|Save it, let's hit the bath!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's with the furrowed brows?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00003_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My mother, she—Wait, what? Am I frowning that much?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, don't worry, you're not. Go on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00005_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Save it, let's hit the bath!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00007_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good thinking! We sweated a lot out there today!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00008_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "ARE YOU KIDDING ME, INTEL AGENT?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00009_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00010_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "You were about to share some information, weren't you?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, Yukkie, calm down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00012_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "You should at least listen to what your squad members have to say!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yikes... Someone's pissed...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C-C-C'mon, Tsukassie. Out with it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00015_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "O-Okay...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00016_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I know I'm not THAT scary.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00017_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you all very kindly for your concern regarding my mother. However, there is one thing that's been bothering me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's this all about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00019_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My memories of the past are hazy. I can't remember how I came here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe you're just really forgetful?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She's a little too young to be getting senile.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then what gives?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00276_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't they also come up Seraph Codes designed to boost our morale...without our input?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00277_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's possible they did background checks on us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00278_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tojo, yours is \"There exists more than one truth\". Why is that uplifting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00279_v001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? I don't know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00280_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fascinating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00281_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How so, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00282_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It means the military is capable of manipulating a person's memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_00283_v001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So it's not out of the question that they would erase certain memories altogether.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why would they want to erase Tsukassie's memories in the first place?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00025_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If she really is an intel agent, then maybe she learned something she shouldn't have.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00026_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00027_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like, oh...the true nature of the Seraphim, maybe?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00028_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00029_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's that word again. It must be important, since it keeps popping up.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "What important word?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Seraphim|Poltergeist|Knife-cut noodles",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seraphim, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00031_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The poltergeist, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00033_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not THAT thing again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00034_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "There's no such thing as ghosts! Get it together, Intel Agent!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00035_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She means \"Seraphim.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00036_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right. Seraphim.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Knife-cut noodles, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00038_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Knife-cut noodles?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know, the ones where you stand in front of a boiling pot of water, knife in one hand, dough in the other, and slice 'em nice and thin!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00040_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I GUARANTEE you no one was talkin' about your stupid noodles, of all things!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00035_KAsakura#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She means \"Seraphim.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00036_TTojo#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right. Seraphim.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00043_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are probably lots of things they haven't told us about the Seraphim...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeesh, talk about scary... How about we join up with the Cancer instead? There's still time to get on their good side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00045_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, after they eat us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00046_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Does everyone else remember how they got here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00047_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00048_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Course I do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00049_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So we can infer... Tojo, your memory was likely tampered with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00050_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Jeepers creepers, Yukkie! Don't scare us like that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00051_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Jeepers creepers is correct! You SHOULD be scared.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00052_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What? My memories?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00053_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...when would they have done it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00054_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00055_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eheh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00056_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh heh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00057_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh heheheheheheee! IT'S SCARY KARRIE TIIIME!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00058_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you have to make your entrances so dramatic? It eats up so much time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00059_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's brought you out, Karrie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00060_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have something to tell you fools...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00061_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That degree of memory alteration would only take a month to perform at most.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00062_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Before we came here, they assessed us on all sorts of things... Are you saying they did it then?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00063_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's the only possibility.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00064_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If the military went and messed with her mind, why not just wipe everything 'n' be done with it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00065_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Because if they went too far, she'd be rendered useless.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00066_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? In what way?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00067_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You should really be the one making deductions and formulating theories, Intel Agent. That's ostensibly your job. But sure, let me explain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00068_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep going. You're doing great.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00069_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If they erased everything, you'd have no reason to fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00070_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why's that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00071_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Was that not enough?! I feel like I struck right at the heart of things with that one!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00072_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please explain. In simple terms, please.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00073_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I swear... What did I do to deserve this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00074_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone in this conflict has a motive, like protecting family or proving their worth. If that were erased, would you risk your life on the front lines just for humanity's sake?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00075_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have a point!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00076_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That explains why they would only partially alter your memories.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Way to go...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Way to go, Yukkie!|Way to go, protag!|Way to go, Intel Agent!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00077_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Way to go, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00078_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyone could make these connections.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00079_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And you've got huge boobs under that uniform, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00080_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep the flattery based on facts. You know how large my chest is—or isn't.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00081_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, we both got a real good look at each other's boobs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00082_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00085_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "IT'S NOT LIKE THAT!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00086_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That's not what happened! Stop giving me those looks!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00087_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00088_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You always do this! Now even Karrie's giving me a funny look!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00089_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What happened is that she peeped on me in the shower! Nothing more, nothing less!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00090_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka, I am begging you to stop giving people the wrong idea. You might have a thing for me, but at least think before you speak!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00091_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm... It's a little embarrassing to bare my heart so openly. I think this calls for a...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00098_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00099_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Will that EVER go out of style in Ruka Land?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00092_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Way to go, protag!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00093_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There's no \"protag\" here, dum-dum. It's not a video game. This is harsh reality.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00094_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oof...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00098_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00099_YIzumi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Will that EVER go out of style in Ruka Land?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00095_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Way to go, Intel Agent!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00096_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You do know I'm the intel agent, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00097_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, my bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00098_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoopsie gravy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00099_YIzumi#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Will that EVER go out of style in Ruka Land?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00102_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Will what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00103_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "The \"whoopsie gravy\" craze!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00104_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Please stop making me say it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00105_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa now, the craze is just getting started.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00066_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Have I not made it clear that I'm sick of hearing it?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00059_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "I'm already sick of hearing that. Cut it out already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC01_02_03_00_Novel_00060_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "But it's all the rage in Ruka Land. Who am I supposed to share the joy with, if not you?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00069_v002_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "No one, that's who. Stop trying to make it happen. Seriously.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Teheperinko_00070_v002_RKayamori",
+      "Context": "Adv.talk:1",
+      "Original": "Whaaat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00106_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let me try my hand at putting everything we've discussed together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00107_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Go ahead. I'm sure you're at least capable of giving us a basic summary.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00108_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My mother was the director of the Seraph Research Institute, and I am suspicious of the circumstances surrounding her \"accidental\" death.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00109_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She may have been SILENCED by the military after learning something she shouldn't have.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00110_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes...that's right... Keep going...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00111_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There Karrie goes, cheering her on again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00112_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The truth is shrouded in mystery, and I cannot die until I uncover it—that is my reason for fighting.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00113_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, the military possesses the means to manipulate memories...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00114_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And while I was being assessed, they took it upon themselves to, com...comp...umm, what was the word again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00115_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Compromise...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00116_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, compromise my memory. So I may very well already possess the truth of my mother's death.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00117_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not too shabby, Intel Agent.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00118_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nicely done, Tsukassie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00119_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks! I won't stop until I uncover the truth!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00120_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But my head's killing me now. I may have overdone it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00121_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's not get too optimistic...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00122_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's the harm in a little optimism?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00123_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sometimes I envy your absolute lack of concern.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00124_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, that's a good note to end on. Let's hit the bath.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC02_01_12_00_Novel_00125_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

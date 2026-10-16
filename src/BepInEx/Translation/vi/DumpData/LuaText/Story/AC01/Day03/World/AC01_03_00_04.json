@@ -1,0 +1,270 @@
+{
+  "Script": "Story/AC01/Day03/World/AC01_03_00_04",
+  "Entries": [
+    {
+      "Key": "VC_AC01_00529_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really? I wouldn't say that.",
+      "Vietnamese": "Vậy sao? Tớ thì không nghĩ thế đâu?"
+    },
+    {
+      "Key": "VC_AC01_00530_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh?",
+      "Vietnamese": "Hả?"
+    },
+    {
+      "Key": "VC_AC01_00531_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not the brightest so this may not make any sense... But I think it's important for you to hold on to whatever it is you're feeling.",
+      "Vietnamese": "Tớ không được thông minh cho lắm nên không biết phân tích logic, nhưng cảm xúc thì khác, nó quan trọng với con người chúng ta lắm."
+    },
+    {
+      "Key": "VC_AC01_00532_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When someone's in trouble, you gotta help 'em. When someone's life is hanging in the balance, you take action and never look back.",
+      "Vietnamese": "Ai đó gặp nguy hiểm thì phải cứu. Đã liên quan đến sinh mạng thì không cần phải chần chừ hay hối hận gì hết."
+    },
+    {
+      "Key": "VC_AC01_00533_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And in this case, there's no guarantee that the seniors will save them.",
+      "Vietnamese": "Chưa kể cũng không có gì đảm bảo các tiền bối chắc chắn sẽ cứu được họ."
+    },
+    {
+      "Key": "VC_AC01_00534_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So if you're going to do something to help your friends, you'd better put your back into it.",
+      "Vietnamese": "Thế nên, nếu đã cố vẫy vùng, hãy vẫy vùng hết sức vì đồng đội."
+    },
+    {
+      "Key": "VC_AC01_00535_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But now we can't even move anymore...",
+      "Vietnamese": "Nhưng bây giờ, ngay cả nhúc nhích chúng ta cũng không làm được nữa..."
+    },
+    {
+      "Key": "VC_AC01_00536_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If everyone ends up dying down here, there is nothing on this earth that I could do to make up for it. I'd have so many regrets...",
+      "Vietnamese": "Cứ thế này mà mọi người bỏ mạng ở đây... tới địa ngục tôi phải chuộc tội thế nào cho đủ đây..."
+    },
+    {
+      "Key": "VC_AC01_00537_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Regrets? That's nonsense. Just be proud that you did your very best to help everyone up until the very end.",
+      "Vietnamese": "Chuộc tội gì chứ. Cứ tự hào vì đã nỗ lực đến cùng vì mọi người là được."
+    },
+    {
+      "Key": "VC_AC01_00539_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, now. Chin up. There's no need to look so glum.",
+      "Vietnamese": "Nào nào, đừng có làm bộ mặt ủ rũ thế chứ."
+    },
+    {
+      "Key": "VC_AC01_00540_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How can you be so positive in a hopeless situation like this...",
+      "Vietnamese": "Trong cái tình cảnh tuyệt vọng nhường này mà cậu vẫn nói được những lời đó sao..."
+    },
+    {
+      "Key": "VC_AC01_00541_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You think so?",
+      "Vietnamese": "Vậy sao?"
+    },
+    {
+      "Key": "VC_AC01_00542_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Would you...listen to me for a bit?",
+      "Vietnamese": "Cậu có thể... nghe tôi nói một chút được không..."
+    },
+    {
+      "Key": "VC_AC01_00543_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, of course.",
+      "Vietnamese": "Ờm, tất nhiên rồi."
+    },
+    {
+      "Key": "VC_AC01_00544_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My family made a living procuring whatever was requested of them, even if it was an illicit substance.",
+      "Vietnamese": "Gia đình tôi, nếu nhận được yêu cầu thì dù là đồ cấm cũng bắt buộc phải cung cấp, đó là nghề nghiệp kiếm sống của nhà tôi."
+    },
+    {
+      "Key": "VC_AC01_00545_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No matter how precarious the path was, we would walk it.",
+      "Vietnamese": "...Dù nguy hiểm đến đâu, chúng tôi cũng phải vượt qua."
+    },
+    {
+      "Key": "VC_AC01_00546_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our ancestors were a ninja clan, apparently. But with the changing of the times, their trade became obsolete. That's when they turned to the black market.",
+      "Vietnamese": "Nghe nói nguồn cội gia đình tôi là ninja, nhưng cùng với sự thay đổi của thời đại, nghề đó dần mai một, và chuyển sang làm thương nhân chợ đen."
+    },
+    {
+      "Key": "VC_AC01_00547_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So when I was growing up, ninjutsu techniques were hammered into me constantly.",
+      "Vietnamese": "Vì thế từ nhỏ, tôi đã bị nhồi nhét cho học tất cả những gì liên quan đến nhẫn thuật."
+    },
+    {
+      "Key": "VC_AC01_00548_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see! So that's how you manage to move around so fast!",
+      "Vietnamese": "Ra vậy! Hèn gì bồ có thể di chuyển nhanh đến thế!"
+    },
+    {
+      "Key": "VC_AC01_00549_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes.",
+      "Vietnamese": "Ừ."
+    },
+    {
+      "Key": "VC_AC01_00550_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have always been on the weaker side though. While my brothers were entrusted with all the jobs, no one asked me to do anything.",
+      "Vietnamese": "Nhưng trong nhà, chỉ có tôi là yếu kém nhất... Các anh trai lần lượt được giao phó công việc, còn tôi thì mãi chẳng được đoái hoài..."
+    },
+    {
+      "Key": "VC_AC01_00551_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But thanks to my training, I could move quickly. This allowed me to work a ton of jobs and save up a bunch of money too.",
+      "Vietnamese": "Nhờ việc huấn luyện, tôi có thể di chuyển nhanh nhẹn, nhờ vậy mà tôi làm được rất nhiều việc làm thêm cùng lúc, và cứ thế cắm đầu tích cóp tiền..."
+    },
+    {
+      "Key": "VC_AC01_00552_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not that I wanted a huge amount, just enough to put away for a rainy day.",
+      "Vietnamese": "Nhưng, tiền thì chỉ cần đủ xài là được rồi..."
+    },
+    {
+      "Key": "VC_AC01_00553_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if it involved distasteful transactions, I just wanted to carry on my family's legacy. But no one in my family actually needed me...",
+      "Vietnamese": "Thương nhân chợ đen hay gì cũng được. Tôi chỉ muốn kế thừa gia nghiệp... Nhưng chỉ có duy nhất tôi là không ai trong nhà cần đến..."
+    },
+    {
+      "Key": "VC_AC01_00554_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's why, when I entered the Seraph squadron, I wanted to be useful to someone—to anyone—from 31-C.",
+      "Vietnamese": "Vậy nên khi được chuyển đến đội Seraph, dù chỉ là với một người trong 31C cũng được... tôi muốn mình được cần đến..."
+    },
+    {
+      "Key": "VC_AC01_00555_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But instead, I've just become a burden yet again.",
+      "Vietnamese": "Thế nhưng một lần nữa, tôi lại trở thành gánh nặng ngáng đường..."
+    },
+    {
+      "Key": "VC_AC01_00556_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No matter what I do, I'm not useful to anyone. It feels like a god has predetermined this fate for me...",
+      "Vietnamese": "Rốt cuộc, sự tồn tại của tôi, lúc nào cũng vậy, chẳng bao giờ được ai cần đến... Tôi có cảm giác thần linh đang phán với mình như vậy..."
+    },
+    {
+      "Key": "VC_AC01_00557_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's ridiculous. You'll be alright. And if there is some god out there making those proclamations, I'll go kick their butt.",
+      "Vietnamese": "Không có loại người nào như thế đâu. Không sao đâu. Nếu thực sự có vị thần nào thốt ra những lời tàn nhẫn ấy, tớ sẽ đấm ổng một trận."
+    },
+    {
+      "Key": "VC_AC01_00558_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haha... That sounds just like you.",
+      "Vietnamese": "Fufu... Đúng là phong cách của Kayamori-san nhỉ."
+    },
+    {
+      "Key": "VC_AC01_00559_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I...",
+      "Vietnamese": "Tớ thì..."
+    },
+    {
+      "Key": "VC_AC01_00560_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shhh. Quiet.",
+      "Vietnamese": "Suỵt... im lặng nào..."
+    },
+    {
+      "Key": "VC_AC01_00561_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm?",
+      "Vietnamese": "...?"
+    },
+    {
+      "Key": "VC_AC01_00562_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's gone.",
+      "Vietnamese": "Nó đi rồi..."
+    },
+    {
+      "Key": "VC_AC01_00563_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A Cancer?",
+      "Vietnamese": "Không lẽ là Cancer?"
+    },
+    {
+      "Key": "VC_AC01_00564_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. It seems like there might be one lingering nearby. A big one at that.",
+      "Vietnamese": "Ừ. Có vẻ như nó đang đi tuần tra quanh đây. Kích thước lại còn khá lớn nữa..."
+    },
+    {
+      "Key": "VC_AC01_00565_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If it's anything like the Death Slug, we're in big trouble...",
+      "Vietnamese": "Giống cỡ Death Slug thì căng đấy..."
+    },
+    {
+      "Key": "VC_AC01_00566_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Agreed. Even if we fought together, we'd be hard pressed to beat something like that.",
+      "Vietnamese": "Ừ. Có khi cả bọn chúng ta hợp lực lại cũng chưa chắc đã đánh bại được nó..."
+    },
+    {
+      "Key": "VC_AC01_00567_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if you fight together with 31-C, it is not guaranteed that you will be able to eliminate them.",
+      "Vietnamese": "Dù các cô có sát cánh cùng 31C thì chưa chắc đã có thể tiêu diệt được chúng đâu."
+    },
+    {
+      "Key": "VC_AC01_00568_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you encounter any, you are to return without engaging.",
+      "Vietnamese": "Nếu phát hiện ra mục tiêu thì phải rút lui ngay, cấm giao chiến."
+    },
+    {
+      "Key": "VC_AC01_00569_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So this is what the commander was talking about...",
+      "Vietnamese": "Là con mà Chỉ huy nhắc tới đó..."
+    },
+    {
+      "Key": "VC_AC01_00570_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't believe something that strong is just wandering around nearby.",
+      "Vietnamese": "Cái con phiền phức thế lại lảng vảng quanh đây à..."
+    },
+    {
+      "Key": "VC_AC01_00571_MSatsuki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We should go back.",
+      "Vietnamese": "Chúng ta nên quay lại thôi..."
+    },
+    {
+      "Key": "VC_AC01_00572_YIzumi",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "I see... Alright, I understand the situation. For now, we need to hold tight without making any noise.",
+      "Vietnamese": "Ra là vậy... Nắm được tình hình rồi... Tóm lại đừng có phát ra tiếng động nào đấy."
+    },
+    {
+      "Key": "VC_AC01_00573_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it.",
+      "Vietnamese": "Rõ..."
+    }
+  ],
+  "Inserts": []
+}
