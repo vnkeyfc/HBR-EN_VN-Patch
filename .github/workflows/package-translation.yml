@@ -1,7 +1,8 @@
-# Packs the community patch zip from the patch repo's src/ folder and publishes it as a release of this repo, for
-# releases that only update the translation: the plugin DLLs, BepInEx and the configs are packed as the patch repo
-# has them. The tag is the packing date in Vietnam: v.DD.MM.YYYY for a stable release, v.DD.MM.YYYY-beta (then -beta1,
-# -beta2 on the same day) for a test release; see .github/scripts/package_translation.py.
+# Packs the community patch zip from this repo's src/ folder and publishes it as a release, for releases that only
+# update the translation: the plugin DLLs, BepInEx and the configs are packed as src/ has them. It packs the commit the
+# run is on, so the branch or tag picked in "Use workflow from". The tag is the packing date in Vietnam: v.DD.MM.YYYY
+# for a stable release, v.DD.MM.YYYY-beta (then -beta1, -beta2 on the same day) for a test release; see
+# .github/scripts/package_translation.py.
 name: Package translation release
 
 on:
@@ -20,16 +21,8 @@ on:
         description: "Tạo bản nháp: chưa công khai, installer chưa thấy; sửa ghi chú xong rồi đăng"
         type: boolean
         default: false
-      source_repo:
-        description: "Repo chứa gói cài đặt (thư mục src/)"
-        type: string
-        default: vnkeyfc/HBR-EN_VN-Patch
-      source_ref:
-        description: "Nhánh, tag hoặc commit của repo nguồn"
-        type: string
-        default: main
       compare_from:
-        description: "Liệt kê thay đổi từ tag/commit này của repo nguồn (để trống = từ bản release trước)"
+        description: "Liệt kê thay đổi từ tag/commit này (để trống = từ bản release trước)"
         type: string
         default: ""
 
@@ -45,53 +38,42 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      # The patch repo stores text files with LF; the game folder and the earlier zips have CRLF.
+      # The repo stores text files with LF; the game folder and the earlier zips have CRLF.
       - name: Check out text files with CRLF
         run: git config --global core.autocrlf true
 
-      - name: Check out the patch repo
+      - name: Check out the repo
         uses: actions/checkout@v5
         with:
-          repository: ${{ inputs.source_repo }}
-          ref: ${{ inputs.source_ref }}
-          path: source
           fetch-depth: 0
           persist-credentials: false
 
-      - name: Check out the packaging script
-        uses: actions/checkout@v5
-        with:
-          path: tools
-          sparse-checkout: .github/scripts
-          persist-credentials: false
-
-      - name: Read this repo's tags and releases
+      - name: Read the tags and releases
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh api --paginate "repos/$GITHUB_REPOSITORY/releases?per_page=100" --jq '.[].tag_name' > existing-tags.txt
-          gh api --paginate "repos/$GITHUB_REPOSITORY/tags?per_page=100" --jq '.[].name' >> existing-tags.txt
+          gh api --paginate "repos/$GITHUB_REPOSITORY/releases?per_page=100" --jq '.[].tag_name' > "$RUNNER_TEMP/existing-tags.txt"
+          gh api --paginate "repos/$GITHUB_REPOSITORY/tags?per_page=100" --jq '.[].name' >> "$RUNNER_TEMP/existing-tags.txt"
           gh api "repos/$GITHUB_REPOSITORY/releases?per_page=100" \
-            --jq '[.[] | select(.draft | not)][0] // null' > previous-release.json
+            --jq '[.[] | select(.draft | not)][0] // null' > "$RUNNER_TEMP/previous-release.json"
 
       - name: Pack the zip and write the release notes
         id: package
         env:
           SUFFIX: ${{ inputs.suffix }}
           NOTES: ${{ inputs.notes }}
-          SOURCE_REPO: ${{ inputs.source_repo }}
           COMPARE_FROM: ${{ inputs.compare_from }}
         run: |
-          python3 tools/.github/scripts/package_translation.py \
-            --source source \
-            --source-repo "$SOURCE_REPO" \
+          python3 .github/scripts/package_translation.py \
+            --source . \
+            --source-repo "$GITHUB_REPOSITORY" \
             --release-repo "$GITHUB_REPOSITORY" \
             --suffix "$SUFFIX" \
             --notes "$NOTES" \
             --compare-from "$COMPARE_FROM" \
-            --existing-tags existing-tags.txt \
-            --previous-release previous-release.json \
-            --out out
+            --existing-tags "$RUNNER_TEMP/existing-tags.txt" \
+            --previous-release "$RUNNER_TEMP/previous-release.json" \
+            --out "$RUNNER_TEMP/out"
 
       - name: Create the release
         env:
@@ -101,14 +83,10 @@ jobs:
           ASSET: ${{ steps.package.outputs.asset }}
           NOTES_FILE: ${{ steps.package.outputs.notes }}
           PRERELEASE: ${{ steps.package.outputs.prerelease }}
-          SOURCE_SHA: ${{ steps.package.outputs.source_sha }}
-          SOURCE_REPO: ${{ inputs.source_repo }}
           DRAFT: ${{ inputs.draft }}
         run: |
-          # The tag goes on the packed commit when the release lives in the patch repo itself.
-          target="$GITHUB_SHA"
-          if [ "${SOURCE_REPO,,}" = "${GITHUB_REPOSITORY,,}" ]; then target="$SOURCE_SHA"; fi
-          args=(--repo "$GITHUB_REPOSITORY" --title "$NAME" --notes-file "$NOTES_FILE" --target "$target")
+          # The tag goes on the packed commit.
+          args=(--repo "$GITHUB_REPOSITORY" --title "$NAME" --notes-file "$NOTES_FILE" --target "$GITHUB_SHA")
           if [ "$PRERELEASE" = "true" ]; then
             args+=(--prerelease); state="Bản thử nghiệm (pre-release)"
           else
