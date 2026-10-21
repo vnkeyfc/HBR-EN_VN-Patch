@@ -1,0 +1,135 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC12/AC12_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 12.3,
+      "EndSecond": 15.2,
+      "OriginalText": "Looks like I have a pretty formidable opponent",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 15.3,
+      "EndSecond": 22.7,
+      "OriginalText": "So much so that I can't help but smile",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 24.3,
+      "EndSecond": 27.2,
+      "OriginalText": "That makes me look like some kind of villain",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 27.3,
+      "EndSecond": 34.7,
+      "OriginalText": "Even though my pride is what I use to make a living",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 36.2,
+      "EndSecond": 38.9,
+      "OriginalText": "What was the start of all this?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 39,
+      "EndSecond": 42,
+      "OriginalText": "It's been so long that I forgot",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 42.1,
+      "EndSecond": 47.2,
+      "OriginalText": "I guess all that's left for me is becoming a war god",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 48,
+      "EndSecond": 49.3,
+      "OriginalText": "\"\"\"Take that!\"\"\"",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 49.4,
+      "EndSecond": 50.7,
+      "OriginalText": "I shout with all my might",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 50.8,
+      "EndSecond": 53.9,
+      "OriginalText": "I burn up my soul",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 54,
+      "EndSecond": 59.9,
+      "OriginalText": "This is a job that turns an instant into an eternity",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 60,
+      "EndSecond": 65.9,
+      "OriginalText": "Sometimes, I can't help but want to whine",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 66,
+      "EndSecond": 68.7,
+      "OriginalText": "\"\"\"Take that!\"\" I shout to pump myself up\"",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 68.8,
+      "EndSecond": 75.2,
+      "OriginalText": "And crush it all into dust",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

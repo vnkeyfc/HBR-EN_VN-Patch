@@ -7,20 +7,31 @@
 イメージ=<size\=120%>Artwork</size>
 
 [Voice]
-Seraph Code=Seraphim Code
-DP Damage=Thương tổn DP
-HP Damage=Thương tổn HP
-Victory=Chiến thắng
-Close Victory=Chiến thắng suýt soát
-Defeated=Bại trận
-Level Up=Tăng cấp
-Max Level=Đạt cấp tối đa
-Passive Upgrade=Nâng cấp kỹ năng bị động
-Skill Unlock=Mở khoá kỹ năng
-Limit Break=Đột phá giới hạn
-Gig Mode Stage Clear=Chế độ Live: Hoàn thành
-Gig Mode Full Combo Success=Chế độ Live: Full Combo
-Gig Mode Fail=Chế độ Live: Thất bại
+Seraph Code=<size\=85%>Seraphim Code
+sr:"^Seraph Code \((.+)\)$"=<size\=85%>Seraphim Code ($1)
+DP Damage=<size\=85%>Thương tổn DP
+sr:"^DP Damage \((.+)\)$"=<size\=85%>Thương tổn DP ($1)
+HP Damage=<size\=85%>Thương tổn HP
+sr:"^HP Damage \((.+)\)$"=<size\=85%>Thương tổn HP ($1)
+Victory=<size\=85%>Chiến thắng
+sr:"^Victory \((.+)\)$"=<size\=85%>Chiến thắng ($1)
+Close Victory=<size\=85%>Chiến thắng suýt soát
+sr:"^Close Victory \((.+)\)$"=<size\=85%>Chiến thắng suýt soát ($1)
+Defeated=<size\=85%>Bại trận
+sr:"^Defeated \((.+)\)$"=<size\=85%>Bại trận ($1)
+Level Up=<size\=85%>Tăng cấp
+sr:"^Level Up \((.+)\)$"=<size\=85%>Tăng cấp ($1)
+Max Level=<size\=85%>Đạt cấp tối đa
+sr:"^Max Level \((.+)\)$"=<size\=85%>Đạt cấp tối đa ($1)
+Passive Upgrade=<size\=85%>Nâng cấp nội tại
+sr:"^Passive Upgrade \((.+)\)$"=<size\=85%>Nâng cấp nội tại ($1)
+Skill Unlock=<size\=85%>Mở khoá kỹ năng
+sr:"^Skill Unlock \((.+)\)$"=<size\=85%>Mở khoá kỹ năng ($1)
+Limit Break=<size\=85%>Đột phá giới hạn
+sr:"^Limit Break \((.+)\)$"=<size\=85%>Đột phá giới hạn ($1)
+Gig Mode Stage Clear=<size\=85%>Chế độ Live: Hoàn thành
+Gig Mode Full Combo Success=<size\=85%>Chế độ Live: Full Combo
+Gig Mode Fail=<size\=85%>Chế độ Live: Thất bại
 
 [General-Info]
 所属部隊=Đơn vị
@@ -54,6 +65,7 @@ Feb 14=14 tháng 2
 "There exists more than one truth!"\n\nA beautiful, self-proclaimed elite intel agent.\nDespite her appearance, she is anything but capable.\nShe does have a vast knowledge of random and useless trivia.\nOne of her favorite things to do is to bestow upon Karen Asakura, her fellow 31-A squadmate, a plethora of skin and beauty tips.=『 Sự thật không chỉ có một! 』\n\nTự xưng là một tình báo viên ưu tú với vẻ ngoài hoàn mỹ. Tuy nhiên, nhìn sao cũng thấy cô chỉ là một tình báo viên ẩm ương, luôn mồm ra rả về những thông tin vô dụng. Tojo luôn tìm thấy niềm vui khi hướng dẫn thành viên trong đội là Asakura Karen về bí quyết dưỡng da.
 
 [Asakura-Karen]
+Karrie=Karen-chan
 <style\=RubyPrefixTag></style>\nKaren<space\=-76.73px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=76.71999px><style\=RubySuffixTag></style> Asakura<space\=-107.465px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=107.455px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nAsakura<space\=-76.73px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=76.71999px><style\=RubySuffixTag></style> Karen<space\=-107.465px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=107.455px><style\=RubySuffixTag></style>
 Jul 11=11 tháng 7
 CV: Yu Serizawa =CV: Serizawa Yu
@@ -203,7 +215,7 @@ CV: Mari Uchiyama =CV: Uchiyama Mari
 
 [Ohshima-Isuzu]
 <style\=RubyPrefixTag></style>\nIsuzu<space\=-71.37px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=71.35999px><style\=RubySuffixTag></style> Ohshima<space\=-114.315px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=114.305px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nOhshima<space\=-71.37px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=71.35999px><style\=RubySuffixTag></style> Isuzu<space\=-114.315px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=114.305px><style\=RubySuffixTag></style>
-CV: Saima Nakano =CV: Nanako Saima
+CV: Saima Nakano =CV: Nakano Saima
 "Open sesame!"\n\nThe fifth sister of the impoverished Ohshima sextuplets and the family's troublemaker.\nShe loves mischief and often causes problems for her sisters.\nExcels in opening locks and treats them like living things when doing it.\nAccording to her, she's also very good at opening the hearts of other girls.=『 Open the Lock! 』\n\nCon gái thứ năm trong một gia đình nghèo gồm sáu chị em. Kẻ gây rối trong nhà. Cô là người thích chơi khăm và thường xuyên quấy nhiễu các chị em. Isuzu thích sưu tầm ổ khóa, và trong mắt cô ổ khóa gần như thể những sinh vật sống. Cô tự nhận là rất có kinh nghiệm ứng phó với phái nữ.
 
 [Ohshima-Muua]

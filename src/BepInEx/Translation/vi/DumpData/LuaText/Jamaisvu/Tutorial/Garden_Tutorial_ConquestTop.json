@@ -1,0 +1,16 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_ConquestTop",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Tap the Commence Operation button to begin the Suppression Mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButtonRect:4",
+      "Original": "Next",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

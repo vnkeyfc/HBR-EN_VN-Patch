@@ -1,0 +1,324 @@
+{
+  "Script": "Story/AC42/Day02/World/AC42_02_02_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00445_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will make the ultimate kari. Mmh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00446_KMaruyama",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00447_MTenne",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00449_HOgasawara",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Excuse me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00448_YBungo",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "<i>Snip?</i>",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00450_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will make the ultimate—",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00451_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, we heard you the first time. We're trying to ask what IS the ultimate kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00452_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's got a really dumb name, <i>snip</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00453_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmmgh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00454_MTenne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Don't just speak your thoughts out loud!\\nWe were all thinking that, but we kept quiet, you know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800031_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop it! Stop thumping on my helmet, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00455_HOgasawara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm, what you just said did not help.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00456_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tenne.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00457_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wh-What?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00458_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I will drown you in the Bay of Bengal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00459_MTenne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Why just me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00460_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Forget all that and give them the rundown, Vri...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00461_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Very well. I will explain.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00462_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm... So it's kari that solidifies family ties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00463_HOgasawara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Incidentally, what did your father do for work?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00464_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "He served in the Ministry of Commerce and Industry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00465_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Comm race? Is that like a race for phones, <i>snip</i>?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00466_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Ministry of Commerce and Industry. I know not what Vritika's father's work there was, but it's a ministry charged with a country's industries and economic development.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00467_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "His position was close to the Minister of Commerce, so he put his work first, above each and everything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00468_HOgasawara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you get along with him poorly?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00469_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I would help my father with work...so I think we actually got along quite well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800032_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your father worked for the Ministry of Commerce and Industry and you helped him?! Math geniuses are incredible!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00470_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However... I did not talk much with my older siblings, and we would often disagree.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00471_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I always wanted to mend that rift, but I could never make it happen, in the end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00472_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And your mother's ultimate kari united your family, despite all that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00473_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But what made you want to concoct the ultimate kari now, of all times?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00474_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00478_HOgasawara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see, you want to resolve the discord in your squad, as it's having a negative effect on your unity...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00483_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you're hoping the ultimate kari will help mend 31-X's bonds?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00484_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haan. Exactly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00485_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I understand. I will gladly help you with that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00486_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00487_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Did you not tell us about this because you wanted our help?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00488_HOgasawara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seniority does not matter in these things. We are friends, after all. It is only natural we try to help each other.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00489_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're making yummy kari, Bungo.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00490_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oooh! I want to try it, <i>snip</i>! And offer it up as tribute to the Master, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00491_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, in for a penny, in for a pound, I gueeeess...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00492_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, what exactly should we do?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00493_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No one but my mother knows the recipe to the ultimate kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00494_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have attempted to recreate it, but the distribution of spice must have been off, because I could not reproduce the flavor in full.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00495_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To that end, I need everyone to gather an assortment of spices.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00496_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, since you're the only one who knows what it's supposed to taste, this is the only thing we CAN do to help.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00497_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And I must apologize... I would normally be joining you in the search of the spices.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00498_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have a mission to handle, right? Let us handle finding the spices.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00499_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, you need to practice your group's coordination too, right? Focus on that when you're out there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00500_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone...dhanyavaad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00501_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good luck todayyy~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00502_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. I am off.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

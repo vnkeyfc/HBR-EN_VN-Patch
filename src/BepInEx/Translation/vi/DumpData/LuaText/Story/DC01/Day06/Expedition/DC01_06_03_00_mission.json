@@ -1,0 +1,147 @@
+{
+  "Script": "Story/DC01/Day06/Expedition/DC01_06_03_00_mission",
+  "Entries": [
+    {
+      "Key": "VC_Z_906300712_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm? This looks like the same kinda device we found at the research facility in Toyama. Yukkie, can you get it to play?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300744_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, the battery's shot. We'll need to replace that part.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300713_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, let's bring it back with us and try it out later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Acquired Recording Device: 1/3",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400031_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There may be similar devices nearby. Please make sure to retrieve them too.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Acquired Recording Device: 2/3",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Acquired Recording Device: 3/3",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400060_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "That should be all the devices around here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300704_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "The facilities here are in pretty terrible shape, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300739_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Checking the power... It looks like it's up and running.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400023_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Some of the auxiliary power sources might have come back online thanks to the restoration of the Mount Goryu power transmission facility.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300382_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If the light is on inside, we should investigate it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400024_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The military's stationing room is located inside. From the documents left behind, we may be able to gain valuable contemporary information.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300705_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It could come in handy in our fight against the hub-tier Cancer. Let's check it out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300706_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa... It's a mess in here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300383_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The documents are scattered everywhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300707_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, nothing we can do about that. Let's start with the ones that are intact.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300740_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I found an old combat report. Looks like there were powerful Cancers in the area, and the military evacuated once they realized they couldn't defeat them all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300708_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So we've got more rough customers out there than just the hub-tier.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300378_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So scary...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300741_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, is that the only thing that comes to mind for you? \"So scary\"? Try to say something a little more constructive.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400025_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It seems these enemies inhabit sectors some distance away from the center of the operation area. These sectors are low priority. If you encounter any formidable foes, please consider withdrawing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300742_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See? That's what you call constructive feedback.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300709_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got it. So we need to be extra careful if we come across them.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,180 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC19/AC19_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 12.2,
+      "EndSecond": 12.7,
+      "OriginalText": "Listen to this song",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 14.6,
+      "EndSecond": 15.7,
+      "OriginalText": "The Speed of Farewells",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 32.2,
+      "EndSecond": 38.8,
+      "OriginalText": "All those secrets you keep to yourself",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 39.1,
+      "EndSecond": 46,
+      "OriginalText": "I want you to share them with no one but me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 46.2,
+      "EndSecond": 53.1,
+      "OriginalText": "With that alone, I get to be someone special",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 53.2,
+      "EndSecond": 60.8,
+      "OriginalText": "And become stronger. Isn't that somethin'?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 64.4,
+      "EndSecond": 68.2,
+      "OriginalText": "I ain't gonna lose",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 78.9,
+      "EndSecond": 81.7,
+      "OriginalText": "Long Winding Story",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 81.9,
+      "EndSecond": 84,
+      "OriginalText": "Only Lonely Glory",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 84.1,
+      "EndSecond": 87,
+      "OriginalText": "Even if God is dozing off",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 87.1,
+      "EndSecond": 90.1,
+      "OriginalText": "Even if I end up hating this world",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 90.2,
+      "EndSecond": 96.1,
+      "OriginalText": "Farewells always pass by at a blinding speed",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 96.2,
+      "EndSecond": 99,
+      "OriginalText": "I'll gather up all the love within me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 99.1,
+      "EndSecond": 102,
+      "OriginalText": "And convey it with \"I love you\"",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 102.2,
+      "EndSecond": 108.7,
+      "OriginalText": "With my dreams, ambitions, and everything else hidden behind me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 108.9,
+      "EndSecond": 111.2,
+      "OriginalText": "And you look back at me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 111.4,
+      "EndSecond": 114.1,
+      "OriginalText": "With those dazzling",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 114.3,
+      "EndSecond": 117.1,
+      "OriginalText": "And innocent eyes",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 117.2,
+      "EndSecond": 121,
+      "OriginalText": "I'll just smile",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

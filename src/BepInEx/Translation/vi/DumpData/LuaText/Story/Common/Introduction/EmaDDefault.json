@@ -1,0 +1,35 @@
+{
+  "Script": "Story/Common/Introduction/EmaDDefault",
+  "Entries": [
+    {
+      "Key": "VC_Z_908600040_EmaD",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Violet",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_908600040_EmaD",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I'm in your debt for all that you do for me. Please call me Violet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_908600041_EmaD",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Violet",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_908600041_EmaD",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I hope I won't get in your way too much, and I look forward to your guidance!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "You became friends with\\nViolet!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

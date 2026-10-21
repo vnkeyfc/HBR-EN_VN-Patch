@@ -1,0 +1,26 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_Arcade_Stage",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Select the squad you will use during battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "During the stage, your squad members\\nwill start at Lv. 1.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Furthermore, while their equipped skills and passives will remain,\\nenhancements and equipment will not be reflected in battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Once you are ready, select \"Attempt\" to begin!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

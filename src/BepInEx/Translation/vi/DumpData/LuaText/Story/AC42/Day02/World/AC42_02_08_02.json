@@ -1,0 +1,162 @@
+{
+  "Script": "Story/AC42/Day02/World/AC42_02_08_02",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00719_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome back, Vritika.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00720_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have returned... My, where is Yotsuha?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00721_HOgasawara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She said she's busy and running a little late.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00722_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I see.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00723_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But forget that, look at this big haul we got!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00724_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My...that is quite the selection.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00725_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We got everything in the store, and we asked everyone who cooks on the base to share some of their stock with us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00726_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And she fished through her trash heap to get some too, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00727_MTenne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Those were my potion ingredients!!!\\nNot trash!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00728_HOgasawara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm surprised they could be used as spices too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00729_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, it was a stroke of luck that I dried out some of my mixing ingredients. A lot of spices are only good when you dry them out, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00730_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh... Yes, I believe so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00731_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's wrong, Vritika? Something on your mind?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00732_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I have never reproduced the ultimate kari on my own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00733_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am a bit unsure...if I can ever truly do it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00734_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Couldn't you have said that before you had us collect all this stuff, <i>snip</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00735_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "BUNGOOOO!!!!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00736_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop it! Stop thumping on my helmet, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00737_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She never taught you the recipe, did she?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800051_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Correct.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00738_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then that's probably because she believed you would find it on your own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00740_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When Yanagi believes I can do something on my own, she never helps me, no matter how hard of a time I have with it. She believes I can grow and mature.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800052_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So don't worry, Vritika. I know you'll make the ultimate kari!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00741_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kanata...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00742_HOgasawara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Once you complete it, please be sure to let us have a taste, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00743_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, but of course.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

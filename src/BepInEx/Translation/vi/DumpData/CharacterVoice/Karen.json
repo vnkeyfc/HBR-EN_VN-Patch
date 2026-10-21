@@ -1,0 +1,242 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "Karen",
+  "CharacterName": "カレン",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_Karen",
+      "Label": "Karen_SeraphimCode",
+      "Title": "セラフィムコード（カレン）",
+      "Original": "呼吸をするように息の根を止め！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": "Bóp nghẹt sự sống tự nhiên như hít thở!"
+    },
+    {
+      "Key": "VB0014_Karen",
+      "Label": "Karen_BattleDpDamage",
+      "Title": "DPダメージボイス（カレン）",
+      "Original": "まだまだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_Karen",
+      "Label": "Karen_BattleDpDamage",
+      "Title": "DPダメージボイス（カレン）",
+      "Original": "ねえ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_Karen",
+      "Label": "Karen_BattleDpDamage",
+      "Title": "DPダメージボイス（カレン）",
+      "Original": "ホホウー",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_Karen",
+      "Label": "Karen_BattleHpDamage",
+      "Title": "HPダメージボイス（カレン）",
+      "Original": "ううっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_Karen",
+      "Label": "Karen_BattleHpDamage",
+      "Title": "HPダメージボイス（カレン）",
+      "Original": "やりおる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_Karen",
+      "Label": "Karen_BattleHpDamage",
+      "Title": "HPダメージボイス（カレン）",
+      "Original": "ぬぬぬぬ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0051_Karen",
+      "Label": "Karen_BattleWin",
+      "Title": "勝利ボイス（カレン）",
+      "Original": "ガレンちゃんはこれぽっちじゃ満足できない！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_Karen",
+      "Label": "Karen_BattleWin",
+      "Title": "勝利ボイス（カレン）",
+      "Original": "この華麗なやり方こそ、カレンちゃんの美学！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_Karen",
+      "Label": "Karen_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス（カレン）",
+      "Original": "なかなかに愉快だったぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_Karen",
+      "Label": "Karen_BattleLose",
+      "Title": "敗北ボイス（カレン）",
+      "Original": "まさかこの足が負ける…だと…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_Karen",
+      "Label": "Karen_BattleLose",
+      "Title": "敗北ボイス（カレン）",
+      "Original": "何が起きておる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_Karen",
+      "Label": "Karen_BattleLose",
+      "Title": "敗北ボイス（カレン）",
+      "Original": "お、おーおーおー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_Karen",
+      "Label": "Karen_BattleLevelUp",
+      "Title": "レベルアップボイス（カレン）",
+      "Original": "イヤハハハハハ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_Karen",
+      "Label": "Karen_BattleLevelUp",
+      "Title": "レベルアップボイス（カレン）",
+      "Original": "まだまだカレンちゃんは飢えておる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_Karen",
+      "Label": "Karen_BattleLevelUpMax",
+      "Title": "レベルマックスボイス（カレン）",
+      "Original": "最強のサイコキラーにふさわしい力よ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_Karen",
+      "Label": "Karen_BattleLevelUpMax",
+      "Title": "レベルマックスボイス（カレン）",
+      "Original": "まだじゃ！まだじゃ！まだじゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_Karen",
+      "Label": "Karen_EnhanceAbility",
+      "Title": "アビリティ強化ボイス（カレン）",
+      "Original": "やったー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_Karen",
+      "Label": "Karen_EnhanceAbility",
+      "Title": "アビリティ強化ボイス（カレン）",
+      "Original": "いい感じ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_Karen",
+      "Label": "Karen_ReleaseSkill",
+      "Title": "スキル解放ボイス（カレン）",
+      "Original": "凶器は鋭いに限る",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_Karen",
+      "Label": "Karen_ReleaseSkill",
+      "Title": "スキル解放ボイス（カレン）",
+      "Original": "切れ味が増した",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_Karen",
+      "Label": "Karen_LimitBreak",
+      "Title": "限界突破ボイス（カレン）",
+      "Original": "さらに強くなれてしまうというのか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_Karen",
+      "Label": "Karen_LimitBreak",
+      "Title": "限界突破ボイス（カレン）",
+      "Original": "まだまだ楽しみは続くようだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000155_KAsakura",
+      "Label": "Karen_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "ふぅ…緊張したぁ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000157_Karen",
+      "Label": "Karen_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "イッシュー！当然の結果よ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000156_Karen",
+      "Label": "Karen_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "カレンちゃんの誤検に関わる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

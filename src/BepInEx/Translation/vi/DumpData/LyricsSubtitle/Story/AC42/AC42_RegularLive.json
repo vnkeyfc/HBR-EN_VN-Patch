@@ -1,0 +1,216 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC42/AC42_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 0.9,
+      "EndSecond": 6.1,
+      "OriginalText": "Sing it louder, coriander",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 6.2,
+      "EndSecond": 11.2,
+      "OriginalText": "Never fearing, king of everything",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 11.3,
+      "EndSecond": 13.9,
+      "OriginalText": "Gaze upon this incandescent satellite's glow",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 14,
+      "EndSecond": 16.5,
+      "OriginalText": "Be seduced by aroma from a nectar bestowed",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 16.6,
+      "EndSecond": 19.3,
+      "OriginalText": "Feel the sting in your eye like a tyrant's blow",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 19.4,
+      "EndSecond": 21.7,
+      "OriginalText": "So rejoice, common folk, form a Michelin drove",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 21.8,
+      "EndSecond": 32.1,
+      "OriginalText": "Yesterday we missed connecting, let me reach you here and now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 32.2,
+      "EndSecond": 37.2,
+      "OriginalText": "Bloom it vaster, coriander",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 37.3,
+      "EndSecond": 39.9,
+      "OriginalText": "Gaze upon reminiscence through the Ganges' flow",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 40,
+      "EndSecond": 42.5,
+      "OriginalText": "Spinning round with the Fibonacci primes as our poles",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 42.6,
+      "EndSecond": 45.2,
+      "OriginalText": "In the days of our sickness, in the times of our health",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 45.3,
+      "EndSecond": 47.7,
+      "OriginalText": "In the watery surface of the psychic cosmos",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 47.8,
+      "EndSecond": 58.3,
+      "OriginalText": "And I think of how I'll see you when tomorrow's morning comes",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 58.4,
+      "EndSecond": 64.3,
+      "OriginalText": "I'm tamping the lid down, I'm straining my ears now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 65.8,
+      "EndSecond": 70.8,
+      "OriginalText": "Strike that coriander, bring the majesty",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 70.9,
+      "EndSecond": 76.2,
+      "OriginalText": "Punch those wild commands in, make the heavens see",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 76.3,
+      "EndSecond": 81.4,
+      "OriginalText": "Strike that cardamom exhilaratingly",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 81.5,
+      "EndSecond": 86.6,
+      "OriginalText": "Fell that salamander, your katar so free",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 86.7,
+      "EndSecond": 89.1,
+      "OriginalText": "In the ancient morn",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 89.2,
+      "EndSecond": 92.1,
+      "OriginalText": "All was made to be",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 92.2,
+      "EndSecond": 97.2,
+      "OriginalText": "Sing it louder, coriander",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 97.3,
+      "EndSecond": 102.5,
+      "OriginalText": "Work it harder, commander",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 102.6,
+      "EndSecond": 107.9,
+      "OriginalText": "King of everything",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

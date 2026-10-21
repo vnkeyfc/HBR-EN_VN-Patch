@@ -1,0 +1,144 @@
+{
+  "Script": "Story/MC04B/Day14/Battle/MC04B_14_Kayamori_07_03_Hard",
+  "Entries": [
+    {
+      "Key": "VC_Z_901700078_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Its head detached itself?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07821_v001_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And, it's even calling out the Bonerattler?! How DARE it call for backup!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700079_CSugahara",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We hurried over to regroup after taking down the tail, but this is quite an unexpected sight to see!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700080_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka! What's the current situation?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700081_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori! What's the current situation?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700082_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We destroyed the core, but the head detached itself!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700083_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We cannot allow for the head to flee!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07822_v001_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Indeed. 30-G will keep the Bonerattler at bay while you face against the Skullplume!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901700084_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right! I'll leave them to you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07826_v001_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Megumi...can you still keep going?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07827_v001_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You betcha!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07828_v001_RKayamori",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Megumin...you really came in clutch...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07829_v001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With the six of us together now...we can definitely win! C'mon, let's do this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07831_v001_TTojo",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07833_v001_MAikawa",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Ya got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07830_v001_KAsakura",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Mhm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07832_v001_YIzumi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07834_v001_TKunimi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Aye aye!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07830_v001_KAsakura#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Mhm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07831_v001_TTojo#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07832_v001_YIzumi#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07833_v001_MAikawa#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Ya got it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_MC04B_07834_v001_TKunimi#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye aye!!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

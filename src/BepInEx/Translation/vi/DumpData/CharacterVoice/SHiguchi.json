@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "SHiguchi",
+  "CharacterName": "樋口聖華",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_SHiguchi",
+      "Label": "SHiguchi_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "新鮮な「死」を見せてくれ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Cho ta xem một cái chết thật \"tươi\" nào!"
+    },
+    {
+      "Key": "VB0012_SHiguchi",
+      "Label": "SHiguchi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "へへ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0013_SHiguchi",
+      "Label": "SHiguchi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "いい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0014_SHiguchi",
+      "Label": "SHiguchi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "悪くない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_SHiguchi",
+      "Label": "SHiguchi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "面白い",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_SHiguchi",
+      "Label": "SHiguchi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "やるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_SHiguchi",
+      "Label": "SHiguchi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まずいか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0049_SHiguchi",
+      "Label": "SHiguchi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "データとしては全く使えん戦いだったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_SHiguchi",
+      "Label": "SHiguchi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "生死をかけた戦いはやはりいいものだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0050_SHiguchi",
+      "Label": "SHiguchi_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "なかなかに有益だったよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_SHiguchi",
+      "Label": "SHiguchi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ついに、この時が…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_SHiguchi",
+      "Label": "SHiguchi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "素晴らしい気分だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_SHiguchi",
+      "Label": "SHiguchi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "これが…死というもの…か…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0051_SHiguchi",
+      "Label": "SHiguchi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "さらにいいデータが取れそうだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_SHiguchi",
+      "Label": "SHiguchi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "まさにオノが被験者",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_SHiguchi",
+      "Label": "SHiguchi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "データとしてはMAXか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_SHiguchi",
+      "Label": "SHiguchi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "一研究者でもこんなところまで来れるんだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_SHiguchi",
+      "Label": "SHiguchi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "こんなところか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_SHiguchi",
+      "Label": "SHiguchi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいんじゃないか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_SHiguchi",
+      "Label": "SHiguchi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "いい、いいぞ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_SHiguchi",
+      "Label": "SHiguchi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "面白い",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_SHiguchi",
+      "Label": "SHiguchi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだまだ楽しめそうだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_SHiguchi",
+      "Label": "SHiguchi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "そう来なくては",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000632_SHiguchi",
+      "Label": "SHiguchi_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "つまらないことに付き合ってしまったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000634_SHiguchi",
+      "Label": "SHiguchi_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "なんというデータだ！素晴らしいじゃないか！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000633_SHiguchi",
+      "Label": "SHiguchi_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "所詮遊び、気にすることはない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_SHiguchi",
+      "Label": "SHiguchi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "やれやれ、こき使われるな。",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_SHiguchi",
+      "Label": "SHiguchi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お前、そんなキャラだったか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_SHiguchi",
+      "Label": "SHiguchi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "何の用だ。呼んだ覚えはないぞ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_SHiguchi",
+      "Label": "SHiguchi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ワクワクするな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

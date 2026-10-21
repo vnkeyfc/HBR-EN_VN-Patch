@@ -2,7 +2,7 @@
 通常ガチャ=Gacha Thường
 チケットガチャ=Gacha Vé
 ボーナスゲージ=Thanh Bonus
-利用履歴=<size\=85%>Lịch sử giao dịch</size>
+利用履歴=<size\=85%>Lịch sử sử dụng</size>
 詳細/提供割合=Chi tiết / Tỉ lệ
 もう一度引く=Chiêu mộ lần nữa
 

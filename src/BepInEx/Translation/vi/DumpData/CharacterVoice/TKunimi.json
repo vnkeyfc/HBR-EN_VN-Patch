@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "TKunimi",
+  "CharacterName": "國見タマ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_TKunimi",
+      "Label": "TKunimi_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "天下一品",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Thiên Hạ Nhất Phẩm!"
+    },
+    {
+      "Key": "VB0014_TKunimi",
+      "Label": "TKunimi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "くぅ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_TKunimi",
+      "Label": "TKunimi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "げへー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_TKunimi",
+      "Label": "TKunimi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "やめてもらえませんかー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_TKunimi",
+      "Label": "TKunimi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "クヘッ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_TKunimi",
+      "Label": "TKunimi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ぎゅううううううう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_TKunimi",
+      "Label": "TKunimi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "でななななななななななな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0051_TKunimi",
+      "Label": "TKunimi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "おつであります",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_TKunimi",
+      "Label": "TKunimi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "セラフ部隊しか勝たん！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_TKunimi",
+      "Label": "TKunimi_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "死ぬ！死ぬかと思った！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_TKunimi",
+      "Label": "TKunimi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "すみませんでした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_TKunimi",
+      "Label": "TKunimi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "史上でも…敗北…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_TKunimi",
+      "Label": "TKunimi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "終わった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_TKunimi",
+      "Label": "TKunimi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "キタワー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_TKunimi",
+      "Label": "TKunimi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "これで勝つな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_TKunimi",
+      "Label": "TKunimi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "こってりやったりましたー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_TKunimi",
+      "Label": "TKunimi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "天下一品！こだわりの勝利！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_TKunimi",
+      "Label": "TKunimi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_TKunimi",
+      "Label": "TKunimi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "キタコレ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_TKunimi",
+      "Label": "TKunimi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "素晴らしい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_TKunimi",
+      "Label": "TKunimi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "強くなった気がする",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_TKunimi",
+      "Label": "TKunimi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "何かが開かれた！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_TKunimi",
+      "Label": "TKunimi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "胸アツ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000335_TKunimi",
+      "Label": "TKunimi_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "死ぬかと思った",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000337_TKunimi",
+      "Label": "TKunimi_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "ふしょうくにみたも、やったりましたー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000336_TKunimi",
+      "Label": "TKunimi_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "死んだ！ 死にました！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_TKunimi",
+      "Label": "TKunimi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ついに来たー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_TKunimi",
+      "Label": "TKunimi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "キター！ワクワクタイム！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_TKunimi",
+      "Label": "TKunimi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "やったりましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_TKunimi",
+      "Label": "TKunimi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "そこに痺れる憧れの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

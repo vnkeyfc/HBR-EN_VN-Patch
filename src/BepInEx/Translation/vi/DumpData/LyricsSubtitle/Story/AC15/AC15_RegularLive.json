@@ -1,0 +1,198 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC15/AC15_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 5.5,
+      "EndSecond": 9.4,
+      "OriginalText": "Now the cruelty begins",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 10.6,
+      "EndSecond": 16.5,
+      "OriginalText": "We're not ready to die,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 16.6,
+      "EndSecond": 21.5,
+      "OriginalText": "so we simply continue to live on",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 21.6,
+      "EndSecond": 24.4,
+      "OriginalText": "Isn't that how we are?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 24.5,
+      "EndSecond": 27.5,
+      "OriginalText": "You might try to laugh,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 27.6,
+      "EndSecond": 32.8,
+      "OriginalText": "but I won't let you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 32.9,
+      "EndSecond": 35.7,
+      "OriginalText": "You can fix your collar,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 35.8,
+      "EndSecond": 38.5,
+      "OriginalText": "and grab your handkerchief",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 38.6,
+      "EndSecond": 43,
+      "OriginalText": "But just don't forget your courage",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 43.1,
+      "EndSecond": 43.9,
+      "OriginalText": "What I remember are",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 44,
+      "EndSecond": 48.8,
+      "OriginalText": "The canals that led straight into the clouds",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 48.9,
+      "EndSecond": 53.6,
+      "OriginalText": "As the dragonflies carried summer itself away",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 53.7,
+      "EndSecond": 59.7,
+      "OriginalText": "I'm certain I won the Nobel Prize that day",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 59.8,
+      "EndSecond": 64.7,
+      "OriginalText": "Believing that the dream would continue on",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 64.8,
+      "EndSecond": 70.7,
+      "OriginalText": "What I remember are the fireworks that I wished would go on forever",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 70.8,
+      "EndSecond": 75.7,
+      "OriginalText": "As I drew them in my notebook with color",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 75.8,
+      "EndSecond": 81.6,
+      "OriginalText": "I know I got far more than I should have that day",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 81.7,
+      "EndSecond": 86.9,
+      "OriginalText": "Maybe that's why I've come to return the favor",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 87,
+      "EndSecond": 92.5,
+      "OriginalText": "Now then, let's say \"See you tomorrow\"",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 92.6,
+      "EndSecond": 96.6,
+      "OriginalText": "We'll need it,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 96.7,
+      "EndSecond": 107,
+      "OriginalText": "'cause we're lost in space",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

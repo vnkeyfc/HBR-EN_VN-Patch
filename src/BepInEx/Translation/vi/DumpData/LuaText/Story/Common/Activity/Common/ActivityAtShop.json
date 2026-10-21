@@ -1,0 +1,121 @@
+{
+  "Script": "Story/Common/Activity/Common/ActivityAtShop",
+  "Entries": [
+    {
+      "Context": "DisplayShopTemplate:2",
+      "Original": "New items in stock! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Everything here is highly recommended! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Hope you get what you paid for! ♪ Keep raking in more GP to spend here! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "There's no point in letting those GP sit around. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Get yourselves fully geared up! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "You sure that's enough armor? ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "When you get what you pay for with everything here, that's a seal of confidence. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Never forget to be prepared! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "I hope you brought a crapload of GP! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Buy everything you need to not die on your next mission! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "This is your one-stop shop for everything you need! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "An ounce of prevention is worth a pound of cure! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Today's the day! Make sure to keep your loins well-girded! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Let your GP flow today! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Be prepared to shop till you drop! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "We're open all hours! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Spend like there is no tomorrow! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "The store loves a high roller! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Spend your GP like water! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "The art is not in hording money, but in spending it! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "You can't take your money with you to the afterlife! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Welcome! With our products, you get what you pay for! ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Field.startNovel:0",
+      "Original": "Welcome! There are new items in stock. ♪",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

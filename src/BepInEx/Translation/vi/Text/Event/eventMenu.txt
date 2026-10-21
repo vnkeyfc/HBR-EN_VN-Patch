@@ -43,13 +43,13 @@ Featured=NỔI BẬT
 Upon Clearing Chapter 1=Sau khi hoàn thành Chương 1
 Upon Clearing Chapter 2=Sau khi hoàn thành Chương 2
 Upon Clearing Chapter 3=Sau khi hoàn thành Chương 3
-Main Scenario: Interlude=Chính Truyện: Chương đệm
+Main Scenario: Interlude=Chính truyện: Chương đệm
 
 [Dungeon]
 ダンジョン選択=<size\=80%><cspace\=-2px>Lựa chọn Dungeon</cspace></size>
 踏破率=Tiến độ
-推奨戦力=L.C đề cử:
-推奨属性=T.T đề cử:
+推奨戦力=L.C đề cử
+推奨属性=T.T đề cử
 初回ボス討伐報酬=Thưởng diệt Boss lần đầu
 報酬はありません=Không có phần thưởng
 ダンジョンチケット=Vé Dungeon
@@ -60,8 +60,8 @@ An earnest feeling that remains in fleeting memories...\n\nDespite it being thei
 [DIFF B] Ikebukuro UG=<size\=85%>[Độ khó B] Hầm Ikebukuro</size>
 
 
-r:"^<style\=RubyPrefixTag></style>\nUnlock Conditions:\nClear Main Scenario: Chapter (\d+)$"=<style\=RubyPrefixTag></style>\nĐiều kiện mở khoá:\nHoàn thành Chính Truyện: Chương $1
-r:"^<style\=RubyPrefixTag></style>\nUnlock Conditions\nClear Main Scenario: Chapter (\d+)$"=<style\=RubyPrefixTag></style>\nĐiều kiện mở khoá:\nHoàn thành Chính Truyện: Chương $1
+r:"^<style\=RubyPrefixTag></style>\nUnlock Conditions:\nClear Main Scenario: Chapter (\d+)$"=<style\=RubyPrefixTag></style>\nĐiều kiện mở khoá:\nHoàn thành Chính truyện: Chương $1
+r:"^<style\=RubyPrefixTag></style>\nUnlock Conditions\nClear Main Scenario: Chapter (\d+)$"=<style\=RubyPrefixTag></style>\nĐiều kiện mở khoá:\nHoàn thành Chính truyện: Chương $1
 r:"^Featured! <size\="20">(\d+) Day\(s\) Left</size>$"=NỔI BẬT! <size\="20">Còn $1 ngày</size>
 r:"^Featured! <size\="20">(\d+) Hour\(s\) Left</size>$"=NỔI BẬT! <size\="20">Còn $1 giờ</size>
 r:"^Featured! <size\="20">(\d+) Minute\(s\) Left</size>$"=NỔI BẬT! <size\="20">Còn $1 phút</size>
@@ -71,7 +71,7 @@ COMPLETE=<cspace\=-2px>ĐÃ HOÀN TẤT
 Tokens\n3x=Token\n×3
 
 Difficulty Level Selection=Lựa chọn độ khó
-r:"^Equivalent to clearing Main Scenario Chapter (\d+) Day (\d+)$"=Độ khó tương ứng với Chính Truyện: Chương $1 Ngày $2
-sr:"^Equivalent to clearing Main Scenario (.+)$"=Độ khó tương ứng với Chính Truyện: $1
+r:"^Equivalent to clearing Main Scenario Chapter (\d+) Day (\d+)$"=Độ khó tương ứng với Chính truyện: Chương $1 Ngày $2
+sr:"^Equivalent to clearing Main Scenario (.+)$"=Độ khó tương ứng với Chính truyện: $1
 Recommended!=Đề cử!
 * The difficulty level can be adjusted at a later point. Rewards do not change with the difficulty level.=※Độ khó có thể được điều chỉnh vào bất kỳ lúc nào. Số lượng phần thưởng sẽ không bị ảnh hưởng bởi độ khó.

@@ -1,4 +1,6 @@
-sr:"Clear a \"(.+)\" event flashback battle."=[$1] Hoàn thành 1 lần khiêu chiến Prism Event.
+sr:"^Clear Main Scenario: Interlude I \"(.+)\".$"=Hoàn thành Chính truyện: Chương đệm 1 - "$1".
+sr:"^Clear Main Scenario: Interlude II \"(.+)\".$"=Hoàn thành Chính truyện: Chương đệm 2 - "$1".
+sr:"Clear an \"(.+)\" event flashback battle."=[$1] Hoàn thành 1 lần khiêu chiến Prism Event.
 sr:"Clear (\d+) \"(.+)\" event flashback battles."=[$2] Hoàn thành $1 lần khiêu chiến Prism Event.
 sr:"Acquire (.+) tokens for the \"(.+)\" event Token Exchange."=[$2] Thu thập $1 token.
 sr:"Clear the \"(.+)\" event."=Đọc sự kiện "$1".

@@ -1,4 +1,4 @@
-Watch the "HOW TO PLAY HBR" video.=Xem video Hướng dẫn về Heaven Burns Red
-Raise Ruka Kayamori to Lv. 10.=Tăng cấp nhân vật của Kayamori Ruka lên Lv.10
-sr:"^Clear the "(.+) \((.+)\)" battle in the arena.$"=Hoàn thành Huấn luyện "$1 ($2)" trong Arena
-r:"^Accomplish (\d+) Board (\d+) missions.$"=Đã hoàn thành $1 nhiệm vụ của Bảng $2
+Watch the "HOW TO PLAY HBR" video.=Xem video Hướng dẫn về Heaven Burns Red.
+Raise Ruka Kayamori to Lv. 10.=Tăng cấp nhân vật của Kayamori Ruka lên Lv.10.
+sr:"^Clear the "(.+) \((.+)\)" battle in the arena.$"=Hoàn thành Huấn luyện "$1 ($2)" trong Đấu trường.
+r:"^Accomplish (\d+) Board (\d+) missions.$"=Đã hoàn thành $1 nhiệm vụ của Bảng $2.

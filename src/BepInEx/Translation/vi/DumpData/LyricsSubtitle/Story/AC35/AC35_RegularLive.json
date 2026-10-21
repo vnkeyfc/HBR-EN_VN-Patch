@@ -1,0 +1,162 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC35/AC35_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 9.2,
+      "EndSecond": 18,
+      "OriginalText": "Makes me feel like I could lose it",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 19.6,
+      "EndSecond": 24.1,
+      "OriginalText": "Tell me I'll reach the finish, out on this endless road",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 24.8,
+      "EndSecond": 32.3,
+      "OriginalText": "Say to me you'll be there",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 35,
+      "EndSecond": 48.2,
+      "OriginalText": "Here comes the winter, let me be like a tardigrade, curling up",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 50.8,
+      "EndSecond": 55.5,
+      "OriginalText": "I will go exist until the end of the universe!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 56.8,
+      "EndSecond": 62.1,
+      "OriginalText": "Memories, chasing planes, white streaks through the sky",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 62.2,
+      "EndSecond": 64.6,
+      "OriginalText": "Will your shape blur and fade?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 64.7,
+      "EndSecond": 65.9,
+      "OriginalText": "Maybe!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 66,
+      "EndSecond": 67.3,
+      "OriginalText": "In this rain",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 67.4,
+      "EndSecond": 72.2,
+      "OriginalText": "There we played kick-the-can, keep on going on",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 72.3,
+      "EndSecond": 77.6,
+      "OriginalText": "I liked you, I loved you, always will",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 77.7,
+      "EndSecond": 81.3,
+      "OriginalText": "Holding this single piece of candy out for no one else",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 81.4,
+      "EndSecond": 82.9,
+      "OriginalText": "It's just for you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 83,
+      "EndSecond": 86.3,
+      "OriginalText": "It's just for you\n(We watched the fading vapor trails!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 86.4,
+      "EndSecond": 90.6,
+      "OriginalText": "It's just for you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 91.5,
+      "EndSecond": 98.2,
+      "OriginalText": "That's all there is, that's all I have",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 98.3,
+      "EndSecond": 101.5,
+      "OriginalText": "That's all there is, that's all I have\n(It was too glaring and I ran away!)",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

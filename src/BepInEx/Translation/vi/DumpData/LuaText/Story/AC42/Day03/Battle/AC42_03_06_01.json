@@ -1,0 +1,54 @@
+{
+  "Script": "Story/AC42/Day03/Battle/AC42_03_06_01",
+  "Entries": [
+    {
+      "Key": "VC_Z_907200133_LShanhua",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Not yet!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200165_CReaper",
+      "Context": "Adv.showCutIn:1",
+      "Original": "It's counterattackin'!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400107_MdAngelis",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Not going to happen!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200115_IRedmayne",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Following up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600003_Cskopovskaya",
+      "Context": "Adv.showCutIn:1",
+      "Original": "We will...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400001_VBalakrishnan",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Protect this place!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400002_VBalakrishnan",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "This is our answer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400003_VBalakrishnan",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "31-X can win this!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

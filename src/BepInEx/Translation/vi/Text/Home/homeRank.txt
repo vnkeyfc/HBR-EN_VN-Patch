@@ -1,6 +1,6 @@
 Chapter Cleared=Hoàn thành Chương
 
-メインストーリー進行で以下の機能が解放されます=Tiếp tục Chính Truyện để mở khóa các tính năng sau:
+メインストーリー進行で以下の機能が解放されます=Tiếp tục Chính truyện để mở khóa các tính năng sau:
 
 [Chapter1]
 ・<color\=#91eaf2>Socializations</color> Unlocked=<size\=90%>・Mở khoá tính năng: <color\=#91eaf2>Giao Lưu</color>

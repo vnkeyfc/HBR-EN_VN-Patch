@@ -23,7 +23,7 @@ Reward(s) obtained=Đã nhận phần thưởng
 長押しでスタイル性能詳細を確認できます。=Nhấn giữ Hồi Ức để xem chi tiết.
 Exchange for selected Memoria?=Xác nhận chọn Hồi Ức này?
 
-<style\=RubyPrefixTag></style>\nNot currently available.=<style\=RubyPrefixTag></style>\nHiện tại không khả dụng
+<style\=RubyPrefixTag></style>\nNot currently available.=<style\=RubyPrefixTag></style>\nHiện tại không khả dụng.
 
 r:"^(\d+) left$"=<size\=90%>Còn $1 lần
 r:"^Acquired: (.+)$"=<space\=60px>Nhận được: $1
@@ -46,6 +46,7 @@ sr:"^Skill level of (.+)'s \"(.+)\" has increased! (\d+) → (\d+)$"=Kỹ năng 
 パック・クォーツ=Gói Quartz
 オトクにクォーツを購入しよう！=<cspace\=1px>Mua gói Quartz với giá ưu đãi!
 r:"No. Remaining:\n(\d+)"=Số lượng: $1
+r:"No. Remaining: (\d+)"=Số lượng: $1
 利用規約=<size\=85%>Điều khoản dịch vụ
 Subscribe=Đăng ký
 r:"^(.+) / Month$"=$1 / Tháng
@@ -58,15 +59,8 @@ Three-Month Premium Pass Pack=Gói Thẻ tháng Cao Cấp ×3
 
 sr:"^(.+) Acquired$"=Đã nhận $1
 
-ATTACKER=<size\=120%>ATTACKER
-BREAKER=<size\=130%>BREAKER
-BUFFER=<size\=130%>BUFFER
-DEBUFFER=<size\=130%>DEBUFFER
-BLASTER=<size\=130%>BLASTER
-HEALER=<size\=130%>HEALER
-DEFENDER=<size\=130%>DEFENDER
-ADMIRAL=<size\=130%>ADMIRAL
-RIDER=<size\=130%>RIDER
-
 NOW LOADING=<size\=75%><b>ĐANG NẠP DỮ LIỆU 
 AUTO SAVING=TỰ ĐỘNG LƯU
+CONNECTING=ĐANG KẾT NỐI
+
+<size\=22>Collab Recruitment Now ON</size>=Chiêu mộ hợp tác đang diễn ra

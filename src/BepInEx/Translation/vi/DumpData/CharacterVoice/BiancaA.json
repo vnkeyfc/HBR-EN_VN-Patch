@@ -1,0 +1,269 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "BiancaA",
+  "CharacterName": "渕田ひさ子",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VB_Z_903900302_BiancaA",
+      "Label": "BiancaA_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "嫌なことばかりでも前へ進め",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Cho dù đầy rẫy những niềm đau, hãy cứ bước tiếp."
+    },
+    {
+      "Key": "VB_Z_903900237_BiancaA",
+      "Label": "BiancaA_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おっと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900238_BiancaA",
+      "Label": "BiancaA_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ちっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900239_BiancaA",
+      "Label": "BiancaA_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "くそっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900243_BiancaA",
+      "Label": "BiancaA_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ううっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900244_BiancaA",
+      "Label": "BiancaA_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "あはっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900245_BiancaA",
+      "Label": "BiancaA_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっせー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900277_BiancaA",
+      "Label": "BiancaA_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "こいつは最高の相棒だな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900278_BiancaA",
+      "Label": "BiancaA_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "アウトロはワンストロークで十分さ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900279_BiancaA",
+      "Label": "BiancaA_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "ありえ、こいつをうまく使えなかった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900246_BiancaA",
+      "Label": "BiancaA_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "死んでるのに…また死ぬのか…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900247_BiancaA",
+      "Label": "BiancaA_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "こんな終わり…ねえよ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900248_BiancaA",
+      "Label": "BiancaA_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "先に行かせてもらうぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900280_BiancaA",
+      "Label": "BiancaA_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "私のギターを聞けー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900281_BiancaA",
+      "Label": "BiancaA_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "レベルアップは3ストロークしちまうぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900282_BiancaA",
+      "Label": "BiancaA_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やべえノリノリだぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900283_BiancaA",
+      "Label": "BiancaA_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ただの陽動部隊だったはずなのにな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900288_BiancaA",
+      "Label": "BiancaA_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "手応えありだ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900289_BiancaA",
+      "Label": "BiancaA_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よっしゃー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900290_BiancaA",
+      "Label": "BiancaA_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "新しいテイクを編み出しちまったぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900284_BiancaA",
+      "Label": "BiancaA_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "やったぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_903900285_BiancaA",
+      "Label": "BiancaA_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "限界なんてねーよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_903900313_BiancaA",
+      "Label": "BiancaA_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "まあ、なかなか悪くなかったよ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_903900315_BiancaA",
+      "Label": "BiancaA_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "目指すは武道館ってか 生きてたらの話だが",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_903900314_BiancaA",
+      "Label": "BiancaA_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "ライブハウスで金になるぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_BiancaA",
+      "Label": "BiancaA_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "え？自主練してただけだけど？",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_BiancaA",
+      "Label": "BiancaA_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "おいおいなんだよこりゃー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_BiancaA",
+      "Label": "BiancaA_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "なあ、何する？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_BiancaA",
+      "Label": "BiancaA_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "すぐ完コピしてやるぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

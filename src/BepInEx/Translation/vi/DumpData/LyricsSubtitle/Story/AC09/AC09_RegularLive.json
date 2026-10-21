@@ -1,0 +1,135 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC09/AC09_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 14.5,
+      "EndSecond": 18.6,
+      "OriginalText": "Hey, won't you smile again today?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 18.7,
+      "EndSecond": 24.8,
+      "OriginalText": "Life is falling ever downward",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 24.9,
+      "EndSecond": 35.6,
+      "OriginalText": "It's made to turn out always for the worse. Someone did a bang-up job here",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 35.7,
+      "EndSecond": 40.9,
+      "OriginalText": "I go shopping to force myself to make some serotonin",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 41,
+      "EndSecond": 46.7,
+      "OriginalText": "I'm so dumb, to the point that there's nowhere to walk",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 46.8,
+      "EndSecond": 50.7,
+      "OriginalText": "Just like a sea that's parting",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 50.8,
+      "EndSecond": 52.1,
+      "OriginalText": "(Break the Sea!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 52.2,
+      "EndSecond": 57.3,
+      "OriginalText": "Just like a sky that's falling",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 57.4,
+      "EndSecond": 62.7,
+      "OriginalText": "I had a long, long dream",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 62.8,
+      "EndSecond": 68.2,
+      "OriginalText": "So beautiful that words cannot express",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 68.3,
+      "EndSecond": 73.7,
+      "OriginalText": "That's exactly why I'll go search for it now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 73.8,
+      "EndSecond": 82.4,
+      "OriginalText": "But if I do, will you still smile then? ",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 85,
+      "EndSecond": 95.9,
+      "OriginalText": "Even if this world is a prison",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 96,
+      "EndSecond": 105.8,
+      "OriginalText": "And living in it is my punishment",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MSatsuki",
+  "CharacterName": "佐月マリ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP_Z_900000033_MSatsuki",
+      "Label": "MSatsuki_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "全滅のご注文承りました",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Yêu cầu toàn diệt đã nhận."
+    },
+    {
+      "Key": "VB0014_MSatsuki",
+      "Label": "MSatsuki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "あら",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MSatsuki",
+      "Label": "MSatsuki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まだまだです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MSatsuki",
+      "Label": "MSatsuki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "もう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_MSatsuki",
+      "Label": "MSatsuki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_MSatsuki",
+      "Label": "MSatsuki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "わっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_MSatsuki",
+      "Label": "MSatsuki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "このままでは…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0051_MSatsuki",
+      "Label": "MSatsuki_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "お疲れ様でした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_MSatsuki",
+      "Label": "MSatsuki_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "はぁー、殺した殺したー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_MSatsuki",
+      "Label": "MSatsuki_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "お疲れ様でした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MSatsuki",
+      "Label": "MSatsuki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "終わってしまいましたか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MSatsuki",
+      "Label": "MSatsuki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "お客様、申し訳ございません。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MSatsuki",
+      "Label": "MSatsuki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みなさん…どこに…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MSatsuki",
+      "Label": "MSatsuki_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "強くなっちゃいました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_MSatsuki",
+      "Label": "MSatsuki_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "これからもお客様の笑顔のために",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_MSatsuki",
+      "Label": "MSatsuki_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "サツキマリの限界はここまでになります",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_MSatsuki",
+      "Label": "MSatsuki_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ご満足いただけましたでしょうか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MSatsuki",
+      "Label": "MSatsuki_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いい感じです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MSatsuki",
+      "Label": "MSatsuki_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "順調です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MSatsuki",
+      "Label": "MSatsuki_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "扱いやすくなりました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MSatsuki",
+      "Label": "MSatsuki_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "こいつすげーですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MSatsuki",
+      "Label": "MSatsuki_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "また強くなれそうですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MSatsuki",
+      "Label": "MSatsuki_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "すべてはお客様のために",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000123_MSatsuki",
+      "Label": "MSatsuki_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "楽しんでもらえたでしょうか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000125_MSatsuki",
+      "Label": "MSatsuki_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "お前ら最高だぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000124_MSatsuki",
+      "Label": "MSatsuki_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "このサツキマリ、出直して参ります",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MSatsuki",
+      "Label": "MSatsuki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "いらっしゃいませー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MSatsuki",
+      "Label": "MSatsuki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "はい、ご一緒します",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MSatsuki",
+      "Label": "MSatsuki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お値段通りです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MSatsuki",
+      "Label": "MSatsuki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "張り切ってぶち殺してやりましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "LShanhua",
+  "CharacterName": "李映夏",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_LShanhua",
+      "Label": "LShanhua_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "我が覇道を見よ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Hãy chứng kiến ta đây xưng hùng xưng bá!"
+    },
+    {
+      "Key": "VB0014_LShanhua",
+      "Label": "LShanhua_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "届かぬよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_LShanhua",
+      "Label": "LShanhua_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "堅牢よな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_LShanhua",
+      "Label": "LShanhua_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ふぅ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_LShanhua",
+      "Label": "LShanhua_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_LShanhua",
+      "Label": "LShanhua_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ゲローガー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_LShanhua",
+      "Label": "LShanhua_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "おのれ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_LShanhua",
+      "Label": "LShanhua_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "完璧な勝利であったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_LShanhua",
+      "Label": "LShanhua_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "これが諸葛孔明の策よ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_LShanhua",
+      "Label": "LShanhua_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "悪評であったが勝利は勝利だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_LShanhua",
+      "Label": "LShanhua_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "船長で伏すとは……軍師の名をね……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_LShanhua",
+      "Label": "LShanhua_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "わらわとしたことが",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_LShanhua",
+      "Label": "LShanhua_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "作詞…作に溺れる…か…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_LShanhua",
+      "Label": "LShanhua_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "空風を積んだぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_LShanhua",
+      "Label": "LShanhua_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "格が上がったようだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_LShanhua",
+      "Label": "LShanhua_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "これぞ文武両道よ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_LShanhua",
+      "Label": "LShanhua_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "信義大義が満ちた",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_LShanhua",
+      "Label": "LShanhua_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "空風の賜物だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_LShanhua",
+      "Label": "LShanhua_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "これず諸葛孔明の死",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_LShanhua",
+      "Label": "LShanhua_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "この剣のさえを見よ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_LShanhua",
+      "Label": "LShanhua_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "虎の子の一振りとなろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_LShanhua",
+      "Label": "LShanhua_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "さらなる知恵を得たり",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_LShanhua",
+      "Label": "LShanhua_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "諸葛孔明を超える日は近い",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000402_LShanhua",
+      "Label": "LShanhua_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "良き演奏大義であったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000404_LShanhua",
+      "Label": "LShanhua_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "これぞ天下統一よ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000403_LShanhua",
+      "Label": "LShanhua_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "わらわが失策するだと？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0015_LShanhua",
+      "Label": "LShanhua_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "諸葛孔明の子孫なるぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_LShanhua",
+      "Label": "LShanhua_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "わらわと友達になりたいとな？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0017_LShanhua",
+      "Label": "LShanhua_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "サンコノレーメン！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_LShanhua",
+      "Label": "LShanhua_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "おい、なんとか言わぬか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

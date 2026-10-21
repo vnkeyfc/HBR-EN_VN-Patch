@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "IMinase",
+  "CharacterName": "水瀬いちご",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_IMinase",
+      "Label": "IMinase_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "インフェルノに焼かれな",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Bùng cháy trong hoả ngục đi!"
+    },
+    {
+      "Key": "VB0012_IMinase",
+      "Label": "IMinase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "さあ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0013_IMinase",
+      "Label": "IMinase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "せっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0014_IMinase",
+      "Label": "IMinase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "こいつ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_IMinase",
+      "Label": "IMinase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くっそ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_IMinase",
+      "Label": "IMinase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "マジーナ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_IMinase",
+      "Label": "IMinase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うわああああああ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0049_IMinase",
+      "Label": "IMinase_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "はっ 準備運動にもならねえ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_IMinase",
+      "Label": "IMinase_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "こっちは最強姉妹だっちゅうの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0050_IMinase",
+      "Label": "IMinase_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "意外と楽しめたぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_IMinase",
+      "Label": "IMinase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "くっそ…マジかよ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_IMinase",
+      "Label": "IMinase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "おいおい、冗談だろ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_IMinase",
+      "Label": "IMinase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "死ぬ…ここまでか…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_IMinase",
+      "Label": "IMinase_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "よっと、また強くなっちまった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_IMinase",
+      "Label": "IMinase_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "よっと、当然の結果だわな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_IMinase",
+      "Label": "IMinase_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やった最強姉妹にふさわしいな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9012_IMinase",
+      "Label": "IMinase_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やっともうしばらく遊んでていいんじゃねーの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_IMinase",
+      "Label": "IMinase_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よっしゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_IMinase",
+      "Label": "IMinase_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいんじゃねーか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_IMinase",
+      "Label": "IMinase_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "すげーじゃねーか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_IMinase",
+      "Label": "IMinase_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "やるなお前",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_IMinase",
+      "Label": "IMinase_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "よっしゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_IMinase",
+      "Label": "IMinase_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだいけるぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000354_IMinase",
+      "Label": "IMinase_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "なんとかなったようだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000356_IMinase",
+      "Label": "IMinase_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "マジかよ 私音楽の才能あんのか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000355_IMinase",
+      "Label": "IMinase_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "慣れねえことはするもんじゃねえな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_IMinase",
+      "Label": "IMinase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "面白い。望むところだよ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_IMinase",
+      "Label": "IMinase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "とりあえず、自信ぐらい持て。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_IMinase",
+      "Label": "IMinase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "まあ、こんなもんだろ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_IMinase",
+      "Label": "IMinase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "私もずいぶん丸くなったもんだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

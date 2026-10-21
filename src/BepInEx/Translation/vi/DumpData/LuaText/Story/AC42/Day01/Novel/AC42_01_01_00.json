@@ -1,0 +1,401 @@
+{
+  "Script": "Story/AC42/Day01/Novel/AC42_01_01_00",
+  "Entries": [
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "Some time later...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00029_CReaper",
+      "Context": "Adv.playCutInDual:3",
+      "Original": "F○CK!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00029_CReaper",
+      "Context": "Adv.playCutInDual:9",
+      "Original": "I will kill you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00031_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaa, an explosive situation, first thing in the morning?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00032_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The atmosphere is very tense.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00033_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are they fighting?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00034_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To cause such a ruckus so early... Did they so quickly forget what happened last night?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00035_LShanhua",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Squad 31-X's second emergency meeting!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00038_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why we doin' this in the middle of the night?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00039_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ladies, I believe we are in quite the predicament!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00042_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You all saw 31-A's combat records during today's training. What did you see, Charl?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00043_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka was so dashing...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00044_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nuoooh! I should have asked literally anyone else!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00045_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The footage of their fluid coordination was like watching a whirlwind! We are leagues behind them in our elimination speed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00046_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As an assault squad, 31-A sees many battlefields and grows accordingly stronger! Do you not think we must grow stronger, such that we are not left behind?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00048_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure enough... As an elite international unit, we can't be restin' on our laurels. What'cha got for us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00050_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X is lacking in tactical finesse... In other words, strategy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800004_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Moreover, you lot agreed to follow my tactics! Why have you relapsed into acting independently?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00053_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We know you're doin' all this planning for us, Yingxia, but we just don't gel that way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00054_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X's style is that of swift victories while leveraging each of our individual abilities. Our styles simply don't match.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00055_LShanhua",
+      "Context": "Adv.playCutIn:3",
+      "Original": "THEN WHAT ARE WE TO DO?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00063_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe we should train to perfect our coordination. If we improve our coordination speed, won't we naturally manage to pull off Yingxia's tactics?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00065_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we're already tryin' to coordinate.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00066_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You call that coordination?! You are charging at the enemy as you please!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00067_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, your instructions can be a bit vague and abstract... Mm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00068_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00069_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then how about we try letting Vritika take command for once?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00070_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! Her, not me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00071_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We acknowledge your talents as a tactician, of course, but coordination requires precise timing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00074_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So we can have Vritika run some simulations that give us the kind of coordination 31-A exhibits.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00075_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll just end up getting the same results, if we keep relying on intuition, so why not take a more mathematical perspective from Vritika?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00076_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gngngngngng...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00077_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Legendary Tactician destroyed by Master Detective's logic, eh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00078_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaddya say, Vritika? Think ya could jack 31-X's coordination into your math?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00079_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Jacking 31-X...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00081_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have often thought that 31-X makes many unnecessary actions during battle. I will do my level best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00082_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, you're looking rather motivated, Vritika.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00083_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will be very proud, if my math skills can make 31-X stronger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00084_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay! Then startin' tomorrow, we train our coordination off Vritika's calculations.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00086_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00087_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you mean to say that Yingxia was demoted from her role as tactician?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00088_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was NOT demoted! I am simply allowing Vritika to lend her expertise, allowing you to fully implement my tactics!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00089_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I remember. It's why I'm makin' us burgers for breakfast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800007_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everybody eats the same stuff at the cafeteria, but if one of your teammates makes you breakfast, unit cohesion's a given!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00090_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Burgers for breakfast every day...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00091_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I dread the indigestion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00092_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Verily. This will not grant us the strength we need.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00093_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Breakfast provides the first burst of energy for the day. Some vegetable-rich Chinese cuisine would be a superior option.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00094_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't Chinese worse, in terms of how much oil it uses?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00095_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And so I offer to cook instead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00096_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let me guess: Pizza.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00097_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You have a problem with pizza? I will kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800008_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eeeek! No problems whatsoever! Pizza is a superfood that combines veggies, meat, and dairy! It's God's chosen food!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00099_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Hah.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00100_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?! What is that face supposed to mean?! I'm even more frightened now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00101_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But as a detective, I must say this. Hamburger, Chinese, and pizza are all too heavy for breakfast.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00104_IRedmayne",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "So as a compromise, I suggest...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00105_CReaper#2",
+      "Context": "Adv.showCutInV2:1",
+      "Original": "Dont'cha dare\\nbring up English food!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00107_MdAngelis#2",
+      "Context": "Adv.showCutInV2:1",
+      "Original": "Do not dare bring\\n up English food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00106_LShanhua",
+      "Context": "Adv.showCutInV2:1",
+      "Original": "We do not want\\n your English food!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00108_IRedmayne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Bigotry! This is discrimination!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00109_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "England is home to the incomparable Full English breakfast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00110_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Man, we're gettin' nowhere fast. And here I am, tryin' to cook for you out of the kindness of my big New York heart.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00111_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmmgh. Hold on, where is Charl?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00112_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Charl cleaned her plate while you were discussing last night, and went to speak to Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00113_LShanhua",
+      "Context": "Adv.playCutIn:3",
+      "Original": "She is insubordinating already!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

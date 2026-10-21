@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "IRedmayne",
+  "CharacterName": "アイリーンレドメイン",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_IRedmayne",
+      "Label": "IRedmayne_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "真実は一つだけ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Sự thật chỉ có một mà thôi!"
+    },
+    {
+      "Key": "VB0014_IRedmayne",
+      "Label": "IRedmayne_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "想定内です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_IRedmayne",
+      "Label": "IRedmayne_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "届きませんよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_IRedmayne",
+      "Label": "IRedmayne_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "あはは",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_IRedmayne",
+      "Label": "IRedmayne_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_IRedmayne",
+      "Label": "IRedmayne_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "こんな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_IRedmayne",
+      "Label": "IRedmayne_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "起きましたか！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_IRedmayne",
+      "Label": "IRedmayne_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "QEDですね、えへん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_IRedmayne",
+      "Label": "IRedmayne_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "実に単純なトリックでした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_IRedmayne",
+      "Label": "IRedmayne_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "なんじけんでしたが、あたしにかかればノープロブレムです。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_IRedmayne",
+      "Label": "IRedmayne_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "どこでミスをしてしまったのでしょう。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_IRedmayne",
+      "Label": "IRedmayne_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "アンベレババ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_IRedmayne",
+      "Label": "IRedmayne_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "私は…倒れるわけには…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_IRedmayne",
+      "Label": "IRedmayne_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "バーン！真実を撃ち抜きました！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_IRedmayne",
+      "Label": "IRedmayne_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "バン！様になってきました！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_IRedmayne",
+      "Label": "IRedmayne_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "極まりました！えへん！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_IRedmayne",
+      "Label": "IRedmayne_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "バーン！名探偵なら当然です！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_IRedmayne",
+      "Label": "IRedmayne_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "ふむふむ… なるほど…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_IRedmayne",
+      "Label": "IRedmayne_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いい調子ですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_IRedmayne",
+      "Label": "IRedmayne_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "名探偵に優秀な相棒はつきもの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_IRedmayne",
+      "Label": "IRedmayne_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "オーダーメイドにこだわりましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_IRedmayne",
+      "Label": "IRedmayne_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "推理に果てはありません",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_IRedmayne",
+      "Label": "IRedmayne_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "どこまで強くなれるのかは謎ですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000469_IRedmayne",
+      "Label": "IRedmayne_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "やほや、なんとも単純なトリックでしたね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000471_IRedmayne",
+      "Label": "IRedmayne_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "名探偵にかかればこんなものですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000470_IRedmayne",
+      "Label": "IRedmayne_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "私がスーパーミス？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_IRedmayne",
+      "Label": "IRedmayne_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お待たせしました。事件ですか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0015_IRedmayne",
+      "Label": "IRedmayne_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "事件はすでに解決しています",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_IRedmayne",
+      "Label": "IRedmayne_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "これ探偵の出る幕あるんですか！？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_IRedmayne",
+      "Label": "IRedmayne_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "これにてQEDです えへん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

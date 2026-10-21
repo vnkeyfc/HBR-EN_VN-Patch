@@ -1,0 +1,153 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC31/AC31_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 6.3,
+      "EndSecond": 10.8,
+      "OriginalText": "Become a mystery hunter with us!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 11.9,
+      "EndSecond": 22.8,
+      "OriginalText": "Just because none of this is to your liking, you complain about anything and everything",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 22.9,
+      "EndSecond": 32.4,
+      "OriginalText": "How does it feel to be so drunk on your eye for beauty that you throw your weight around?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 32.5,
+      "EndSecond": 38.1,
+      "OriginalText": "I've seen people ruined by that",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 38.2,
+      "EndSecond": 43.6,
+      "OriginalText": "Our hearts are but a fragile fantasy",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 43.7,
+      "EndSecond": 49,
+      "OriginalText": "You say nothing but good things as you look at yourself in the mirror",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 49.1,
+      "EndSecond": 55,
+      "OriginalText": "That's just how perfect you really are, no?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 55.2,
+      "EndSecond": 60,
+      "OriginalText": "I'm all fed up, and I've shut out even the world",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 60.1,
+      "EndSecond": 66,
+      "OriginalText": "The only thing that reaches my heart is your words of thanks",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 66.1,
+      "EndSecond": 70.9,
+      "OriginalText": "I kept living my life without direction",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 71,
+      "EndSecond": 77.2,
+      "OriginalText": "And your gratitude is like an aurora I see at life's very end",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 77.3,
+      "EndSecond": 82.1,
+      "OriginalText": "This world is full of mysterious, unexplainable things",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 82.2,
+      "EndSecond": 87.8,
+      "OriginalText": "Of course, not all of it is going to be fun",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 87.9,
+      "EndSecond": 93,
+      "OriginalText": "Sometimes, you just want to end it all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 93.1,
+      "EndSecond": 97.8,
+      "OriginalText": "But during those times, I'll say this to you:",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 98.7,
+      "EndSecond": 103.4,
+      "OriginalText": "'Thank you for always being there for me.'",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

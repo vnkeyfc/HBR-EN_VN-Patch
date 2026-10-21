@@ -1,0 +1,16 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_Arcade_GameHard",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "By toggling the AUTO option to On,\\nyou can play Arts Battles on Auto Mode.\\nYou may toggle Auto Mode on or off at any point during gameplay.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You may set conditions for toggling Auto Mode\\nfrom the settings menu.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,11 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_GpShop",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "The items available for purchase in the Garden of Memories will change as you progress through the main scenario.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

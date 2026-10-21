@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MuOhshima",
+  "CharacterName": "大島六宇亜",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0029_MuOhshima",
+      "Label": "MuOhshima_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "あたしはこけたりしない",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Mình sẽ không chùn bước!"
+    },
+    {
+      "Key": "VB0014_MuOhshima",
+      "Label": "MuOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おわわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MuOhshima",
+      "Label": "MuOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ひゅー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MuOhshima",
+      "Label": "MuOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ギリギリだね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MuOhshima",
+      "Label": "MuOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああああああ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MuOhshima",
+      "Label": "MuOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "もっと！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MuOhshima",
+      "Label": "MuOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "あぁぁぁぁぁぁぁぁぁぁぁ！",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MuOhshima",
+      "Label": "MuOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ふぅ、これくらいならアイシング必要なし！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MuOhshima",
+      "Label": "MuOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ふぅ、次はどこまで走ろうか。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MuOhshima",
+      "Label": "MuOhshima_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "ちょっと 乳酸溜まったかなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MuOhshima",
+      "Label": "MuOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "もっと…走りたかったよ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MuOhshima",
+      "Label": "MuOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "あたしのポールは、ここじゃないのに…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MuOhshima",
+      "Label": "MuOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MuOhshima",
+      "Label": "MuOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "やったー！筋肉痛きたー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MuOhshima",
+      "Label": "MuOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "気持ちよかったー！ランナーズハイ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MuOhshima",
+      "Label": "MuOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やったー！走り続けた甲斐があったね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MuOhshima",
+      "Label": "MuOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "まだまだ！ゴールはスタートさ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MuOhshima",
+      "Label": "MuOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "やったー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MuOhshima",
+      "Label": "MuOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "ご褒美だ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MuOhshima",
+      "Label": "MuOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "もっと深上がれ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MuOhshima",
+      "Label": "MuOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "お？強くなった？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MuOhshima",
+      "Label": "MuOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "いやー！気持ちいい！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MuOhshima",
+      "Label": "MuOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "ゴールはもっと先だ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000568_MuOhshima",
+      "Label": "MuOhshima_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "やったー！走り切ったよー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000570_MuOhshima",
+      "Label": "MuOhshima_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "えへへ、気持ちいいなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000569_MuOhshima",
+      "Label": "MuOhshima_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "も、もう一回お願いー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MuOhshima",
+      "Label": "MuOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ドMじゃないよ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MuOhshima",
+      "Label": "MuOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ノリノリだね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MuOhshima",
+      "Label": "MuOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "そんなのご褒美じゃないか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MuOhshima",
+      "Label": "MuOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ふぅふぅふぅ…蔑んだ目で卑しいブタって言って？",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

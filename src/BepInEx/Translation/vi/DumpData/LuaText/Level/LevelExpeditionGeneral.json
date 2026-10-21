@@ -1,0 +1,12 @@
+{
+  "Script": "Level/LevelExpeditionGeneral",
+  "Entries": [
+    {
+      "Key": "VC_Z_900600060_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(Let's save fighting for another time.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

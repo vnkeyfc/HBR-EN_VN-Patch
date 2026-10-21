@@ -1,0 +1,449 @@
+{
+  "Script": "Story/AC43/Day01/Novel/AC43_01_10_01",
+  "Entries": [
+    {
+      "Key": "VC_AC43_00049_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow... What an elegant atmosphere. I-I feel a bit out of place here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00050_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Welcome to BAR Sobriety, a private hideaway for weary soldiers exhausted from a long day of training or fieldwork.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00051_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wha?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00053_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How may I help you, young lady?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00054_MNikaido",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Who <i>are</i> you?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000015_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The name's Minori Ohshima. Please, have a seat at the counter, anywhere you like.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000016_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-You seem really different from usual. Gave me quite the shock.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000017_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That would be because I am the bartender of this fine establishment tonight. My story goes back, three days in the past...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00024_MiOhshima",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Outta the way! Delivery comin' through!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00025_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Barkeep! I've got a delivery!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00026_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey there, Minori. I see you're working hard, as usual.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00027_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Instructor Asami? Where's the barkeep?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00028_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seems like she strained her back on the job. Asked me to come sign for the delivery in her place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00029_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh no! Is she okay?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00030_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She'll be fine so long as she takes it easy for a bit, so the bar's closing for a while. Shame. This place is like an oasis for us weary troops who need a little R&R.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00033_MiOhshima",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "She's always saying how she wants to give everyone a relaxing time, even if it's only for an hour or two.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000022_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She can't fight on the front lines, so she does everything she can to help the soldiers unwind. I really mean it when I say it's a shame.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000023_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I offered to run the place for her while she takes time off, but according to her, I'd be too drunk to serve anyone anything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00034_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And there's nobody else who could take over, so I guess we're S.O.L.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00038_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um, Instructor Asami, I dunno if this'll work, but...could I run the bar in her place?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00039_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00040_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a wonderful place, and every day it's closed is a shame.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00041_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've got no experience at all, but I've watched her mix drinks before when I was making deliveries here. With some practice, I'm pretty sure I can do it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00042_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Besides, I've always wanted to give it a try. I kind of admire what she does.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00043_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hell, you sound serious... Alright. Not gonna lie, every day where I can't drown my sorrows at the bar'll be torture.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00044_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll let her and Tezuka know. She seems to have taken a liking to you, so I'm pretty sure she'll agree to it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00045_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks, Instructor!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00046_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, that said, I'm only giving you permission so long as you promise it won't get in the way of your missions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00047_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It won't! I'll do my very best!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000024_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So that's what happened. Still, your current demeanor is quite a departure from how you normally carry yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00056_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I referenced Ichiko's manga to sculpt this cool bartender demeanor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00057_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, young lady, what would you like to order?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00058_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, uh... Sorry, I've never even been somewhere like this before. What should I order?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000025_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Follow my lead, lass. Barkeep. The usual.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000026_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Instructor Asami? You seem somewhat different from usual too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000027_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah. A bar is an intoxicating portal. Drift through, and you find yourself in a fantasy land where you can be whatever you want to be. This is a world that belongs only to adults.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000028_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I-I see...but this is my first time here, so I don't have a usual drink.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000029_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Any true bartender is able to discern the \"usual\" that customers desire simply by observing them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000030_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought that was called dealer's choice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000031_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Allow me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000032_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shaking time.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*shake shake*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00060_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here's your Dead Green Frog.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000037_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dead Green What?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00061_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Behold, the green of a dead frog, finished with a pour of red blood... A visually striking drink.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00062_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ahh... This is perfect, Barkeep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00064_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And that's one special night, delivered.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00065_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the heck just happened?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00068_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew... Barkeep, bring me a snack to pair with the drink. It's a tad too sweet for a brute like me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000042_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought you just said it was perfect.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00069_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Coming right up. Now it's...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000043_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shaking time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00071_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you shaking her snack?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00074_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here's your mixed nuts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00076_MNikaido",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Okay, that is <i>not</i> right!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00077_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is something amiss, young lady?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00079_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You put a bunch of liquids in that shaker, so how did you end up with nuts?! What is this, alchemy?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000044_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Any bartender worth her salt can do this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000045_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are bartenders able to do literally anything?! What was the shaking even for?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000047_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ahh... This is perfect, Barkeep.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000048_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And that's one special night, delivered.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00082_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is there some rule that says you have to say that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00083_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eek!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00084_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Barkeeeeeep, anotherrr!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00085_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That girl down there... That's that one girl from 31-X, right? Wait, is she drunk?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000049_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When serving minors, this establishment only offers non-alcoholic beverages. Nonetheless, we do occasionally have patrons who find themselves drunk on the atmosphere alone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000050_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At any rate, another of the same drink, correct? Coming right up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000051_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shaking time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000054_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here's your corn potage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000055_MNikaido",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That's <i>not</i> something you get at a bar!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000056_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shaking the soup distributes the corn kernels evenly, making for a more enjoyable drinking experience.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000057_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, the corn does tend to sink to the bottom, but come on!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000063_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, yes, this is superb, Barkeep!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000064_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And that's one special night, delivered.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MdAngelis",
+  "CharacterName": "マリアアンジェリス",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_MdAngelis",
+      "Label": "MdAngelis_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "さあ子羊ども懺悔の時間だ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Hỡi các con chiên, đã tới giờ xưng tội!"
+    },
+    {
+      "Key": "VB0014_MdAngelis",
+      "Label": "MdAngelis_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "あ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MdAngelis",
+      "Label": "MdAngelis_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うるさいな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MdAngelis",
+      "Label": "MdAngelis_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "馬鹿の一つ覚えか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MdAngelis",
+      "Label": "MdAngelis_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ギュッ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MdAngelis",
+      "Label": "MdAngelis_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MdAngelis",
+      "Label": "MdAngelis_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ぶっ殺す",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MdAngelis",
+      "Label": "MdAngelis_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "次の獲物はどいつだ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MdAngelis",
+      "Label": "MdAngelis_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "肩慣らしにもならないぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MdAngelis",
+      "Label": "MdAngelis_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "俺たちはこんなもんじゃねぇ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MdAngelis",
+      "Label": "MdAngelis_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "終わり…なのか…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MdAngelis",
+      "Label": "MdAngelis_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "無様な、最後、だぜ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MdAngelis",
+      "Label": "MdAngelis_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "リベラチダルマハレ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MdAngelis",
+      "Label": "MdAngelis_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "くそ、ガンクビ揃えやがれ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MdAngelis",
+      "Label": "MdAngelis_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "くそ、全然嬉しかねえぜ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MdAngelis",
+      "Label": "MdAngelis_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "はっ、これくらい当然だぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MdAngelis",
+      "Label": "MdAngelis_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "シスターたるもの強くなけりゃな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MdAngelis",
+      "Label": "MdAngelis_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいだろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MdAngelis",
+      "Label": "MdAngelis_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "悪くないな。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MdAngelis",
+      "Label": "MdAngelis_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "こいつも飢えてやがるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MdAngelis",
+      "Label": "MdAngelis_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "簡単にはぶっ壊れなさそうだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MdAngelis",
+      "Label": "MdAngelis_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "俺はまだ強くなる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MdAngelis",
+      "Label": "MdAngelis_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "力が湧き出るみたいだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000219_MdAngelis",
+      "Label": "MdAngelis_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "やっと終わったか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000221_MdAngelis",
+      "Label": "MdAngelis_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "これが音に対する礼儀だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000220_MdAngelis",
+      "Label": "MdAngelis_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "ぶっ殺す",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MdAngelis",
+      "Label": "MdAngelis_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "そうか、これが日本の作法か。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MdAngelis",
+      "Label": "MdAngelis_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "黙れ！殺すぞ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MdAngelis",
+      "Label": "MdAngelis_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "見ればわかる。死ね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MdAngelis",
+      "Label": "MdAngelis_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "父と子と聖霊の御名によって、アーメン",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

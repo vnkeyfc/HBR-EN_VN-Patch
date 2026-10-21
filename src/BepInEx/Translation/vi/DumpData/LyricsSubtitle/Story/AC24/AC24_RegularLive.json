@@ -1,0 +1,225 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC24/AC24_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 13.7,
+      "EndSecond": 24.5,
+      "OriginalText": "We set off in search of treasure with a 'Ready, set, go!'",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 25.5,
+      "EndSecond": 36.9,
+      "OriginalText": "The future from here on out, leaves you short of breath",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 37,
+      "EndSecond": 40.4,
+      "OriginalText": "You've been running in circles, I know",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 40.5,
+      "EndSecond": 42.6,
+      "OriginalText": "You've been running in circles, I know\n(I know everything)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 42.7,
+      "EndSecond": 46.3,
+      "OriginalText": "And because I already know",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 46.4,
+      "EndSecond": 48.9,
+      "OriginalText": "That's what makes you precious (I can see right through)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 48.9,
+      "EndSecond": 50.9,
+      "OriginalText": "And because I already know, that's what makes you precious ",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 53.4,
+      "EndSecond": 58,
+      "OriginalText": "You alone are caged by the seasons",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 58.1,
+      "EndSecond": 66.9,
+      "OriginalText": "And even now, continue your slumber\nOn a bench beneath the glistening sun",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 67.3,
+      "EndSecond": 69.8,
+      "OriginalText": "And so, I'll race over to wake you up",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 70.1,
+      "EndSecond": 72.6,
+      "OriginalText": "As fast as my legs will carry me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 73,
+      "EndSecond": 75.7,
+      "OriginalText": "Wait for me until then",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 75.9,
+      "EndSecond": 83.3,
+      "OriginalText": "So that I can see your yawning face as you wake up",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 88.4,
+      "EndSecond": 93.2,
+      "OriginalText": "You're the only one who was only ever you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 93.4,
+      "EndSecond": 96.3,
+      "OriginalText": "You're the only one who can ever be you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 96.4,
+      "EndSecond": 102,
+      "OriginalText": "Everything, sharp tongue and all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 102.2,
+      "EndSecond": 105,
+      "OriginalText": "You're the only one I've loved",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 105.2,
+      "EndSecond": 108,
+      "OriginalText": "And the only one I'll ever love",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 108.1,
+      "EndSecond": 111.5,
+      "OriginalText": "Because you're the only you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 111.8,
+      "EndSecond": 114.7,
+      "OriginalText": "To you alone... (To you alone...)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 114.8,
+      "EndSecond": 118.7,
+      "OriginalText": "To you alone... (To you alone...)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 119.1,
+      "EndSecond": 129.3,
+      "OriginalText": "Saying that we only met, to say goodbye has always been a lie",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 130.9,
+      "EndSecond": 142.6,
+      "OriginalText": "'Cause when morning comes, we'll tie our ties again\nTogether, side-by-side",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 148.6,
+      "EndSecond": 153.9,
+      "OriginalText": "In the morning I see you, next to me yawning!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

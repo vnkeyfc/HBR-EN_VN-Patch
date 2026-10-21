@@ -1,0 +1,260 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "NNanase",
+  "CharacterName": "七瀬七海",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VB_Z_906200338_NNanase",
+      "Label": "NNanase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ノープロブレム",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200339_NNanase",
+      "Label": "NNanase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おっと。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200340_NNanase",
+      "Label": "NNanase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "What？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200344_NNanase",
+      "Label": "NNanase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200345_NNanase",
+      "Label": "NNanase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うひっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200346_NNanase",
+      "Label": "NNanase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "そんな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200378_NNanase",
+      "Label": "NNanase_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ならみーん、ぷいっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200379_NNanase",
+      "Label": "NNanase_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ウィーハーブビクトリー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200380_NNanase",
+      "Label": "NNanase_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "We scrub the wind.",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200347_NNanase",
+      "Label": "NNanase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ゲーム…オーバー…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200348_NNanase",
+      "Label": "NNanase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ここまでです。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200349_NNanase",
+      "Label": "NNanase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "あとは、お願いします。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200381_NNanase",
+      "Label": "NNanase_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "アップデート完了",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200382_NNanase",
+      "Label": "NNanase_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "おー、ネベアップ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200383_NNanase",
+      "Label": "NNanase_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "マジやったぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200384_NNanase",
+      "Label": "NNanase_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "I'm a perfect human.",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200387_NNanase",
+      "Label": "NNanase_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200388_NNanase",
+      "Label": "NNanase_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "はっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200389_NNanase",
+      "Label": "NNanase_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "イッス",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200385_NNanase",
+      "Label": "NNanase_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "おりゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_906200386_NNanase",
+      "Label": "NNanase_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "あーそれそれ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_906200420_NNanase",
+      "Label": "NNanase_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "I had a good time.",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_906200422_NNanase",
+      "Label": "NNanase_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "アンコール アンコール",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_906200421_NNanase",
+      "Label": "NNanase_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "プープー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_NNanase",
+      "Label": "NNanase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "訓練に来たのですか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_NNanase",
+      "Label": "NNanase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "はい100",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_NNanase",
+      "Label": "NNanase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "起動準備するので少々お待ちください",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_NNanase",
+      "Label": "NNanase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ほいほいほいほい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

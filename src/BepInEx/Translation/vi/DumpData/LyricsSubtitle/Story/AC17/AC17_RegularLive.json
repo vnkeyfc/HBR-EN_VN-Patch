@@ -1,0 +1,189 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC17/AC17_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 0.9,
+      "EndSecond": 4,
+      "OriginalText": "I heard that sound",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 4.1,
+      "EndSecond": 7.1,
+      "OriginalText": "The sound of your humming",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 7.2,
+      "EndSecond": 10.9,
+      "OriginalText": "Beautiful and clear",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 11,
+      "EndSecond": 14.1,
+      "OriginalText": "Bringing me courage",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 14.2,
+      "EndSecond": 17.2,
+      "OriginalText": "The wolf left determined",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 17.3,
+      "EndSecond": 19.8,
+      "OriginalText": "Was it escape or adventure?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 19.9,
+      "EndSecond": 25.9,
+      "OriginalText": "Can't even force a smile",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 26,
+      "EndSecond": 32,
+      "OriginalText": "Can't even hold a conversation",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 32.1,
+      "EndSecond": 38.1,
+      "OriginalText": "It's all too exhausting",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 38.2,
+      "EndSecond": 44.1,
+      "OriginalText": "Sometimes I hate myself",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 44.6,
+      "EndSecond": 50.6,
+      "OriginalText": "Just wanted something I could love",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 50.7,
+      "EndSecond": 55.9,
+      "OriginalText": "That's all I ever wanted",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 56,
+      "EndSecond": 62,
+      "OriginalText": "It's as cold as dead leaves in autumn",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 62.1,
+      "EndSecond": 68,
+      "OriginalText": "I just wanted to hear you hum",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 68.1,
+      "EndSecond": 74.1,
+      "OriginalText": "I just want to hold my head up high",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 74.2,
+      "EndSecond": 77.7,
+      "OriginalText": "It's all so hard",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 77.8,
+      "EndSecond": 80.8,
+      "OriginalText": "But I have to keep going",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 80.9,
+      "EndSecond": 83.6,
+      "OriginalText": "Even if I gotta crawl",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 83.7,
+      "EndSecond": 87,
+      "OriginalText": "In my dreams",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 87.1,
+      "EndSecond": 94.8,
+      "OriginalText": "Won't you watch over me?",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

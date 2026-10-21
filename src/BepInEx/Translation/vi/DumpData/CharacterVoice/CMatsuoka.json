@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "CMatsuoka",
+  "CharacterName": "松岡チロル",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_CMatsuoka",
+      "Label": "CMatsuoka_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "どんな戦場でもおまかせあれ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Cứ giao chiến trường lại cho tôi!"
+    },
+    {
+      "Key": "VB0014_CMatsuoka",
+      "Label": "CMatsuoka_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "えへへ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_CMatsuoka",
+      "Label": "CMatsuoka_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "大丈夫！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_CMatsuoka",
+      "Label": "CMatsuoka_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うわっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_CMatsuoka",
+      "Label": "CMatsuoka_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ふぅっ！",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_CMatsuoka",
+      "Label": "CMatsuoka_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "え、じゃなさっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_CMatsuoka",
+      "Label": "CMatsuoka_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "慣れっこだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_CMatsuoka",
+      "Label": "CMatsuoka_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "シャキーン！圧勝！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_CMatsuoka",
+      "Label": "CMatsuoka_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "これにて、クランクアップ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_CMatsuoka",
+      "Label": "CMatsuoka_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "ふぅ、事故がなくて良かったよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_CMatsuoka",
+      "Label": "CMatsuoka_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "影の立て役者は、こんなものさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_CMatsuoka",
+      "Label": "CMatsuoka_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "…参ったな…身体がもう…動かない…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_CMatsuoka",
+      "Label": "CMatsuoka_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ごめん…事故っちゃったよ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_CMatsuoka",
+      "Label": "CMatsuoka_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ジコル、シーンはお任せあれ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_CMatsuoka",
+      "Label": "CMatsuoka_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "火でも海でも飛び込みます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_CMatsuoka",
+      "Label": "CMatsuoka_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "安いギャラでも働きます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_CMatsuoka",
+      "Label": "CMatsuoka_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ごいたれ！からも！オーファー来そう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_CMatsuoka",
+      "Label": "CMatsuoka_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "特訓の成果だね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_CMatsuoka",
+      "Label": "CMatsuoka_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "なんだってできそうだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_CMatsuoka",
+      "Label": "CMatsuoka_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "君も頑丈になったね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_CMatsuoka",
+      "Label": "CMatsuoka_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "うーんかっこいいね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_CMatsuoka",
+      "Label": "CMatsuoka_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "僕に限界はない！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_CMatsuoka",
+      "Label": "CMatsuoka_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "もっと激しい現場に行ける",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000171_CMatsuoka",
+      "Label": "CMatsuoka_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "はい、カット！お疲れ様！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000173_CMatsuoka",
+      "Label": "CMatsuoka_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "これでクランクアップだね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000172_CMatsuoka",
+      "Label": "CMatsuoka_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "あれ？もうバラシ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_CMatsuoka",
+      "Label": "CMatsuoka_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "僕の力で協力できることなら何でもするよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0016_CMatsuoka",
+      "Label": "CMatsuoka_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "僕はプロさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0018_CMatsuoka",
+      "Label": "CMatsuoka_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "僕がヒーローにしてあげるよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_CMatsuoka",
+      "Label": "CMatsuoka_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "うん。この傷の一つ一つが、僕の誇りなんだ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

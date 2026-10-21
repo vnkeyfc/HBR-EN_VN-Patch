@@ -1,0 +1,72 @@
+{
+  "Script": "Story/AC42/Day03/Battle/AC42_03_05_01",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00979_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn! I will blow it away!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00980_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do not overextend! We launch a counterattack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00981_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Melee too messy... No clear shot...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00982_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is becoming a losing battle!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00983_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gah, but we're so close...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00984_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I have to think of something... Some way to defeat this Cancer...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00985_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I have to protect 31-X...the place I belong to...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00986_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But their coordination is ineffective. And with our current attacks, we cannot hope to breach its defense. We can stall it, but if we do not defeat it, we will have to abandon this place...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00987_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Attack incoming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00988_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nnh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00989_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dodge and fall back, we'll retreat and call in reinforcements! I hate to admit it, but we got piss poor compatibility against this Cancer!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

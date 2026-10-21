@@ -1,0 +1,810 @@
+{
+  "Script": "Story/AC42/Day01/Novel/AC42_01_08_01",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00315_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(When setting 31-X's current coordination rate as <i>r</i>, increasing the rate of success requires...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00316_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Vri~. Eating solo todayyy?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00317_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yotsuha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00318_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm? Is it just me, or are you even more quiet than usuaaal?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00319_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...That was not my intent.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00322_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And I do not eat solo. It simply turned out that way today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00323_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wanna eat at our table, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00324_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm hungwy~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00325_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hello.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00326_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Vritika. Thank you for always keeping Yotsuha company. Did you come to have dinner with us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00327_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Assuming I am not intruding by doing so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00328_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, not at all! Food tastes better when we eat together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00329_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika, what's that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00330_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Canned soup kari. I enjoy my kari this way on days when I have no time to cook.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00331_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're every bit the curry connoisseur the rumors describe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00333_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Niina, do not call it curry. You're supposed to call it kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00334_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, pardon! Did I offend you?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00335_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry about it~. She's been kinda irritated this whole timeee.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800023_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So? What's bothering you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800024_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is not something I should bother you about...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800025_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmgh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800026_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do I do with yooou... Isuzu, do your thing~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00337_IrOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not often we all have dinner together. Go on, let me sneak a peek at whatever's on your chest...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200018_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop. Isuzu, don't use your massages to force her to talk when she doesn't want to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00339_IrOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, come on, Niina, you're still holding a grudge about that one time with Asami?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200019_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I, uh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00342_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh, what are you talking about?! What happened?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200016_MuOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, yeah, Niina's been getting close to Instructor Asami. I've been seeing them hanging out together recently!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00343_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, no, don't tell me she's leading our Niina by the nose...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400032_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oooh, I guess Niina's a real precocious girl in her own right~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200020_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "D-Don't take her at her word! It's nothing that serious, really!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200021_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't put such a weird spin on things, Isuzu...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00344_IrOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Kaaay.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200022_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry, Vritika, we got in the way of your story.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00345_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I do not mind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00353_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Is this what they are always like? What a strange bunch...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00354_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But they seem so lively and happy together... 31-X are lively too, but it feels different...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00355_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Is it because they are family?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00356_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But maybe you'll feel easier talking to us than someone else. Would you like to confide in us?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00358_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes... I will take you up on your kind offer, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00359_IrOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... Your team's coordination isn't going according to your calculations. If anything, it's getting worse...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00360_MuOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But everyone agrees things can't stay as they are, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00361_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haan. That is what I thought...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00362_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder why it's not working out. Do you have any idea what might be the reason?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00363_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well...I suspect it may have been today's events.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00364_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We had a fight over who should make breakfast in the morning.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00365_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A fight over breakfast?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00366_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have always been like this. Bickering over the smallest things...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00367_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carole and Maria in particular tend to let the blood rush to their heads, and become very crass, which spoils the mood...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00368_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yingxia is intellectual, but that makes her very prideful...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00369_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Irene often gets carried away and says one word too many...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00370_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And Charl may appear reserved, but she can be quite stubborn and prone to going off on her own...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00371_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They are all obstinate, and very selfish...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00372_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oooh, that's some pent-up frustration~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00374_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And today, they could not coordinate well because of a petty argument...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00375_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did you tell them you want them to make up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00376_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I did. I had the three that started the argument apologize.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00378_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "According to my calculations, that should have resulted in them making up...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00379_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why, that's...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00380_IrOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How do I put it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00381_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Very roundabout. That's Vri for you~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00382_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yotsuha, that's rude!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00383_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But trying to get them to make up, all calculating like that, wouldn't work, would iiiit?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00384_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You deny my talent? Then how am I supposed to do this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00385_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks for coming, everyone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00386_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh yeah~. She is Legend is playing today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00387_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe we should just listen all quiet for once without getting all excited~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00388_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Agreed. That matches my current mood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00389_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Listen to what we've got! \"The Epicurean Technique\"!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00390_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Aah, their new song makes warmth bubble up form within... It is just like kari.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00391_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori and her band are really something. Their concert sent my sleepiness away~",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00392_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The elation this performance induces in people... It cannot be explained with logic.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00393_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's just like Kayamori's songs. You can try to logic your way through interpersonal relations, but nothing's going to go smoother than expressing your feelingsss.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00394_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right! Like, look at our family. We sit around the dinner table every day to express our feelings to each other.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00395_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sometimes we bicker, yes, but that's how we nurture our bonds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00396_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dining together... Bonds... Logic...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00397_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00397_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You are amazing, Mother. When they eat your kari, Father and my siblings always smile and get along.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00398_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00398_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "What kind of formula did you use?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00399_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00399_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hehe, my kari is magical.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00400_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00400_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Maganir... Your father, and Vijay, Sharmila, and Deepak all get along under its spell.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00401_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00401_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "But is magic not a fictional supernatural phenomenon that ignores the laws of physics? Magic does not exist, Mother.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00402_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00402_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hmm... You're so brilliant it puts a damper on your dreams, my daughter...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00403_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00403_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Yes, calling it magic would be an exaggeration, but this kari <i>is</i> special. And that's why it helps everyone get along.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00404_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00404_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Really? Could you give me its recipe?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00405_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00405_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "The recipe is...well, a secret, I'm afraid. You have to make lots of kari to find it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00406_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00406_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Find it with your brilliant maths.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00407_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vri?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00408_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...In truth, I do not know how it works, but I do know a way of tightening bonds between people.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00409_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It relates to a story from my family.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00410_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Much like 31-X right now, my family did not always get along.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00411_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My father was busy with work, and my older siblings were always occupied with work and studies. They often disagreed and bickered... And I, the youngest child, could only watch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00412_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When this happened, my mother would make us special kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00413_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And when everyone ate this kari, oddly enough, they all laughed together and resolved their disputes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00414_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In honor of its great efficacy, I decided to call it this:",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00415_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The ultimate kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00416_NiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ultimate...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00417_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kari?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00418_IrOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a pretty dumb name...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00419_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I guarantee you I am quite serious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00420_MuOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you think eating it will deepen 31-X's bonds?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00421_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That should work, yes. But unfortunately, I have not yet recreated the recipe...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00422_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold on~. Is it different from the recipe you taught me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC05_00597_VBalakrishnan_ref",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Namaste... I just finished passing on my personal kari recipe to Yotsuha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00424_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was a trial recipe, the one that came closest to the ultimate kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00425_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But it should have tasted better... I may have gotten the spice distribution wrong.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00426_MuOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your mother didn't teach you the recipe?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00427_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I asked her many times, but she always told me to find it on my own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00428_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have tried many times to recreate the recipe, but I could never achieve that flavor... I have always wanted to someday reach it, however.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00429_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since my calculations cannot apply here, this seems to be the only way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00430_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmgh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00431_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is the matter?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00432_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nothing... Yes, I hope you manage to make the ultimate kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00433_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dhanyavaad, Ichiko.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00434_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think just getting all those complaints out like you did earlier should make you feel better, though~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00435_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As obstinate as they may be, they are kind, caring teammates. They understand the importance of coordination. They probably hate being told about it over and over when they already know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00436_IrOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For all your complaints, you do seem to care about them a lot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00437_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Yes. Just as you care for your sisters, I hold 31-X dear to my heart.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00438_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heheh, if they make you feel that way, I'm sure 31-X's bonds will be firm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00439_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I... Yes. I hope so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00440_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I appreciate you listening to my story. Tomorrow, I will try to tackle the question of the ultimate kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00441_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeaaah? Maybe you should ask Maruyama and the squad for help~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00442_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have a mission tomorrow, so their help would be very appreciated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00443_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dhanyavaad, everyone. It was an honor to spend this time with you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00444_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I will tighten 31-X's bonds... This time, I will do it.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

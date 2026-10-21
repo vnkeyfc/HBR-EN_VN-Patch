@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MYanagi",
+  "CharacterName": "柳美音",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_MYanagi",
+      "Label": "MYanagi_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "お嬢様の仰せのままに",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Tuân lệnh cô chủ."
+    },
+    {
+      "Key": "VB0014_MYanagi",
+      "Label": "MYanagi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ほう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MYanagi",
+      "Label": "MYanagi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "その程度か",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MYanagi",
+      "Label": "MYanagi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なるほど",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MYanagi",
+      "Label": "MYanagi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ううううううう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MYanagi",
+      "Label": "MYanagi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ううううううううう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MYanagi",
+      "Label": "MYanagi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "やるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MYanagi",
+      "Label": "MYanagi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "お嬢様の方がお強い",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MYanagi",
+      "Label": "MYanagi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "張り合いのない奴らだ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MYanagi",
+      "Label": "MYanagi_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "失敗は次に生かしましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MYanagi",
+      "Label": "MYanagi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "守りきることができずに終わるとは",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MYanagi",
+      "Label": "MYanagi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "こんな…ぶざまな姿…執事失格だ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MYanagi",
+      "Label": "MYanagi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "お嬢様、申し訳ございません。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MYanagi",
+      "Label": "MYanagi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "お嬢様を最後まで守り抜きます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MYanagi",
+      "Label": "MYanagi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "いやはや、またお嬢様に妬まれそうだ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MYanagi",
+      "Label": "MYanagi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "これでさらにご奉仕できます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MYanagi",
+      "Label": "MYanagi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "お嬢様が嫉妬に狂わなければいいが。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MYanagi",
+      "Label": "MYanagi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "ほう、いいものだ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MYanagi",
+      "Label": "MYanagi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "お役に立ってみせましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MYanagi",
+      "Label": "MYanagi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "武器の手入れも必須です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MYanagi",
+      "Label": "MYanagi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "セラフ、不思議な武器だな。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MYanagi",
+      "Label": "MYanagi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "よし、またこれで強くなれる。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MYanagi",
+      "Label": "MYanagi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "いやはやどこまで行くというのか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000713_MYanagi",
+      "Label": "MYanagi_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "感想、お疲れ様でございます。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000715_MYanagi",
+      "Label": "MYanagi_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "正確に音を捉えた結果です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000714_MYanagi",
+      "Label": "MYanagi_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "おや、どこに手違いが。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MYanagi",
+      "Label": "MYanagi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お褒めいただき、恐悦至極でございます。",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MYanagi",
+      "Label": "MYanagi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "緊急の任務でしょうか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MYanagi",
+      "Label": "MYanagi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "痛み入ります。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MYanagi",
+      "Label": "MYanagi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "執事のたしなみです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

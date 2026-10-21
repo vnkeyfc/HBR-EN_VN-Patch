@@ -1,0 +1,485 @@
+{
+  "Script": "Story/DC01/Day05/Expedition/DC01_05_03_00_adv",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "DC01.Expedition.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00009_NNanase",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(Over the long time I've been gone, this place was reduced to ruins.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00010_NNanase",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(But it remains etched into my memories.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00011_NNanase",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(I have returned.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So this is your old crib, Nanamin?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00013_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's rather dreary.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00014_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's quite far from Toyama too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00015_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In addition to housing the electromagnetic cannon, this location served as an anti-Cancer laboratory which conducted extremely dangerous experiments.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00016_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Extremely dangerous sounds about right—there are biohazard level 4 stickers all over the place. What were they working on in here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00017_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "When you say biohazard, are we talking like a zombie apocalypse?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100016_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "GIYAAAH!!! SCARY, SCARY, TOO SCARY!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100160_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No wuckas, no wuckas, no wuckas. I'll make you a toasty peanut butter sandwich, so no wuckas.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100017_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100222_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We got the American youth out here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00018_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're probably not talking zombies, but this level of biohazard sticker marks a place that handles viruses with no effective cure or vaccine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00019_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. The research here was focused on biological weapons and toxins.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00020_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The bulkheads are closed, so we should be safe, but please exercise caution when determining our route.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger that. Okay, Nanamin, can you do your thing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00022_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yes. Our objectives today are exploring each sector of the facility and restoring the electromagnetic cannon's functionality.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100161_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "When the base was abandoned, combat records and research logs were left behind, so you are also requested to perform secondary inspections in designated sectors.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100066_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "What's a \"secondary inspection\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100162_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "In each sector, you'll be confirming what sort of data was left behind and recover them as necessary. Your findings will be put to use to plan future recovery operations.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00023_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "As for the restoration work, it will involve repairing the electromagnetic cannon, restoring power to it, and charging the large-scale energy storage system.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00024_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "How are we going to restore power?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00025_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "We'll be using the power transmission facilities we recently restored to supply the cannon with electricity from the Joetsu City reactor.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00026_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Sounds like our earlier efforts are payin' off.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00027_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanase and I can handle the restoration. Everyone else just needs to guard us while we work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger. The battle with the hub-tier Cancer is close, so keep your wits about you, girls.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00029_TTojo",
+      "Context": "Adv.playCutIn:3",
+      "Original": "We've got Cancers at 10 o'clock!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00030_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right off the bat, we got company.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00031_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "All members, prepare for combat! Let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00036_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't make it sound like I'm the one she just tucked in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00037_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Whoops.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, outta juice again, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00039_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me! ME! Let me refill it this time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00040_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's dangerous to refill too much alone! TAKE ME!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're actually a total sweetheart underneath all the screaming, aren't you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00042_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then please, if you could.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100163_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "A sector requiring investigation lies ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100067_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cool, then let's get investigating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00048_TKunimi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Huh. It's a dead end.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00049_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The bulkhead is closed. As this is the only way in, we will have to open it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00050_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, can you manage it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00051_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, sure, leave it to me. Not like there's anyone else.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100209_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This should be the control room.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100077_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All right, take it away, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100210_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, no need to tell me twice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00056_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This place is quite large.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00057_KAsakura",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yeah, and it's basically a maze.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00058_TKunimi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Exploring a labyrinth! Fun!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00059_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Good stuff, Tama. Go run around 'n' play.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00060_TKunimi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yay!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00061_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're gonna get yourself killed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00062_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Considering how big it is, there must have been tons of people working here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00063_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, hundreds of researchers once worked here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00064_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That many? Dang.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00065_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're working hard for their sakes, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100167_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "A sector requiring investigation lies ahead. Please check this area as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100079_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00089_TKunimi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Enemy at 2 o'clock! What do we do?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00090_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our objective is the passage directly ahead. Taking a detour is not an option.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00091_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The old-fashioned way, then. Everyone, let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00096_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We did it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00097_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That made ya sound like some kinda evil schemer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00098_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Whoops.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00099_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh-oh, outta juice again, eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00100_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Everyone else had a go, so it's my turn again at last!\\nWaaahoooooo!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00101_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry to rain on your sicko parade, but I haven't had a turn yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00102_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then please, if you could.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00112_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "This's gotta be the railgun, right? It's huge!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00113_TKunimi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It reminds me of the Kotetsu Maru's main gun!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00114_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It appears to be in good condition. Let us begin the repairs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00115_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yes, let's.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00116_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it just me, or has this whole operation been nothing but repair this, repair that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00117_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't get to complain. I'm the one doing all the repairs while you all goof around.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00118_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, don't say that! We're carrying our weight. All right, girls, take turns patrolling while Yukkie handles this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300777_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That makes three!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300691_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All right, just one more!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300428_TKunimi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "The last enemy looks pretty tough!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300692_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Once we beat this one, the railgun should be safe. Let's do it!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

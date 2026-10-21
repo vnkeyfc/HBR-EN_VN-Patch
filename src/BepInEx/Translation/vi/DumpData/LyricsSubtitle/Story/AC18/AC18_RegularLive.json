@@ -1,0 +1,144 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC18/AC18_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 0.8,
+      "EndSecond": 2.7,
+      "OriginalText": "Meteor shower flowing",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 2.8,
+      "EndSecond": 4.1,
+      "OriginalText": "A beautiful night",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 4.2,
+      "EndSecond": 8.1,
+      "OriginalText": "When I came to, you were gone",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 10.7,
+      "EndSecond": 15.9,
+      "OriginalText": "Where is my heart? Is it somewhere in my chest?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 16,
+      "EndSecond": 21.2,
+      "OriginalText": "I tried to touch it, but I don't quite understand",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 21.3,
+      "EndSecond": 27.1,
+      "OriginalText": "Right around my feet, that is where fear is",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 27.2,
+      "EndSecond": 31.7,
+      "OriginalText": "Causing me to lose courage, let alone even move",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 31.8,
+      "EndSecond": 38.9,
+      "OriginalText": "But if I start crying, someone will reach their hand out",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 39,
+      "EndSecond": 45.3,
+      "OriginalText": "Yes, I'll do just that, despite being what they call an adult",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 45.5,
+      "EndSecond": 53.7,
+      "OriginalText": "Right now, the stars shoot past us and graze your pale cheek",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 53.8,
+      "EndSecond": 59.8,
+      "OriginalText": "Right now, the sakura petals flutter around and conceal you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 59.9,
+      "EndSecond": 67.9,
+      "OriginalText": "This morning, I had a nightmare that broke my heart, and now I'm so captivated by your eyelashes",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 68,
+      "EndSecond": 73.2,
+      "OriginalText": "That I've lost sight of what is truly important",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 73.3,
+      "EndSecond": 78.2,
+      "OriginalText": "So, whether we're up against the raging seas or vast galaxy",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 78.3,
+      "EndSecond": 84.3,
+      "OriginalText": "Let's go",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

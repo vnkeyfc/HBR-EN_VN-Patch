@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "CReaper",
+  "CharacterName": "キャロルリーパー",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_CReaper",
+      "Label": "CReaper_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "Ready, steady, die",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Ready, steady, die!"
+    },
+    {
+      "Key": "VB0014_CReaper",
+      "Label": "CReaper_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_CReaper",
+      "Label": "CReaper_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "この程度で",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_CReaper",
+      "Label": "CReaper_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "派手なだけね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_CReaper",
+      "Label": "CReaper_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああああああ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_CReaper",
+      "Label": "CReaper_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "SIT！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_CReaper",
+      "Label": "CReaper_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "わかんない！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_CReaper",
+      "Label": "CReaper_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "地球の平和は私が守る！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_CReaper",
+      "Label": "CReaper_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "I'm a super dark hero！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_CReaper",
+      "Label": "CReaper_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "苦戦を制してこそ、ヒーローよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_CReaper",
+      "Label": "CReaper_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "こんなの、嫌よ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_CReaper",
+      "Label": "CReaper_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ヒロは…負け…ない…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_CReaper",
+      "Label": "CReaper_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ジッツス",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_CReaper",
+      "Label": "CReaper_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "セブン・ヘブン！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_CReaper",
+      "Label": "CReaper_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "イエス！最高ね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_CReaper",
+      "Label": "CReaper_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "on top of the world！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_CReaper",
+      "Label": "CReaper_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "こう！ソッグーッ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_CReaper",
+      "Label": "CReaper_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "これでもっと戦えるわ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_CReaper",
+      "Label": "CReaper_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "Get Vibes！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_CReaper",
+      "Label": "CReaper_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "ヒーローはさらに強くなる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_CReaper",
+      "Label": "CReaper_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "より深い闇をこの手に！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_CReaper",
+      "Label": "CReaper_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "Heroes Never Sleep！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_CReaper",
+      "Label": "CReaper_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "真のダークヒーロー誕生！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000418_CReaper",
+      "Label": "CReaper_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "イエス！ひもましい演奏だったでしょ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000420_CReaper",
+      "Label": "CReaper_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "It's perfect！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000419_CReaper",
+      "Label": "CReaper_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "ノー！ジーザス！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0015_CReaper",
+      "Label": "CReaper_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "私はスーパーダークヒーローです！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_CReaper",
+      "Label": "CReaper_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "オーケー、ちょっと待ちなさい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_CReaper",
+      "Label": "CReaper_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ヒーローのミスバヨ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_CReaper",
+      "Label": "CReaper_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "さて、みんなの期待に応えないとね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

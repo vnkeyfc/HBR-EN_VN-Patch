@@ -1,0 +1,189 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC13/AC13_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 6.2,
+      "EndSecond": 7.5,
+      "OriginalText": "Wow Wow Wow!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 7.6,
+      "EndSecond": 11.9,
+      "OriginalText": "Let's Dance Under our Rainbow Arch, Tonight!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 12.6,
+      "EndSecond": 14.6,
+      "OriginalText": "It looks like it'll rain,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 15.5,
+      "EndSecond": 18.3,
+      "OriginalText": "so I decided I'd stay inside again today",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 18.4,
+      "EndSecond": 21.3,
+      "OriginalText": "And continue to watch",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 21.4,
+      "EndSecond": 24.5,
+      "OriginalText": "the soldiers march on",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 24.6,
+      "EndSecond": 27.3,
+      "OriginalText": "While this may be hell,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 27.4,
+      "EndSecond": 30.6,
+      "OriginalText": "a world forsaken by the heavens",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 30.8,
+      "EndSecond": 33.3,
+      "OriginalText": "I will rise up against it all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 33.4,
+      "EndSecond": 36.5,
+      "OriginalText": "no matter how dejected I may become",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 36.6,
+      "EndSecond": 42.7,
+      "OriginalText": "I wanted to believe that something good would be waiting for us",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 42.8,
+      "EndSecond": 47.2,
+      "OriginalText": "Despite knowing that nothing would come of it",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 48,
+      "EndSecond": 54,
+      "OriginalText": "The two of us felt truly invincible back then",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 54.1,
+      "EndSecond": 60.5,
+      "OriginalText": "As we splashed enough water to cover ourselves in rainbows",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 60.6,
+      "EndSecond": 66.8,
+      "OriginalText": "All that's radiant anymore are our memories",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 66.9,
+      "EndSecond": 74.2,
+      "OriginalText": "But I don't want that, no thanks",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 74.3,
+      "EndSecond": 78.7,
+      "OriginalText": "So I'll pretend to smile",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 78.8,
+      "EndSecond": 86.2,
+      "OriginalText": "not that I understand what this feeling really is",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 86.3,
+      "EndSecond": 92.4,
+      "OriginalText": "Even so, listen to this:",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 92.5,
+      "EndSecond": 99.9,
+      "OriginalText": "the song that I found together with you",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC11/AC11_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 12,
+      "EndSecond": 17.1,
+      "OriginalText": "Long ago, I threw away my capacity for thought",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 17.9,
+      "EndSecond": 22.7,
+      "OriginalText": "Even the pain began to numb till it just vanished outright",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 23.2,
+      "EndSecond": 29.2,
+      "OriginalText": "Even though it was still so important to me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 29.3,
+      "EndSecond": 31.9,
+      "OriginalText": "Forget it,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 32,
+      "EndSecond": 37.7,
+      "OriginalText": "it's all in the past and can't be undone",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 40.9,
+      "EndSecond": 44.1,
+      "OriginalText": "Now, goodbye",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 44.2,
+      "EndSecond": 47.3,
+      "OriginalText": "Good night!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 47.4,
+      "EndSecond": 52.6,
+      "OriginalText": "Lately, I've been feeling so sleepy all the time",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 53.4,
+      "EndSecond": 56.1,
+      "OriginalText": "Let me stay by your side",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 56.2,
+      "EndSecond": 59,
+      "OriginalText": "This place is so very cold",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 59.1,
+      "EndSecond": 65,
+      "OriginalText": "Suddenly, I looked at you and saw you were smiling far away",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 65.1,
+      "EndSecond": 70.6,
+      "OriginalText": "Sparkling like sunrays on the water's surface",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 70.7,
+      "EndSecond": 80,
+      "OriginalText": "It feels like very soon you'll disappear",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

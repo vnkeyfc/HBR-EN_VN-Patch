@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "FMikoto",
+  "CharacterName": "命吹雪",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_FMikoto",
+      "Label": "FMikoto_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "Make a Change…Kill Yourself",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Make a Change... Kill Yourself!"
+    },
+    {
+      "Key": "VB0014_FMikoto",
+      "Label": "FMikoto_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "くぅぅぅ。",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_FMikoto",
+      "Label": "FMikoto_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おっと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_FMikoto",
+      "Label": "FMikoto_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "来いよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_FMikoto",
+      "Label": "FMikoto_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くっ！！",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_FMikoto",
+      "Label": "FMikoto_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うわっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_FMikoto",
+      "Label": "FMikoto_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まだまだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_FMikoto",
+      "Label": "FMikoto_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "さて、またスタジオにこもるか。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_FMikoto",
+      "Label": "FMikoto_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ニューアルバムのコンセプトを思いついたぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_FMikoto",
+      "Label": "FMikoto_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "あの絶望感、いい音になりそうだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_FMikoto",
+      "Label": "FMikoto_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "音が聞こえねえ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_FMikoto",
+      "Label": "FMikoto_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "指一本動かねえ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_FMikoto",
+      "Label": "FMikoto_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "死に行く",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_FMikoto",
+      "Label": "FMikoto_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "聞け！何のドマーエグゥー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_FMikoto",
+      "Label": "FMikoto_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "絶望だ！高田真愛君！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_FMikoto",
+      "Label": "FMikoto_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "聞け！限界だ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_FMikoto",
+      "Label": "FMikoto_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "絶望だ、マナビネ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_FMikoto",
+      "Label": "FMikoto_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "鬱屈とするぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_FMikoto",
+      "Label": "FMikoto_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "さらに落ちていくぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_FMikoto",
+      "Label": "FMikoto_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "どんな音を出せるんだろうこいつ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_FMikoto",
+      "Label": "FMikoto_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "いいチューニングだぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_FMikoto",
+      "Label": "FMikoto_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだまだ絶望が見られそうだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_FMikoto",
+      "Label": "FMikoto_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだ落ちていけるみたいだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000453_FMikoto",
+      "Label": "FMikoto_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "やっぱ音楽って最高だぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000455_FMikoto",
+      "Label": "FMikoto_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "いつかはデプレッシブブラックメタルもよろしくな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000454_FMikoto",
+      "Label": "FMikoto_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "この私が死にて",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_FMikoto",
+      "Label": "FMikoto_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "なんだ？絶望への行進か？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_FMikoto",
+      "Label": "FMikoto_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "あんたそういうタイプか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_FMikoto",
+      "Label": "FMikoto_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "デプレッシブブラックメタルさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_FMikoto",
+      "Label": "FMikoto_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "聞け！なんのドマーエグゥゥー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

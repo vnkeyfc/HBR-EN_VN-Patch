@@ -1,0 +1,59 @@
+{
+  "Script": "Story/AC42/Day02/World/AC42_02_02_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the gatehouse!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00504_VBalakrishnan",
+      "Context": "Field.returnToWayPointWithMonolog:2",
+      "Original": "(The gatehouse is not that way.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00503_VBalakrishnan",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(I feel bad entrusting them with this task and leaving...but I must attend to today's mission. I should head for the gatehouse.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00505_NiOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Soup kari... They say it's good for maintaining one's beauty, \\n but the calories are a sticking point...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00506_LShanhua",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Nngh... Today is the day, today I do it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00507_IrOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Could I use spices to make massage oil?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800033_CSkopovskaya",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "You are bothered when another woman teaches me, Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800034_RKayamori",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "You're working on team coordination, right? Good luck.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200017_MuOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "The way my stomach churns the day after\\nI eat super spicy curry feels so good!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

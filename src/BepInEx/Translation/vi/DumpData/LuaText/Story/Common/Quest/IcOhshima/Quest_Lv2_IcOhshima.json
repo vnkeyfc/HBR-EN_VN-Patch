@@ -1,0 +1,638 @@
+{
+  "Script": "Story/Common/Quest/IcOhshima/Quest_Lv2_IcOhshima",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the open air stage at Narby Square!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04258_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(Ah, it's Icchi. She's studying hard as always.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04259_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(She must really love studying...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04260_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Piipiipiipiipii BAAA pwiiGAApwiiGAApwii-PYSSHHHKKK.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04261_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Mngh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04262_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sigh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04263_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(What's with that ancient internet connection sound? What's going on here?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04264_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Erm...Icchi?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04265_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah... K-Kayamori? By chance, did you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04266_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Piipiipiipiipii BAAA pwiiGAApwiiGAApwii-PYSSHHHKKK.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04267_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aah!!! You <i>did</i> hear it! You even copied it sound-for-sound!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04268_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So like, what was that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04269_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Erm, sometimes it just happens when I study.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04270_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My chest starts feeling weird...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04271_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like, a bittersweet, almost painful feeling of being embraced.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04272_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're making it sound like you're in love...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04273_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I bet what's really going on is that your body's stressed out from studying.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04274_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. As the eldest of my sisters, I don't feel stress.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04275_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait. Shouldn't the eldest be the most stressed out one?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04276_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not true. After all, my sisters are all very cute.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04277_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right! I need to get back to studying and become better for their sake!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04278_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Piipiipiipiipii BAAA pwiiGAApwiiGAApwii-PYSSHHHKKK.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04279_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See? That connection sound is back. I really think you need a break. Everyone's gotta de-stress sometimes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04280_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "De-stress?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04281_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We gotta figure out a way to de-stress ASAP!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04282_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then I suppose I should study the mechanisms of how stress works and...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04283_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Piipiipiipiipii BAAA pwiiGAApwiiGAApwii-PYSSHHHKKK.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04284_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Icchi!!! Get yourself together!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04285_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp* What...was I doing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04286_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, I'm gonna help you get rid of this stress! Let's do something fun!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04287_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think screaming is a good way to get stress out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04288_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That sounds a little...embarrassing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04289_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's better than sounding like the internet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04290_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, why don't we go somewhere less embarrassing then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04291_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Okay, we're here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04292_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are we doing here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04293_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're here to scream our hearts out. You've heard how going to karaoke is a good way to relieve stress, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04294_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh...? But even if you ask me to scream... What should I even say?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04295_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anything you like! Anything you want to scream from your heart!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04296_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "From my heart?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04297_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, I will give it a shot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04298_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here goes... *ahem*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04299_IcOhshima",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "CAPITALISM SUCKS!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04300_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, so that's what in your heart?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04301_IcOhshima",
+      "Context": "Adv.playCutIn:3",
+      "Original": "SOCIAL INEQUALITY CAN GO TO HELL!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04302_IcOhshima",
+      "Context": "Adv.playCutIn:3",
+      "Original": "CAPITALISTS NEED TO STOP MONOPOLIZING WEALTH!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04303_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's starting to sound like some kind of protest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04304_IcOhshima",
+      "Context": "Adv.playCutIn:3",
+      "Original": "DO YOU WANNA GO TO NEW YORK?!\\nI DO!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04305_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now it sounds like a concert! But I guess that's what's in her heart!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04306_IcOhshima",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Niina! Minori! Yostsuha! Isuzu! Muua!\\nI LOVE ALL OF YOU!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04307_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ending with a burst of love!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04308_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah...hah...hah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04309_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, I can't remember the last time I shouted out so loud. I was even a bit nervous, to be honest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04310_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You shouted pretty damn loud, considering your nerves. How you feeling now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04311_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah...yes, I think I feel a bit better now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04312_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since we're here, I'll shout something too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04313_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "YODEL-AY-HEE-HEE!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04314_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, wow! You have quite an amazing singing voice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04315_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, that's about all I'm good at.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04316_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All righty! Now all we need to do is get our bodies moving and our minds empty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04317_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You mean exercise?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04318_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, we can go crazy here. I'll help ya out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04319_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, I will give it a try.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04320_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew, pretty slick moves, Icchi. How was it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04321_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I feel so refreshed! But there's something I want to try.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04322_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wouldn't it be even better to move and shout at the same time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04323_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess so. Okay, let's go another round.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04324_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "TAKE THIS!!! IS THAT ALL YOU GOT?! DON'T UNDERESTIMATE THE POWER OF A BIG SISTER!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04325_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Icchi...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04326_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*pant* *pant* Hey, Ruka... Can we go again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04327_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Erm...sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04328_IcOhshima",
+      "Context": "Adv.playCutInWithAct:5",
+      "Original": "I'LL TURN YOU INTO DIGITAL DETRITUS!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04329_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yikes... That was scary. I guess it's true. The quiet ones are usually the scariest ones when they're angry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04330_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "O-Oh, I'm not angry or anything. It was all just for stress relief.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04331_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, that's one way to put it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04332_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But that's the truth!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04333_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, how are you feeling?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04334_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh... Now that you ask, I feel so light now. It's as I busted out everything that was pent up inside me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04335_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That sounds kinda lewd. But as long as the stress is all out, then it's all okay! ",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04336_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good... Now I can go back to my studies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04337_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just remember to be careful not to let stress get pent up like that anymore. You gotta take it easier.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04338_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! Thank you so much!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04339_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But if I feel stressed again, would you mind helping me de-stress again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04340_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you're fine with me helping, then sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04341_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04243_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Maybe I should invite Icchi to come for a soak.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:1",
+      "Original": "Invite her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:2",
+      "Original": "Invite|Maybe not",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04244_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Icchi, wanna go to the baths together?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04344_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, sounds like the perfect break away from my studies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_FMikoto_Quest_00067_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_IIshii_Quest_00076_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Nah, I'll bathe alone today.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04347_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah...this is paradise... The stress is just melting out of me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04348_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why are you huddled in the corner again? You can enjoy this luxury more, y'know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04349_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't it feel good stretching out your legs last time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04350_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, very much so!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04351_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well...let's take it up a notch today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04352_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "More than before?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04353_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, spread out your arms and legs like this. That'll melt all the stress away, for sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04354_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like...some sort of starfish?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04355_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "O-Okay. Then I'll give it a go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04356_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah! Go for it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04357_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um...here we go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04358_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, wow. That's even more impressive than I expected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_04359_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Piipiipiipiipii BAAA pwiiGAApwiiGAApwii-PYSSHHHKKK.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

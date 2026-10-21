@@ -1,0 +1,153 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/CC02/CC02_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 9.1,
+      "EndSecond": 13.7,
+      "OriginalText": "I have the power to create gold out of nothing!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 14.9,
+      "EndSecond": 17.3,
+      "OriginalText": "If I could, I'd live forever",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 17.4,
+      "EndSecond": 21.7,
+      "OriginalText": "If I lived forever",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 22.1,
+      "EndSecond": 25.1,
+      "OriginalText": "My every wish could be reality",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 25.8,
+      "EndSecond": 33.1,
+      "OriginalText": "So I feel, but so many things try to put my back up against the wall",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 33.8,
+      "EndSecond": 36.8,
+      "OriginalText": "Whatever time I've got remaining",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 36.8,
+      "EndSecond": 39.5,
+      "OriginalText": "My dreamer's bearings, where I'm going",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 39.6,
+      "EndSecond": 45.7,
+      "OriginalText": "I know they matter oh so much, but even still",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 45.8,
+      "EndSecond": 48.4,
+      "OriginalText": "Leave that all for now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 48.5,
+      "EndSecond": 51.2,
+      "OriginalText": "And let's go get sugary stuff from somewhere to eat",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 51.3,
+      "EndSecond": 60.1,
+      "OriginalText": "So I'd kill my thoughts in their tracks, the only thing I ever got good at",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 60.2,
+      "EndSecond": 65.9,
+      "OriginalText": "When I look back on the road I've been walking up to now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 66,
+      "EndSecond": 70.7,
+      "OriginalText": "I see so much that I hate I've been through, I'm done, done with it all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 71.8,
+      "EndSecond": 77.3,
+      "OriginalText": "Where is the me who will make everything she touches shine?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 77.4,
+      "EndSecond": 86.5,
+      "OriginalText": "Listen up now, 'cause that's just who I'm gonna be, you're gonna see",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 86.8,
+      "EndSecond": 90.6,
+      "OriginalText": "Come at me",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "AKanzaki",
+  "CharacterName": "神崎アーデルハイド",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_AKanzaki",
+      "Label": "AKanzaki_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "イッツニンジャショータイム！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "It's Ninja Showtime!"
+    },
+    {
+      "Key": "VB0014_AKanzaki",
+      "Label": "AKanzaki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うわっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_AKanzaki",
+      "Label": "AKanzaki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "やるでござるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_AKanzaki",
+      "Label": "AKanzaki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "いやー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_AKanzaki",
+      "Label": "AKanzaki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くぅはっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_AKanzaki",
+      "Label": "AKanzaki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_AKanzaki",
+      "Label": "AKanzaki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まだ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_AKanzaki",
+      "Label": "AKanzaki_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "拙者にかかればこんなものでござる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_AKanzaki",
+      "Label": "AKanzaki_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "忍者の力の勝利でござるよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_AKanzaki",
+      "Label": "AKanzaki_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "なかなかの強敵だったでござる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_AKanzaki",
+      "Label": "AKanzaki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "こんな…ところで…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_AKanzaki",
+      "Label": "AKanzaki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "力を呼ばず、すまぬでござる……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_AKanzaki",
+      "Label": "AKanzaki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "御念でござる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_AKanzaki",
+      "Label": "AKanzaki_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "よっと 拙者強くなったでござるよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_AKanzaki",
+      "Label": "AKanzaki_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "はっ！忍者マスターにまた一歩近づいたでござる！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_AKanzaki",
+      "Label": "AKanzaki_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "何体でも分身できそうでござるよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_AKanzaki",
+      "Label": "AKanzaki_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やあ！拙者、また目立ってしまうでござるな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_AKanzaki",
+      "Label": "AKanzaki_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "動きが良くなったでござる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_AKanzaki",
+      "Label": "AKanzaki_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "調子がいいでござる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_AKanzaki",
+      "Label": "AKanzaki_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "拙者の相棒にふさわしくなったでござる！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_AKanzaki",
+      "Label": "AKanzaki_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "拙者より目立っている気がするでござるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_AKanzaki",
+      "Label": "AKanzaki_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "忍者に限界はないでござるよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_AKanzaki",
+      "Label": "AKanzaki_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "やあ！ネクスト忍者ステージでござる！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000091_AKanzaki",
+      "Label": "AKanzaki_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "拙者目立っていたでござろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000093_AKanzaki",
+      "Label": "AKanzaki_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "うーひひひひー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000092_AKanzaki",
+      "Label": "AKanzaki_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "拙者の見せ場が",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_AKanzaki",
+      "Label": "AKanzaki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ここは拙者の出番でござるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_AKanzaki",
+      "Label": "AKanzaki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お供するでござる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_AKanzaki",
+      "Label": "AKanzaki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "拙者見られてるでござる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_AKanzaki",
+      "Label": "AKanzaki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "うひひー、拙者は注目されているでござるなー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

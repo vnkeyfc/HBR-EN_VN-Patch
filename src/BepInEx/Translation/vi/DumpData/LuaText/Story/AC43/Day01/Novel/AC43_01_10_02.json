@@ -1,0 +1,90 @@
+{
+  "Script": "Story/AC43/Day01/Novel/AC43_01_10_02",
+  "Entries": [
+    {
+      "Key": "VC_AC43_00206_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And that's everything locked up. Phew, made it through the night!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00207_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hello Minori. I'm so proud of you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00208_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ichiko? What are you doing here? Did something happen?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00209_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was worried, so I came to check up on you. How was bartending?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00210_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was pretty nervous at first, but it was fun! If I wasn't already a deliverywoman, maybe I'd have ended up being a bartender!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00211_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Remember that manga you drew a long time ago that was set in a bar? I used it for inspiration!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00212_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, that's wonderful! I know just how much you love that story about how Dad proposed to Mom.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00213_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, actually I was telling everyone that story just now. They were totally hooked.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00214_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's been a while since I thought about that story... How Mom and Dad met at a bar in Hakone. I've always wanted to visit the place, y'know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00215_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes... We still haven't visited Mom's grave in Hakone, have we?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00216_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, Hakone's been retaken. I'm sure all of us will get the chance to visit one day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00217_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, it's already pretty late. Let's head back, Ichiko.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00218_IcOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, let's. Oh, and would it be alright if I drop in on you tomorrow night, as a customer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000099_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh yeah, of course! I'll make sure to deliver you one real special night!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,108 @@
+{
+  "Script": "Story/AC42/Day03/Novel/AC42_03_08_01",
+  "Entries": [
+    {
+      "Key": "VC_AC42_01178_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone, thank you for everything you did today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01179_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks to you, I was able to protect what matters the most.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01180_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What're you actin' all reserved for?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01181_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What matters to you, matters to us, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01182_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right, from now on we want you to tell us about these kinds of thoughts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01183_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your expression barely changes, and it makes you difficult to read.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800073_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If something is on your mind, tell us, and we will listen.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800074_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes... I will speak my thoughts, just as I did with Yotsuha.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01184_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, yes, I should give Yotsuha my thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01185_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is she who helped us deepen our bonds.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01186_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, yeah, that's definitely important. But there's somethin' else we gotta do first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01188_IRedmayne",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "True!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01189_LShanhua",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Mhm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01187_MdAngelis",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Indeed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01190_CSkopovskaya",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Da.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01191_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mm...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800075_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Meet up in the cafeteria in one hour, gals!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

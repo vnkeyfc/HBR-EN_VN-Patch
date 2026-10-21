@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "TTojo",
+  "CharacterName": "東城つかさ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_TTojo",
+      "Label": "TTojo_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "真実は一つと限らない",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Sự thật không chỉ có một!"
+    },
+    {
+      "Key": "VB0014_TTojo",
+      "Label": "TTojo_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_TTojo",
+      "Label": "TTojo_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "むっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_TTojo",
+      "Label": "TTojo_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うっとうしいわね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_TTojo",
+      "Label": "TTojo_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_TTojo",
+      "Label": "TTojo_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_TTojo",
+      "Label": "TTojo_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まずいかも",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0051_TTojo",
+      "Label": "TTojo_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "全て私の計算通りね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_TTojo",
+      "Label": "TTojo_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "情報員を敵に回すとこうなるの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_TTojo",
+      "Label": "TTojo_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "思ったより手こずったわね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_TTojo",
+      "Label": "TTojo_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "私のせいで",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_TTojo",
+      "Label": "TTojo_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みんな ごめんなさい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_TTojo",
+      "Label": "TTojo_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "これで終わりなの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_TTojo",
+      "Label": "TTojo_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "もしかして私って天才？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_TTojo",
+      "Label": "TTojo_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "さらに有能になっちゃったみたいね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_TTojo",
+      "Label": "TTojo_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "最強の諜報員の誕生ね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_TTojo",
+      "Label": "TTojo_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "もう向かうところ敵なしね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_TTojo",
+      "Label": "TTojo_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "やったわ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_TTojo",
+      "Label": "TTojo_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "すごいわ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_TTojo",
+      "Label": "TTojo_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "戦うのが楽しみね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_TTojo",
+      "Label": "TTojo_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "素敵！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_TTojo",
+      "Label": "TTojo_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだ力が秘められていたのね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_TTojo",
+      "Label": "TTojo_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "新しい扉が開かれた気がする",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000300_TTojo",
+      "Label": "TTojo_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "みんなお疲れ様",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000302_TTojo",
+      "Label": "TTojo_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "やっぱり私って天才キーボーディストだった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000301_TTojo",
+      "Label": "TTojo_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "ごめんなさい、とちっちゃったわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_TTojo",
+      "Label": "TTojo_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "エリート諜報員なところを見せつけてあげるわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_TTojo",
+      "Label": "TTojo_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "プロポーションの見せ所ね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_TTojo",
+      "Label": "TTojo_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "それで何の話だったの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_TTojo",
+      "Label": "TTojo_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "このナーヴィ目が綺麗",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

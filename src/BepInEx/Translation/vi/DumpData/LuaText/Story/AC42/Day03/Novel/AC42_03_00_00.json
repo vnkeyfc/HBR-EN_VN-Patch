@@ -1,0 +1,78 @@
+{
+  "Script": "Story/AC42/Day03/Novel/AC42_03_00_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00847_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmh. Let us make it, then!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00848_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(If I recall, this was the spice distribution Yotsuha used...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00849_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Seeing it again, it truly boggles the mind...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00850_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(How can such haphazard preparation produce something so close to the ultimate kari?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00851_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(No, I shall leave the analysis for later. I must perfectly recreate yesterday's recipe...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00852_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I hope...everyone will like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00853_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I should not worry... It will work out...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00854_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Once they eat this kari, they will smile and chat like my family used to...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00855_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Maybe they can talk about recent events... No, that is too much of a family conversation.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00856_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But what they talk about does not matter.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00857_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Eating this kari will make everyone smile together and improve our coordination. And then we will defeat that Cancer.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00858_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe. I can hardly wait to finish cooking!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

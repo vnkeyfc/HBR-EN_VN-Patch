@@ -1,0 +1,26 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_ScoreAttack",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can confirm the high-score and cumulative-score rewards here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can adjust the difficulty here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can select a Special Rule to add additional restrictions\\nto the battle for a score bonus.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Choose a difficulty and special rule that works for you and aim for the high score!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

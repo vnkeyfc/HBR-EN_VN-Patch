@@ -1,0 +1,228 @@
+{
+  "Script": "Story/AC43/Day00/Novel/AC43_00_00_00",
+  "Entries": [
+    {
+      "Key": "VC_AC43_00000_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There. Now this will make it to Mom and Dad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00001_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Every now and then, we send out a letter this way.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00002_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(We were all still kids that first time we did it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00003_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(There was something that I wanted delivered, no matter what it took.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00004_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(It was the very first delivery I ever made.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00005_IcOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Ichiko Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00005_IcOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Ahem. On the agenda today is how we'll be celebrating Mom and Dad's anniversary next month. If you have any ideas, please raise your hand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00006_MuOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Muua Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00006_MuOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Me, meee! I think we should get them a big, biiig cake!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00007_YoOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Yotsuha Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00007_YoOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You just wanna eat cake, don'tchaaa...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00008_IrOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Isuzu Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00008_IrOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I mean, Mom loves dessert, but I'm not sure if that would really make Dad happy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00009_NiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Niina Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00009_NiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I have an idea. Why don't we make them a gift ourselves?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00010_IcOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Ichiko Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00010_IcOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hm... That's a good idea. I think we should do that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00011_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00011_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Then... How about we embroider some badges?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00012_NiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Niina Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00012_NiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Embroider badges? You mean like, make patches for clothes or bags?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00013_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00013_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Mhm. We can make a bunch of badges with the whole family's faces on them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00014_IcOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Ichiko Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00014_IcOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hmm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00015_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00015_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Heehee...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00016_IcOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Ichiko Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00016_IcOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "That sounds wonderful! Good idea, Minori!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00017_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00017_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hooray!!! I'll make the cutest badges ever!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00018_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The six of us worked really hard to make those badges.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00019_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But...by the time we finished, both Dad and Mom were no longer with us.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00020_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Still, I learned one thing from Dad.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00021_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Any gift that you pour your heart into will surely reach its recipient. That's what the world is built on.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00022_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(That's how I know our feelings that day reached the people they were meant to.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00023_MiOhshima",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I still believe.)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

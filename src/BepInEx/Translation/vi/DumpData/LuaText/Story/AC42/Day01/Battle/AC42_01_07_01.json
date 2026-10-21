@@ -1,0 +1,11 @@
+{
+  "Script": "Story/AC42/Day01/Battle/AC42_01_07_01",
+  "Entries": [
+    {
+      "Context": "Battle.Conel:0",
+      "Original": "CountBC(IsPlayer() != 1 && HpRate()<=0.10) > 0",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

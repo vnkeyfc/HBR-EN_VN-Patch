@@ -1,0 +1,216 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/MC04B/MC04B_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 1.4,
+      "EndSecond": 3,
+      "OriginalText": "Pass away!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 14,
+      "EndSecond": 19.7,
+      "OriginalText": "The summer came and went so fast I couldn't keep up",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 19.8,
+      "EndSecond": 26.1,
+      "OriginalText": "And in the end, I couldn't make any great memories",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 26.2,
+      "EndSecond": 32,
+      "OriginalText": "So instead, I'll remember all that I saw",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 32.1,
+      "EndSecond": 38.2,
+      "OriginalText": "Because I'd hate to continue losing everything",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 38.3,
+      "EndSecond": 44.2,
+      "OriginalText": "Ah, before I forget, where shall we meet tomorrow?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 44.3,
+      "EndSecond": 50.4,
+      "OriginalText": "I'll take you by the hand",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 50.5,
+      "EndSecond": 52.3,
+      "OriginalText": "Ah, there is only one you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 52.4,
+      "EndSecond": 53.8,
+      "OriginalText": "Like there is only one me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 53.9,
+      "EndSecond": 56.2,
+      "OriginalText": "And while that's completely natural, it still feels kinda strange",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 56.3,
+      "EndSecond": 58.2,
+      "OriginalText": "Ah, tomorrow I might become someone else",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 58.3,
+      "EndSecond": 59.7,
+      "OriginalText": "Forget about you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 59.8,
+      "EndSecond": 62.6,
+      "OriginalText": "And live a life with my weapon cast aside",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 62.7,
+      "EndSecond": 64.2,
+      "OriginalText": "Ah, there are times I feel horribly miserable",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 64.3,
+      "EndSecond": 65.8,
+      "OriginalText": "And days when I just want to die",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 65.9,
+      "EndSecond": 68.7,
+      "OriginalText": "But that's what makes us human",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 68.8,
+      "EndSecond": 70.5,
+      "OriginalText": "Ah, please continue to be yourself",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 70.6,
+      "EndSecond": 74.6,
+      "OriginalText": "And I'll promise to continue being myself",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 74.7,
+      "EndSecond": 77.5,
+      "OriginalText": "Our song will resonate",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 77.6,
+      "EndSecond": 80.6,
+      "OriginalText": "through a thousand nights",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 80.7,
+      "EndSecond": 86.7,
+      "OriginalText": "Until it one day counts to eternity",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 86.8,
+      "EndSecond": 92.7,
+      "OriginalText": "We breathe the same air, and fool around from time to time",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 92.8,
+      "EndSecond": 99.9,
+      "OriginalText": "I'll choose a miracle like that again",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

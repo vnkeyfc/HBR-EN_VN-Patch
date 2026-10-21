@@ -1,0 +1,228 @@
+{
+  "Script": "Story/AC42/Day02/World/AC42_02_07_02",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00625_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika, ya got any plans for takin' on dis thing yet?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00626_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Setting the slime surface's thickness as <i>t</i> and its tensile strength as <i>s</i>, then simulating the attack patterns for each 31-X member...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00627_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then adjusting for variation in the results caused by strength reduction set as <i>a</i> and its recovery rate set as <i>r</i>...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00628_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh... She's mathin' as we speak.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00629_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Simulation of optimal elimination pattern complete.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00630_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...However.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00631_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00632_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(To damage this Cancer, 31-X will have to perform the fastest coordination attack possible...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00633_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But we have not been able to successfully pull it off even once.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00635_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(No, we have to do this. Otherwise, we will fail to protect this place.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00636_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To defeat this Cancer, we must cut through the slime layer and strike at its core.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00637_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "After the enemy next attacks Carole, Yingxia and Maria must strike the center of the slime layer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00638_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Irene and Charl will use their coordination to respectively attack and prevent enemy counterattacks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00639_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When its defenses are cracked, I will use my Seraph to open a path. Then we will all attack at once.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00640_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00641_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I understand, loud and clear!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00642_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yingxia, you will attack first. After Yingxia's attack lands, Carole attacks, and after that, Maria.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00643_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm. Let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00644_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm next!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00645_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Die, die, die!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00646_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carole, Maria, you are moving a little too fast! Wait a second or two before each attack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00647_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00648_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carole, you are next!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00649_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carole, take action! The enemy is attacking!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00650_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Irene, Charl, cover for them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00651_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No good, they're too close!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00652_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kuh, dodge!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00653_VBalakrishnan",
+      "Context": "Adv.talkWithName:1",
+      "Original": "Ngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00654_LShanhua",
+      "Context": "Adv.talkWithName:1",
+      "Original": "No good! It destroyed the outer wall!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00655_VBalakrishnan",
+      "Context": "Adv.talkWithName:1",
+      "Original": "No...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00656_CSkopovskaya",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "A small group of Cancers is following behind that Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00657_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll end up surrounded! And given the state of our deflectors, this could be dangerous!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00659_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Retreat! Call the engineers and tell them to get movin'!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00660_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00661_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00662_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I...understand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00663_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll guard the rear. All units, retreat!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

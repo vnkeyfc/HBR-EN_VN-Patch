@@ -1,0 +1,80 @@
+{
+  "Script": "Story/AC42/Day03/Expedition/AC42_03_03_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Eliminate the Cancers around the Experimental Farm Area!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Suspend the event and\\nreturn to the home screen?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Experimental Farm Area",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00940_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "On our 9! There are three of them!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00941_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Engaging them already!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00942_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nuoooh! Do not run off on your own!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00943_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm finished on this side, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00944_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fighting like this really does suit us the best.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00945_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(It is ironic. They have plenty of motivation, and their combat efficiency is back to normal. But...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00946_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika? What is wrong?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00947_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nothing... Charl, let us be ready to offer covering fire, so the others do not do anything reckless.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00948_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Da. 31-X will defend experimental farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Continuing beyond this point will cause the story to progress. Proceed?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

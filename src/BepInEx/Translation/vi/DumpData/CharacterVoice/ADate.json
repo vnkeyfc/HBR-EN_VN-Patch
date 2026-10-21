@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "ADate",
+  "CharacterName": "伊達朱里",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_ADate",
+      "Label": "ADate_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "エースをねらわれるな",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Đừng nhắm tới quả Ace!"
+    },
+    {
+      "Key": "VB0014_ADate",
+      "Label": "ADate_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ひぃっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_ADate",
+      "Label": "ADate_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "いやー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_ADate",
+      "Label": "ADate_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ごめんなさい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_ADate",
+      "Label": "ADate_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああああああ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_ADate",
+      "Label": "ADate_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああああああ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_ADate",
+      "Label": "ADate_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "痛い！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_ADate",
+      "Label": "ADate_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "皆さんがすごいだけです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_ADate",
+      "Label": "ADate_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "私なんかが勝ってごめんなさい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_ADate",
+      "Label": "ADate_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "私がいなければもっと楽に",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_ADate",
+      "Label": "ADate_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "見えていたのに",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_ADate",
+      "Label": "ADate_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "惨めで…私らしい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_ADate",
+      "Label": "ADate_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "最後まで役立たずで、ごめんなさい。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_ADate",
+      "Label": "ADate_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "成長しても何もできませんから",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_ADate",
+      "Label": "ADate_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "強くなってごめんなさい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_ADate",
+      "Label": "ADate_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "もうこれ以上は限界です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_ADate",
+      "Label": "ADate_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "私なんかがすみません",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_ADate",
+      "Label": "ADate_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "大して変わらないですよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_ADate",
+      "Label": "ADate_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "クズなのは同じです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_ADate",
+      "Label": "ADate_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "素材がもったいないですよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_ADate",
+      "Label": "ADate_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "豚に真珠ですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_ADate",
+      "Label": "ADate_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "ゴミはゴミのままですよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_ADate",
+      "Label": "ADate_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "苦思いです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000742_ADate",
+      "Label": "ADate_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "ご迷惑をかけずに済みました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000744_ADate",
+      "Label": "ADate_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "私なんかがおこがましい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000743_ADate",
+      "Label": "ADate_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "死んできます 探さないでください",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_ADate",
+      "Label": "ADate_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "わ、あの、お疲れ様です。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_ADate",
+      "Label": "ADate_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "テニス、好きです。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_ADate",
+      "Label": "ADate_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "あ、はい。私でよければご一緒させてください。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_ADate",
+      "Label": "ADate_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "でも私で遊んでくれて嬉しいです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

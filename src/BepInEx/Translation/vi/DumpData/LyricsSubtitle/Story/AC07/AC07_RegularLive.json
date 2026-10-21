@@ -1,0 +1,189 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC07/AC07_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 10.2,
+      "EndSecond": 10.9,
+      "OriginalText": "Whiteout!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 11,
+      "EndSecond": 16.3,
+      "OriginalText": "It's starting to look like all the new things have been completely used up",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 16.4,
+      "EndSecond": 21.8,
+      "OriginalText": "Now I'm just watching people answer trivia on a quiz show",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 21.9,
+      "EndSecond": 24.6,
+      "OriginalText": "I want to give something new a try",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 24.7,
+      "EndSecond": 27.3,
+      "OriginalText": "I go and try my hand at this and that",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 27.4,
+      "EndSecond": 32.8,
+      "OriginalText": "I don't understand why everyone's so positive 'bout this.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 32.9,
+      "EndSecond": 35.7,
+      "OriginalText": "And the truth that they thrust at me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 35.8,
+      "EndSecond": 38.4,
+      "OriginalText": "Is that what's really dead is actually",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 38.5,
+      "EndSecond": 43.8,
+      "OriginalText": "Just my sensitivity. No problem there. Yeah, that's right. Isn't that right?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 43.9,
+      "EndSecond": 46.4,
+      "OriginalText": "If it's sunny out tomorrow, then maybe",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 46.5,
+      "EndSecond": 49.1,
+      "OriginalText": "We should go out; sounds quite nice, don't you think?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 49.2,
+      "EndSecond": 54.8,
+      "OriginalText": "For the wind in my heart has long since calmed down to a breeze",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 54.9,
+      "EndSecond": 60.1,
+      "OriginalText": "That day... Your scent, your bashful look, the smile you wore,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 60.2,
+      "EndSecond": 65.7,
+      "OriginalText": "your charm, your hope, your drive, your grief, I'll always remember them all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 65.8,
+      "EndSecond": 73.7,
+      "OriginalText": "I found so many things that bring me joy.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 73.8,
+      "EndSecond": 76.7,
+      "OriginalText": "Now, won't you hear me?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 76.8,
+      "EndSecond": 83.7,
+      "OriginalText": "That day... The powder snow, a silver glow, and you exhaled a breath of purest white",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 83.8,
+      "EndSecond": 87.7,
+      "OriginalText": "Just like yesterday, I recall it all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 87.8,
+      "EndSecond": 103.5,
+      "OriginalText": "But now I guess it's time for me to say farewell to you. It's what we have to do",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 103.6,
+      "EndSecond": 118,
+      "OriginalText": "It's you, always just you",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

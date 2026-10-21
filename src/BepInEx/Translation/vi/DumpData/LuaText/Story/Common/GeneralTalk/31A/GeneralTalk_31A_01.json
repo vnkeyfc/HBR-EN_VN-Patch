@@ -1,0 +1,36 @@
+{
+  "Script": "Story/Common/GeneralTalk/31A/GeneralTalk_31A_01",
+  "Entries": [
+    {
+      "Key": "VC_GeneralTalk_31A_01_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "Why do all the witty comebacks have to come from me? I'm so tired of this...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_01_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I feel so tired every day... Before I even know it, my muscles are all sore...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_01_00002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "Sometimes I feel uneasy. Will I ever find the reason why I'm here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_01_00003_MAikawa",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Gotta get stronger. I'm...the savior of the world.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_01_00004_TKunimi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "31-A is full of silly people...\\nI have to make sure I stay level-headed!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

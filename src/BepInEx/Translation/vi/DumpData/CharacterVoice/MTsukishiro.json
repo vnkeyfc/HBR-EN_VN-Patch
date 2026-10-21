@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MTsukishiro",
+  "CharacterName": "月城最中",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0034_MTsukishiro",
+      "Label": "MTsukishiro_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "風林火山",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Phong Lâm Hoả Sơn!"
+    },
+    {
+      "Key": "VB0014_MTsukishiro",
+      "Label": "MTsukishiro_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "てっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MTsukishiro",
+      "Label": "MTsukishiro_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まだまだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MTsukishiro",
+      "Label": "MTsukishiro_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "邪魔だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MTsukishiro",
+      "Label": "MTsukishiro_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "えいっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MTsukishiro",
+      "Label": "MTsukishiro_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "なんの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MTsukishiro",
+      "Label": "MTsukishiro_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "これ好き！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MTsukishiro",
+      "Label": "MTsukishiro_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "相手が悪かったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MTsukishiro",
+      "Label": "MTsukishiro_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "我は負けぬと言ったであろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MTsukishiro",
+      "Label": "MTsukishiro_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "骨のある奴であった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MTsukishiro",
+      "Label": "MTsukishiro_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "我が負ける",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MTsukishiro",
+      "Label": "MTsukishiro_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "くっ、無念",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MTsukishiro",
+      "Label": "MTsukishiro_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "すまぬ友よ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MTsukishiro",
+      "Label": "MTsukishiro_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "さまつな者よ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MTsukishiro",
+      "Label": "MTsukishiro_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "友よ、待っていろ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MTsukishiro",
+      "Label": "MTsukishiro_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "たまにはいいものだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MTsukishiro",
+      "Label": "MTsukishiro_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "こんなところで終わりはしない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MTsukishiro",
+      "Label": "MTsukishiro_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "こんなものか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MTsukishiro",
+      "Label": "MTsukishiro_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "悪くない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MTsukishiro",
+      "Label": "MTsukishiro_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "そう来なくてはな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MTsukishiro",
+      "Label": "MTsukishiro_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "我と共に強くなるのだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MTsukishiro",
+      "Label": "MTsukishiro_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "さらに行くとするか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MTsukishiro",
+      "Label": "MTsukishiro_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "より精進しよう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000687_MTsukishiro",
+      "Label": "MTsukishiro_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "ふぅ、終われば一瞬のことのようだったな。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000689_MTsukishiro",
+      "Label": "MTsukishiro_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "この我がこっちの道へ進めというのか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000688_MTsukishiro",
+      "Label": "MTsukishiro_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "足を引っ張ってしまった 深く",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MTsukishiro",
+      "Label": "MTsukishiro_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "待たせた",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MTsukishiro",
+      "Label": "MTsukishiro_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "鍛錬の賜物だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MTsukishiro",
+      "Label": "MTsukishiro_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "我をまた楽しませてくれるのだろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MTsukishiro",
+      "Label": "MTsukishiro_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "手加減のつもりか知らぬが、我は最初から全力で行くぞ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

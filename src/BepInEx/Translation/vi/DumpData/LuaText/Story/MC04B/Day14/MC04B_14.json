@@ -1,0 +1,16 @@
+{
+  "Script": "Story/MC04B/Day14/MC04B_14",
+  "Entries": [
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "Bonerattler\\nRecommended Rating: 15,300\\nVulnerabilities: None\\nResistances: None\\nThis battle will be handled in a two-squad composition.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "ConfirmDeck:0",
+      "Original": "Skullplume\\nRecommended Rating: 15,500\\nVulnerabilities (Head): Fire, Thunder, Light\\nVulnerabilities (Tail): Ice, Dark\\nResistances: Non-elemental\\nThis battle will be handled in a two-squad composition.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

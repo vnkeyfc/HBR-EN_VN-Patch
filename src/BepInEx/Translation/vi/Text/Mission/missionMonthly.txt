@@ -2,10 +2,10 @@
 Resets at 12 AM (UTC-7) on the first of each month.=<size\=130%>Làm mới lúc 14:00\nmỗi ngày đầu tháng
 
 [Monthly_Missions]
-r:"^Log in for (\d+) day?.$"=Đăng nhập $1 ngày
-r:"^Log in for (\d+) days?.$"=Đăng nhập $1 ngày
-r:"^Log in for a total of (\d+) days.$"=Đăng nhập tổng cộng $1 ngày
-r:"^Clear (\d+) battles. \(Arena/Hyperbolic Time Arena excluded.\)$"=Hoàn thành $1 trận chiến\n(không tính Arena/Luyện Trường Thời Không)
+r:"^Log in for (\d+) day?.$"=Đăng nhập $1 ngày.
+r:"^Log in for (\d+) days?.$"=Đăng nhập $1 ngày.
+r:"^Log in for a total of (\d+) days.$"=Đăng nhập tổng cộng $1 ngày.
+r:"^Clear (\d+) battles. \(Arena/Hyperbolic Time Arena excluded.\)$"=Hoàn thành $1 trận chiến\n(không tính Đấu trường/Luyện Trường Thời Không).
 
 Light Pass=<size\=75%>Thẻ tháng Cơ Bản
 Premium Pass=<size\=75%>Thẻ tháng Cao Cấp

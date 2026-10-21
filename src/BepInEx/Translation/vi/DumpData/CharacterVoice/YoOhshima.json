@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "YoOhshima",
+  "CharacterName": "大島四ツ葉",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0029_YoOhshima",
+      "Label": "YoOhshima_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "頑張らない！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Không dám cố gắng đâu!"
+    },
+    {
+      "Key": "VB0014_YoOhshima",
+      "Label": "YoOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "だるーん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_YoOhshima",
+      "Label": "YoOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うるさいなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_YoOhshima",
+      "Label": "YoOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うわぁ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_YoOhshima",
+      "Label": "YoOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_YoOhshima",
+      "Label": "YoOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "なんて…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_YoOhshima",
+      "Label": "YoOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ひどい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_YoOhshima",
+      "Label": "YoOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "もう寝てもいいよな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_YoOhshima",
+      "Label": "YoOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "本気を出したら負けだよなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_YoOhshima",
+      "Label": "YoOhshima_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "イッチちゃん…目が覚えちゃった…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_YoOhshima",
+      "Label": "YoOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "もう…起きないで…すんの…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_YoOhshima",
+      "Label": "YoOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "俺、やけに寒いよ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_YoOhshima",
+      "Label": "YoOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "旅行に慣れたけど…違う…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_YoOhshima",
+      "Label": "YoOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "はぁー、強くなりたくなかった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_YoOhshima",
+      "Label": "YoOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "はぁ…これからも戦うの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_YoOhshima",
+      "Label": "YoOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "はぁ…強くなりすぎた",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_YoOhshima",
+      "Label": "YoOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "はぁ……もう頑張らないでいいよね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_YoOhshima",
+      "Label": "YoOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "頼りにされたくねーなー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_YoOhshima",
+      "Label": "YoOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "効率よくゴロゴロできるのか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_YoOhshima",
+      "Label": "YoOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "えぇー、強くなっちゃったのー？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_YoOhshima",
+      "Label": "YoOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "枕に形変わらねえかな？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_YoOhshima",
+      "Label": "YoOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "ゴロゴロしてたいのに…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_YoOhshima",
+      "Label": "YoOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "より深い眠りに落ちるぞー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000552_YoOhshima",
+      "Label": "YoOhshima_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "やっと終わったかー もうやんねーぞー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000554_YoOhshima",
+      "Label": "YoOhshima_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "マジかよーすげーな値",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000553_YoOhshima",
+      "Label": "YoOhshima_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "私に何を期待したんだよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_YoOhshima",
+      "Label": "YoOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "待ってたぞー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_YoOhshima",
+      "Label": "YoOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "うぅ…動きたくねえ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_YoOhshima",
+      "Label": "YoOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "後でコーラおごれよー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_YoOhshima",
+      "Label": "YoOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "はぁ…はぁ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

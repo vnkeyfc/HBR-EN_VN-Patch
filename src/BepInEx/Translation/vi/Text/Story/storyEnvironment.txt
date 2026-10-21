@@ -66,4 +66,5 @@ Maximum personality trait level reached. The following trait(s) will not gain po
 Is this how you will spend time?=Bạn vẫn muốn tiếp tục chứ?
 <style\=RubyPrefixTag></style>\nContinuing beyond this point will cause the story to progress.\nProceed?=<style\=RubyPrefixTag></style>\nĐi qua điểm này sẽ tiếp tục tiến trình cốt truyện.\nBạn có muốn tiếp tục?
 <style\=RubyPrefixTag></style>\nContinuing beyond this point will cause the story to progress. Proceed?=<style\=RubyPrefixTag></style>\nĐi qua điểm này sẽ tiếp tục tiến trình cốt truyện.\nBạn có muốn tiếp tục?
+<style\=RubyPrefixTag></style>\nContinuing further will trigger combat.\nDo you wish to proceed?=<style\=RubyPrefixTag></style>\nĐi qua điểm này sẽ đưa bạn vào một trận chiến.\nBạn có muốn tiếp tục?
 <style\=RubyPrefixTag></style>\nMove to specified location using auto-travel?=<style\=RubyPrefixTag></style>\nTự động di chuyển đến vị trí được chỉ định?

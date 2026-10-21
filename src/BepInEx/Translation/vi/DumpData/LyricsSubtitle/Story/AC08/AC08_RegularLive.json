@@ -1,0 +1,189 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC08/AC08_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 4.4,
+      "EndSecond": 6,
+      "OriginalText": "Three Two One Go!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 6.1,
+      "EndSecond": 9,
+      "OriginalText": "Do you know",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 9.1,
+      "EndSecond": 12,
+      "OriginalText": "What you want?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 12.1,
+      "EndSecond": 17.9,
+      "OriginalText": "What will you choose?  ",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 18,
+      "EndSecond": 20.9,
+      "OriginalText": "Do you know",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 21,
+      "EndSecond": 23.9,
+      "OriginalText": "What you want?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 24,
+      "EndSecond": 29.8,
+      "OriginalText": "We'll kill even god",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 29.9,
+      "EndSecond": 32.5,
+      "OriginalText": "I don't really remember making a decision",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 32.6,
+      "EndSecond": 35.8,
+      "OriginalText": "I was just born into this world, just like that",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 35.9,
+      "EndSecond": 41.8,
+      "OriginalText": "That must be why I cried and rejected it",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 41.9,
+      "EndSecond": 47.7,
+      "OriginalText": "Since that day, I've made it this far",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 47.8,
+      "EndSecond": 53.7,
+      "OriginalText": "Ah, \"Get up, get up, get up,\" a voice calls out",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 53.8,
+      "EndSecond": 59.7,
+      "OriginalText": "Ah, they cry out to me from so very far off",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 59.8,
+      "EndSecond": 62.7,
+      "OriginalText": "Even if I'm left all alone",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 62.8,
+      "EndSecond": 65.7,
+      "OriginalText": "Even if I'm up against the whole world",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 65.8,
+      "EndSecond": 71.5,
+      "OriginalText": "What's the big deal about that?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 71.6,
+      "EndSecond": 76.7,
+      "OriginalText": "I'll be fine",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 77.5,
+      "EndSecond": 80.5,
+      "OriginalText": "What is justice? Who is justice?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 80.6,
+      "EndSecond": 83.5,
+      "OriginalText": "I always ask, I keep asking",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 83.6,
+      "EndSecond": 87.1,
+      "OriginalText": "What is a hero? I'll sleep again tonight",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

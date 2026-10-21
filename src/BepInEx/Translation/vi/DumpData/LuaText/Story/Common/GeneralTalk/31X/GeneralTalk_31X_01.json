@@ -1,0 +1,42 @@
+{
+  "Script": "Story/Common/GeneralTalk/31X/GeneralTalk_31X_01",
+  "Entries": [
+    {
+      "Key": "VC_GeneralTalk_31X_01_00000_CReaper",
+      "Context": "Adv.talk:1",
+      "Original": "Lovin' justice and hatin' evil. Dat's a hero for ya.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31X_01_00001_IRedmayne",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Oh, what I wouldn't give\\nfor a contrived locked-room murder case...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31X_01_00002_VBalakrishnan",
+      "Context": "Adv.talk:1",
+      "Original": "Simply put, the stereoscopic image of the involute curve is... x=a(cosθ+θsinθ)...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31X_01_00003_MdAngelis",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Dannazione.\\nIt is still surprisingly peaceful here, no?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31X_01_00004_LShanhua",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "If we are to strategize on this terrain, let us use the lake.\\nYes... we ought to call it the Last Stand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31X_01_00005_CSkopovskaya",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Da, this view reminds me about Lake Baikal...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

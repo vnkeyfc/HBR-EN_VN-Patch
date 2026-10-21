@@ -1,0 +1,171 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/MC02/MC02_FestivalLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 10.7,
+      "EndSecond": 15.1,
+      "OriginalText": "This is My Dying Cry! This is Me Half-dying!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 21,
+      "EndSecond": 25.4,
+      "OriginalText": "This is My Dying Cry! This is Me Dying At Last!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 25.5,
+      "EndSecond": 30.6,
+      "OriginalText": "I've got a clear view ahead",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 30.7,
+      "EndSecond": 35.6,
+      "OriginalText": "Still, my heart's made of permafrost",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 35.7,
+      "EndSecond": 40.7,
+      "OriginalText": "There, they keep, keep, keep piling up to no end",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 40.8,
+      "EndSecond": 45.5,
+      "OriginalText": "All these pathetic desires of mine",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 45.6,
+      "EndSecond": 50.6,
+      "OriginalText": "Just try and live on your own",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 50.7,
+      "EndSecond": 56.2,
+      "OriginalText": "That habit of looking down your nose",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 56.3,
+      "EndSecond": 61.3,
+      "OriginalText": "It'll all break down, down, down, down before long",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 61.4,
+      "EndSecond": 66,
+      "OriginalText": "And you'll lose all your motivation",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 66.1,
+      "EndSecond": 71.1,
+      "OriginalText": "Did something good happen?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 71.2,
+      "EndSecond": 76.8,
+      "OriginalText": "Who will you celebrate it with?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 76.9,
+      "EndSecond": 81.8,
+      "OriginalText": "That thrill in your heart will fade away",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 81.9,
+      "EndSecond": 87,
+      "OriginalText": "And when your mania comes to an end,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 87.1,
+      "EndSecond": 89.1,
+      "OriginalText": "With a straight face, Dance! Dance! Dance!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 89.2,
+      "EndSecond": 94.2,
+      "OriginalText": "Take my hand, we'll show them all!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 96.9,
+      "EndSecond": 102.1,
+      "OriginalText": "This is My Dying Cry! This is Me Half-dying!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 107.3,
+      "EndSecond": 111.9,
+      "OriginalText": "This is My Dying Cry! This is Me Dying At Last!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

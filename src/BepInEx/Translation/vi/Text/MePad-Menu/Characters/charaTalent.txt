@@ -5,3 +5,5 @@
 演出再生=Xem lại hoạt ảnh
 
 どのレアリティのスタイルも才能開花が可能です\n才能開花は巻き戻すことはできません=<size\=120%>Hồi Ức thuộc bất kỳ độ hiếm nào có thể khai mở thiên phú.\nBạn không thể hoàn tác một khi đã khai mở thiên phú.
+
+<style\=RubyPrefixTag></style>\nWould you like to use an Eternal Daphne? \n* Talent Unlocks are possible with Memorias of all rarities, and cannot be reverted.=<style\=RubyPrefixTag></style>\nTiêu hao một Thuỵ Hương Vĩnh Cửu?\nKhai Mở Thiên Phú áp dụng cho mọi độ hiếm của Hồi Ức\nvà bạn không thể hoàn tác hành động này.

@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MNikaido",
+  "CharacterName": "二階堂三郷",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_MNikaido",
+      "Label": "MNikaido_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "天元、取ったり",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Thiên Nguyên, bắt!"
+    },
+    {
+      "Key": "VB0014_MNikaido",
+      "Label": "MNikaido_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なかなか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MNikaido",
+      "Label": "MNikaido_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "やるな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MNikaido",
+      "Label": "MNikaido_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "キャッ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MNikaido",
+      "Label": "MNikaido_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くぅっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MNikaido",
+      "Label": "MNikaido_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "負けない！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MNikaido",
+      "Label": "MNikaido_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "はぁっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MNikaido",
+      "Label": "MNikaido_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "読み通りの結果だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MNikaido",
+      "Label": "MNikaido_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "せめて3て先を読んでみることだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MNikaido",
+      "Label": "MNikaido_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "しのぎきることができたな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MNikaido",
+      "Label": "MNikaido_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "この… 二階堂みさとが…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MNikaido",
+      "Label": "MNikaido_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "私が読み違えるとは……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MNikaido",
+      "Label": "MNikaido_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ごめんなさい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MNikaido",
+      "Label": "MNikaido_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "新たな手を思いついたぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MNikaido",
+      "Label": "MNikaido_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "内幅が広がるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MNikaido",
+      "Label": "MNikaido_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "帰省に至る、まだその途中だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MNikaido",
+      "Label": "MNikaido_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "神の一手に近づいたか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MNikaido",
+      "Label": "MNikaido_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "不責となるだろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MNikaido",
+      "Label": "MNikaido_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "成長を実感している",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MNikaido",
+      "Label": "MNikaido_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "これで手が増えるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MNikaido",
+      "Label": "MNikaido_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "新たな布石となるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MNikaido",
+      "Label": "MNikaido_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだ強くなれるのだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MNikaido",
+      "Label": "MNikaido_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "やったー！さすが私！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000504_MNikaido",
+      "Label": "MNikaido_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "終局だ いいリズムで打てたぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000506_MNikaido",
+      "Label": "MNikaido_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "私の寄付を手本とするといい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000505_MNikaido",
+      "Label": "MNikaido_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "う、打ち損じるとは",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MNikaido",
+      "Label": "MNikaido_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "よろしくお願いします",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MNikaido",
+      "Label": "MNikaido_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "任務に集中しろ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MNikaido",
+      "Label": "MNikaido_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "それ以上はよせ！夜トイレに行けなくなる！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MNikaido",
+      "Label": "MNikaido_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "イェーイ！やったー！これ大好き！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

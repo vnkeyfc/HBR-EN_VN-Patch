@@ -1,0 +1,90 @@
+{
+  "Script": "Story/AC43/Day01/World/AC43_01_02_00",
+  "Entries": [
+    {
+      "Key": "VC_Z_907000001_MiOhshima",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Outta the way! Comin' throoough!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000002_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here we go, this must be 31-D's room.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000003_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have a package for Nikaido! Um...what is this again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000004_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My orca plushie! Is it here already?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000005_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Squee! Look at it, perfectly monochrome black and white! Cuuute!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000006_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haha, seeing you overjoyed sure made this a worthwhile delivery. It's even making me smile.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000007_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you for delivering this, Minori. I never expected it to arrive so soon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000008_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, each day I shave off the delivery timeline is another day the recipient gets to spend happy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000009_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Plus, I love seeing how everyone smiles when they get their packages earlier than expected.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000010_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, while I'm here, lemme give you one of these.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000011_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A flyer? What's it for? \"BAR Sobriety\"... What's that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000012_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Starting tonight, I'll be working at this bar for a couple days. If you have time, be sure to stop by.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000013_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alrighty then. Let me know if you need anything else delivered!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000014_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Minori's...a bartender?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

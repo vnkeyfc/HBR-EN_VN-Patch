@@ -17,10 +17,4 @@
 /RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_4/container/btnSelect/status/totalText|'T.Mật Lv.'|'T.<size=80%>Mật </size>Lv.'
 /RootView/UI-Foreground/Main/UICharacterList/container/characterScrollView/characterList/character01_5/container/btnSelect/status/totalText|'T.Mật Lv.'|'T.<size=80%>Mật </size>Lv.'
 
-/RootView/UI-Foreground/Main/UICharacterListProfile/container/viewType/styleList/Viewport/Content/template(Clone)/mask/status/cardLevelContainer/ability|'Nâng Cấp'|'<space=10px>Nâng Cấp'
-/RootView/UI-Foreground/Main/UICharacterListProfile/container/viewType/styleList/Viewport/Content/template(Clone)/mask/status/characterLevelContainer/ability|'Nâng Cấp'|'<space=10px>Nâng Cấp'
-
-/RootView/UI-Foreground/Main/UICharacterListProfile/container/viewType/styleList/Viewport/Content/template(Clone)/mask/status/cardLevelContainer/limit|'Đột Phá'|'<space=-40px>Đột Phá'
-/RootView/UI-Foreground/Main/UICharacterListProfile/container/viewType/styleList/Viewport/Content/template(Clone)/mask/status/characterLevelContainer/limit|'Đột Phá'|'<space=-40px>Đột Phá'
-
 /RootView/UI-Foreground/Main/UICharacterListProfile/container/commonBg/title|'Tiểu sử'|'<size=80%>Tiểu sử'

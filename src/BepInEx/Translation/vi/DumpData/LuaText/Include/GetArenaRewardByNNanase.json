@@ -1,0 +1,409 @@
+{
+  "Script": "Include/GetArenaRewardByNNanase",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Would you like to train at the arena?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Lv. 2 training battles have been added to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Lv. 3 training battles have been added to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Would you like to assist us today?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "You can now undergo Battle Familiarization in the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Lv. 4 training battles have been added to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Free Practice has been added to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Proving Ground Challenges have been added to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "Training battles have been added.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "LinneEvent:1",
+      "Original": "New Proving Ground Challenges have been added to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "As a reward, you will receive items that raise your XP.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Take a look?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Yes|No",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Transition.setOutdoor:1",
+      "Original": "In Front of Arena",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "You can also use the arena during your free time.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Each day you visit, you will receive items that raise your XP.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Training at the arena is also an easy way to earn GP.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "NNanaseLinneEnd:1",
+      "Original": "Here is your allotment of XP-increasing items for today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#3",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Lv. 3 training battles reward you with resources for upgrading Memorias of specific types.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#4",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Today, we are conducting calibration tests in the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "If you complete the specified battles, you shall receive additional GP as a reward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#5",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "You can undergo training to learn the intricacies of battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Clearing this training for the first time will earn you a reward.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "NNanaseLinneEnd:1",
+      "Original": "In addition, you will receive items that raise your experience today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#6",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Lv. 4 training battles reward you with more type-specific Memoria-upgrading resources.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#7",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "It is important that you earn GP to purchase better equipment.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#8",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We are conducting calibration tests in the arena today as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We have also added Lv. 5 training battles. If you think you're up to the challenge, please feel free to try them out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#9",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "You can freely adjust this training to practice combat.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "I recommend reviewing your squad composition before you start.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Also, the arena's training exercises have been renewed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#10",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Training regularly in the arena will help you all down the line.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#11",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#12",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Arena training is also important for gathering resources that improve your squad units.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#13",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#14",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "You can undergo training modeled after special scenarios.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "It will surely help you increase the breadth of your strategy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#15",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#16",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Lv. 2 training battles have been added to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We've also added new exercises to Battle Familiarization.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "You can undergo advanced training to learn the intricacies of battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Please make good use of the arena in order to prepare for even greater challenges.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#17",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#18",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "If you are able to handle the current training regimes, then it is a sure sign that you have grown strong enough to proceed further with your main missions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00664_v004_RKayamori#19",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori#2",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Even with a lot of frontline experience under your belt, training in the arena should still be of great help to you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori#3",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We've added exercises modeled after more difficult scenarios to test how you've refined your squad composition.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Please make good use of the arena in order to prepare for the challenges ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori#4",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We've also added Lv. 3 training battles. If you think you're up to the challenge, please feel free to try them out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori#5",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "Also, the training regimes have been renewed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori#6",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We've also added Lv. 2 training battles. If you think you're up to the challenge, please feel free to try them out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori#7",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori#8",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_901100052_RKayamori#9",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "We've also added Lv. 4 training battles. If you think you're up to the challenge, please feel free to try them out.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

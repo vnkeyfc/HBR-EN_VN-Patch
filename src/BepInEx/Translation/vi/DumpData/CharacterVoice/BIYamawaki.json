@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "BIYamawaki",
+  "CharacterName": "山脇イヴァール",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_BIYamawaki",
+      "Label": "BIYamawaki_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "この世界は私の実験台よ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Thế giới này là vật thí nghiệm của ta!"
+    },
+    {
+      "Key": "VB0014_BIYamawaki",
+      "Label": "BIYamawaki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ふっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_BIYamawaki",
+      "Label": "BIYamawaki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なんのその",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_BIYamawaki",
+      "Label": "BIYamawaki_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "チェック！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_BIYamawaki",
+      "Label": "BIYamawaki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっうっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_BIYamawaki",
+      "Label": "BIYamawaki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "きついわね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_BIYamawaki",
+      "Label": "BIYamawaki_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ちっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_BIYamawaki",
+      "Label": "BIYamawaki_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "そこがお前の墓場だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_BIYamawaki",
+      "Label": "BIYamawaki_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ずっとおねんねしておきな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_BIYamawaki",
+      "Label": "BIYamawaki_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "なかなかやるじゃないの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_BIYamawaki",
+      "Label": "BIYamawaki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "嘘、この私が…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_BIYamawaki",
+      "Label": "BIYamawaki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "すまない、プンゴ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_BIYamawaki",
+      "Label": "BIYamawaki_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ごめんって",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_BIYamawaki",
+      "Label": "BIYamawaki_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "さあ！見たか文豪！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_BIYamawaki",
+      "Label": "BIYamawaki_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "よっしゃー！世界征服に一歩近づいたわね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_BIYamawaki",
+      "Label": "BIYamawaki_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "シャア！さすがこの私！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_BIYamawaki",
+      "Label": "BIYamawaki_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "しゃあ！すべては気合だよ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_BIYamawaki",
+      "Label": "BIYamawaki_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "強くなっちゃった？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_BIYamawaki",
+      "Label": "BIYamawaki_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いい感じじゃない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_BIYamawaki",
+      "Label": "BIYamawaki_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "おーお前も強くなったかい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_BIYamawaki",
+      "Label": "BIYamawaki_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "獲物は鋭いに限るよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_BIYamawaki",
+      "Label": "BIYamawaki_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "また強くなれちゃうじゃない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_BIYamawaki",
+      "Label": "BIYamawaki_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "己の才能が恐ろしいわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000716_BIYamawaki",
+      "Label": "BIYamawaki_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "私にかかればこんなものよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000718_BIYamawaki",
+      "Label": "BIYamawaki_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "ベンゴムディタカー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000717_BIYamawaki",
+      "Label": "BIYamawaki_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "まさかこの私が",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_BIYamawaki",
+      "Label": "BIYamawaki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "さて、今日も始めようかしら",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0015_BIYamawaki",
+      "Label": "BIYamawaki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ふっふっふー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_BIYamawaki",
+      "Label": "BIYamawaki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "私は口先だけじゃないの。わかった？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0018_BIYamawaki",
+      "Label": "BIYamawaki_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "世界を滅ぼす女よ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

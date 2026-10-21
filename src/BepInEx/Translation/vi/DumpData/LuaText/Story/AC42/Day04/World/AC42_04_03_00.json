@@ -1,0 +1,192 @@
+{
+  "Script": "Story/AC42/Day04/World/AC42_04_03_00",
+  "Entries": [
+    {
+      "Key": "VC_Z_907400199_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Excuse me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400087_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can I help you, Vritika?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400200_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uhm... I am here to talk to you about 31-X being dissolved and reassigned...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400088_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I beg your pardon?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400201_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The other day, I overheard you speaking to an officer. Is that idea...still on the table?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400089_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika, do you want the squad to be dissolved?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400202_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Absolutely not!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400203_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X has many problems, and we are not always the most united squad, but even so, it...it is where I belong!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400090_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Different origins mean different viewpoints. Oftentimes, your lack of unity leads to setbacks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400091_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But that is precisely why I believe you have a sort of strength only your squad can achieve. Keep up the good work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400204_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haan... Thank you, Commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400205_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Before I know it, the seasons turn, and the wind blows pleasant... The temperature must be 20 degrees or so. Japanese autumn. A season India lacks.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400206_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Yesterday, 31-X tightened the bonds of unity the commander speaks of.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400207_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I am sure that from now on, we will perform according to our status as an elite unit with recruits from all over the world.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400208_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(And as the New Delhi Branch's representative, I will conduct myself accordingly so as to not bring shame to my country.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200136_LShanhua",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Nuooooh! When will it be my turn to cook?!\\nI demand Chinese cuisine!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200169_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We keep tellin' ya, Chinese is way too much oil for breakfast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200118_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mean, if you want to talk about spoiling your stomach for the day, burgers and pizza are definitely up there..",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400110_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200119_IRedmayne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Aaaaah, frightfully sorry!\\nPizza is ideal breakfast food!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600005_Cskopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Decide quickly who makes breakfast. I must go to Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400209_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(...As ever, they tug each other in opposing directions.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400210_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But even so, they all get mad together, fight together, laugh together...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400211_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(This is 31-X. My dear, precious friends...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200137_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Vritika is here! Vritika, you are the deciding vote! You have been craving Chinese cuisine recently, have you not?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200170_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you want a breakfast that really knocks your sock off, gotta be burgers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400111_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you want a balanced breakfast, you go with pizza.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200120_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The Full English breakfast is a delight, you know?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600006_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pirozhki is easy to eat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400212_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, but I think...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400213_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can mix all of those into kari.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

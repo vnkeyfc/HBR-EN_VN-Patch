@@ -1,0 +1,251 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "AMizuhara",
+  "CharacterName": "瑞原あいな",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_AMizuhara",
+      "Label": "AMizuhara_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "どこまでも潜るさー",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Lặn xuống nơi sâu nhất có thể."
+    },
+    {
+      "Key": "VB0014_AMizuhara",
+      "Label": "AMizuhara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おや？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_AMizuhara",
+      "Label": "AMizuhara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ホイサー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_AMizuhara",
+      "Label": "AMizuhara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "頑丈さぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_AMizuhara",
+      "Label": "AMizuhara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うわぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_AMizuhara",
+      "Label": "AMizuhara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "容赦ないさ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_AMizuhara",
+      "Label": "AMizuhara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くじけないさー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_AMizuhara",
+      "Label": "AMizuhara_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "海の研究者は強いのさ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_AMizuhara",
+      "Label": "AMizuhara_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "やったさ！倒したさ！さあ食べるさ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_AMizuhara",
+      "Label": "AMizuhara_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "マンボウの気持ちがわかったさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_AMizuhara",
+      "Label": "AMizuhara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "海を 守りたかったさぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_AMizuhara",
+      "Label": "AMizuhara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "弱肉強食…さあ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_AMizuhara",
+      "Label": "AMizuhara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みんなのこと、もっと知りたかったさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_AMizuhara",
+      "Label": "AMizuhara_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "うーん、またみんな教えたのさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_AMizuhara",
+      "Label": "AMizuhara_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "うーん、強くなれたさ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_AMizuhara",
+      "Label": "AMizuhara_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "うーん、ワクワクが止まらないさー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_AMizuhara",
+      "Label": "AMizuhara_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "成長の次は進化を狙うさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_AMizuhara",
+      "Label": "AMizuhara_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "研究結果が出たのさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_AMizuhara",
+      "Label": "AMizuhara_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "戦場に適応したさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_AMizuhara",
+      "Label": "AMizuhara_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "アイナの武器が強くなったさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_AMizuhara",
+      "Label": "AMizuhara_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "耐水度もアップしたぞ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_AMizuhara",
+      "Label": "AMizuhara_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "アイナも進化し続けるのさ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_AMizuhara",
+      "Label": "AMizuhara_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "出世王みたいに解明がいるさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_AMizuhara",
+      "Label": "AMizuhara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "はい、待ってたぞー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_AMizuhara",
+      "Label": "AMizuhara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "はい、天才海洋生物学者さ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP0015_AMizuhara",
+      "Label": "AMizuhara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "海に生きるみんなはすごいさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_AMizuhara",
+      "Label": "AMizuhara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "食べた魚の骨は埋めてくようするさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

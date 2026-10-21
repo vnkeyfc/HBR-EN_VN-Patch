@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MKiryu",
+  "CharacterName": "桐生美也",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_MKiryu",
+      "Label": "MKiryu_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "鳴らせ退魔の弦！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Rung lên, hỡi dây cung trừ tà!"
+    },
+    {
+      "Key": "VB0014_MKiryu",
+      "Label": "MKiryu_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MKiryu",
+      "Label": "MKiryu_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "もう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MKiryu",
+      "Label": "MKiryu_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "いやっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MKiryu",
+      "Label": "MKiryu_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MKiryu",
+      "Label": "MKiryu_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ひゃー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MKiryu",
+      "Label": "MKiryu_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああああああ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MKiryu",
+      "Label": "MKiryu_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "全てはこの国の文化を守るため",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MKiryu",
+      "Label": "MKiryu_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "会員募集中です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MKiryu",
+      "Label": "MKiryu_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "少し、動揺してしまいました。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MKiryu",
+      "Label": "MKiryu_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "申し訳ありません",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MKiryu",
+      "Label": "MKiryu_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "残念、無念",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MKiryu",
+      "Label": "MKiryu_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "日本文化を守って",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MKiryu",
+      "Label": "MKiryu_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "神々のお導きです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MKiryu",
+      "Label": "MKiryu_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "え？ご入会いただけるんですか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MKiryu",
+      "Label": "MKiryu_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "これで間違いなく会員が増える",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MKiryu",
+      "Label": "MKiryu_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "少しは貢献できているでしょうか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MKiryu",
+      "Label": "MKiryu_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "これは",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MKiryu",
+      "Label": "MKiryu_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "強くなった？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MKiryu",
+      "Label": "MKiryu_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "誇らしいです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MKiryu",
+      "Label": "MKiryu_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "もっと強くなってね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MKiryu",
+      "Label": "MKiryu_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "これは凝固？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MKiryu",
+      "Label": "MKiryu_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "良き者",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000661_MKiryu",
+      "Label": "MKiryu_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "画学を次は画学をやりましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000663_MKiryu",
+      "Label": "MKiryu_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "だから画学を！次は画学で達成しましょう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000662_MKiryu",
+      "Label": "MKiryu_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "画学でないからこんなことになるのですよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MKiryu",
+      "Label": "MKiryu_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "せっかくですのでご教授いただきましょうか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MKiryu",
+      "Label": "MKiryu_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お待ちしておりました。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MKiryu",
+      "Label": "MKiryu_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "では、ここにサインを。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MKiryu",
+      "Label": "MKiryu_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "イナイナイナイナイナー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

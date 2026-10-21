@@ -1,0 +1,108 @@
+{
+  "Script": "Story/AC42/Day03/World/AC42_03_06_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_01136_VBalakrishnan",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Yingxia, now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01137_LShanhua",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Haa!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01138_LShanhua",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Carole!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01139_CReaper",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Awright!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01140_IRedmayne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I knew you were gonna counterattack!\\nMaria, go on ahead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01141_MdAngelis",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01142_MdAngelis",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I will kill you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01143_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tch, that failed to cut it down!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01144_VBalakrishnan",
+      "Context": "Adv.showCutIn:1",
+      "Original": "No, it is all going according to plan. Charl!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01145_CSkopovskaya",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Da. I can snipe from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01146_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Its core is exposed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01147_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can do this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01148_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I realized something from the charge earlier. It may be resistant to slashes and projectiles...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800065_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is weak to heavy, penetrating charge attacks!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01149_VBalakrishnan",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "HAAAAAAAHH!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01150_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Its defenses are fully broken! Attack it now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01151_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's rush dis thing, gals!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

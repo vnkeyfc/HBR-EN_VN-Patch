@@ -1,0 +1,46 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_Arcade_Title",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Once you are ready, select \"Battles\" to begin!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You've unlocked the Endless Mode.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "In Endless Mode,\\nyou will attempt to progress in a continual,\\nnever-ending stage for as long as possible.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "After you defeat the area boss, you will proceed to the next area.\\nThe further you get, the stronger the enemies will become.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "In addition, your score in Endless Mode\\nwill be recorded in the seasonal Score Board.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Customize your deck and go for top of the rankings!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "[Token Recruitment] unlocked.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can get [Support Capsules] by using Arts Tokens\\nto pull from the Token Recruitment.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

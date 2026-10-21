@@ -1,0 +1,1019 @@
+{
+  "Script": "Story/AC42/Day03/Novel/AC42_03_10_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_01192_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're gonna make da ultimate kari together!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01193_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01194_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're gonna make da ult—",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01195_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I heard you properly. But how do you know about the ultimate kari?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01196_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, remember how we said Yotsuha told us about your feelings?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01197_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She told us about the ultimate kari, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01198_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is very important, yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01199_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You will let us help with ultimate kari too?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01201_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Would you...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01204_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! Alright, let's cook up some ultimate kari!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800076_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But how do we go about making it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800077_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well... Go on, Vritika, lead the way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800078_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You are dumping all the responsibility on her after all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800079_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, that's because we can't even manage to make kari of any variety, let alone the ultimate one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800080_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But cooking together, is sounding fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800081_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes... It brings back memories of making pizza with the sisters.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01206_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika? What's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800082_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No doubt, she is calculating the right roles for us, for maximum efficiency.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800083_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. I was not calculating.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800084_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you were just spacing out?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800085_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...I think I have my answer now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01207_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There is an overall order in how to prepare it, but we do not need to follow any recipe too closely.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01208_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So we can cook however we want.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01209_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I didn't know what the right ingredients were, so I brought a little bit of what everyone likes. Is that alright?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01210_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is fine. Kanata and the others already gathered the spices we will need.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01211_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let us create the ultimate kari together. A collaborative work for 31-X.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01212_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "First, could you chop these ingredients and spices? I will leave the size of the cuts to your discretion.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01213_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will do this.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*chop chop chop*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01214_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01214_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01214_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Alright, Sharmila, you're in charge of chopping veggies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01215_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01215_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01215_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Cut them to whatever size you like, so long as you like it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800086_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800086_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Can I help?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800087_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800087_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800087_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Vritika, you help your sister. Put the ingredients into a bowl. And be very careful how you handle that knife.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800088_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800088_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I will. Mmh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01216_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01217_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My my... You nearly cut it into powder. But we can go with this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01218_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is actually acceptable?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01220_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Next, let us heat some oil in the pot and start roasting the spices.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01221_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Frying, is it? Then allow me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01222_IRedmayne",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Isn't that too much oil?! There's flames rising out of the pan!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01223_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01223_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01223_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Ow, it's hot! H-Hey! Isn't the fire too big?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01224_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01224_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01224_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Don't worry about it! Firepower is justice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01225_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01225_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01225_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "B-But... Whoa! There's fire coming out of the pot!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800089_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800089_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Assuming the temperature of the oil is <i>t</i>, and the intensity of the fire is <i>p</i>, the surface temperature required for the pot to produce flames is...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800090_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800090_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800090_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Vritika's started doing numbers in her head again! Deepak, that's dangerous, let go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01226_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, this is just right. Otherwise, ingredients we put in later won't cook as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01227_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Garlic, ginger... And then add in onions... Good!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01228_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And then the meat...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01229_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I bring plenty. We use all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800091_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800091_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Look at all the meat Vijay got us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01230_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01230_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01230_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I know you're a big eater, but that's way too much meat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01231_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01231_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01231_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "It's fine! Dump it all in!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01232_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Isn't this too much?! How many mouths are we feeding here?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01233_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We eat together, then I share with Ruka... Ruka is happy to get lots of meat...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01234_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good idea. Let us dump it all in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01235_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ooohoo?! Now it smells like meat in here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01236_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's cancel it out with some good ol' ketchup! That should go well with meat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01237_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Add this, too. I made this tomato sauce for pizza.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01238_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01238_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01238_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Chocolate and raisins... Honey too? Isn't it going to make the flavor all wonky?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01239_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01239_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Sharmila loves chocolate, Vijay loves raisins, and Deepak loves honey.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01240_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01240_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01240_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "And what about Vritika's favorite?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01241_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01241_VBalakrishnanMother",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Can't you see what we're cooking right now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800092_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800092_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Mhm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01242_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, should we really just dump anything in?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01243_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is fine. We could sprinkle in twice as many spices and it would work out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01244_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you talking about?! I thought you were a lot more particular about measurements!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01245_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is fine. After all, this is the ultimate kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01246_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is very fun... I should put in crushed grechka, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01247_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I fried the meat... There was so much my arms are aching...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01248_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you going to add something, Yingxia?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01249_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, hmm... I'll add in some ba jiao, then! That is a spice for Chinese cooking, if there ever was one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01250_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is star anise, yes? Then add it with the other spices and pour the water in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01251_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow... Now I feel like adding something in, too! There!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01252_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "H-Hey! What did you add?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01253_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...An eel. And I don't mean jelly, of course.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01254_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh... Eel...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01255_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heheh, I look forward to see how it turns out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01256_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is prepared. Let us hurry up and serve it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01257_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ooh... It smells completely unlike what we had this morning.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01258_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone, if you would please?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01259_VBalakrishnan",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for the food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01260_CReaper",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for da food!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01262_IRedmayne",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for the food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01264_CSkopovskaya",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thanks for food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01263_MdAngelis",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for the food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01261_LShanhua",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for the food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01268_IRedmayne",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Eew?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01269_CSkopovskaya",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Bad taste...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01267_MdAngelis",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Mmgh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01265_CReaper",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "It's gross!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01266_LShanhua",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yuck!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01270_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Heh. Heheheh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01271_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Oh, yes... This is it...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01272_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The first time I had the ultimate kari, it tasted quite bad, just like this.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01273_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But seeing my father and my siblings eat it with such joy made me think it was the tastiest kari in the world.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01274_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The ultimate kari I was trying to achieve all this time was my memory of the result it created.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01275_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But that was never it, was it, Mother?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01276_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The real answer to the ultimate kari...is in the process of making it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400197_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I finally found it... The ultimate kari is the kari we all make together.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01277_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It tastes...bad, does it not...?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01278_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, why are you laughin'? Heheh. Not that I don't relate!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01279_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ahahaha! We just dumped stuff into a pot, so of course it's going to taste like chaos!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01280_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "An absolutely disgusting flavor, without a hint of harmony. But... Hah, it is...quite funny.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01281_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heheh... I cannot give Ruka this. This is 31-X kari... Kari only 31-X can enjoy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01282_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hahah, and we had to cook such a big pot, too. How are we going to get rid of this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01283_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do not worry. We can improve it so it becomes more edible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01284_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heheh, dat sounds pretty fun, too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01285_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes...I think it will be a lot of fun. And we can keep sharing the fun this way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01286_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is...the ultimate kari I was looking for!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01287_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ahaha... That's silly. But honestly, it's a wonderful kinda stupid silly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01288_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Everyone was so divided, but now we are seated at the same table, laughing...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01289_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(This is the dinner table Mother always showed me. The dinner table I loved so much.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400198_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The scene I thought I lost, that I wished to see just one more time...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01290_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "H-Huh...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01291_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01292_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry... The tears just keep flowing...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01293_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sniffle...* I'm sorry... They just...do not stop...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01294_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is...strange. I am happy so...why am I crying?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01295_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nothin' strange about it. Sometimes, happiness brings you to tears.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01296_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carole...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01297_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I never knew you was thinkin' these kindsa thoughts in that head of yours. You're always so calm n' collected. Well, 'cept for when you get all heated about kari...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01298_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But ya got me, team leader, beat when it comes to carin' about 31-X's bonds. And ya act on it, too...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200166_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, as team leader, I accept your feelings, Vritika! I won't lose sight of 'em ever again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400108_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X is a group of women from different backgrounds and attitudes, but you proved we can come together to fight. Color me impressed, Vritika.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200134_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that you have made 31-X's bonds tighter, I, as tactician, can guide us to new heights. Know that your devotion was not in vain!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200116_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not just about how we fight, either. You showed us the right way to spend time together as friends who live side-by-side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01299_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wanting to see precious comrades always smiling... I understand your feeling, Vritika...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01300_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I daresay you're too taciturn. You should speak your mind more often.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01301_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true... We have words so we can express ourselves, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01302_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I acknowledge I am not one for words myself...but you take it to another level.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01303_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say, gals, I got an idea!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01304_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How about we try makin' kari together again sometime? Sure, we won't always get to do it, what with missions n' all, but we oughta get together when we can!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200167_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So's we'll never forget those 31-X bonds Vritika worked so hard to forge!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200135_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm, if we wish to strengthen 31-X's coordination, we must deepen our bonds!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400109_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No objection.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200117_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone's trying to put a spin on it, but you're all just saying that today was a lot of fun, and we should do it again. Be more sincere, would you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600004_Cskopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Making 31-X kari is fun.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200168_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! Vritika, gals! Let's figure out the next kari we're gonna make!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01305_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. I am sure the ultimate kari will taste even better next time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01306_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let us find the right recipe, together.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,144 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/CC01/CC01_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 9.5,
+      "EndSecond": 11.8,
+      "OriginalText": "Shout it out loud!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 15.1,
+      "EndSecond": 17.4,
+      "OriginalText": "Shout like the crow!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 27.4,
+      "EndSecond": 31.4,
+      "OriginalText": "With a wall of shutters behind me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 33,
+      "EndSecond": 37,
+      "OriginalText": "And fingertips that smell of blood",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 38.5,
+      "EndSecond": 43.9,
+      "OriginalText": "Go forward, strum away; it's going to be crowded here anyway.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 45.3,
+      "EndSecond": 50.7,
+      "OriginalText": "Find a way out of here",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 50.8,
+      "EndSecond": 56.2,
+      "OriginalText": "Make sure to find it",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 56.3,
+      "EndSecond": 61.8,
+      "OriginalText": "Let the rock sound out",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 61.9,
+      "EndSecond": 67.3,
+      "OriginalText": "And gaze into the distance",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 67.4,
+      "EndSecond": 70.1,
+      "OriginalText": "Just how long are you going to stay here?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 70.2,
+      "EndSecond": 72.8,
+      "OriginalText": "It feels like someone once said that to me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 72.9,
+      "EndSecond": 75.5,
+      "OriginalText": "If you're just going to keep saying annoying things",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 75.6,
+      "EndSecond": 87.3,
+      "OriginalText": "Let yourself be snatched away by those jet-black wings and disappear",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 92.7,
+      "EndSecond": 95.1,
+      "OriginalText": "Shout it out loud!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 98.3,
+      "EndSecond": 102.7,
+      "OriginalText": "Shout like the crow!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

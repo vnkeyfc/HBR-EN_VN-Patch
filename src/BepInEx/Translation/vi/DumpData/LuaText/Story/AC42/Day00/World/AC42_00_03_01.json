@@ -1,0 +1,180 @@
+{
+  "Script": "Story/AC42/Day00/World/AC42_00_03_01",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00005_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The breeze is pleasant... The temperature is just shy of twenty degrees. Japan's climate is slightly warmer than winter in India.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00006_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Officer",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00006_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "This is where you will be staying, Squad 31-X's room.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00007_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dhanyavaad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00008_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(31-X is an elite squad with recruits from all over the world.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00009_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(It must be a group of very bright individuals.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00010_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I am the New Delhi Branch's representative, and must conduct myself accordingly, so as to not bring shame to my country.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00011_LShanhua",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Nuooooh! Why are you the leader instead of me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00011_LShanhua#2",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Nuooooh! Why are you the leader instead of me?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00012_CReaper",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Cuz I'm the American Grim Hero of the group. Of course I'm gonna lead!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00013_LShanhua",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "No, it is clear and obvious to all that I, direct descendant of master tactician Zhuge Liang should be the leader! THAT Zhuge Liang! THE Zhuge Liang!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800001_LShanhua",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "And besides, a grim hero can't be a leader!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00014_MdAngelis",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Quiet. I will kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00015_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Aah...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00016_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The trip to Japan must have tired me out...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00017_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(A team of global elites would not descend into bickering on their first day together...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00018_LShanhua",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "And you lot agree with her?! You want this numbskull for a leader?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00019_MdAngelis",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I will do as I please and kill Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00020_IRedmayne",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "No, that won't do. A squad consists of six members, so you can't go on your own.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00021_MdAngelis",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I will kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00022_IRedmayne",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Aaaaah, frightfully sorry! But isn't threatening to kill someone you've only just met rather rude?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800002_LShanhua",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You there, Russian girl! What say you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00023_CSkopovskaya",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "This is nothing to do with me... All will leave me, in the end...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00024_CSkopovskaya",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "aNd thEn i AM aLOnE aGAin...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00025_CReaper",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I don't hear no objections! That settles it, I'm da leader of 31-X!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00026_LShanhua",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "WHAT IN THE WORLD IS THIS SQUAD'S PROBLEM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00026_LShanhua#2",
+      "Context": "Adv.playCutIn:3",
+      "Original": "WHAT IN THE WORLD IS THIS SQUAD'S PROBLEM?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00027_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(31-X is an elite squad with recruits from all over the world...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00028_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(It seems more that they have placed all the misfits into a single squad...)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

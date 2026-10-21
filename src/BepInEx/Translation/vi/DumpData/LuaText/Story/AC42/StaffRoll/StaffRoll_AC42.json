@@ -1,0 +1,491 @@
+{
+  "Script": "Story/AC42/StaffRoll/StaffRoll_AC42",
+  "Entries": [
+    {
+      "Context": "Adv.staffRollTextAuto:0",
+      "Original": "Produced and Developed by",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextAuto{}:1",
+      "Original": "WRIGHT FLYER STUDIOS/VISUAL ARTS/Key",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Scenario",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Sai Tojo",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Kururu Hirahata",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Sho Karasuma",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "Cast",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Yurie Kozakai",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Carole Reaper",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Anna Yamaki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Yingxia Li",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Hina Koyanagi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Irene Redmayne",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Marika",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Maria de Angelis",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Yune Azuki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Charlotta Skopovskaya",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Saya Aizawa",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Ruka Kayamori",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Tomori Kusunoki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Vocals: XAI",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Tama Kunimi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Aoi Koga",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Miko Tenne",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Tamako Miyazaki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Yayoi Bungo",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Akane Katsuki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Hisame Ogasahara",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Minami Tanaka",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Ichiko Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Aoi Hinata",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Niina Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Sayaka Kaneko",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Yuki Nakashima",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:6",
+      "Original": "Yotsuha Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:7",
+      "Original": "Mari Uchiyama",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:8",
+      "Original": "Isuzu Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:9",
+      "Original": "Saima Nakano",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:10",
+      "Original": "Muua Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:11",
+      "Original": "Mirii Fukushima",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Kanata Maruyama",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Hiyori Kono",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Saki Tezuka",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Asami Seto",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Officer",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Yukari Tenne",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Nana Matsuzaki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Punarvi Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Yuka Adachi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Shomaru Zoza",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Shuumatsu no Hero\" (\"Doomsday Hero\")",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:0",
+      "Original": "Lyrics by",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:1",
+      "Original": "Jun Maeda",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:2",
+      "Original": "Composed by",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:3",
+      "Original": "Jun Maeda",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:4",
+      "Original": "Arranged by",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:5",
+      "Original": "Minoru Yoshida",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:6",
+      "Original": "Performed by",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:7",
+      "Original": "Ruka Kayamori (Vo.: XAI)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:9",
+      "Original": "Karen Asakura (Vo.: Konomi Suzuki)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:10",
+      "Original": "Scream",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:11",
+      "Original": "Karrie (Ayumu [Serenity In Murder])",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:12",
+      "Original": "Chorus",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:13",
+      "Original": "Yuki Izumi (Voiced by Ryoko Maekawa)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:15",
+      "Original": "Megumi Aikawa (Voiced by Anju Inami)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:17",
+      "Original": "Tsukasa Tojo (Voiced by Yurina Amami)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:19",
+      "Original": "Tama Kunimi (Voiced by Aoi Koga)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Bass",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "Toru Hebiishi",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Drums",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Hiroki",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Various Instruments & Programming",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Minoru Yoshida",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Autumn Howl\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Yamiyo no Komachi Vampire\" (\"Belle Vampire in the Dead of Night\")",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:19",
+      "Original": "Karrie (Voiced by Yu Serizawa)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:21",
+      "Original": "Tama Kunimi (Voiced by Aoi Koga)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Melancholic Blue\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"Kareinaru Giho\" (\"The Epicurean Technique\")",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:10",
+      "Original": "Chorus",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:11",
+      "Original": "Yuki Izumi (Voiced by Ryoko Maekawa)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:13",
+      "Original": "Megumi Aikawa (Voiced by Anju Inami)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:15",
+      "Original": "Tsukasa Tojo (Voiced by Yurina Amami)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:17",
+      "Original": "Tama Kunimi (Voiced by Aoi Koga)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollAddCaption:0",
+      "Original": "\"After You Sleep\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:5",
+      "Original": "MANYO",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollTextNarrowLeft{}:7",
+      "Original": "rionos",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:0",
+      "Original": "Piano",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:1",
+      "Original": "kidlit",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:2",
+      "Original": "Guitar",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:3",
+      "Original": "Kenichi Watanabe",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:4",
+      "Original": "Violin",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.staffRollText{}:5",
+      "Original": "Anzu Suhara",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

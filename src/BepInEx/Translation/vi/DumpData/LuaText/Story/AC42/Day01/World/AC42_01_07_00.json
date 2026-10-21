@@ -1,0 +1,54 @@
+{
+  "Script": "Story/AC42/Day01/World/AC42_01_07_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00277_CSkopovskaya",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Cancer at 10 o'clock.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00278_CReaper",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Nice work, Charl! That's the last one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00279_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Indeed, once we defeat this one, our patrol for the day should be complete.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00280_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It is fairly big. Prey worth killing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00281_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No going off on your own, though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00282_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I know. I will kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00283_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Given this enemy's pattern... Our odds of victory are 99.2%.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00284_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, we're countin' on you to call the shots! Let's pull off some good coordination to call it a day!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

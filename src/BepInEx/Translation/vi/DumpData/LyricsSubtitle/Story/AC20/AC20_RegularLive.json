@@ -1,0 +1,171 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC20/AC20_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 1.6,
+      "EndSecond": 5.4,
+      "OriginalText": "Sugh! Hah! Ugh!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 7.3,
+      "EndSecond": 12,
+      "OriginalText": "Sugh! Hah! Ugh!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 13.8,
+      "EndSecond": 19.3,
+      "OriginalText": "It's like a calendar",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 19.4,
+      "EndSecond": 25.1,
+      "OriginalText": "Ripping out pages of my past",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 25.2,
+      "EndSecond": 32.2,
+      "OriginalText": "Gazing down a scope, still plenty of popcorn left",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 32.3,
+      "EndSecond": 37.2,
+      "OriginalText": "Still plenty of fun to have",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 37.3,
+      "EndSecond": 43,
+      "OriginalText": "Springtime of my life, but I don't have any makeup on",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 43.1,
+      "EndSecond": 48.8,
+      "OriginalText": "And my face looks pale and dead",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 48.9,
+      "EndSecond": 53.3,
+      "OriginalText": "Blooming bright red",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 53.4,
+      "EndSecond": 54.6,
+      "OriginalText": "That's the passion I need right now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 54.7,
+      "EndSecond": 58.9,
+      "OriginalText": "I'll fight time and time again",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 59,
+      "EndSecond": 60.3,
+      "OriginalText": "To reclaim our reality",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 60.4,
+      "EndSecond": 65.8,
+      "OriginalText": "Through the intercom, I hear the orders to bomb",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 65.9,
+      "EndSecond": 71.6,
+      "OriginalText": "Can't you (Can't see tomorrow), cut me some slack (Even in the dark)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 71.7,
+      "EndSecond": 77.3,
+      "OriginalText": "Are you playing (Your stomach growls), a game like some sort of god?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 77.4,
+      "EndSecond": 83,
+      "OriginalText": "Goodbye is (You are you), something I never (Make me believe)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 83.1,
+      "EndSecond": 85.8,
+      "OriginalText": "Want you to say (Come closer)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 86,
+      "EndSecond": 96.1,
+      "OriginalText": "I'll scream and pray you hear it",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+<style\=RubyPrefixTag></style>\nReturn to the Home screen to open Hyperbolic Time Arena?=<style\=RubyPrefixTag></style>\nQuay về Màn hình chính để mở Luyện Trường Thời Không?
+
 アリーナ訓練=<size\=80%>Huấn luyện chiến đấu
 アリーナ : <size\=28>アリーナ訓練</size>=<cspace\=-2px><size\=28>Đấu trường:</size> <size\=22>Huấn luyện chiến đấu</size>
 訓練に挑戦し、強化素材やGP、経験値を得ることができます。\n=Thử thách các bài huấn luyện để nhận nguyên liệu nâng cấp, GP và điểm kinh nghiệm.

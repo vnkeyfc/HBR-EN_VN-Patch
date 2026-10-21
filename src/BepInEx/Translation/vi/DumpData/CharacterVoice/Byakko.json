@@ -1,0 +1,179 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "Byakko",
+  "CharacterName": "ビャッコ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VB0011_Byakko",
+      "Label": "Byakko_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "ヴァゥーーーーーーー！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "GÀOOOOOOO!"
+    },
+    {
+      "Key": "VB0001_Byakko",
+      "Label": "Byakko_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0002_Byakko",
+      "Label": "Byakko_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ウォー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0014_Byakko",
+      "Label": "Byakko_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_Byakko",
+      "Label": "Byakko_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "あーーーーーーー",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_Byakko",
+      "Label": "Byakko_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ウォーウォー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_Byakko",
+      "Label": "Byakko_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ウォー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_Byakko",
+      "Label": "Byakko_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_Byakko",
+      "Label": "Byakko_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_Byakko",
+      "Label": "Byakko_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_Byakko",
+      "Label": "Byakko_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "うーん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_Byakko",
+      "Label": "Byakko_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_Byakko",
+      "Label": "Byakko_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_Byakko",
+      "Label": "Byakko_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0030_Byakko",
+      "Label": "Byakko_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "ううううう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_Byakko",
+      "Label": "Byakko_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_Byakko",
+      "Label": "Byakko_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_Byakko",
+      "Label": "Byakko_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_Byakko",
+      "Label": "Byakko_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

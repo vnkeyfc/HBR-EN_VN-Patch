@@ -1,4 +1,4 @@
-/RootView/UI-Foreground/Main/UIPlayerRankDetailDialog/container/front/tab/btnMainStory/relatedLabel|'<size=120%>Chính Truyện'|'Chính Truyện'
+/RootView/UI-Foreground/Main/UIPlayerRankDetailDialog/container/front/tab/btnMainStory/relatedLabel|'<size=120%>Chính truyện'|'Chính truyện'
 
 /RootView/UI-Foreground/Main/UITerminalHome/container/btnEvent/subTextLong|'Prologue\n- Mở đầu -'|'<space=7px><line-height=33px><size=20px>Prologue</size>\n- Mở đầu -'
 /RootView/UI-Foreground/Main/UITerminalHome/container/btnEvent/subTextLong|'Epilogue\n- Đoạn kết -'|'<space=7px><line-height=33px><size=20px>Epilogue</size>\n- Đoạn kết -'

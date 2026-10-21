@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "YBungo",
+  "CharacterName": "豊後弥生",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_YBungo",
+      "Label": "YBungo_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "世界征服開始でゲス！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Bắt đầu chinh phục thế giới thôi hen!"
+    },
+    {
+      "Key": "VB0014_YBungo",
+      "Label": "YBungo_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "キュッ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_YBungo",
+      "Label": "YBungo_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ギー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_YBungo",
+      "Label": "YBungo_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "何度でギス？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_YBungo",
+      "Label": "YBungo_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "へへっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_YBungo",
+      "Label": "YBungo_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "イース！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_YBungo",
+      "Label": "YBungo_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まだまだでいい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0051_YBungo",
+      "Label": "YBungo_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "さすがチキンゲッヒッヒッヒー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_YBungo",
+      "Label": "YBungo_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "山脇様！やりましたでギスよ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_YBungo",
+      "Label": "YBungo_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "ちょっとだけ苦労したでギスね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_YBungo",
+      "Label": "YBungo_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "山脇様…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_YBungo",
+      "Label": "YBungo_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "もうダメでギース",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_YBungo",
+      "Label": "YBungo_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "終了のお知らせでキス",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_YBungo",
+      "Label": "YBungo_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "やったぜ、ジェイス！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_YBungo",
+      "Label": "YBungo_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "山脇様もお喜びになるでギスよギッヒッヒッヒー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_YBungo",
+      "Label": "YBungo_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "キッキッキー！最強の使い魔誕生でゲース！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_YBungo",
+      "Label": "YBungo_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "また山脇様に褒められるでギスニー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_YBungo",
+      "Label": "YBungo_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "パワーアップでギー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_YBungo",
+      "Label": "YBungo_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いい感じでギース",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_YBungo",
+      "Label": "YBungo_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "かっこよさが上がったでギスカ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_YBungo",
+      "Label": "YBungo_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "いかすでギース",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_YBungo",
+      "Label": "YBungo_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだ強くなるでギース",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_YBungo",
+      "Label": "YBungo_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "最強の使い魔になるでギー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000755_YBungo",
+      "Label": "YBungo_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "山脇様、やってやったでギース！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000757_YBungo",
+      "Label": "YBungo_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "人類は我らの手のひらで踊っているも同然でギー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000756_YBungo",
+      "Label": "YBungo_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "いやもう貴様、やってしまったでギース",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_YBungo",
+      "Label": "YBungo_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お前は何を言ってるでゲス？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_YBungo",
+      "Label": "YBungo_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "山脇様万歳！でギスに！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_YBungo",
+      "Label": "YBungo_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お前らもっと山脇様の気に入る案を考えるでギー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_YBungo",
+      "Label": "YBungo_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "へっへっへっへー。お前、最弱枠でギスよ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

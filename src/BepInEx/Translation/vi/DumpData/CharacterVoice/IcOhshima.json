@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "IcOhshima",
+  "CharacterName": "大島一千子",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_IcOhshima",
+      "Label": "IcOhshima_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "大島家長女ここにあり",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Trưởng nữ nhà Ohshima đã tới rồi đây!"
+    },
+    {
+      "Key": "VB0015_IcOhshima",
+      "Label": "IcOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_IcOhshima",
+      "Label": "IcOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "平気です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_IcOhshima",
+      "Label": "IcOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "びっくりしました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_IcOhshima",
+      "Label": "IcOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_IcOhshima",
+      "Label": "IcOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "はぁっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_IcOhshima",
+      "Label": "IcOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "痛い",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_IcOhshima",
+      "Label": "IcOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "皆さん無事でよかったです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_IcOhshima",
+      "Label": "IcOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "お姉ちゃん頑張ったよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_IcOhshima",
+      "Label": "IcOhshima_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "平均点ギリギリですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_IcOhshima",
+      "Label": "IcOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "私が守らないと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_IcOhshima",
+      "Label": "IcOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ニーナ…あとは…お願い…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0026_IcOhshima",
+      "Label": "IcOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みんな、生きてる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_IcOhshima",
+      "Label": "IcOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ありがとうございます。妹たちのおかげです。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_IcOhshima",
+      "Label": "IcOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ありがとうございます。勉強の賜物ですね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_IcOhshima",
+      "Label": "IcOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ありがとうございます！ここまで来ました！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_IcOhshima",
+      "Label": "IcOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ありがとうございます！妹たちに誇れます！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_IcOhshima",
+      "Label": "IcOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "これで もっと 活躍 でき ます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0067_IcOhshima",
+      "Label": "IcOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "もっと頑張ります！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_IcOhshima",
+      "Label": "IcOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "すごい力を感じます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_IcOhshima",
+      "Label": "IcOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "価値が上がりました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_IcOhshima",
+      "Label": "IcOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "さらなる可能性を感じます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_IcOhshima",
+      "Label": "IcOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだまだ上を狙います",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000584_IcOhshima",
+      "Label": "IcOhshima_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "時間いっぱい慎重にやりました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000586_IcOhshima",
+      "Label": "IcOhshima_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "予習と復習の賜物です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000585_IcOhshima",
+      "Label": "IcOhshima_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "勉強不足でした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_IcOhshima",
+      "Label": "IcOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ここは私に任せてください",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_IcOhshima",
+      "Label": "IcOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "資本主義のバカ野郎",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_IcOhshima",
+      "Label": "IcOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "はい、自慢の妹たちです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_IcOhshima",
+      "Label": "IcOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

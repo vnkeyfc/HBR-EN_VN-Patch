@@ -1,0 +1,65 @@
+{
+  "Script": "Story/AC42/Day01/World/AC42_01_02_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the gatehouse!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00132_VBalakrishnan",
+      "Context": "Field.returnToWayPointWithMonolog:2",
+      "Original": "(The gatehouse is not that way.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00132_VBalakrishnan#2",
+      "Context": "Field.returnToWayPointWithMonolog:2",
+      "Original": "(The gatehouse is not that way.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00132_VBalakrishnan#3",
+      "Context": "Field.returnToWayPointWithMonolog:2",
+      "Original": "(The gatehouse is not that way.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00131_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "(This is an escort mission, but it seems there will be no shortage of combat. This may be a good chance to work on our coordination...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00133_YoOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I had breakfast~ Time to go back to sleep~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00134_IcOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Ah! My big sister sense is tingling! Is Yotsuha trying to go back to sleep after breakfast?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00135_TKunimi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "This vending machine sells J-League Curry cans! \\nNow I, too, can be a soccer legend!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200108_IRedmayne",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "The season may be changing, \\n but 31-X is still the same...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600236_HOgasawara",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Payasam... Is that tasty?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

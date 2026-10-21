@@ -1,0 +1,171 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC06/AC06_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 1.5,
+      "EndSecond": 5.2,
+      "OriginalText": "Baby You Let You Go Only Tonight!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 5.3,
+      "EndSecond": 14.2,
+      "OriginalText": "Wow Wow Wow Wow...",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 14.3,
+      "EndSecond": 15.7,
+      "OriginalText": "Wow War Alive",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 15.8,
+      "EndSecond": 20.9,
+      "OriginalText": "You say we've been through a lot up till now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 21,
+      "EndSecond": 25.8,
+      "OriginalText": "So I fondly looked at some of those old archives",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 25.9,
+      "EndSecond": 36.6,
+      "OriginalText": "Sometimes it was boring, but sometimes it all went by in a flash; what a long, strange journey",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 36.7,
+      "EndSecond": 41.7,
+      "OriginalText": "It doesn't matter what kind of hardships await us",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 41.8,
+      "EndSecond": 46.4,
+      "OriginalText": "Don't go timing it on that analogue wristwatch of yours",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 46.5,
+      "EndSecond": 57.3,
+      "OriginalText": "After all, time is merciless, because it only pulls what's precious ever further away",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 57.4,
+      "EndSecond": 59.8,
+      "OriginalText": "I look at my foes and strike them down",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 59.9,
+      "EndSecond": 62.7,
+      "OriginalText": "I look at you and search for meaning",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 62.8,
+      "EndSecond": 67.9,
+      "OriginalText": "Even if it's gone in a heartbeat, that's the kind of romantic love this is",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 68,
+      "EndSecond": 70.5,
+      "OriginalText": "I take a breath and come back to my senses",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 70.6,
+      "EndSecond": 73,
+      "OriginalText": "And find myself hurting and desperate",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 73.1,
+      "EndSecond": 78.1,
+      "OriginalText": "Even if they're gone in a heartbeat, those are the years we spent together",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 78.2,
+      "EndSecond": 80.8,
+      "OriginalText": "Don't leave me just yet",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 80.9,
+      "EndSecond": 90.2,
+      "OriginalText": "Wow Wow Wow Wow...",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 90.3,
+      "EndSecond": 95.2,
+      "OriginalText": "Wow War Alive",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

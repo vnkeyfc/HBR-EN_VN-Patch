@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "SMinase",
+  "CharacterName": "水瀬すもも",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_SMinase",
+      "Label": "SMinase_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "ニブルヘイムで凍えろにゃ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Đóng băng tại Niflheim đi, meo!"
+    },
+    {
+      "Key": "VB0012_SMinase",
+      "Label": "SMinase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "にゃに",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0013_SMinase",
+      "Label": "SMinase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "にゃにゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0014_SMinase",
+      "Label": "SMinase_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "やりやがったにゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_SMinase",
+      "Label": "SMinase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "にゃっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_SMinase",
+      "Label": "SMinase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "にゃんってことにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_SMinase",
+      "Label": "SMinase_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "キクニャ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0049_SMinase",
+      "Label": "SMinase_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "うにゃースモモにかかればこんなもんだに",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_SMinase",
+      "Label": "SMinase_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "にゃー最強姉妹の敵じゃないのにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0050_SMinase",
+      "Label": "SMinase_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "スモモをここまで手こずらせるとは…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_SMinase",
+      "Label": "SMinase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "もう、だめにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_SMinase",
+      "Label": "SMinase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "…姉…さん…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_SMinase",
+      "Label": "SMinase_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ここまでに",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_SMinase",
+      "Label": "SMinase_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ほいっと 強くなったんじゃないかにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_SMinase",
+      "Label": "SMinase_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ほいっと、スモモは難なくこなすにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_SMinase",
+      "Label": "SMinase_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ほいっと、スモモは相変わらず優秀だにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9012_SMinase",
+      "Label": "SMinase_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ほいっと これですすももはマックスにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_SMinase",
+      "Label": "SMinase_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいんじゃないかにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_SMinase",
+      "Label": "SMinase_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "この調子だにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_SMinase",
+      "Label": "SMinase_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "スモモにふさわしいにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_SMinase",
+      "Label": "SMinase_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "お前もやるにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_SMinase",
+      "Label": "SMinase_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "伸びしろは無限大にゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_SMinase",
+      "Label": "SMinase_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "スモモは伸びるこにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000351_SMinase",
+      "Label": "SMinase_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "スモモのおかげにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000353_SMinase",
+      "Label": "SMinase_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "ツモモには音楽家の才能もあったようにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000352_SMinase",
+      "Label": "SMinase_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "誰のせいかにゃん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_SMinase",
+      "Label": "SMinase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "姉さんがやるならスモモもやるにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_SMinase",
+      "Label": "SMinase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "まだ早いけど付き合ってやるにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_SMinase",
+      "Label": "SMinase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "スモモに命令するんじゃないにゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_SMinase",
+      "Label": "SMinase_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ほらさっさと行くにゃー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

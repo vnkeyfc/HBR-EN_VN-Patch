@@ -1,0 +1,36 @@
+{
+  "Script": "Story/Common/GeneralTalk/31A/GeneralTalk_31A_03",
+  "Entries": [
+    {
+      "Key": "VC_GeneralTalk_31A_03_00000_YIzumi",
+      "Context": "Adv.talk:1",
+      "Original": "The situation's tough enough as it is...why does it keep getting worse?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_03_00001_KAsakura",
+      "Context": "Adv.talk:1",
+      "Original": "I wonder what kind of people the members of 31-C are...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_03_00002_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "I wasn't aware that \"A\" was so amazing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_03_00003_MAikawa",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Those girls in 31-C...\\nI tell ya, I'll crush 'em with my psychic powers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_03_00004_TKunimi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "What about using those powers\\nto crush Cancers?!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,15 @@
+{
+  "SideMargin": 60,
+  "BottomMargin": 70,
+  "Height": 230,
+  "FontSize": 30,
+  "MinFontSize": 20,
+  "Padding": 40,
+  "CornerRadius": 14,
+  "BackgroundAlpha": 0.82,
+  "PanelFrameOffset": 25,
+  "HoldSeconds": 0.8,
+  "SlideDistance": 60,
+  "SlideSeconds": 0.35,
+  "TextDelaySeconds": 0.1
+}

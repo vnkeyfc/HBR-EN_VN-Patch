@@ -1,0 +1,180 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC27/AC27_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 11.4,
+      "EndSecond": 13.2,
+      "OriginalText": "Spring has come!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 23.1,
+      "EndSecond": 28,
+      "OriginalText": "You told me that my sneeze was cute",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 28.4,
+      "EndSecond": 32.9,
+      "OriginalText": "That someone must be spreading rumors",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 33.6,
+      "EndSecond": 38.7,
+      "OriginalText": "But the answer is boring, it was just the pollen",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 39.1,
+      "EndSecond": 43.5,
+      "OriginalText": "Because springtime is here",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 44.2,
+      "EndSecond": 49.3,
+      "OriginalText": "Just how far are you gazing?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 49.6,
+      "EndSecond": 54.9,
+      "OriginalText": "To the end of the universe?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 55,
+      "EndSecond": 64.1,
+      "OriginalText": "How about I take you there, what do you say?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 65,
+      "EndSecond": 70.1,
+      "OriginalText": "If only time could stop",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 70.3,
+      "EndSecond": 75.5,
+      "OriginalText": "Your beauty and my love unfading",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 75.7,
+      "EndSecond": 80.9,
+      "OriginalText": "Senko hanabi, keep sparkling for eternity",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 81,
+      "EndSecond": 83.5,
+      "OriginalText": "And now we hibernate",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 83.6,
+      "EndSecond": 88.9,
+      "OriginalText": "If only we could become something divine",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 89.1,
+      "EndSecond": 94.5,
+      "OriginalText": "Defeat everything the world throws at us",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 94.6,
+      "EndSecond": 99.5,
+      "OriginalText": "A brigade to the edge of isolation",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 99.9,
+      "EndSecond": 106.1,
+      "OriginalText": "Across a sea of imaginary numbers",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 107.8,
+      "EndSecond": 111.8,
+      "OriginalText": "Morning is here",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 113.1,
+      "EndSecond": 118.5,
+      "OriginalText": "It's time to go",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 118.6,
+      "EndSecond": 120.8,
+      "OriginalText": "It's your secret!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

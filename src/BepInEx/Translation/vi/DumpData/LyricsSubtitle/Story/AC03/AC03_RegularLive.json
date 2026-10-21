@@ -1,0 +1,144 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC03/AC03_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 19.3,
+      "EndSecond": 22.7,
+      "OriginalText": "It rains!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 24.7,
+      "EndSecond": 28.2,
+      "OriginalText": "All of a sudden, it's started raining",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 30.2,
+      "EndSecond": 33.6,
+      "OriginalText": "It washes anything",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 35.6,
+      "EndSecond": 38.3,
+      "OriginalText": "and everything",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 38.4,
+      "EndSecond": 40.4,
+      "OriginalText": "Sopping, shivering, soaked to the bone",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 40.5,
+      "EndSecond": 43.2,
+      "OriginalText": "And I've got the sound of my pulse taken away",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 43.3,
+      "EndSecond": 47.9,
+      "OriginalText": "I feel myself slipping away",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 48.4,
+      "EndSecond": 52.4,
+      "OriginalText": "The rain comes down, down stronger and stronger",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 52.5,
+      "EndSecond": 54.1,
+      "OriginalText": "Battering my skin again and again as it falls",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 54.2,
+      "EndSecond": 58.8,
+      "OriginalText": "And now I do not even know",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 59.5,
+      "EndSecond": 63.8,
+      "OriginalText": "Where I am anymore",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 65.7,
+      "EndSecond": 71.2,
+      "OriginalText": "Ah, is it okay if I sing some more?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 71.3,
+      "EndSecond": 76.5,
+      "OriginalText": "I hope that this song finds you someday",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 76.6,
+      "EndSecond": 81.9,
+      "OriginalText": "Ah, and then, if the sky clears up again,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 82,
+      "EndSecond": 90.2,
+      "OriginalText": "Let's go once more to chase each other's shadows",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

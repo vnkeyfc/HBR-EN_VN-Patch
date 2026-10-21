@@ -1,0 +1,429 @@
+{
+  "Script": "Story/Common/Quest/TTojo/Quest_Lv1_TTojo",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go to the Library!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Yo, Tsukassie. What are you doing wandering around here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00001_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am looking for the library, but I have no idea where it could be.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you're saying that you're lost...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00003_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Absolutely not! I have already come to grips with the entire area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ah. You'll be fine then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00005_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00006_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But, if you're free, you could accompany me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? You were mumbling, so I couldn't quite hear. What was that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00008_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But, if you're free, I would appreciate you accompanying me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aha! So you <i>are</i> lost. Sure thing, no problem. I'd do anything for you, Tsukassie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00010_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Th-Thank you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The library, was it? If we walk for long enough, we'll get there eventually, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00012_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose so.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00013_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Actually, is this really the right way?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maybe not.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00015_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "We made it!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00016_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you. That was very helpful.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00017_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Look. Even in this age, there's still a plethora of books made of paper.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh, I shudder at all this wordy stuff...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00019_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Weren't you the lyricist for \"She is Legend\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can barely get through lyrics. Anything more dense than that is a no-go for me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00021_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then how did you write so well?! Didn't you get awards for your songwriting?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, dunno why I got anything for those notebook scribbles.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00023_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, you really are a natural-born rock star!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's all in the past now, though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00025_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, you <i>were</i> a natural-born rock star, then...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00026_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say, Tsukassie, do you like reading?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00027_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Indeed, it's a hobby of mine. So whenever I go to a library, I can't suppress my intellectual curiosity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "After torturing my body with all that training, I can't imagine doing the same thing to my brain by reading a book...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00029_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really? They can be very interesting. And you might learn something.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh yeah? What kind of book are you reading now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00031_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wanted to read the rest of \"That Time I Became a Shut-in Despite Being Reborn in a Parallel Universe.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00032_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That doesn't sound like studying at all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00033_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose. It's a part of a series of young adult fantasy novels that I'm reading.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I figured you'd be reading something super dense, since you're an intelligence officer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00035_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I tried reading mystery, science fiction, non-fiction, academic journals, and even philosophy, but nothing really captured my attention like fantasy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00036_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So you tried reading a bunch of stuff.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00037_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Saying I \"tried\" them is not exactly correct. I looked at the first page and instinctively rejected them immediately.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00039_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I used to worry that I might not be good with the written word...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00041_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's when I discovered the \"That Time I Became a Shut-in Despite Being Reborn in a Parallel Universe\" series.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00042_TTojo",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I could read them for hours!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00043_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was so relieved when I figured out that the issue wasn't reading. I just hadn't tried the right genre.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh-huh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00045_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is something the matter?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nothing. Go right ahead with satisfying your intellectual curiosity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_TTojo_Quest_00047_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_01770_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Maybe I should ask Tsukassie to come for a soak.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:1",
+      "Original": "Invite her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:2",
+      "Original": "Invite|Maybe not",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_01771_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey Tsukassie, wanna go to the baths together?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_01772_v002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure, I would love to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00369_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awesome!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_IIshii_Quest_00076_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Nah, I'll bathe alone today.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00000_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know Ruka, you have a great figure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I get that a lot.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00002_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose it only makes sense for the rock star who took the world by storm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I think yours is just as great, Tsukassie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00004_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You do? I'm glad to hear you say that. I work quite hard to maintain my figure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What kinda things do you work hard on?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00006_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eating. That's the key. The food of today creates your skin of tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I work hard on that too! I eat a <i>ton</i> of meat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00008_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that all?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00010_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Protein is important, but you should also balance your fiber and vitamin B intake, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That stuff's not in meat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00012_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are zero grams of dietary fiber in meat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka is shook!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_TTojo_Lv1_Novel_00014_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe. You're always fun to hang out with, Ruka.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,11 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_BattleMedalShop",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Exchange [Battle Medals] for powerful accessories.\nBattle Medals can be earned by clearing [The Astrarium] battles.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

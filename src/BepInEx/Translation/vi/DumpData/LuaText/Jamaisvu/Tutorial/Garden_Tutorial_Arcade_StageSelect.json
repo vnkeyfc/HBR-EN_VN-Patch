@@ -1,0 +1,26 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_Arcade_StageSelect",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "While the season is ongoing,\\nyour scores will be converted into and collected as Season Points.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You will earn rewards based on your total Season Points amount.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Furthermore, you can also exchange the Arts Tokens you receive during battles\\nto unlock new Arts.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Select Arts List and try exchanging for new Arts!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

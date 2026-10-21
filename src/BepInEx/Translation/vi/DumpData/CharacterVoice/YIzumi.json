@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "YIzumi",
+  "CharacterName": "和泉ユキ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_YIzumi",
+      "Label": "YIzumi_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "Hello World",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Hello world!"
+    },
+    {
+      "Key": "VB0014_YIzumi",
+      "Label": "YIzumi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ちっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_YIzumi",
+      "Label": "YIzumi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "くそっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_YIzumi",
+      "Label": "YIzumi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_YIzumi",
+      "Label": "YIzumi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_YIzumi",
+      "Label": "YIzumi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くっそ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_YIzumi",
+      "Label": "YIzumi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "やべーな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0051_YIzumi",
+      "Label": "YIzumi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ざっとこんなもんだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_YIzumi",
+      "Label": "YIzumi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "想定通りに排除完了っと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_YIzumi",
+      "Label": "YIzumi_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "予想より手こずったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_YIzumi",
+      "Label": "YIzumi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みんな… 終わり… なぁ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_YIzumi",
+      "Label": "YIzumi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "くっそ…ここまで…か…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_YIzumi",
+      "Label": "YIzumi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "もう…ダメ…みたいだ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_YIzumi",
+      "Label": "YIzumi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "こいつはなんか手応えがある",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_YIzumi",
+      "Label": "YIzumi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "有意義な戦いだったんじゃねーか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_YIzumi",
+      "Label": "YIzumi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やる気満々じゃねえか、私。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_YIzumi",
+      "Label": "YIzumi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "データ上はマックスなんじゃねえか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_YIzumi",
+      "Label": "YIzumi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よし、やったな。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_YIzumi",
+      "Label": "YIzumi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "悪くねーな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_YIzumi",
+      "Label": "YIzumi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "こんな力が秘められてたのか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_YIzumi",
+      "Label": "YIzumi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "セラフよ、お前は何なんだ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_YIzumi",
+      "Label": "YIzumi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだ強くなれってかよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_YIzumi",
+      "Label": "YIzumi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "すげーなあたし",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000284_YIzumi",
+      "Label": "YIzumi_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "まあ悪くなかったんじゃねえか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000286_YIzumi",
+      "Label": "YIzumi_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "マジかよ！こっちたら素人だぜ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000285_YIzumi",
+      "Label": "YIzumi_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "本文は兵士だからなあんま気にすんな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_YIzumi",
+      "Label": "YIzumi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "なんだよいきなり",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_YIzumi",
+      "Label": "YIzumi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "なーにニヤニヤしてんだ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_YIzumi",
+      "Label": "YIzumi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "そんな至近距離で人の顔ジロジロ見るもんじゃねーよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_YIzumi",
+      "Label": "YIzumi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お前、どんだけ私好きなんだよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

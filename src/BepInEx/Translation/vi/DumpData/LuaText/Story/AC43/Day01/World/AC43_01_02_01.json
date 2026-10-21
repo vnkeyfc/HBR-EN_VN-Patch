@@ -1,0 +1,149 @@
+{
+  "Script": "Story/AC43/Day01/World/AC43_01_02_01",
+  "Entries": [
+    {
+      "Key": "VC_Z_907700048_MiOhshima",
+      "Context": "Field.returnToWayPointWithMonolog:2",
+      "Original": "I can hear the package crying out to me, \"Take me to the baths already!\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700048_MiOhshima#2",
+      "Context": "Field.returnToWayPointWithMonolog:2",
+      "Original": "I can hear the package crying out to me, \"Take me to the baths already!\"",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the baths!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700046_MiOhshima",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Okay, this one's my last delivery for the day.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700047_MiOhshima",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I can hear the package crying out to me, \"Take me to the baths.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700134_KMaruyama",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Check out this sophisticated selection of merch I collected!\\nTake whatever you want!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600118_YoOhshima",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "Ohhh... That's a whole lotta merrrch...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600237_HOgasawara",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "I shall gracefully accept this bracelet, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600316_YBungo",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "This towel has horns! That's so cool, <i>snip snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400218_VBalakrishnan",
+      "Context": "Field.talkByGayaBalloon:1",
+      "Original": "This necklace is the definition of supremacy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600134_MTenne",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "A wristband-shaped light stick?\\nFascinating. I shall take this for further study.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600377_LShanhua",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "*sigh*... Truly, a midday bath is the pinnacle of pleasure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700049_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have a package for Yingxia!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600378_LShanhua",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Nuoooah?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700050_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here you go, the mahjong set you ordered. Are you gonna be playing with your squad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600379_LShanhua",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yes, that is correct, but what do you think you are doing?! Do you normally make deliveries <i>inside</i> the baths?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700051_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mean, you said you wanted it ASAP. Oh, take one of these too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600380_LShanhua",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Is that...a flyer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700052_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup. I'll be taking over as bartender for a couple nights. Please stop by if you have the time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600381_LShanhua",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I cannot say that I have ever been to a place of that nature...but very well, I will keep it in mind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700053_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks. I'll put this and the package in your clothes basket, 'kay? Remember, you know who to call if you need something delivered!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600382_LShanhua",
+      "Context": "Adv.playCutIn:3",
+      "Original": "For Shu's sake, close that accursed door!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700054_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, that's the last of today's deliveries.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907700055_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I gave out lots of flyers already too, so I guess it's time to prep for tonight.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

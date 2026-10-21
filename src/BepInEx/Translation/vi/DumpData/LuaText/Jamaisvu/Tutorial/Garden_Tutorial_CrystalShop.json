@@ -1,0 +1,11 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_CrystalShop",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "You can exchange [Crystals] for items.\n\n[Crystals] can be earned by converting excess Memoria Shards using [Memoria Shard Conversion].\nDiffering amounts are awarded based on the shards' rarity.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

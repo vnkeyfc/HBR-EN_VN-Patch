@@ -1,0 +1,354 @@
+{
+  "Script": "Story/AC42/Day03/Novel/AC42_03_01_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00859_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you for coming here on such short notice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00860_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whatzis all about? You called everybody here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00861_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pardon me. There is something I would like you to eat before we set out on the recapture mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00862_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I smell somethin'...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00863_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ooh, kari this early in the morning... Surely you are not telling us to eat this, Vritika?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00864_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A bit on the heavy side, as breakfasts go...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00865_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But, it looks tasty.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00866_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Charl... Yes. I believe this kari I made will be to your taste.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00867_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, if Charl says as much...we should give it a try, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00868_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since you went to the trouble of making this, I will eat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00869_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It does smell a bit different from the other kari you made, so I'm a bit curious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00870_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you're so eager, Vritika... Trying it will reveal the truth behind your confidence.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00871_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone...dhanyavaad. Let us bring our hands together in thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00872_VBalakrishnan",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for the food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00875_IRedmayne",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Let's tuck in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00874_LShanhua",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for the food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00873_CReaper",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thanks for da food!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00876_MdAngelis",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for this food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00877_CSkopovskaya",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Thank you for food.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00878_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(It was so good... I am certain this kari will do...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00879_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...It tastes strange.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00880_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Taste is like nothing else before...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00881_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did ya maybe...mess up your kari?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00882_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00883_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika failing to make kari...is quite unusual.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00884_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "True... But why kari, all of a sudden?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00885_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um, I...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00886_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(This is all wrong...they are not smiling.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00887_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(And moreover, it...does not taste good.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00888_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, don't sweat it. We got a mission to focus on now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00889_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will take the vanguard.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00890_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But its defenses...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00891_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will simply keep beating it with my Seraph until my attacks start landing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00892_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That would just be a repeat of yesterday, you barbarian fool.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00893_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What did you call me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00894_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maria, calm down.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00895_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "HQ said they'll come up with somethin', so I'll ask 'em later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00896_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We got some time before we set out, so go get ready.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00897_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmph. I will go warm up in the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00898_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll accompany you, Maria.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00899_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carole, we should ask the commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00900_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right, come with me, please.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00901_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00902_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It...did not work...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00903_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But this does not make sense...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00904_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wha?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00905_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(This is...all wrong. It tasted so good yesterday, but now...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00906_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The spice ratios, the size of the cuts, the cooking, they were all exactly the same, so why...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00907_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Vri~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00908_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yotsuha...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00909_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It didn't work out from the looks of it, huuuuh?~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00910_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am sorry, Yotsuha... I failed to recreate your recipe...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00911_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have blundered...once again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800056_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What am I doing wrong...? What am I supposed to do...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00912_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vri...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00913_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am sorry... Before we leave, I wish to simulate the battle with that Cancer one more time...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00914_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I must find some formula that lets us defeat it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00915_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Well, geeeeez~.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,83 @@
+{
+  "Script": "Story/AC25/Day02/World/AC25_02_06_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go to the studio!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00389_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We need to reach the studio without being caught!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00391_AKanzaki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "No signs of them here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00392_AKanzaki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "Maybe I'll take the chance to practice some ninjutsu.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00393_AKanzaki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "I can't stand out in a place like this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00394_AKanzaki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "I want to go play already.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00395_AKanzaki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "Agh, the can got all bent when I dropped it!\\nSomeone, swap with me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00396_AKanzaki",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "GAAAHHH!!!\\nThe smell is going to stick!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00390_EAoi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "There's a Kanzaki...we need to find a different path!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00390_EAoi#2",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "There's a Kanzaki...we need to find a different path!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_903800308_EAoi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "There's another Kanzaki here! I need to stay out of sight...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00397_CSugahara",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "21 Idol Points...\\nShe's growing quite steadily.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00398_HOgasawara",
+      "Context": "Field.talkByGayaBalloonNoPlayable:1",
+      "Original": "Perhaps she'll be the one...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

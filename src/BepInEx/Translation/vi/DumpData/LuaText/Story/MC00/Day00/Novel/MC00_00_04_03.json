@@ -29,13 +29,13 @@
       "Key": "VC_MC00_00_04_03_Novel_00001_NNanase#2",
       "Context": "Adv.talkAllIn:1",
       "Original": "Nanase",
-      "Vietnamese": "Số lượng quân địch không nhiều. Chỉ riêng đội tuần tiễu cũng thừa khả năng đối phó."
+      "Vietnamese": ""
     },
     {
       "Key": "VC_MC00_00_04_03_Novel_00001_NNanase#2",
       "Context": "Adv.talkAllIn:2",
       "Original": "A Cancer swarm just breached our second line of defense. E.T.A. approximately 30 minutes.",
-      "Vietnamese": ""
+      "Vietnamese": "Một bầy Cancer vừa đột kích phòng tuyến thứ hai. Dự kiến chúng sẽ tiếp cận căn cứ này trong vòng 30 phút tới."
     },
     {
       "Key": "VC_MC00_00_04_03_Novel_00002_NNanase",
@@ -47,7 +47,7 @@
       "Key": "VC_MC00_00_04_03_Novel_00002_NNanase",
       "Context": "Adv.AddBackLog:1",
       "Original": "Their numbers are few. Our patrols should be entirely capable of handling this threat on their own.",
-      "Vietnamese": ""
+      "Vietnamese": "Số lượng quân địch không nhiều. Chỉ riêng đội tuần tiễu cũng thừa khả năng đối phó."
     },
     {
       "Key": "VC_MC00_00_04_03_Novel_00002_NNanase#2",
@@ -59,7 +59,7 @@
       "Key": "VC_MC00_00_04_03_Novel_00002_NNanase#2",
       "Context": "Adv.talkAllIn:2",
       "Original": "Their numbers are few. Our patrols should be entirely capable of handling this threat on their own.",
-      "Vietnamese": ""
+      "Vietnamese": "Số lượng quân địch không nhiều. Chỉ riêng đội tuần tiễu cũng thừa khả năng đối phó."
     },
     {
       "Key": "VC_MC00_00_04_03_Novel_00003_STezuka",

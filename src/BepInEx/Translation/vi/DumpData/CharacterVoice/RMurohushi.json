@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "RMurohushi",
+  "CharacterName": "室伏理沙",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_RMurohushi",
+      "Label": "RMurohushi_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "常に上を向いていきましょう",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Luôn tiến về phía trước."
+    },
+    {
+      "Key": "VB0014_RMurohushi",
+      "Label": "RMurohushi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "あら",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_RMurohushi",
+      "Label": "RMurohushi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まあ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_RMurohushi",
+      "Label": "RMurohushi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うわっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_RMurohushi",
+      "Label": "RMurohushi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_RMurohushi",
+      "Label": "RMurohushi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "だいじょうぶ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_RMurohushi",
+      "Label": "RMurohushi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "霊気よ……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_RMurohushi",
+      "Label": "RMurohushi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "よくできました。ご褒美になでてあげます。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_RMurohushi",
+      "Label": "RMurohushi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "たくさん甘えてくれていいですよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_RMurohushi",
+      "Label": "RMurohushi_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "みんな 頑張りましたねー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_RMurohushi",
+      "Label": "RMurohushi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みんな…ごめんなさい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_RMurohushi",
+      "Label": "RMurohushi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "誰か…みんなは…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_RMurohushi",
+      "Label": "RMurohushi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "もう守ってあげられない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_RMurohushi",
+      "Label": "RMurohushi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "あらあら、うふふ、ご褒美ですね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_RMurohushi",
+      "Label": "RMurohushi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "アタック決定率が上がりそうですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_RMurohushi",
+      "Label": "RMurohushi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "何でも包み込むように受け止められます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_RMurohushi",
+      "Label": "RMurohushi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "すべてのポジションをこなせそう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_RMurohushi",
+      "Label": "RMurohushi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "もっと甘えてもらえそう？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_RMurohushi",
+      "Label": "RMurohushi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いっぱい 褒めてあげますね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_RMurohushi",
+      "Label": "RMurohushi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "はい、武器が強くなりましたね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_RMurohushi",
+      "Label": "RMurohushi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "これでみんなをもっと守れますね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_RMurohushi",
+      "Label": "RMurohushi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "もっと安心させてあげます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_RMurohushi",
+      "Label": "RMurohushi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "またお母さんって呼ばれそうですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000700_RMurohushi",
+      "Label": "RMurohushi_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "最後までお疲れ様です。みんなもすごーく頑張りましたね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000702_RMurohushi",
+      "Label": "RMurohushi_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "私もすごくすごーく頑張りました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000701_RMurohushi",
+      "Label": "RMurohushi_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "あらあら、ごめんなさーい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_RMurohushi",
+      "Label": "RMurohushi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "あらあら、まあまあ、どうかしましたか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_RMurohushi",
+      "Label": "RMurohushi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "今からするんですよね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_RMurohushi",
+      "Label": "RMurohushi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ゆっくりでいいですよー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_RMurohushi",
+      "Label": "RMurohushi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ふふふ、かわいい、かわいい、いい子いい子",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

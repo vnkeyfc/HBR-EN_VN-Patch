@@ -1,0 +1,215 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "Karerin",
+  "CharacterName": "かれりん",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP_Z_905800240_KAsakura",
+      "Label": "Karerin_SeraphimCode",
+      "Title": "セラフィムコード（朝倉可憐）",
+      "Original": "ゲームでもするように息の根を止める",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": "Bóp nghẹt sự sống tự nhiên như chơi game!"
+    },
+    {
+      "Key": "VB_Z_905800139_KAsakura",
+      "Label": "Karerin_BattleDpDamage",
+      "Title": "DPダメージボイス（朝倉可憐）",
+      "Original": "聞いてないよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800140_KAsakura",
+      "Label": "Karerin_BattleDpDamage",
+      "Title": "DPダメージボイス（朝倉可憐）",
+      "Original": "ノーダメ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800141_KAsakura",
+      "Label": "Karerin_BattleDpDamage",
+      "Title": "DPダメージボイス（朝倉可憐）",
+      "Original": "へっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800145_KAsakura",
+      "Label": "Karerin_BattleHpDamage",
+      "Title": "HPダメージボイス（朝倉可憐）",
+      "Original": "うっうっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800146_KAsakura",
+      "Label": "Karerin_BattleHpDamage",
+      "Title": "HPダメージボイス（朝倉可憐）",
+      "Original": "ちっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800147_KAsakura",
+      "Label": "Karerin_BattleHpDamage",
+      "Title": "HPダメージボイス（朝倉可憐）",
+      "Original": "かなくちゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800179_KAsakura",
+      "Label": "Karerin_BattleWin",
+      "Title": "勝利ボイス（朝倉可憐）",
+      "Original": "ここは私の狩り場って言ったよね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800180_KAsakura",
+      "Label": "Karerin_BattleWin",
+      "Title": "勝利ボイス（朝倉可憐）",
+      "Original": "グッドゲーム",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800181_KAsakura",
+      "Label": "Karerin_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス（朝倉可憐）",
+      "Original": "レベリングが甘かった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800148_KAsakura",
+      "Label": "Karerin_BattleLose",
+      "Title": "敗北ボイス（朝倉可憐）",
+      "Original": "こんなところでゲームオーバー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800149_KAsakura",
+      "Label": "Karerin_BattleLose",
+      "Title": "敗北ボイス（朝倉可憐）",
+      "Original": "カレンちゃん…ごめんなさい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800150_KAsakura",
+      "Label": "Karerin_BattleLose",
+      "Title": "敗北ボイス（朝倉可憐）",
+      "Original": "ヒットポイントが…ゼロ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800182_KAsakura",
+      "Label": "Karerin_BattleLevelUp",
+      "Title": "レベルアップボイス（朝倉可憐）",
+      "Original": "ふぅ、まるでレベルアップできたみたい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800183_KAsakura",
+      "Label": "Karerin_BattleLevelUp",
+      "Title": "レベルアップボイス（朝倉可憐）",
+      "Original": "本当にゲームみたい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800184_KAsakura",
+      "Label": "Karerin_BattleLevelUpMax",
+      "Title": "レベルマックスボイス（朝倉可憐）",
+      "Original": "このままゲームバランス壊そうかな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800185_KAsakura",
+      "Label": "Karerin_BattleLevelUpMax",
+      "Title": "レベルマックスボイス（朝倉可憐）",
+      "Original": "感動しちゃったりして",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800190_KAsakura",
+      "Label": "Karerin_EnhanceAbility",
+      "Title": "アビリティ強化ボイス（朝倉可憐）",
+      "Original": "よし！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800191_KAsakura",
+      "Label": "Karerin_EnhanceAbility",
+      "Title": "アビリティ強化ボイス（朝倉可憐）",
+      "Original": "うん、これこれ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800188_KAsakura",
+      "Label": "Karerin_ReleaseSkill",
+      "Title": "スキル解放ボイス（朝倉可憐）",
+      "Original": "エイムなら得意なのにな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800189_KAsakura",
+      "Label": "Karerin_ReleaseSkill",
+      "Title": "スキル解放ボイス（朝倉可憐）",
+      "Original": "切れ味が増したかも",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800186_KAsakura",
+      "Label": "Karerin_LimitBreak",
+      "Title": "限界突破ボイス（朝倉可憐）",
+      "Original": "さらに強くなれる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_905800187_KAsakura",
+      "Label": "Karerin_LimitBreak",
+      "Title": "限界突破ボイス（朝倉可憐）",
+      "Original": "まだ上があったんだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

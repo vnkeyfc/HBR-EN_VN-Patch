@@ -1,0 +1,11 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_CardShop",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Collect 10 [SS Memoria Premium Coupons] and exchange them\nfor aan SS Memoria of your choice.\n\nYou can earn SS Memoria Premium Coupons by clearing story events.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

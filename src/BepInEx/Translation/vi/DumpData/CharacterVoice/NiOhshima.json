@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "NiOhshima",
+  "CharacterName": "大島二以奈",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0029_NiOhshima",
+      "Label": "NiOhshima_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "うぬぼれ、大いに結構",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Tự mãn ư? Có sao đâu."
+    },
+    {
+      "Key": "VB0014_NiOhshima",
+      "Label": "NiOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ふふっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_NiOhshima",
+      "Label": "NiOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まだまだですね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_NiOhshima",
+      "Label": "NiOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "決して触れさせません",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_NiOhshima",
+      "Label": "NiOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_NiOhshima",
+      "Label": "NiOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_NiOhshima",
+      "Label": "NiOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "肌が…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_NiOhshima",
+      "Label": "NiOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "私の美しさが際立ちましたね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_NiOhshima",
+      "Label": "NiOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "いつかランウェイで輝くために",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_NiOhshima",
+      "Label": "NiOhshima_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "お肌が…バラバラ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_NiOhshima",
+      "Label": "NiOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "こんなの 嘘よ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_NiOhshima",
+      "Label": "NiOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "こんな体じゃ生きられない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_NiOhshima",
+      "Label": "NiOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "膝を突くなんて、モデル失格ですね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_NiOhshima",
+      "Label": "NiOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "この私がトレンド",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_NiOhshima",
+      "Label": "NiOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "美しさに磨きがかかりましたね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_NiOhshima",
+      "Label": "NiOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "強さとは美しさ、どちらも極めるのみです。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_NiOhshima",
+      "Label": "NiOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "失礼 鏡を貸していただけますか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_NiOhshima",
+      "Label": "NiOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "磨かれましたね。美しさが。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_NiOhshima",
+      "Label": "NiOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "研ぎ澄ましましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_NiOhshima",
+      "Label": "NiOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "私にふさわしい美しさです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_NiOhshima",
+      "Label": "NiOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "私が手にしてこそ輝ける",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_NiOhshima",
+      "Label": "NiOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "この美しさ、私自身にすら制御不能！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_NiOhshima",
+      "Label": "NiOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "美しさの限界を知りたい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000648_NiOhshima",
+      "Label": "NiOhshima_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "ラストルックまで楽しんでいただけましたね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000650_NiOhshima",
+      "Label": "NiOhshima_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "全てにおいて完璧でした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000649_NiOhshima",
+      "Label": "NiOhshima_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "これは…美しくありませんね…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_NiOhshima",
+      "Label": "NiOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ああ…美しい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_NiOhshima",
+      "Label": "NiOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "映えますか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_NiOhshima",
+      "Label": "NiOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ポージングの研究の途中だったのですが",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_NiOhshima",
+      "Label": "NiOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ふぅ、こんなところでしょうか。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

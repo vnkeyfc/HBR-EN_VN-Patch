@@ -1,0 +1,38 @@
+{
+  "Script": "Story/DC01/Day06/Expedition/DC01_06_03_00",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "DC01.Expedition.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Operation Area",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_905700223_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Looks like we can open it from this side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_905700222_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "The door's not gonna open from this side.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "End your current assignment and return to the home screen?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Suspend the mission and return to the home screen?\\n* Your story progress will be saved.\\n* Enemies and some items will respawn.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,260 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "EmaC",
+  "CharacterName": "クイーン",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VB_Z_908500338_EmaC",
+      "Label": "EmaC_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "いたっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500339_EmaC",
+      "Label": "EmaC_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500340_EmaC",
+      "Label": "EmaC_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "やったわね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500344_EmaC",
+      "Label": "EmaC_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500345_EmaC",
+      "Label": "EmaC_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "この程度！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500346_EmaC",
+      "Label": "EmaC_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まだまだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500374_EmaC",
+      "Label": "EmaC_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "こんなとこで手こずってられない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500375_EmaC",
+      "Label": "EmaC_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "さあ、次へ行きましょう。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500376_EmaC",
+      "Label": "EmaC_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "あ、危なかったわね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500347_EmaC",
+      "Label": "EmaC_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "こんなところで…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500348_EmaC",
+      "Label": "EmaC_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "まだ…倒れるわけには…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500349_EmaC",
+      "Label": "EmaC_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みんな…ごめんなさい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500377_EmaC",
+      "Label": "EmaC_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "うん、強くなったみたい。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500378_EmaC",
+      "Label": "EmaC_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "まだまだ強くなれそうね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500379_EmaC",
+      "Label": "EmaC_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "力がみなぎるのを感じるわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500380_EmaC",
+      "Label": "EmaC_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "今の私の力、試してみる？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500383_EmaC",
+      "Label": "EmaC_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "これが新しい力",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500384_EmaC",
+      "Label": "EmaC_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "早速使いましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500385_EmaC",
+      "Label": "EmaC_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "これでもっとみんなの役に立てると思うわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500381_EmaC",
+      "Label": "EmaC_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "もっと上を目指さないとね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500382_EmaC",
+      "Label": "EmaC_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "ここで止まっていられないもの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500407_EmaC",
+      "Label": "EmaC_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "クリアね！おめでとう！また誘ってちょうだい！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500409_EmaC",
+      "Label": "EmaC_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "ここまでうまくいくと気持ちいいわね癖になっちゃいそう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500408_EmaC",
+      "Label": "EmaC_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "サポートしきれなくてごめんなさい もう一度頑張りましょ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_EmaC",
+      "Label": "EmaC_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "はぁっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_EmaC",
+      "Label": "EmaC_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "鉄拳制裁",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_EmaC",
+      "Label": "EmaC_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "す、素手じゃないからほらよく見て",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_EmaC",
+      "Label": "EmaC_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "こう見えて私結構飛ばすから、振り落とされないでね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

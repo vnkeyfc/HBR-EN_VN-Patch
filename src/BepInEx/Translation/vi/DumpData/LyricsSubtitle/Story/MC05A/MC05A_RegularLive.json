@@ -1,0 +1,270 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/MC05A/MC05A_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 1,
+      "EndSecond": 5.9,
+      "OriginalText": "If it's easy lives we want, then we're free to live that way",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 6.1,
+      "EndSecond": 11.4,
+      "OriginalText": "All we do is shoot at zombies, and just like that we're killing time",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 11.4,
+      "EndSecond": 16.6,
+      "OriginalText": "But if that's what we choose, what can we take pride in at the end?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 16.7,
+      "EndSecond": 22.2,
+      "OriginalText": "No point pretending we can pat ourselves on the back for anything",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 22.2,
+      "EndSecond": 24.8,
+      "OriginalText": "It doesn't matter if you fail",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 24.8,
+      "EndSecond": 27.4,
+      "OriginalText": "It hurts to hurt, but even still",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 27.5,
+      "EndSecond": 32.7,
+      "OriginalText": "Just keep up the offense, right to the borderline",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 32.8,
+      "EndSecond": 35.1,
+      "OriginalText": "So wrap up warm and rest your head",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 35.1,
+      "EndSecond": 37.8,
+      "OriginalText": "Open the curtains when morning comes",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 38,
+      "EndSecond": 40.5,
+      "OriginalText": "And if you feel a change",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 40.5,
+      "EndSecond": 42.9,
+      "OriginalText": "Then you know from today",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 42.9,
+      "EndSecond": 46,
+      "OriginalText": "No one can stand against you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 46.1,
+      "EndSecond": 47.4,
+      "OriginalText": "Can you hear me baby!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 47.5,
+      "EndSecond": 50.2,
+      "OriginalText": "If you're thinking 'why the hell was I born?'",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 50.3,
+      "EndSecond": 52.5,
+      "OriginalText": "If you wonder 'why am I still alive?'",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 52.6,
+      "EndSecond": 58.1,
+      "OriginalText": "We've got time for doubts like that once we're bleeding out",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 58.1,
+      "EndSecond": 60.7,
+      "OriginalText": "Cause we're aiming for the eternal city",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 60.7,
+      "EndSecond": 62.8,
+      "OriginalText": "Keeping our ambitions tucked up our sleeves",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 62.9,
+      "EndSecond": 66.8,
+      "OriginalText": "So don't decide when we cross the goal!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 66.9,
+      "EndSecond": 68.4,
+      "OriginalText": "Just go!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 68.6,
+      "EndSecond": 71,
+      "OriginalText": "Cause it's you I've always wanted to meet",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 71,
+      "EndSecond": 73.8,
+      "OriginalText": "And it's you I've always wanted to tell",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 73.8,
+      "EndSecond": 78.9,
+      "OriginalText": "Cause I've never even gotten to say thank you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 79.1,
+      "EndSecond": 81.6,
+      "OriginalText": "Here I am, I want you to see me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 24,
+      "Enabled": true,
+      "StartSecond": 81.8,
+      "EndSecond": 84.2,
+      "OriginalText": "Now you know it's you I'm still alive for",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 25,
+      "Enabled": true,
+      "StartSecond": 84.3,
+      "EndSecond": 87.8,
+      "OriginalText": "Anything and everything for you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 26,
+      "Enabled": true,
+      "StartSecond": 87.9,
+      "EndSecond": 89.3,
+      "OriginalText": "Go on!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 27,
+      "Enabled": true,
+      "StartSecond": 89.4,
+      "EndSecond": 94,
+      "OriginalText": "Here I am, I want you to see me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 28,
+      "Enabled": true,
+      "StartSecond": 94.6,
+      "EndSecond": 99.9,
+      "OriginalText": "Just the way I am, ragged and worn",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

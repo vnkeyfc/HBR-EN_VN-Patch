@@ -1,0 +1,102 @@
+{
+  "Script": "Story/AC42/Day01/Novel/AC42_01_02_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00115_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X, reporting in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00116_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good, you're all here. Today, we will need you on an escort mission to an experimental farm near the Kumagaya Dome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00117_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is where we planted grechka plant.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00118_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Correct. Owing to your contributions, the experimental farm has begun providing food to nearby bases and domes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00119_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now that its arable land has proven practical, the place requires protection, just as the domes do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00120_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You mean defending with a wall made of Cancer shells?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00121_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Indeed. However, it has been confirmed that the sound and vibration of the construction work have drawn Cancer's attention to the area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00122_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As such, we will need you to serve as escorts for the transport trucks delivering supplies and the engineers working on the wall.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00123_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This sounds like a very important mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00124_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That it is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00125_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmph, an escort mission? Send me to kill Cancers that put up a fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00126_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maria, don't lash out at the mission. We can eat some pizza when we come back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00127_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am actually going to kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00128_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you mean \"actually\"?! Am I actually about to get killed?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00129_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "To stay on topic, I will say the construction work could very well draw out powerful Cancers, so do stay vigilant.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00130_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger that! 31-X, moving out!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

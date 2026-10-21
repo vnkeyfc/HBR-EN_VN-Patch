@@ -20,6 +20,10 @@ Stats =Chỉ số
 
 All Attributes +1=Tất cả thuộc tính +1
 
+Increase Healing Skill Effectiveness=Tăng hiệu quả kỹ năng hồi phục
+Increase Debuff Skill Effectiveness=Tăng hiệu quả kỹ năng Debuff
+Increase Skill ATK Buff Effectiveness=Tăng hiệu quả kỹ năng cường hoá
+Increase Skill Damage Power=Tăng mạnh kỹ năng gây sát thương
 sr:"^(.+) Follow-Up Rate \+1%$"=Tỉ lệ Follow-Up hệ $1 +1% 
 
 必要Lv. =Yêu cầu Lv.

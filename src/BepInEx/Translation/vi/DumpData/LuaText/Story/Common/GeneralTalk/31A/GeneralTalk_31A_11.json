@@ -1,0 +1,36 @@
+{
+  "Script": "Story/Common/GeneralTalk/31A/GeneralTalk_31A_11",
+  "Entries": [
+    {
+      "Key": "VC_GeneralTalk_31A_11_00000_TKunimi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Can a hacker also hack a calculator?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_11_00001_YIzumi",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Maybe, but what'd be the point?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_11_00002_Karen",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Ah! My body thirsts...for BLOOD!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_11_00003_MAikawa",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Oh lordy! Ya doin' alright?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_GeneralTalk_31A_11_00004_TTojo",
+      "Context": "Adv.talk:1",
+      "Original": "If you switch off your body and mind completely, you can get the most out of your break!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

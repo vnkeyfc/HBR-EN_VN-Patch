@@ -11,12 +11,13 @@ r:"^(\d+) Hour\(s\) Left$"=Còn $1 giờ
 [Phút]
 r:"^(\d+) Minute\(s\) Left$"=Còn $1 phút
 
-r:"^Available until (\d+)/(\d+)/(\d+) (.+)\(UTC-7\)$"=Diễn ra đến $2/$1/$3 - $4 (UTC-7)
-r:"^Until (\d+)/(\d+)/(\d+) (.+)\(UTC-7\)$"=<size\=90%>Đến $2/$1/$3 - $4 (UTC-7)
-r:"^Runs until (\d+)/(\d+)/(\d+) (.+)\(UTC-7\).$"=Diễn ra đến $2/$1/$3 - $4 (UTC-7)
-r:"^Before (\d+)/(\d+)/(\d+) (.+)\(UTC-7\):$"=Diễn ra đến $2/$1/$3 - $4 (UTC-7)
-r:"^Before (\d+)/(\d+) (.+)\(UTC-7\):$"=Đến $2/$1 - $3 (UTC-7)
-r:"^(\d+)/(\d+)/(\d+) (.+)\(UTC-7\) -$"=<align\=center><size\=90%>$2/$1/$3 - $4 (UTC-7)
-r:"^(\d+)/(\d+)/(\d+) (.+)\(UTC-7\)$"=<align\=center><size\=90%>$2/$1/$3 - $4 (UTC-7)
-r:"^Featured! <size\="20">Until (\d+)/(\d+) (.+)</size>$"=NỔI BẬT! <size\="20">Diễn ra đến $2/$1 - $3 (UTC-7)</size>
-r:"^From (\d+)/(\d+) (.+)\(UTC-7\) until (\d+)/(\d+) (.+)\(UTC-7\)$"=Từ $2/$1 - $3 (UTC-7) đến $5/$4 - $6 (UTC-7)
+r:"^Available until (\d+)/(\d+)/(\d+) (.+)\(UTC\+7\)$"=Diễn ra đến $2/$1/$3 - $4 (UTC+7)
+r:"^Until (\d+)/(\d+)/(\d+) (.+)\(UTC\+7\)$"=<size\=90%>Đến $2/$1/$3 - $4 (UTC+7)
+r:"^Runs until (\d+)/(\d+)/(\d+) (.+)\(UTC\+7\).$"=Diễn ra đến $2/$1/$3 - $4 (UTC+7)
+r:"^Before (\d+)/(\d+)/(\d+) (.+)\(UTC\+7\):$"=Diễn ra đến $2/$1/$3 - $4 (UTC+7)
+r:"^Before (\d+)/(\d+) (.+)\(UTC\+7\):$"=Đến $2/$1 - $3 (UTC+7)
+r:"^(\d+)/(\d+)/(\d+) (.+)\(UTC\+7\) -$"=<align\=center><size\=90%>$2/$1/$3 - $4 (UTC+7)
+r:"^(\d+)/(\d+)/(\d+) (.+)\(UTC\+7\)$"=<align\=center><size\=90%>$2/$1/$3 - $4 (UTC+7)
+r:"^Featured! <size\="20">Until (\d+)/(\d+) (.+)</size>$"=NỔI BẬT! <size\="20">Diễn ra đến $2/$1 - $3 (UTC+7)</size>
+r:"^From (\d+)/(\d+) (.+)\(UTC\+7\) until (\d+)/(\d+) (.+)\(UTC\+7\)$"=Từ $2/$1 - $3 (UTC+7) đến $5/$4 - $6 (UTC+7)
+r:"^Open from (\d+)/(\d+) (.+) \(UTC\+7\)$"=Mở từ $2/$1 - $3 (UTC+7)

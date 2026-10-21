@@ -1,5 +1,4 @@
 ハイスコア更新!=Kỷ lục mới!
-挑戦グレード=Grade
 最終スコア=<size\=75%>Tổng điểm cuối
 合計スコア=Tổng số điểm
 r:"<size\=28>×</size>(.+) <size\=28>\(Score Multiplier\)</size>"=<size\=28>×</size>$1<size\=23> (Hệ số điểm thưởng)</size>

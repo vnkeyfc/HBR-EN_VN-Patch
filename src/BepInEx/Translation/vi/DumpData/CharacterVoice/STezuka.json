@@ -1,0 +1,269 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "STezuka",
+  "CharacterName": "手塚咲",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_STezuka",
+      "Label": "STezuka_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "夏草や、兵どもが夢の跡",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Cỏ mùa hè, tàn dư giấc mộng của người lính!"
+    },
+    {
+      "Key": "VB_Z_907800138_STezuka",
+      "Label": "STezuka_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "え",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800139_STezuka",
+      "Label": "STezuka_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "チッ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800140_STezuka",
+      "Label": "STezuka_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "何の",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800141_STezuka",
+      "Label": "STezuka_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ここからが本番よ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800142_STezuka",
+      "Label": "STezuka_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "足を…引っ張るわけには…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800143_STezuka",
+      "Label": "STezuka_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "馬鹿な",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800174_STezuka",
+      "Label": "STezuka_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "さあ、次に行くわよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800175_STezuka",
+      "Label": "STezuka_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "まあ、こんなもので。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800176_STezuka",
+      "Label": "STezuka_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "あなたたち、ギリギリじゃない。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800147_STezuka",
+      "Label": "STezuka_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "指揮が…誤った…か…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800148_STezuka",
+      "Label": "STezuka_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "技は、託せた、な。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800149_STezuka",
+      "Label": "STezuka_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "残り…惜しい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800177_STezuka",
+      "Label": "STezuka_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "あら、成長の余地なんてあったの。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800178_STezuka",
+      "Label": "STezuka_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "まるで現役時代に戻ったみたい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800179_STezuka",
+      "Label": "STezuka_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "本当、あの頃のようね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800180_STezuka",
+      "Label": "STezuka_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "むしろ今の方が全盛期だったり",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800183_STezuka",
+      "Label": "STezuka_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よし",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800184_STezuka",
+      "Label": "STezuka_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいわね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800185_STezuka",
+      "Label": "STezuka_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "これは使えそうね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800181_STezuka",
+      "Label": "STezuka_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "何この手応え",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_907800182_STezuka",
+      "Label": "STezuka_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "すごくいい感じ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_907800240_STezuka",
+      "Label": "STezuka_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "そろそろお開きにして明日に備えなさい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_907800242_STezuka",
+      "Label": "STezuka_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "よくわからないけど、うまくいったみたいね。おめでとう。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_907800241_STezuka",
+      "Label": "STezuka_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "暗い顔してどうしたの？ご飯でも食べて元気出しなさい。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_STezuka",
+      "Label": "STezuka_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "くるくるパーだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_STezuka",
+      "Label": "STezuka_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "こちらへ来なさい。立ち向かう術を教えるわ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_STezuka",
+      "Label": "STezuka_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "任務お疲れ様",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_STezuka",
+      "Label": "STezuka_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "要素が多すぎない？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

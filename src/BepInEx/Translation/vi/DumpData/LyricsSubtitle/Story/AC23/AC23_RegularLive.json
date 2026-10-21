@@ -1,0 +1,216 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC23/AC23_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 9.8,
+      "EndSecond": 13.4,
+      "OriginalText": "A creature no better than a bug!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 13.5,
+      "EndSecond": 22,
+      "OriginalText": "Don't shine your light on me, I know what I am",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 22.2,
+      "EndSecond": 24.3,
+      "OriginalText": "A hideous monster",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 24.4,
+      "EndSecond": 33,
+      "OriginalText": "A mutant cast out from its peers",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 33.1,
+      "EndSecond": 35.1,
+      "OriginalText": "To freeze to death",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 35.8,
+      "EndSecond": 40.9,
+      "OriginalText": "Oh, I've already seen this one",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 41,
+      "EndSecond": 45.7,
+      "OriginalText": "But I've got nothing to do but watch it anyway",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 45.8,
+      "EndSecond": 46.8,
+      "OriginalText": "(Always!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 46.9,
+      "EndSecond": 58.7,
+      "OriginalText": "I've stopped expecting new encounters",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 59.2,
+      "EndSecond": 63.2,
+      "OriginalText": "Living's so hard",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 63.3,
+      "EndSecond": 65.7,
+      "OriginalText": "I don't even know why I do it",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 66,
+      "EndSecond": 68.4,
+      "OriginalText": "Sometimes I just wanna",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 68.5,
+      "EndSecond": 71.2,
+      "OriginalText": "Give up and die",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 71.3,
+      "EndSecond": 74,
+      "OriginalText": "But I don't have the guts",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 74.1,
+      "EndSecond": 77,
+      "OriginalText": "So I keep",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 77.1,
+      "EndSecond": 79.7,
+      "OriginalText": "Hanging on",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 79.8,
+      "EndSecond": 80.7,
+      "OriginalText": "That's the letter",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 80.8,
+      "EndSecond": 85,
+      "OriginalText": "And as I'm reading it, I'm thinking...",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 85.1,
+      "EndSecond": 87.7,
+      "OriginalText": "We've both got it rough",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 87.8,
+      "EndSecond": 90.4,
+      "OriginalText": "But ain't that just how it goes?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 90.5,
+      "EndSecond": 93.2,
+      "OriginalText": "I wonder who's there with you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 93.3,
+      "EndSecond": 95.9,
+      "OriginalText": "Listening to your long long lament",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 96,
+      "EndSecond": 102.7,
+      "OriginalText": "And heaving an exasperated sigh",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

@@ -34,7 +34,7 @@ Active Skill=Kỹ năng chủ động
 Last Deployed Squad=Đội hình xuất trận trước
 前回バトル部隊=Đội hình xuất trận trước
 Story Squad=Đội hình cốt truyện
-ストーリー部隊=<size\=75%>Đội hình Cốt truyện
+ストーリー部隊=<size\=75%>Đội hình cốt truyện
 通常部隊=<size\=75%>Đội hình thường
 Fixed Formation=Đội hình cố định
 Fixed=Cố định
@@ -70,7 +70,7 @@ Support Formation=Đội hình hỗ trợ
 タップでキャラクター編成、ドラッグ&ドロップで入れ替え=Nhấn vào để chọn nhân vật, kéo và thả để hoán đổi vị trí
 
 [Locked]
-Unlock by clearing Main Scenario: Chapter 3.=Hoàn thành Chính Truyện: Chương 3
+Unlock by clearing Main Scenario: Chapter 3.=Hoàn thành Chính truyện: Chương 3
 <style\=RubyPrefixTag></style>\nForbidden unit present=<style\=RubyPrefixTag></style>\nĐội hình có đội viên không hợp lệ
 
 [Utils]

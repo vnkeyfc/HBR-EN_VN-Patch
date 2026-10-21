@@ -1,0 +1,507 @@
+{
+  "Script": "Story/Common/Quest/YIzumi/Quest_Lv1_YIzumi",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Talk to the other members of 31-A!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey sweet thang, wassup?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you hitting on me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh no, it's just that we're always with other people, so I never really get to chat with you alone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't have to spend your free time with me, you know. You'd get more out of hanging out with the others.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I wanna hang out with you, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00005_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm busy though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, I'm a bit hungry, so how about you buy me a light meal?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you want?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anything's fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "What counts as a light meal?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anything's fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you think when you hear \"a light meal\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00012_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pizza. It can be the main course, a side dish, a snack, whatever! Pizza can do it all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00011_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you think when you hear \"a light meal\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00014_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like a kebab sandwich or something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00011_RKayamori#3",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you think when you hear \"a light meal\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00016_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's gotta be crackers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00011_RKayamori#4",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you think when you hear \"a light meal\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00018_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You gotta go with takosen, takoyaki between two rice crackers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm back!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00020_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why a large? Ah well, I guess it's fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00021_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's so hot and dripping with cheese. How am I supposed to focus like this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00022_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, this is a unique choice, but I guess I'll take it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00023_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is almost too tasty.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00024_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is this an emergency ration? Well, I guess I'll take it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00025_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is WAY too dry to eat without water. I can't even swallow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00026_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What is this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's apparently called a \"takosen.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00028_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Never heard of it. Well, I'll take it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00029_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the?! It's crazy good! I can't stop eating!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00030_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Amazing! I was so focused on eating I started slacking off on my work!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, whatcha doin'?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00032_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm just playing around with this Military Electronic Personal Assistant Device.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! Those things have games?! I wanna try! I wanna overcharge my credit card like crazy and become a total wreck!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00034_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They don't. Also, if you're gonna waste your life like that, at least do it fighting some Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00035_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So there's no games? Damn... So then, what are you messin' around with?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00036_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can program these to some extent. So I'm just trying out bits of code.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, then make a game! You could sell it in the mePad store!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00038_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not making a game. Basically, this is like an artificial intelligence.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00039_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Done.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow! Can I talk to it?! Can I, can I please?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00041_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're way too excited about this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00042_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But it could help with debugging, so sure, knock yourself out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's give you a name to start with. Your name will be...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A-S-S, pronounced \"ASS\".",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00045_KETSU",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Affirmative. My name is ASS.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00046_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "NOOOooo!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00047_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "IT ACCEPTED IT!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00048_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Something wrong?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00049_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why did you give it such a vulgar name?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00050_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That way it's different from something like SIRI.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00051_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That's no reason to call it \"ASS\"!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00052_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't worry about it, it's not like I called it that because I was thinking about butts. What do you think, ASS, do you like it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00053_KETSU",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Yes. I like it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00054_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's good.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00055_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "IT'S NOT GOOD AT ALL!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00056_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Now I have to call it \"ASS\" every time I talk to it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I mean, it flows right off the tongue—just a single syllable! Isn't that right, ASS?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00058_KETSU",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "Yup.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00059_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So anyway, ASS it is. Now that that's decided, I'll see ya around. Bye!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YIzumi_Quest_00060_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "AAAHHH!!! THAT WAS LIKE A HIT AND RUUUNNN!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00873_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Maybe I should ask Yukkie to come for a soak.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:1",
+      "Original": "Invite her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:2",
+      "Original": "Invite|Maybe not",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00874_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey um, Yukkie?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_BathTime_World_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You want to go to the bath?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00875_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I do!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_IIshii_Quest_00076_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Nah, I'll bathe alone today.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Still as hot as ever, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00001_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Quit ogling me like that. Do you want me to never come to the bath with you again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No waaay!!! I'll stick to just taking peeks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00003_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That doesn't sound like someone who's learned her lesson.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And also, you're the one with all the looks. You're stylish and popular. I've seen your pics. You look like a model.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I always wondered if there was really any demand for those pics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00006_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You should really come to terms with your own appeal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Am I really all that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00008_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't hear you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00010_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I said yes, okay?! Don't make me repeat it! It's embarrassing!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awesome!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "By the way, I think you're amazing too, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00013_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm leaving!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YIzumi_Lv1_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aww, already?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

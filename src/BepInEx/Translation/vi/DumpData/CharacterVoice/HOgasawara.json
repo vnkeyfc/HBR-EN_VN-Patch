@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "HOgasawara",
+  "CharacterName": "小笠原緋雨",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_HOgasawara",
+      "Label": "HOgasawara_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "寄らば斬る！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Lại gần là chém!"
+    },
+    {
+      "Key": "VB0014_HOgasawara",
+      "Label": "HOgasawara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "くっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_HOgasawara",
+      "Label": "HOgasawara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なかなかです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_HOgasawara",
+      "Label": "HOgasawara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まだまだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_HOgasawara",
+      "Label": "HOgasawara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ふふふ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_HOgasawara",
+      "Label": "HOgasawara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "もういい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_HOgasawara",
+      "Label": "HOgasawara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "な、なっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_HOgasawara",
+      "Label": "HOgasawara_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "天才がいればこんなものです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_HOgasawara",
+      "Label": "HOgasawara_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "上昇、私にふさわしいですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_HOgasawara",
+      "Label": "HOgasawara_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "苦戦…それは気のせいです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_HOgasawara",
+      "Label": "HOgasawara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "天才…なのに…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_HOgasawara",
+      "Label": "HOgasawara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "あっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_HOgasawara",
+      "Label": "HOgasawara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "未熟…でした…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_HOgasawara",
+      "Label": "HOgasawara_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "修行の成果です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_HOgasawara",
+      "Label": "HOgasawara_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "まだ強くなりますよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_HOgasawara",
+      "Label": "HOgasawara_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "通過点です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_HOgasawara",
+      "Label": "HOgasawara_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "牽制への道はまだ途中です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_HOgasawara",
+      "Label": "HOgasawara_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "余裕で使いこなせますね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_HOgasawara",
+      "Label": "HOgasawara_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "これはみなぎりますね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_HOgasawara",
+      "Label": "HOgasawara_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "頼りになります",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_HOgasawara",
+      "Label": "HOgasawara_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "そろそろ刀になりませんか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_HOgasawara",
+      "Label": "HOgasawara_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "これが私が天才であるゆえんですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_HOgasawara",
+      "Label": "HOgasawara_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "己と向き合い続けた結果です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000332_HOgasawara",
+      "Label": "HOgasawara_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "終わりですか？なかなか楽しかったですよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000334_HOgasawara",
+      "Label": "HOgasawara_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "ふんふん、尊敬してもいいですよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000333_HOgasawara",
+      "Label": "HOgasawara_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "くぅ…天才剣士が不覚…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_HOgasawara",
+      "Label": "HOgasawara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "この程度のこと、天才剣士には余裕なんです。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_HOgasawara",
+      "Label": "HOgasawara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "天才剣士ですから",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_HOgasawara",
+      "Label": "HOgasawara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "考えすぎず、流れを読めば、より剣が冴えるでしょう。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_HOgasawara",
+      "Label": "HOgasawara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "うわー！禁止ー！今日はかわいい！禁止ー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

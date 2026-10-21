@@ -1,0 +1,153 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC14/AC14_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 13.7,
+      "EndSecond": 15.3,
+      "OriginalText": "It's too late",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 15.4,
+      "EndSecond": 20.2,
+      "OriginalText": "Here I am, always a step behind",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 20.3,
+      "EndSecond": 26.8,
+      "OriginalText": "With this chocolate cigarette between my lips",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 26.9,
+      "EndSecond": 36.5,
+      "OriginalText": "What do you expect?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 36.6,
+      "EndSecond": 39.7,
+      "OriginalText": "Don't you think?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 39.7,
+      "EndSecond": 40.7,
+      "OriginalText": "Only you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 40.7,
+      "EndSecond": 46.6,
+      "OriginalText": "That morning, beaten down by the pouring rain",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 46.6,
+      "EndSecond": 47.2,
+      "OriginalText": "Only only you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 47.2,
+      "EndSecond": 52.5,
+      "OriginalText": "Much like the knife I hold in my hand",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 52.6,
+      "EndSecond": 56.5,
+      "OriginalText": "I'm in pain; I can't sleep",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 56.5,
+      "EndSecond": 57.1,
+      "OriginalText": "Only you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 57.1,
+      "EndSecond": 62.7,
+      "OriginalText": "At least within my dream I could smile",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 62.7,
+      "EndSecond": 63.7,
+      "OriginalText": "Only only only you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 63.7,
+      "EndSecond": 68.8,
+      "OriginalText": "With my razor-sharp knife, I'll cut through it all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 68.9,
+      "EndSecond": 73.9,
+      "OriginalText": "I'm scared. I'm cold. I'm hurt.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 74,
+      "EndSecond": 89.3,
+      "OriginalText": "Don't you dare tell me this is what it means to be alive",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

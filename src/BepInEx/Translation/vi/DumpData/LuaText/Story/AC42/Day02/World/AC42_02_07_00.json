@@ -1,0 +1,186 @@
+{
+  "Script": "Story/AC42/Day02/World/AC42_02_07_00",
+  "Entries": [
+    {
+      "Key": "VC_Z_906800048_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...There is no sign of Cancer here. Let us go back and check the other side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00581_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Vritika. You are acting unusual for some time now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00582_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00583_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true... You've not got lost in your sea of numbers or the world of kari at all today! I've not had occasion to say \"it's kari time\"!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00584_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mmh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00585_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is a serious conversation. Do you want me to kill you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00586_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Frightfully sorry! I was just trying to lighten the mood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00587_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This...ain't just about the coordination, is it? You been all jacked into this mission since yesterday.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00588_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Spice and crops are your worry, yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00589_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes... When food is involved, it feels very personal to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00590_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Got a special connection here or something?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00591_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well... It is related to my homeland...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00592_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Famine has been a major social issue in India for a very long time, and it has been further exacerbated by the Cancer attacks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00593_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Distribution networks fell into disorder, leading to skyrocketing prices. The number of people under the poverty line has increased, and the fear of alien invaders has reduced the cities to panic and unrest.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00594_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In the midst of this, my mother devoted herself to volunteer work, to provide food for the needy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00595_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our family was not so affluent that we had much to spare for the others. But even so, Mother cut into her own meals, and devoted time and funds into helping the people.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00597_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And she passed that heroic ambition right on down to you, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00598_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Even if this place falls under Cancer attack, that won't cause instant food shortage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00599_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But this place could provide for people ten or twenty years down the line.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00600_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So I wish to defend this place...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00601_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00607_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And moreover, this place is where...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00608_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh?! Something's swooping down at us from our 4 o'clock! Watch yourselves!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00609_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00610_LShanhua",
+      "Context": "Adv.talkWithName:1",
+      "Original": "An enemy attack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00616_IRedmayne",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "A Cancer... It's heading straight for the farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00617_LShanhua",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Mhm, the sounds of the construction work must be drawing it in.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00618_CSkopovskaya",
+      "Context": "Adv.talkWithName:1",
+      "Original": "We cannot let Cancer go any further.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00619_VBalakrishnan",
+      "Context": "Adv.talkWithName:1",
+      "Original": "This is an unidentified Cancer specimen. Fight with caution, so we may discern its threat level.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00620_CReaper",
+      "Context": "Adv.talkWithName:1",
+      "Original": "Gals, get ready for combat!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

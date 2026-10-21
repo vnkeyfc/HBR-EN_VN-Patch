@@ -1,0 +1,33 @@
+{
+  "Script": "Story/DC01/Day05/Expedition/DC01_05_03_00",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "DC01.Expedition.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Toyama—Operation Area",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Conquest Desert",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_905700223_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Looks like we can open it from this side.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_905700222_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "We can't open the door from this side.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

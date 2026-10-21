@@ -30,12 +30,12 @@ Convert=Chuyển hoá
 Preview=Xem trước
 
 # Gacha
-Recruitment Probabilities/Details, Usage History=Chi tiết/Tỉ lệ, Lịch sử giao dịch
+Recruitment Probabilities/Details, Usage History=Chi tiết/Tỉ lệ, Lịch sử sử dụng
 Switch Screens=Đổi cảnh
 Bonus Gauge Details=Chi tiết về thưởng thanh tiến độ
 Exchange Details=Chi tiết về đổi thưởng
 Recruitment Probabilities/Details=Chi tiết / Tỉ lệ
-Usage History=Lịch sử giao dịch
+Usage History=Lịch sử sử dụng
 
 # Gift
 Verify=Xác nhận
@@ -55,7 +55,7 @@ Craft=Chế tạo
 # Style
 Switch Variants=Chuyển Hồi Ức
 Display Illustration=Xem ảnh minh hoạ
-Details on MLv.=Chi tiết về SLv.
+Details on MLv.=Chi tiết về MLv.
 Details on Limit Break=Chi tiết về Đột Phá Giới Hạn
 Play Animation=Xem hoạt ảnh
 

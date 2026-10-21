@@ -1,0 +1,180 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC22/AC22_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 1.6,
+      "EndSecond": 10.4,
+      "OriginalText": "Faded bonds, a moon dyed bright red",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 10.5,
+      "EndSecond": 13.6,
+      "OriginalText": "The blue of the ocean forgotten",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 13.7,
+      "EndSecond": 21.2,
+      "OriginalText": "Yet I can't leave behind my doubts",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 21.3,
+      "EndSecond": 31.3,
+      "OriginalText": "Light remains unseen",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 32.3,
+      "EndSecond": 35.4,
+      "OriginalText": "This village once had a bloody past",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 35.5,
+      "EndSecond": 40.4,
+      "OriginalText": "One night, a girl broke the crazy custom",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 40.5,
+      "EndSecond": 43.2,
+      "OriginalText": "Sometimes you gotta rest",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 43.3,
+      "EndSecond": 45.8,
+      "OriginalText": "Sometimes you gotta slack off",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 45.9,
+      "EndSecond": 51.1,
+      "OriginalText": "Giving 100% for everything is pretty lame",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 51.2,
+      "EndSecond": 56.4,
+      "OriginalText": "But when I give a crap, I'm on fire",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 56.5,
+      "EndSecond": 60.4,
+      "OriginalText": "That's why they call me a genius",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 61.9,
+      "EndSecond": 67,
+      "OriginalText": "The world's a crazy place",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 67.1,
+      "EndSecond": 72.4,
+      "OriginalText": "You stay sane, you're dead",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 72.5,
+      "EndSecond": 85.8,
+      "OriginalText": "Gotta stick together, let's cross on a red light",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 85.9,
+      "EndSecond": 89.8,
+      "OriginalText": "How’s everything",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 89.9,
+      "EndSecond": 93.8,
+      "OriginalText": "Won't let even an ant escape",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 93.9,
+      "EndSecond": 97.1,
+      "OriginalText": "Turning everything to red, red rust",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 97.2,
+      "EndSecond": 104.4,
+      "OriginalText": "Thing is, I look at you smiling, covered in blood",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 104.5,
+      "EndSecond": 110.9,
+      "OriginalText": "And think, ''how beautiful''",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

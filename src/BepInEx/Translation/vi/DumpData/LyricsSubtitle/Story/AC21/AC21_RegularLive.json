@@ -1,0 +1,180 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC21/AC21_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 8.3,
+      "EndSecond": 11,
+      "OriginalText": "I'm going on a journey to say thank you!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 11.1,
+      "EndSecond": 13.6,
+      "OriginalText": "Wait for me, everyone!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 13.7,
+      "EndSecond": 18.5,
+      "OriginalText": "I know why you're pissed",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 18.6,
+      "EndSecond": 22.9,
+      "OriginalText": "It's because the pizza place didn't have any pizza",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 24,
+      "EndSecond": 24.5,
+      "OriginalText": "Say!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 26.3,
+      "EndSecond": 27,
+      "OriginalText": "No More!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 27.1,
+      "EndSecond": 32.3,
+      "OriginalText": "A pattern as familiar as the same old chord progressions",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 32.4,
+      "EndSecond": 35,
+      "OriginalText": "Let's just play it safe",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 35.1,
+      "EndSecond": 37.7,
+      "OriginalText": "You have my sympathy",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 37.8,
+      "EndSecond": 40.4,
+      "OriginalText": "You're saying that ",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 40.5,
+      "EndSecond": 44.9,
+      "OriginalText": "because you've caught so much flak",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 45.8,
+      "EndSecond": 49.6,
+      "OriginalText": "Dammit, this is boring",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 49.7,
+      "EndSecond": 56.1,
+      "OriginalText": "I wanna stab 'em with a knife",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 56.2,
+      "EndSecond": 58.9,
+      "OriginalText": "Shut up and stick to your job. You're right, I should, I'm sorry",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 58.9,
+      "EndSecond": 69.9,
+      "OriginalText": "Shut up and stick to your job. You're right, I should, I'm sorry\n(I'm gonna kill it! I'm gonna kill it! Let me kill it!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 72.7,
+      "EndSecond": 83.3,
+      "OriginalText": "This is a journey to say 'thank you'",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 83.4,
+      "EndSecond": 94.1,
+      "OriginalText": "So that one day I can hear 'thank you'",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 96.7,
+      "EndSecond": 99.49,
+      "OriginalText": "I can't say thank you enough!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 99.5,
+      "EndSecond": 104.9,
+      "OriginalText": "I want to say it forever!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

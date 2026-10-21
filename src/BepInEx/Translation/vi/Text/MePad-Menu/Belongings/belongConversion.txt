@@ -1,8 +1,24 @@
 スタイルピース変換=<size\=85%>Chuyển hoá mảnh Hồi Ức
-万能ピース変換=<size\=85%>Chuyển hoá mảnh Vạn năng
-ピースポイント変換=<size\=85%>Chuyển hoá điểm Mảnh Ghép
+万能ピース変換=<size\=85%>Chuyển hoá mảnh vạn năng
+ピースポイント変換=<size\=85%>Chuyển hoá điểm mảnh ghép
 
 変換可能なスタイルピースを所持していません=Bạn hiện không sở hữu mảnh Hồi Ức nào có thể chuyển hoá
+クリスタル=Pha lê
+万能ピース=Mảnh vạn năng
+余剰のスタイルピースを万能ピース・クリスタルに変換しますか?=Bạn muốn chuyển hoá mảnh Hồi Ức dư thừa thành mảnh Vạn năng và pha lê?
+※変換すると元には戻せません。ロック中のピースは変換されません。=※Có thể chuyển hoá mảnh bất kỳ lúc nào. Những mảnh bị khoá sẽ không được chuyển hoá.
+
+Shard Points=Điểm mảnh ghép
+Convert protean Memoria shards into Shard Points=Chuyển hoá mảnh Hồi Ức vạn năng thành điểm mảnh ghép
+万能スタイルピースのピースポイントへの変換に関して=Chi tiết về việc chuyển hoá thành điểm mảnh ghép
+r:"^(\d+) Shard (\d+) Point\(s\)$"=$1 mảnh \= $2 điểm
+
+Convert Shard Points into protean Memoria shards=Chuyển hoá điểm mảnh ghép thành mảnh Hồi Ức vạn năng
+ピースポイント=Điểm mảnh ghép
+残り回数=<pos\=-5px>Số lần còn lại:
+消費pt=Tiêu hao:
+変換する=Chuyển hoá
+※残り回数は毎月1日の4:00にリセットされます=※Việc chuyển hoá sẽ được làm mới vào đầu mỗi tháng lúc 14:00 (UTC+7).
 
 10 more needed=Cần thêm 10 mảnh
 おすすめ=Khuyến nghị

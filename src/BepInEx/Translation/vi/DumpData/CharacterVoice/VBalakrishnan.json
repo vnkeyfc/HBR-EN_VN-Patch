@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "VBalakrishnan",
+  "CharacterName": "ヴリティカバラクリシュナン",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_VBalakrishnan",
+      "Label": "VBalakrishnan_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "数こそ万物の根源",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Con số là cọi rễ của vạn vật."
+    },
+    {
+      "Key": "VB0014_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "強度計算済みです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "問題ありません。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "微修正を",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くぅ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "姫さんが…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "予測より早い決着、修正が必要です。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "これはこれは、お疲れ様です。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "予測以上の苦戦。敵戦力の数理モデルに過失があったせい。再計算を。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "数字が…こぼれていく…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "まだ…溶けてないのに…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "いつか誰かが…この命題を…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "パホッドパホッドダンニャワード",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "数学の女神の恩恵です。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "また一歩、真理に近づきました。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_VBalakrishnan",
+      "Label": "VBalakrishnan_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "数学の女神に感謝を",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_VBalakrishnan",
+      "Label": "VBalakrishnan_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "再計算の結果です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_VBalakrishnan",
+      "Label": "VBalakrishnan_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "Xがこの場合は成立。では、Xを別の値にした場合は？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_VBalakrishnan",
+      "Label": "VBalakrishnan_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "スパイスが決め手です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_VBalakrishnan",
+      "Label": "VBalakrishnan_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "セラフさん、ナマステ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_VBalakrishnan",
+      "Label": "VBalakrishnan_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "私の成長もまた予測を超えてくる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_VBalakrishnan",
+      "Label": "VBalakrishnan_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "数学に果てはありません",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000520_VBalakrishnan",
+      "Label": "VBalakrishnan_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "これにて終了となります。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000522_VBalakrishnan",
+      "Label": "VBalakrishnan_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "数字が示す正しい回です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000521_VBalakrishnan",
+      "Label": "VBalakrishnan_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "…計算外です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_VBalakrishnan",
+      "Label": "VBalakrishnan_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ナマステ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_VBalakrishnan",
+      "Label": "VBalakrishnan_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ダンニャワード、有益な情報をいただきました。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_VBalakrishnan",
+      "Label": "VBalakrishnan_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ニルヴァーナ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_VBalakrishnan",
+      "Label": "VBalakrishnan_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "カリー…カリーが食べたい…スパイスが足りない…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

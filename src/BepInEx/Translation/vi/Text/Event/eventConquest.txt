@@ -1,3 +1,34 @@
 制圧戦\n=<size\=120%>Chế Áp Chiến
+r:"^Area (\d+)$"=Khu vực $1
 作戦開始=<size\=270%><voffset\=-40px><cspace\=5px><line-height\=70px>Bắt Đầu\nChiến Dịch
 フロートバイク=Float Bike
+
+エリア選択=<size\=80%><cspace\=-3px>Lựa chọn khu vực
+達成数=Tiến độ:
+エリア一覧=<size\=80%>Danh sách khu vực
+ミッション達成数=Tiến độ nhiệm vụ:
+Mt. Goryu=Núi Goryu
+
+sr:"^Area (\d+). (.+)$"=Khu vực $1: $2
+ミッション一覧=<size\=80%>Danh sách nhiệm vụ
+シナリオスキップ=Bỏ qua cốt truyện
+プレイ=Xác nhận
+
+選択=Chọn
+難易度選択=Lựa chọn độ khó
+For those who want a more laid-back battling experience.=Dành cho những ai muốn có một trải nghiệm dễ dàng.
+For those who want a fair amount of thrill and a sense of accomplishment.=Dành cho những ai muốn trải nghiệm một chút sự hào hứng và thử thách.
+For those who want to enjoy the fullest sense of accomplishment from the suppression operation.=Dành cho những ai muốn trải nghiệm Chế Áp Chiến một cách trọn vẹn.
+* The difficulty level can be adjusted at a later point.\n* Rewards do not change with the difficulty level.\n* Certain sub-missions will only appear on specific difficulties.=                ※Độ khó có thể được điều chỉnh vào bất kỳ lúc nào.\n                ※Số lượng phần thưởng sẽ không bị ảnh hưởng bởi độ khó.\n                ※Một số nhánh nhiệm vụ chỉ xuất hiện ở một số độ khó nhất định.
+
+A small, abandoned city. The area has undergone desertification, perhaps due to environmental changes brought about by the Cancer's arrival. This region is surrounded by the now-dried up Chikuma River and its tributaries, and steep paths reminiscent of valleys can be seen everywhere.=Một thành phố nhỏ bị bỏ hoang. Khu vực này đã bị sa mạc hóa, có lẽ do biến đổi môi trường từ khi Cancer xuất hiện. Bao quanh nơi đây là sông Chikuma cùng các nhánh sông đã cạn khô, tạo nên những lối đi dốc đứng như hẻm núi ở khắp nơi.
+
+The eroded, windswept corner of a high-rise complex. One can still see lingering signs of the prosperity it once enjoyed when it was still used as a forward operating base. When the Cancer attacked, the city's functions were crippled, leaving nothing behind but the horrific echoes of destruction.=Một góc khu phức hợp cao tầng bị bào mòn bởi gió sương. Nơi đây vẫn còn sót lại chút dấu tích phồn vinh của thời kỳ từng là căn cứ tiền phương. Đợt tấn công của Cancer đã làm tê liệt toàn bộ thành phố, chỉ để lại những tàn tích hủy diệt kinh hoàng.
+
+A group of facilities where next-generation energy research was being conducted. It has long ceased being operational due to the Cancer onslaught, but thanks to its robust, fortress-like construction, the facilities inside still appear to be usable. Because of the high-efficiency next-gen nuclear reactor found within, HQ has set their sights on this location as a power source for their electromagnetic artillery.=Cụm cơ sở nghiên cứu năng lượng thế hệ mới. Dù đã ngừng hoạt động từ lâu do Cancer tấn công, thiết bị bên trong vẫn dùng được nhờ cấu trúc kiên cố như pháo đài. Với lò phản ứng hạt nhân hiệu suất cao tại đây, Bộ Tư lệnh đã chọn nơi này làm nguồn điện cho pháo điện từ.
+
+A mountainous region in which the large-scale battles of the Hokuriku front unfolded. It served as the defensive line to halt the advance of the Cancers towards Nagano, and the scars from the fierce fighting are still visible. The once-beautiful peaks are now warped, hollow craters—a shadow of their former selves.=Vùng núi non từng là chiến trường ác liệt của mặt trận Hokuriku. Nơi đây từng là tuyến phòng thủ chặn đứng bước tiến của Cancer hướng về Nagano, và những vết sẹo từ trận chiến khốc liệt vẫn còn hằn in. Những đỉnh núi từng đẹp đẽ nay đã biến dạng, chỉ còn lại những hố bom khoét sâu hoắm – tàn tạ đến mức không nhận ra.
+
+Built along the coast of Toyama City, the military research facility conducted all manner of research into the Cancers, shaping humanity’s survival strategies. Among them was an electromagnetic artillery piece that would later become a potent anti-Cancer weapon, enshrined in the lab’s deepest vaults, awaiting the day it would be brought to bear.=Xây dựng dọc theo bờ biển thành phố Toyama, cơ sở nghiên cứu quân sự này từng tiến hành mọi hình thức nghiên cứu về Cancer, định hình chiến lược sinh tồn của nhân loại. Nằm sâu trong những hầm ngầm kiên cố của phòng thí nghiệm là một khẩu pháo điện từ – thứ sau này sẽ trở thành vũ khí khắc chế Cancer hùng mạnh, chờ ngày được đưa ra chiến đấu.
+
+The military once built an impregnable fortress to take advantage of the harsh terrain of the mountain overlooking the Sea of Japan. However, after the Battle of Hokuriku, it has become a den of evil where Cancers run rampant. Sinister is the setting sun that scours across this barren land, casting a light that seemingly evokes the very end of the world.=Tận dụng địa hình hiểm trở của ngọn núi hướng ra Biển Nhật Bản, quân đội từng xây dựng một pháo đài kiên cố bất khả xâm phạm. Thế nhưng, sau thất bại tại mặt trận Hokuriku, nơi đây đã biến thành hang ổ của bầy Cancer. Ánh chiều tà hắt hiu quét qua vùng đất hoang tàn, soi chiếu một thứ ánh sáng u ám tựa như ngày tận thế của thế giới.

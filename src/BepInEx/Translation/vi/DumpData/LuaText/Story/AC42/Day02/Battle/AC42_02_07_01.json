@@ -1,0 +1,47 @@
+{
+  "Script": "Story/AC42/Day02/Battle/AC42_02_07_01",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "You will participate in this battle using a predetermined squad formation. Your characters will have set levels, Memoria, and skills; do your best with what you have been provided.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200158_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What the F○CK! I can't deal any damage to this Cancer!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200111_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I reckon it's pointless attacking the outer shell on its sides. We've probably got to aim for the parts covered in that layer of slime!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00621_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gah, this is annoying!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00622_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do not overextend, Maria! Keep your distance from the reserve units in mind!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00623_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That slime-like area is blocking our paths from getting in deep enough.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00624_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we just stay on the defensive, we will just end up running out of deflector...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

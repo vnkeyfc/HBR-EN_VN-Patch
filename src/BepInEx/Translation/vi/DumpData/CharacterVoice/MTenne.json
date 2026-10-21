@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MTenne",
+  "CharacterName": "天音巫呼",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_MTenne",
+      "Label": "MTenne_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "忘却は死、追憶に生きよ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Lãng quên là chết, tưởng nhớ là sống."
+    },
+    {
+      "Key": "VB0014_MTenne",
+      "Label": "MTenne_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "くぅ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MTenne",
+      "Label": "MTenne_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なにを",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MTenne",
+      "Label": "MTenne_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "直在な",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MTenne",
+      "Label": "MTenne_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "アヘヘ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MTenne",
+      "Label": "MTenne_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "そんな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MTenne",
+      "Label": "MTenne_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ラスイーナ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MTenne",
+      "Label": "MTenne_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ま、少しは研究の足しになろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MTenne",
+      "Label": "MTenne_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "まだまだ完成は遠いな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MTenne",
+      "Label": "MTenne_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "研究の邪魔をしおってからに",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MTenne",
+      "Label": "MTenne_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "たっく…なっ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MTenne",
+      "Label": "MTenne_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "実験…失敗…か…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MTenne",
+      "Label": "MTenne_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "研究が…まだ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MTenne",
+      "Label": "MTenne_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "魔力の高まりを感じるぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MTenne",
+      "Label": "MTenne_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "すぐさま研究に戻らねば",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MTenne",
+      "Label": "MTenne_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "杯は満ちた",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MTenne",
+      "Label": "MTenne_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "限界に到達だと？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MTenne",
+      "Label": "MTenne_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "ほう、これはいいものだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MTenne",
+      "Label": "MTenne_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "悪い気はせぬ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MTenne",
+      "Label": "MTenne_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "興味深い結果だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MTenne",
+      "Label": "MTenne_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "謎は深まるばかり",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MTenne",
+      "Label": "MTenne_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "無限にアイデアが溢れ出てくるな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MTenne",
+      "Label": "MTenne_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "より一層研究に励むとしよう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000771_MTenne",
+      "Label": "MTenne_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "一応形にはなったか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000773_MTenne",
+      "Label": "MTenne_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "ビンゴー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000772_MTenne",
+      "Label": "MTenne_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "まあ研究に失敗はつきものよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MTenne",
+      "Label": "MTenne_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "うふふ、ようこそ被験者よ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MTenne",
+      "Label": "MTenne_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "稀代の魔術師として手を貸してやるだけだ",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0018_MTenne",
+      "Label": "MTenne_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "失敗から人は学ぶ全ての成功はそこから始まるのだよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MTenne",
+      "Label": "MTenne_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "なんだ、わしは研究で忙しい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

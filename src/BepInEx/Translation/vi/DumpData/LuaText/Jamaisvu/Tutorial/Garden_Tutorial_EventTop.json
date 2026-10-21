@@ -1,0 +1,16 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_EventTop",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "The List of Targets allows you to view information on bosses appearing in events.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "The List of Targets allows you to view information on bosses appearing in events.\\nPress the Left Stick to access the List of Targets.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

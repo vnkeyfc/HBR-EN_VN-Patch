@@ -1,0 +1,12 @@
+{
+  "Script": "Story/AC43/Day01/Novel/AC43_01_10_00",
+  "Entries": [
+    {
+      "Key": "VC_AC43_00048_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "BAR Sobriety... This must be it. I thought I should at least come check it out, but I've certainly never been to a bar before. I have to admit, I feel pretty nervous.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

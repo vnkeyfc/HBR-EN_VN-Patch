@@ -1,0 +1,225 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC05/AC05_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 5.7,
+      "EndSecond": 7,
+      "OriginalText": "Ah! Ahh! Ah!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 15.9,
+      "EndSecond": 17.2,
+      "OriginalText": "Revolution",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 17.3,
+      "EndSecond": 18.5,
+      "OriginalText": "Good morning, world",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 18.6,
+      "EndSecond": 20.1,
+      "OriginalText": "Isolation",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 20.2,
+      "EndSecond": 21.1,
+      "OriginalText": "How are things with you?  ",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 21.2,
+      "EndSecond": 22.4,
+      "OriginalText": "Destruction",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 22.5,
+      "EndSecond": 26.3,
+      "OriginalText": "Are you still waiting for your savior to arrive?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 31.6,
+      "EndSecond": 32.8,
+      "OriginalText": "Communication",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 32.9,
+      "EndSecond": 33.7,
+      "OriginalText": "Good morning, world",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 33.8,
+      "EndSecond": 35.4,
+      "OriginalText": "Escalation",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 35.5,
+      "EndSecond": 36.8,
+      "OriginalText": "Only revenge",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 36.9,
+      "EndSecond": 37.9,
+      "OriginalText": "Frustration",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 38,
+      "EndSecond": 42.1,
+      "OriginalText": "Gives me a reason to keep on drawing breath",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 44.4,
+      "EndSecond": 47.3,
+      "OriginalText": "Laugh and cry",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 47.4,
+      "EndSecond": 51.3,
+      "OriginalText": "Spending my days like a punching bag",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 51.4,
+      "EndSecond": 52.6,
+      "OriginalText": "Pleasant",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 52.7,
+      "EndSecond": 56,
+      "OriginalText": "Exposing myself for how laughable I am",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 56.5,
+      "EndSecond": 57.9,
+      "OriginalText": "Buzz off",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 58,
+      "EndSecond": 61.7,
+      "OriginalText": "Always getting beaten up by this or that",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 61.8,
+      "EndSecond": 63.1,
+      "OriginalText": "Unpleasant",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 63.2,
+      "EndSecond": 68.4,
+      "OriginalText": "We should just lose this stupid sanity",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 68.5,
+      "EndSecond": 71.3,
+      "OriginalText": "Let's dance!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 71.4,
+      "EndSecond": 73.6,
+      "OriginalText": "At least that way,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 74,
+      "EndSecond": 77,
+      "OriginalText": "life is easy!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

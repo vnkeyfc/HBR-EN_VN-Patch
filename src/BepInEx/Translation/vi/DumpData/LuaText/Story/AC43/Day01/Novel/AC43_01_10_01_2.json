@@ -1,0 +1,525 @@
+{
+  "Script": "Story/AC43/Day01/Novel/AC43_01_10_01_2",
+  "Entries": [
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*glug glug*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00147_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I love the layered black and white in this black velvet! Sooo cute! And it's also deliciously sweet!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000084_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Virgin black velvet, you mean. Yours is a layered coffee drink made with a generous amount of honey and sugar.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00148_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As I recall, you have something of a sweet tooth. I am delighted to see that you are enjoying your beverage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00149_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, this is great! I want another!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00150_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah... Looks like our little lady here is finally learning to enjoy herself at the bar. Welcome to the world of adults.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00151_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Supply Squad Member A",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00151_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Oh, the bar's open? I heard it was going to be closed for a while.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00152_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Welcome. For a short time, I will be tending bar here in the barkeep's stead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00155_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're from the supply squad, right? Nice to see you. Thanks for always having our backs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00158_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The supply squad? Then you must often be tasked with delivering supplies to the dome dwellers. Allow me to thank you for your service.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00160_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Supply Squad Member A",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00160_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Oh, no, Minori, you work so much harder than me, between your squad missions and your deliveries around the base. And now even tending bar.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00161_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nonsense, tending bar is nothing but a joy for me. Now, what can I make for you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00162_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Supply Squad Member A",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00162_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Hah, spoken just like the barkeep. A Moscow mule, please.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00163_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here's your Moscow mule.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00165_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fulfilling, isn't it, delivering something to its recipient? That's a feeling I understand quite well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00166_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Supply Squad Member A",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00166_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Yes, I always love that moment when the recipient smiles and accepts their package.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00167_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Supply Squad Member A",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00167_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I take pride in my mission whenever I see that smile. Oh, of course, my responsibilities don't compare to what all of you have to endure, fighting on the front lines.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00168_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, I don't agree.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00169_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Supply Squad Member A",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00169_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Really? You don't?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00170_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not at all. Let me tell you a little anecdote about how I started to hold delivery in such a high regard.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00171_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This story is about a happy family that came to be precisely because of delivery people.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00172_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh? Now that's something. Just about every bartender out there has a fascinating life story up their sleeve, just waiting to be revealed to the right customer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000085_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that so? Regardless, you've piqued my interest. Mind if I listen in?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00173_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course not. It's a short tale, but a special one.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00174_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00174_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "One day, a certain man arrived in Hakone for work all by his lonesome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00175_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00175_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "He was feeling lonely when he caught sight of a bar and decided to step inside. Soon, a woman walked in and took the seat beside him.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00179_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00179_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "She was a real naif, a sheltered young lady who appeared to have wandered into the bar under the impression it was a cafe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00180_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00180_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Noticing the girl was flustered, the man gave her a few words of advice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00181_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00181_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "On down the line, both the man and the woman would insist that that day, that moment, was something like a fated encounter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00182_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds like quite the romantic event.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00183_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00183_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "The two chatted, and time flew by. Soon, closing time arrived. Reluctant to bid farewell to the young lady, the man mustered his courage and asked:",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00185_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00185_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "\"Would you like to exchange letters with me?\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00186_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00186_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "The dark cloud that had seemed to hang over the lady evaporated, and she gave him a sunny smile and a nod in reply.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00187_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ooh, ooh... The mature encounter suddenly turned into a bittersweet love story.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00188_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yet why did they insist on beating around the bush? They both ought to have spoken their true feelings aloud.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00189_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00189_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Perhaps because he lived in Fukuoka, and she in Hakone. Long-distance relationships face many difficulties. Perhaps exchanging letters was an expression of their consideration for each other.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000086_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000086_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "That said, their love faced a much greater difficulty than mere distance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000087_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000087_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Her parents could not condone a romance with a man off the street, his background unknown. They forbade her from writing him and ordered her to sever ties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000088_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000088_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "The man, not knowing any of this, poured his heart into each and every letter he wrote.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000089_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Did those letters reach her, though?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*scrub scrub*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000090_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "His feelings most certainly did.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000091_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But how? I thought she was forbidden from writing back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000092_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's right, but she could not bring herself to give up on him, and she was a resourceful young lady.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000093_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000093_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Whenever the postman was expected, she would pretend to sweep the front yard or go out for a walk and wait in front of the house.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000094_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000094_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "That way, she could accept his letters directly, before they even went into the mailbox.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000095_MNikaido",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "I see! So that's how they were able to send letters to each other behind her parents' backs!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00190_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00190_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Thanks to her efforts, though they communicated only through letters, the two grew ever closer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00191_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00191_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "They longed to meet again, yet a new obstacle stood before them. He had to relocate overseas for work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00192_MAsami",
+      "Context": "Adv.miniCutIn:2",
+      "Original": "So now an ocean separates our two would-be lovers. The course of true love never did run smooth, I suppose.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00193_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00193_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Perhaps feeling his hand had been forced by this crisis, the man resolved himself and wrote to her:",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00194_MiOhshima",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Minori Ohshima",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00194_MiOhshima",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "\"I will wait for you at the bar where we first met, at the same time, at the same seats.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00196_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yet though he waited and waited, she never came.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00197_MNikaido",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What happened?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00198_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "He waited for as long as time would allow, but at last, the day of his departure arrived.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00200_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And then...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*bong bong*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00201_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, would you look at the time. It seems closing time has come already. Let us continue this story tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00202_MNikaido",
+      "Context": "Adv.playCutIn:3",
+      "Original": "You're stopping there?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00203_MAsami",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh... Not bad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000098_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Supply Squad Member A",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907000098_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Now I've got to come back tomorrow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC43_00205_MiOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you very much for spending some time with us tonight. We look forward to your next visit.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,108 @@
+{
+  "Script": "Story/AC42/Day03/World/AC42_03_05_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00958_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There it is, the Cancer from yesterday! Prepare to attack!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00962_CReaper",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Awright, it's headin' our way!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00963_VBalakrishnan",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Counterattack incoming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00964_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Defending!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00965_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do not run too far ahead! Remember, we want them away from the expiremental farm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00966_VBalakrishnan",
+      "Context": "Adv.talkWithIconMonolog:1",
+      "Original": "(We are putting up a better fight than we did yesterday, but...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00967_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It left da farm! What's the status?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00968_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It hasn't exposed its core yet!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00969_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But our deflectors will run short at this rate!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00970_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No choice! We gotta shift to offense!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00971_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We will kill it here and now!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00973_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(In the end...it turns out like this.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00974_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The enemy is not nearly exhausted enough for 31-X's strike to be effective.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00975_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But it is true that we cannot wait much longer...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00976_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will move in to cover the vanguard!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00977_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Even without coordination or the ultimate kari...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00978_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I will calculate the formula for victory!)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

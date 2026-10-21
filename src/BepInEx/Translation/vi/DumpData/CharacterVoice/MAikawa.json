@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MAikawa",
+  "CharacterName": "逢川めぐみ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_MAikawa",
+      "Label": "MAikawa_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "救世主様のお出ましや",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Đấng Cứu Thế đã hạ phàm rồi nghen!"
+    },
+    {
+      "Key": "VB0012_MAikawa",
+      "Label": "MAikawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "チョコザイは",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0013_MAikawa",
+      "Label": "MAikawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "んぐっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0014_MAikawa",
+      "Label": "MAikawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "チェーン",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_MAikawa",
+      "Label": "MAikawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "振動",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_MAikawa",
+      "Label": "MAikawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うふふ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MAikawa",
+      "Label": "MAikawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "いい加減にせえ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0049_MAikawa",
+      "Label": "MAikawa_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "はっうちは救世主様やで",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_MAikawa",
+      "Label": "MAikawa_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "サイキックの出番もなかったわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0050_MAikawa",
+      "Label": "MAikawa_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "まあ、勝ちは勝ちや",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MAikawa",
+      "Label": "MAikawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "安定やね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MAikawa",
+      "Label": "MAikawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "このはずや…ない…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MAikawa",
+      "Label": "MAikawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "こんなとこで…終わられへん…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_MAikawa",
+      "Label": "MAikawa_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "さすが天才サイキッカーのウチやで",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_900300045_MAikawa",
+      "Label": "MAikawa_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "真の救世主また一歩近づいたっちゅうことや",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MAikawa",
+      "Label": "MAikawa_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "サイキッカーとしてパーフェクトやないか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_MAikawa",
+      "Label": "MAikawa_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "完全無欠の愛か、女神様や！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MAikawa",
+      "Label": "MAikawa_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "ええな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MAikawa",
+      "Label": "MAikawa_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よっしゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MAikawa",
+      "Label": "MAikawa_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "ええやないか！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MAikawa",
+      "Label": "MAikawa_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "相棒 自分も強なったか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MAikawa",
+      "Label": "MAikawa_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだまだ可能性を感じる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MAikawa",
+      "Label": "MAikawa_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "ネクストステージが待ってるようやな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000203_MAikawa",
+      "Label": "MAikawa_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "なかなかええステージやった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000205_MAikawa",
+      "Label": "MAikawa_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "サイキックがさえ渡ったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000204_MAikawa",
+      "Label": "MAikawa_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "うちがいながら…うそやろ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MAikawa",
+      "Label": "MAikawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "遅いで待ちくたびれたわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MAikawa",
+      "Label": "MAikawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "そろそろ来る頃やと思うたわ",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MAikawa",
+      "Label": "MAikawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "これでもか弱い乙女やで",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MAikawa",
+      "Label": "MAikawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "やったろやないか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

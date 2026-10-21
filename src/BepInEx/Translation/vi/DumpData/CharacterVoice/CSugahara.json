@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "CSugahara",
+  "CharacterName": "菅原千恵",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_CSugahara",
+      "Label": "CSugahara_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "カワイイは最強ですわ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Dễ thương là vũ khí tối thượng đó nghe!"
+    },
+    {
+      "Key": "VB0014_CSugahara",
+      "Label": "CSugahara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_CSugahara",
+      "Label": "CSugahara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "寄ってくんな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_CSugahara",
+      "Label": "CSugahara_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "もう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_CSugahara",
+      "Label": "CSugahara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "おーおーおー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_CSugahara",
+      "Label": "CSugahara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "やります！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_CSugahara",
+      "Label": "CSugahara_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああああああ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_CSugahara",
+      "Label": "CSugahara_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ロリータだってやるときはやりますの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_CSugahara",
+      "Label": "CSugahara_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "キュートに勝利ですわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_CSugahara",
+      "Label": "CSugahara_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "服破れてない？大丈夫？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_CSugahara",
+      "Label": "CSugahara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "認められませんわ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_CSugahara",
+      "Label": "CSugahara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ありえませんわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_CSugahara",
+      "Label": "CSugahara_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ロリータ万歳",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_CSugahara",
+      "Label": "CSugahara_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ドリータに磨きがかかりましたわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_CSugahara",
+      "Label": "CSugahara_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "あらあなた、見惚れているんですの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_CSugahara",
+      "Label": "CSugahara_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ロリーたちマックスですわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_CSugahara",
+      "Label": "CSugahara_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "最強のロリータ爆誕ですわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_CSugahara",
+      "Label": "CSugahara_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "とーせん！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_CSugahara",
+      "Label": "CSugahara_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "かいほー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_CSugahara",
+      "Label": "CSugahara_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "あら素敵",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_CSugahara",
+      "Label": "CSugahara_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "こいつもロリータにしてやろうかしら",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_CSugahara",
+      "Label": "CSugahara_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "とどまるところを知りませんわね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_CSugahara",
+      "Label": "CSugahara_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "筋肉ムキムキになってトリータ似合わなくなる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000316_CSugahara",
+      "Label": "CSugahara_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "これぐらい当然ですわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000318_CSugahara",
+      "Label": "CSugahara_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "あら、可愛さ以外も完璧ときましたわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000317_CSugahara",
+      "Label": "CSugahara_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "そもそもなんでこんなことしてるんですの！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_CSugahara",
+      "Label": "CSugahara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "私がいろいろ教えて差し上げますわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_CSugahara",
+      "Label": "CSugahara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ロリータに必要なのは意地とプライドそして自信あと諸々",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_CSugahara",
+      "Label": "CSugahara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "どうやらあなたもロリータに目覚めつつあるようですわね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_CSugahara",
+      "Label": "CSugahara_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ミャオー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

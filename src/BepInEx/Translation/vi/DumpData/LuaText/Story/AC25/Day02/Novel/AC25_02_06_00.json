@@ -1,0 +1,432 @@
+{
+  "Script": "Story/AC25/Day02/Novel/AC25_02_06_00",
+  "Entries": [
+    {
+      "Key": "VC_AC25_v001_00318_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew! Now that we're nice and full, let's get to the studio for some practice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00319_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Halt, all of you! You are in ze presence of a brilliantly and evil mad scientist!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00320_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You had better listen to Master, for your own sakes! Ke he he he! <i>snip</i>",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00321_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y'all puttin' on some sort of play or what?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00322_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Strange, I don't think there was anything scheduled. In fact, they don't even look like they're from our school.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00323_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you customers? If not, scram.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00324_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd suggest not getting any closer. Tenne, bring out ze bomb.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00325_MTsukishiro",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You think that tin can is enough to scare me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00326_BIYamawaki",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Do not underestimate zis tin can, for it is a formidable chemical weapon! Tenne, stop pinching your nose and reveal to her vat is sealed within.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00327_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's surströmming.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00328_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Surströmming...?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00329_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And not any storebought surströmming, but a specially modified blend with 100 times the concentration! Surely you can imagine the devastation that would befall this cafeteria if it vere to be unsealed here...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00330_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The rancid smell would seep into the walls and ceilings! Business would dry up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00331_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehehe... It's quite a persistent smell, too. I know firsthand, as the one who crafted this crime against humanity. The smell wouldn't go away for a whole week.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00332_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's the big idea, trying to take over the cafeteria like this?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00333_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka?! When did you...?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00334_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Who in ze world are you supposed to be?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00335_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just your average, everyday band member.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00336_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A lowly layperson, zen. Curse your ill fate, for you are in ze wrong place at ze wrong time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00337_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ve vant one thing, and one thing only!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00338_BIYamawaki",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "MONEY!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00340_MTenne",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Money!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00341_SSakuraba",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Money...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00339_YBungo",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Money, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00342_AKanzaki",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Money!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00343_MSatsuki",
+      "Context": "Adv.bubbleTalkAsync:1",
+      "Original": "Money. ♪",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00344_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our coffers are nowhere near lined enough to make this worth your while. I'll let you off easy if you get out of here right this second.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00345_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do not be mistaken. It vill not be you who pays, but ze government.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00346_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The government...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00347_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ve are taking you as hostages zat ve may extort ze government for money!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00348_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm afraid you're delusional if you think that occupying a school cafeteria is going to result in a hefty payout.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00349_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Zat would be true if my plan only included zis puny cafeteria.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00350_MTenne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But what if we took over the entire school?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00351_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, are you saying you...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00352_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mwahahaha. It is exactly as you imagine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00353_BIYamawaki",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I have released 100\\nKanzaki copies into zis school!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00354_MTsukishiro",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "100 Kanzakis?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00355_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, pray tell, is a Kanzaki?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00356_AKanzaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Me! I am a Kanzaki!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00357_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My army of Kanzakis are currently occupying the school via ze power of surströmming!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00358_SKura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you really think you're going to get away with this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00359_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. But we need ze money, simple as zat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00360_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like this has turned into a real situation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00361_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And there you are again!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00362_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They were ignoring me, so I took a walk and came back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00363_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You sure are a free spirit...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00364_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What should we do about this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00365_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We won't be able to practice at this rate...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00366_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Were you listening to what they said? The situation is a little more dire than not being able to practice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00367_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! This is like one of those imaginary hostage situations you daydream about while you're bored in class!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00368_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dammit, for such a common scenario, I ain't actually envisioned it much myself! Don't gotta clue what we should be doin'!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00369_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Leave it to me! I figured something like this would happen sooner or later, so I've spent countless hours in class daydreaming about how I'd address a hostage situation!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00370_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What if we simply kill them all?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00371_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Am I the only one here who's taking this even REMOTELY seriously...?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00372_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "D-Don't worry, I think this is a pretty serious situation too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00373_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The only reason anyone would consider taking a whole school as hostage for the sake of money...is because of a worn and weary heart! Which means we need your cream soda beam to heal their hearts, Aoi!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00374_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whaaat?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00375_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Have I not been impressing upon you how dire this situation is? And our instruments are all back in the studio.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00376_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah...just as our music needs Aoi's voice, Aoi's singing needs our music to really shine. So first things first: we go get our instruments.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00377_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are we really doing this? How are we even going to get our instruments? If you believe what Miss Nutjob just said, there are apparently 100 Kanzakis prowling the campus. I'm sure the exits are being watched by them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00378_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm...what should we do...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00379_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Leave this to me, fools. You can add \"diversionary tactics\" to my roles as band member!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00380_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I don't think bands have much use for diversionary tactics.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00381_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We don't have any other options, though!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00382_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah! Let her do her thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00383_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're counting on you, Karrie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00384_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "HEAR ME, KNAVES! I challenge you to a PERFORMANCE BATTLE upon this stage!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00385_BIYamawaki",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "V-Vat are you?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00386_YBungo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Master's Performance level is over 1000, <i>snip</i>! She won't lose to the likes of you, <i>snip</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00387_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great work, Karrie! Let's book it out the back while they're distracted!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC25_v001_00388_EAoi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "O-Okay!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

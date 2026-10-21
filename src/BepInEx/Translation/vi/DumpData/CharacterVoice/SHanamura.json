@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "SHanamura",
+  "CharacterName": "華村詩紀",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_SHanamura",
+      "Label": "SHanamura_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "ここが私のステージだ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Từ đây là sân khấu của tôi!"
+    },
+    {
+      "Key": "VB0014_SHanamura",
+      "Label": "SHanamura_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おわり",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_SHanamura",
+      "Label": "SHanamura_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "こんなものかい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_SHanamura",
+      "Label": "SHanamura_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "届かないさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_SHanamura",
+      "Label": "SHanamura_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_SHanamura",
+      "Label": "SHanamura_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_SHanamura",
+      "Label": "SHanamura_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "平気ザ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_SHanamura",
+      "Label": "SHanamura_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ああ、素晴らしいステージだったよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_SHanamura",
+      "Label": "SHanamura_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "アンコールの準備はできているよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_SHanamura",
+      "Label": "SHanamura_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "少し音が乱れてしまったね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_SHanamura",
+      "Label": "SHanamura_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "レクイエムが聞こえる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_SHanamura",
+      "Label": "SHanamura_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ああ、これでいいねか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_SHanamura",
+      "Label": "SHanamura_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "もう奏でることはできないのか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_SHanamura",
+      "Label": "SHanamura_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "私という存在の可能性が広がっていく",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_SHanamura",
+      "Label": "SHanamura_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "聞こえるよ、小鳥ちゃんたちの喜びの声が",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_SHanamura",
+      "Label": "SHanamura_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "音楽とは本当に素晴らしいものだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_SHanamura",
+      "Label": "SHanamura_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "これが私という可能性…か",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_SHanamura",
+      "Label": "SHanamura_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いい音色だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_SHanamura",
+      "Label": "SHanamura_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "この旋律はいいな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_SHanamura",
+      "Label": "SHanamura_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "力がみなぎるような旋律だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_SHanamura",
+      "Label": "SHanamura_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "君はどんな世界を奏でるんだい？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_SHanamura",
+      "Label": "SHanamura_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "私のハレムに限界なんてないのさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_SHanamura",
+      "Label": "SHanamura_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "自分の才能が恐ろしい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000370_SHanamura",
+      "Label": "SHanamura_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "よくついてきたね、小鳥ちゃんたち。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000372_SHanamura",
+      "Label": "SHanamura_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "この私の指揮に間違いはない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000371_SHanamura",
+      "Label": "SHanamura_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "馬鹿な、この私が",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_SHanamura",
+      "Label": "SHanamura_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お待たせ、小鳥ちゃん。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_SHanamura",
+      "Label": "SHanamura_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "かわいいよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0017_SHanamura",
+      "Label": "SHanamura_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "私の部屋に来るといい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_SHanamura",
+      "Label": "SHanamura_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "そんな熱烈な視線を送られては高ぶってしまうよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

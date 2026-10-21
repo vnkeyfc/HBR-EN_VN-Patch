@@ -1,0 +1,108 @@
+{
+  "Script": "Story/AC42/Day01/Novel/AC42_01_07_02",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00285_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, I'll deal the finishing blow...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00286_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The killing blow is mine. Die!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800020_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00287_IRedmayne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "But I wanted to finish it off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00288_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is all it can do? What a disappointment...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00289_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you mean, \"a disappointment\"?! Maria, I was supposed to finish it off, wasn't I?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00290_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There were other unplanned actions, as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00292_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Acting on your own disrupts the chain of command. What if it ended up throwing off Vritika's calculations?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00295_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...My body moves on its own whenever I see Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00296_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What I did is also against your instruction, Vritika... Coordination, is hard...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00297_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were tryin' to cover for me, right? But I'd have been good either way, you can trust me on that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00298_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "However, it is also a fact that following Maria's independent action, our attacks increased in ferocity and elimination speed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00299_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This comes naturally to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00300_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No! We have to work on our coordination tomorrow!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00301_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Is this to say that in the end, our typical fighting style is what sits best with everyone?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00302_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like the engineer team is pulling out for today, so we can head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00303_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, we will resume tomorrow.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

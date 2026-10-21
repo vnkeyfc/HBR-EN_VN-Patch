@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "IrOhshima",
+  "CharacterName": "大島五十鈴",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0029_IrOhshima",
+      "Label": "IrOhshima_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "オープン・ザ・ロック",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Open the Lock!"
+    },
+    {
+      "Key": "VB0014_IrOhshima",
+      "Label": "IrOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "もっと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_IrOhshima",
+      "Label": "IrOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "にゃっひひひ",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_IrOhshima",
+      "Label": "IrOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "簡単には開かないよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_IrOhshima",
+      "Label": "IrOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ねへへ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_IrOhshima",
+      "Label": "IrOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ひどいな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_IrOhshima",
+      "Label": "IrOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くそー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_IrOhshima",
+      "Label": "IrOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "私に開けられない鍵はないさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_IrOhshima",
+      "Label": "IrOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "何もかも見え見えだったね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_IrOhshima",
+      "Label": "IrOhshima_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "無様なところを見せてしまったね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_IrOhshima",
+      "Label": "IrOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "まだ…秘密を明かせてないのに…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_IrOhshima",
+      "Label": "IrOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "クローズ・ザ・ロック…ってか…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_IrOhshima",
+      "Label": "IrOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ここまでか…クソ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_IrOhshima",
+      "Label": "IrOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "あなたの秘密も暴いてやろうか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_IrOhshima",
+      "Label": "IrOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "あなたのあそこも丸見えにしてやろうか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_IrOhshima",
+      "Label": "IrOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "キャンサーの 倉窟 まで 侵入 でき そう だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_IrOhshima",
+      "Label": "IrOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "君のトップシークレットすら暴けそうだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_IrOhshima",
+      "Label": "IrOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "こんなとこかな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_IrOhshima",
+      "Label": "IrOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いい感じだね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_IrOhshima",
+      "Label": "IrOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "頼りにしてるよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_IrOhshima",
+      "Label": "IrOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "こいつ、どこまで解き放てるんだろうな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_IrOhshima",
+      "Label": "IrOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "私自身に鍵がかかってたか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_IrOhshima",
+      "Label": "IrOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "あ、何かが開く音がした気がする",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000536_IrOhshima",
+      "Label": "IrOhshima_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "お？あっという間に終わっちまったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000538_IrOhshima",
+      "Label": "IrOhshima_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "もっと挑戦しがいのあるの頼むよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000537_IrOhshima",
+      "Label": "IrOhshima_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "なんだよこっち見んなよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_IrOhshima",
+      "Label": "IrOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "私も暇じゃないんだけどなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_IrOhshima",
+      "Label": "IrOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "えっと…ここの鍵は…こいつだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_IrOhshima",
+      "Label": "IrOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "開いちゃいなよ、心の扉をさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_IrOhshima",
+      "Label": "IrOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "あう…ううううううう…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

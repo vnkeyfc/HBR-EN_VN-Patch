@@ -1,0 +1,243 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC32/AC32_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 3.8,
+      "EndSecond": 6.8,
+      "OriginalText": "Mic check, ah ah...",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 11.2,
+      "EndSecond": 15.6,
+      "OriginalText": "Tch-ch-ch, ah... Three, two, one...",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 18.5,
+      "EndSecond": 21.1,
+      "OriginalText": "'You're the only one, you're the only one,' yeah, she sang that too but",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 21.2,
+      "EndSecond": 24.1,
+      "OriginalText": "It's not like I can actually find you anywhere",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 24.2,
+      "EndSecond": 26.4,
+      "OriginalText": "I'm just done with people, I'm in this cold inorganic phase",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 26.6,
+      "EndSecond": 28.2,
+      "OriginalText": "If you think inviting someone out for food is easy then you can screw off!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 28.4,
+      "EndSecond": 30.3,
+      "OriginalText": "I'm eating alone 365 days a year, end of story",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 30.4,
+      "EndSecond": 32.2,
+      "OriginalText": "Not going home! Not seeing my parents!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 32.3,
+      "EndSecond": 34.8,
+      "OriginalText": "I'm comfortable and it's my life, who cares how neglected my heart is",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 35,
+      "EndSecond": 37.4,
+      "OriginalText": "Sometimes I wonder if something nice won't happen for once",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 37.4,
+      "EndSecond": 38.8,
+      "OriginalText": "A movie meet-cute type thing, right?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 38.9,
+      "EndSecond": 39.8,
+      "OriginalText": "You know, like where are you?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 40,
+      "EndSecond": 43,
+      "OriginalText": "Be with me! Come and find me! I'm right here",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 43.4,
+      "EndSecond": 45.5,
+      "OriginalText": "One hundred years of solitude I've been waiting here for you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 45.6,
+      "EndSecond": 46.9,
+      "OriginalText": "I'll propose to you!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 47.5,
+      "EndSecond": 50.3,
+      "OriginalText": "On a beautiful flowering hill floating alone in space",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 51.2,
+      "EndSecond": 54.7,
+      "OriginalText": "I work my ass right off like I've got nothing else",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 55.4,
+      "EndSecond": 63,
+      "OriginalText": "For lunch I've got a special homemade bento box",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 63.4,
+      "EndSecond": 66.5,
+      "OriginalText": "And that's a win for me!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 67.4,
+      "EndSecond": 71.5,
+      "OriginalText": "I went through every day like I was living dead",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 71.7,
+      "EndSecond": 75.6,
+      "OriginalText": "An everyday so sparkling with radiance",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 75.6,
+      "EndSecond": 81.2,
+      "OriginalText": "And all of it was 'cause I got to meet you, so you know",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 81.8,
+      "EndSecond": 85.7,
+      "OriginalText": "I got to meet you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 85.8,
+      "EndSecond": 89.9,
+      "OriginalText": "I met you, didn't I?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 24,
+      "Enabled": true,
+      "StartSecond": 90,
+      "EndSecond": 94.3,
+      "OriginalText": "Or did I meet you?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 25,
+      "Enabled": true,
+      "StartSecond": 94.4,
+      "EndSecond": 102.6,
+      "OriginalText": "I guess I just thought I got to meet you",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

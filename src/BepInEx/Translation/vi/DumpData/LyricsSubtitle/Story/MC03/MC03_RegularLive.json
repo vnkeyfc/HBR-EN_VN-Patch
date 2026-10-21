@@ -1,0 +1,243 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/MC03/MC03_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 5.3,
+      "EndSecond": 7.9,
+      "OriginalText": "Ready Come or Die!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 8,
+      "EndSecond": 10.2,
+      "OriginalText": "Ready Come, Break Time!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 10.3,
+      "EndSecond": 15.3,
+      "OriginalText": "My fingers are frozen stiff in the icy air",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 15.4,
+      "EndSecond": 20.9,
+      "OriginalText": "And my throbbing temples are hurting me",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 21,
+      "EndSecond": 25.7,
+      "OriginalText": "My voice cries out, but my words don't reach as I search through the dark",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 25.8,
+      "EndSecond": 30.7,
+      "OriginalText": "Maybe I'm in a game of hide-and-seek...",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 31.4,
+      "EndSecond": 33.8,
+      "OriginalText": "There were days I spent shaking from head to toe",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 33.9,
+      "EndSecond": 36.3,
+      "OriginalText": "Every shadow I saw, my mind would paint a monster",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 36.4,
+      "EndSecond": 40.3,
+      "OriginalText": "And there were nights when I couldn't sleep by myself",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 40.4,
+      "EndSecond": 42.9,
+      "OriginalText": "(March on! It's time to stand tall!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 43,
+      "EndSecond": 45.5,
+      "OriginalText": "Fight on! Keep your chin up! Wipe your tears away!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 45.6,
+      "EndSecond": 48.1,
+      "OriginalText": "(March on! We're invincible!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 48.2,
+      "EndSecond": 50.7,
+      "OriginalText": "Stab your blade through! Slice them apart! Put them on ice!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 50.8,
+      "EndSecond": 51.9,
+      "OriginalText": "(March on!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 52,
+      "EndSecond": 55.5,
+      "OriginalText": "Bring things neatly to an end.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 55.6,
+      "EndSecond": 61.1,
+      "OriginalText": "We're aiming for a perfect five stars",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 61.2,
+      "EndSecond": 63.7,
+      "OriginalText": "(March on! It's time to take aim!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 63.8,
+      "EndSecond": 66.2,
+      "OriginalText": "Endless battle's such a drag",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 66.3,
+      "EndSecond": 68.8,
+      "OriginalText": "(March on! Time to draw your blade!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 68.9,
+      "EndSecond": 71.5,
+      "OriginalText": "I'm sick of fighting against all these small fry",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 71.6,
+      "EndSecond": 72.8,
+      "OriginalText": "(March on!)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 72.9,
+      "EndSecond": 76.3,
+      "OriginalText": "Another day of working like a dog,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 76.4,
+      "EndSecond": 81.9,
+      "OriginalText": "today I've earned a sip of my finest",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 82,
+      "EndSecond": 89.6,
+      "OriginalText": "March on! The frontier awaits, now be on your way!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 24,
+      "Enabled": true,
+      "StartSecond": 89.7,
+      "EndSecond": 94.8,
+      "OriginalText": "Ah, tonight,",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 25,
+      "Enabled": true,
+      "StartSecond": 94.9,
+      "EndSecond": 100,
+      "OriginalText": "we'll drink and kick up a fuss.",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

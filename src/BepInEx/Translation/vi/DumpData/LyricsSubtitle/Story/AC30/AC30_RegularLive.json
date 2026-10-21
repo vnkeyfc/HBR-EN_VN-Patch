@@ -1,0 +1,261 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC30/AC30_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 11.7,
+      "EndSecond": 13,
+      "OriginalText": "This one's for you.",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 13.4,
+      "EndSecond": 15.1,
+      "OriginalText": "'Dear R. Heinlein'",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 31.4,
+      "EndSecond": 37.7,
+      "OriginalText": "I had this dream one time where I lost a toy I held so dear",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 38.3,
+      "EndSecond": 43.3,
+      "OriginalText": "When I woke, the corners of my eyes were trembling from the heat",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 43.6,
+      "EndSecond": 51,
+      "OriginalText": "One day we'd learn all it takes to be prepared, all the courage we'd need to go living on",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 51,
+      "EndSecond": 57,
+      "OriginalText": "But not that I knew, I couldn't ever really know",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 57,
+      "EndSecond": 60.6,
+      "OriginalText": "I was a kid then",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 60.8,
+      "EndSecond": 63,
+      "OriginalText": "Let's stay right here, just hold on",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 63,
+      "EndSecond": 66.7,
+      "OriginalText": "Keep on hearing me out, please?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 67.3,
+      "EndSecond": 70.3,
+      "OriginalText": "How come you're so beaten down, so worn-out",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 70.3,
+      "EndSecond": 73.7,
+      "OriginalText": "And you're still here with me and smiling?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 74.4,
+      "EndSecond": 77.8,
+      "OriginalText": "Because the starry sky is so wide",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 77.8,
+      "EndSecond": 80.5,
+      "OriginalText": "It might just swallow us here and now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 80.7,
+      "EndSecond": 83.9,
+      "OriginalText": "Because somewhere a couple hundred light years out",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 83.9,
+      "EndSecond": 86.8,
+      "OriginalText": "It might already be our time to do and die",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 86.9,
+      "EndSecond": 90,
+      "OriginalText": "And that's the rift between you and I",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 90,
+      "EndSecond": 93.1,
+      "OriginalText": "So close and yet so far apart",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 93.2,
+      "EndSecond": 96.3,
+      "OriginalText": "I wonder what we'll choose, I wonder what we'll save",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 96.3,
+      "EndSecond": 100.7,
+      "OriginalText": "What is it we'll forsake, what is it that we'll gain?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 100.7,
+      "EndSecond": 104,
+      "OriginalText": "Here in the Milky Way",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 104.1,
+      "EndSecond": 107,
+      "OriginalText": "We'll take the moments we're burning bright",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 107,
+      "EndSecond": 110,
+      "OriginalText": "We'll take the pain that tears us inside",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 110,
+      "EndSecond": 113.3,
+      "OriginalText": "Because to choose those things is what it means to live",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 113.3,
+      "EndSecond": 116.2,
+      "OriginalText": "And there are still more doors waiting for us beyond",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 24,
+      "Enabled": true,
+      "StartSecond": 116.5,
+      "EndSecond": 119.4,
+      "OriginalText": "So join the chorus of cicadas as they sing",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 25,
+      "Enabled": true,
+      "StartSecond": 119.4,
+      "EndSecond": 124.4,
+      "OriginalText": "Let's sing the praises of this fleeting time of ours",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 26,
+      "Enabled": true,
+      "StartSecond": 124.4,
+      "EndSecond": 128.3,
+      "OriginalText": "Before it slips away",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 27,
+      "Enabled": true,
+      "StartSecond": 129.6,
+      "EndSecond": 133.3,
+      "OriginalText": "Make your choice!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

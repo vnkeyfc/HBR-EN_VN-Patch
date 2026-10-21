@@ -1,0 +1,634 @@
+{
+  "Script": "Story/Common/Quest/KMaruyama/Quest_Lv1_KMaruyama",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yo, Marumaru.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00001_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're...Kayamori from 31-A, huh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Why are you glaring at me like that right off the bat?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00003_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Think about it. I'm in squad F, so you being in A implies you're better than me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00004_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Totally inconceivable. Any method of evaluation that puts anyone above <i>me</i> and my refined taste has to be full of deficiencies.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00005_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guess this leaves me with no choice. <i>I</i>'ll evaluate your taste.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00006_v004_MYanagi",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Pardon the interruption, but one believes one heard you call my lady something one cannot excuse.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yikes! Don't sneak up on people like that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00008_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmph. I paid it no mind earlier, but you're right. So my ears weren't fooling me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That was me trying to kill two birds with one stone—saying hello and kicking off our friendship. It wasn't to your liking?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00010_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How disrespectful. Shall I dispose of her, my lady?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, now! No need to get all violent!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00012_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That can wait. I want to see how Kayamori's taste compares to mine first.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And then what?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00014_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As you wish, my lady. I shall make the necessary preparations.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? She's gone?! Did she teleport? And what in the world were you two just talking about?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00016_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With Yanagi, one word from me is enough for her to immediate comply with ten commands.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00017_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00018_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All right then. Lead the way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00019_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Where to?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00020_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're taking me to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't tell me...you're like, totally loaded?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00022_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You really don't have any manners, do you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00023_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well...you've got a handmaid, and she even called you \"my lady.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00024_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmph. Even if Yanagi's not around, I-I can handle everything by myself just fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00025_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm? Is it just me or did your voice just crack a little?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00026_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I-It's just you, all right! Come on now, the arena awaits.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But that's the way to the cafeteria...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00028_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00029_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "W-Well, of course! I was just testing you.!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00030_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I'm gonna wind her up a little...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00031_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa! What is <i>that</i>?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00032_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now's my chance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00034_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey! Where're you going? Don't leave me alooone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00035_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(And now to hide and observe for a bit.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00036_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00037_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yanagi, where are you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00038_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't leave me alone!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00039_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I-I'm fine even by myself. I don't need anyone beside me!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00040_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(She <i>really</i> can't handle being alone... She looks like she's gonna cry.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00041_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*hic*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00042_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was just kidding, I swear! I'm right here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00043_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sniffle*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, let's head to the arena, okay?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00045_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00046_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wanna hold hands?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00047_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm fine...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00048_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have been awaiting your arrival. All preparations have been completed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00049_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks. Good work.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00050_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(And she's got her confidence back.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00051_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then let us begin, Kayamori of Squad 31-A.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00052_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00053_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll be waiting inside the emulation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00054_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "By the way, Lady Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00055_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eep! Come on, quit that!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00056_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You did not, by any chance, do anything disrespectful to my lady such as leaving her alone, did you?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "N-No. N-Not at all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00058_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is that so? In that case, let us make our way inside.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00059_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, well. Your taste ain't all that bad, Kayamori.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00060_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gracias.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00061_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I get the feeling your handmaid was way cooler.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00062_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why, thank you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00063_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Why is it you that's getting all the praise again! I told you to stop standing out more than <i>me</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00064_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can't you hold back a bit?! And why are <i>you</i> the squad leader?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00065_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, so that's how it is.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00066_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suspect it was a decision based on our overall capabilities at present.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00067_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You could be a bit more modest about it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00068_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I am already at my peak. My abilities will only decline from this point on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00069_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you, my lady, have limitless potential for growth. I am certain that you will be surpassing me soon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00070_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see! So when it's time to review the squad formations, the new squad leader will undoubtedly be me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00071_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00072_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then I shall bear with this situation for now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00073_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You are generous, as always.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00074_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hehe...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00075_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm? What in the world are you giggling about?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00076_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was just thinking this is nice.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00077_MYanagi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are you trying to insult my lady again?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00078_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yikes, if looks could kill... Guess I'd better RUUUNNN!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00079_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Hm? What's Marumaru doing in front of the baths?)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:1",
+      "Original": "Talk to them?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00080_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whatcha doing?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_BathTime_World_00029_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori of Squad 31-A. I hereby allow you to accompany me to the bath.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_BathTime_World_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where's your handmaid?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_BathTime_World_00031_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "G-Gone to see the commander. It's not like I can't go to the bath alone, you know!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_BathTime_World_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, gotcha. Well, let's go then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_KMaruyama_Quest_00085_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(I bet that handmaid of hers will be here soon. I'll just leave her be.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00000_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kayamori of Squad 31-A...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hm? What's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00002_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was thinking of washing my body soon.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00004_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think I'll wash my body...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00006_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nngh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00008_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You...have permission to wash me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Don't tell me...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00010_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Have you ever...bathed yourself before?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00011_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Now that's an ivory tower lifestyle!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, I'll wash you from top to bottom.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00014_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, please.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So in exchange, can I call you \"Marumaru\"?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_KMaruyama_Lv1_Novel_00016_KMaruyama",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suppose...I can allow that.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

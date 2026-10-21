@@ -1,0 +1,90 @@
+{
+  "Script": "Story/AC42/Day03/Novel/AC42_03_08_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_01162_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Congratulations on a job well done. Thanks to your efforts, we have repelled the Cancer and regained control of the experimental farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800072_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Commander, what is the condition of the farm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01166_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're still checking the details, but thanks to you drawing the Cancers away from the farm, the damage was kept to a minimum. If this is truly the extent of it, we won't need to abandon the farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01167_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... That is good news.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01168_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Course it is. Everyone in 31-X stepped up to protect it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01169_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In addition, we will likely to continue protecting the farm as the walls are built, so we will be relying on you going forward.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01170_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's exactly what we wanted. It's where 31-X really took off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01171_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, we shall protect it as many times as it takes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01172_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We won't lose anything else.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01173_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Right, Vritika?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01174_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haan.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01175_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your unity has clearly deepened.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01176_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes! Vritika united us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01177_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're dismissed for the day. Get some good rest.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

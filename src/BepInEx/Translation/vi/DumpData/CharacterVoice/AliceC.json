@@ -1,0 +1,269 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "AliceC",
+  "CharacterName": "入江みゆき",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP_Z_038100100_AliceC",
+      "Label": "AliceC_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "移り変わらぬ気持ち",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Những cảm xúc không bao giờ đổi thay."
+    },
+    {
+      "Key": "VB_Z_038100038_AliceC",
+      "Label": "AliceC_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "はっはっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100039_AliceC",
+      "Label": "AliceC_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うわぁ！",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100040_AliceC",
+      "Label": "AliceC_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "こわい！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100044_AliceC",
+      "Label": "AliceC_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "痛い！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100045_AliceC",
+      "Label": "AliceC_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "わー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100046_AliceC",
+      "Label": "AliceC_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ヘヘヘ！",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100078_AliceC",
+      "Label": "AliceC_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "もう襲ってきませんか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100079_AliceC",
+      "Label": "AliceC_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "全部倒せたかな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100080_AliceC",
+      "Label": "AliceC_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "こんなことにすみません",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100047_AliceC",
+      "Label": "AliceC_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "また迷惑かけちゃった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100048_AliceC",
+      "Label": "AliceC_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "視界が…真っ暗に…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100049_AliceC",
+      "Label": "AliceC_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "体が…もう動かない…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100081_AliceC",
+      "Label": "AliceC_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ドコドコドコドコシャーン！やりました！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100082_AliceC",
+      "Label": "AliceC_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "追加公園も行っちゃいますかー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100083_AliceC",
+      "Label": "AliceC_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "どんなポリリズムでもやってみせましょう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100084_AliceC",
+      "Label": "AliceC_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "全国ツアーもつつうらうらと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100087_AliceC",
+      "Label": "AliceC_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "何事も練習あるのみです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100088_AliceC",
+      "Label": "AliceC_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "やった！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100089_AliceC",
+      "Label": "AliceC_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "こうしていいこともあるもんです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100085_AliceC",
+      "Label": "AliceC_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "もっと極めないと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038100086_AliceC",
+      "Label": "AliceC_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "練習の成果",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000235_AliceC",
+      "Label": "AliceC_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "お疲れ様でした！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000237_AliceC",
+      "Label": "AliceC_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "皆さんおめでとうございます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000236_AliceC",
+      "Label": "AliceC_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "次はもっと上手くやりましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_AliceC",
+      "Label": "AliceC_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "死ぬ！死ぬかと思った！死んでますけど！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_AliceC",
+      "Label": "AliceC_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "た、助かりましたー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_AliceC",
+      "Label": "AliceC_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "最高でした！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_AliceC",
+      "Label": "AliceC_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "もう敵をドラムだと思い込むことにしたんです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

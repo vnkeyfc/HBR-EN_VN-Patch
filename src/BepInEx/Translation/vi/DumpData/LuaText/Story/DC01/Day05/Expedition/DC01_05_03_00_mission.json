@@ -1,0 +1,239 @@
+{
+  "Script": "Story/DC01/Day05/Expedition/DC01_05_03_00_mission",
+  "Entries": [
+    {
+      "Key": "VC_Z_906300734_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "One of our secondary objectives should be past here, however...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300434_TKunimi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "The door's closed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300783_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Another bulkhead?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400020_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This room is where highly confidential documents and rare samples were stored.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400021_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was also designed to serve as a shelter in case of emergency, which would explain the bulkhead being closed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300700_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then let's find the control room and open the bulkheads!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300375_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There are all these control panel-looking things here. Maybe they're what we need?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300735_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Be confident about it—aren't you an intelligence agent? I'll look if it has a switch for the bulkheads.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300736_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like that did it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300376_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We did it, hooray!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300737_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't just hooray me—help out a little. Anyway, I think that opened the bulkhead we need.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300701_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's go back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300381_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The bulkhead's open.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300377_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We did it. Hooray!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300738_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You don't get to share the credit. I opened the damn thing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300702_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All right, let's recover the documents.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300703_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is this what we need?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400022_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, that completes our secondary objective. Thank you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300730_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The marker for our secondary objective is around here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300698_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger. This is our fifth time gathering materials for the Hoverbike, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400015_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. Thanks to your efforts, I was able to crank up this baby's performance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300380_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, what were they researching in here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400016_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They were looking into ways to effectively damage the Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300430_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You mean, ways other than Seraphim?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400017_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. They sealed captured Cancers in culture fluid, then experimented on them by applying drugs and electricity while measuring their reactions.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300779_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When ya describe it like that, it makes me feel bad for the Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300731_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, but if we don't find a way to handle them, it'll be us getting wiped out.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300431_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We've become cold-hearted, desensitized veterans!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300780_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's not exactly convincing when you say that with tears in your eyes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400061_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All right, let's look for those documents to crank up Nanamin's attack power.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300432_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think I found the documents!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300732_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's see. \"Regarding the Devastation Rate to the Cancer's outer shell when injected with deflector...\" That looks about right.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showLineInfo:0",
+      "Original": "Acquired Research Materials",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300781_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, scary...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300433_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've discarded my heart and my compassion!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300782_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We get it, so wipe yer tears already, will ya?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400018_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "With this, we recovered all the lost technology we can find here. Thank you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300699_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew... Finally! Feels like that took forever!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906300733_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It was just a few days, you know.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

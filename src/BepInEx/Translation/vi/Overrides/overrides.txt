@@ -24,30 +24,22 @@
 /RootView/UI-Foreground/Main/UICharacterListProfile/container/viewType/profile/profileList/Viewport/Content/template(Clone)/status/birthplace/birthplaceData|'Unknown'|'Không rõ'
 /RootView/UI-Foreground/Loading/UITips2/Tips/CharacterTips/container/tipsFrame/tipsCharacterContainer/profile/profileList/birthplaceContainer/birthplaceData|'Unknown'|'Không rõ'
 
-/RootView/UI-Foreground/Main/UISecretBossDetailDialog/container/enemyDate/recommendElement/recommendElement|'T.T đề cử'|'Thuộc tính đề cử:'
-
 /SceneUI/UIResourceDialog(Clone)/ModalContainer/container/front/title|'THÔNG TIN'|'INFO'
-
-/RootView/UI3D/UIHudMenuList/btns/btnInvitation/*/label|'<size=80%>Mời bạn bè'|'<size=70%>Mời bạn bè'
 
 
 /RootView/UI-Foreground/Main/UISort/container/front/tabView/sortFrame/Content/wrapper/subdivision_1/label1|'<size=80%>Thông thạo'|'Thông thạo'
 
 /RootView/UI3D/UIDimensionBattleTop/btnBattleMedalExchanged/*/label|'<size=80%>Cửa hàng Huân Chương'|'<size=50%>Cửa hàng Huân Chương'
 
-/RootView/UI-Foreground/Main/UISeasonScheduleDialog/container/ScrollView/Viewport/Content/template(Clone)/Container/*/Text|r:"^(\d+) / (\d+)$"=r:"$2 / $1"
+#/RootView/UI-Foreground/Main/UIStoryDaySelect/container/dialScroll/container/numContainer/containerframe/normal/dispFrame/dispNum/dayFrame/weekDays/dayNum|r:"^(\d+)$"=r:"<cspace\=25px><pos\=57px>$1"
 
-/RootView/UI-Foreground/Main/UIStoryDaySelect/container/dialScroll/container/numContainer/containerframe/normal/dispFrame/dispNum/dayFrame/weekDays/dayNum|r:"^(\d+)$"=r:"<cspace\=25px><pos\=57px>$1"
+#/RootView/UI-Foreground/Main/UIStoryDaySelect/container/dialScroll/container/numContainer/containerframe/normal/dispFrame/dispNum/dayFrame/holiday/holidayNum|r:"^(\d+)$"=r:"<cspace\=25px><pos\=57px>$1"
 
-/RootView/UI-Foreground/Main/UIStoryDaySelect/container/dialScroll/container/numContainer/containerframe/normal/dispFrame/dispNum/dayFrame/holiday/holidayNum|r:"^(\d+)$"=r:"<cspace\=25px><pos\=57px>$1"
+#/RootView/UI-Foreground/Main/UIStoryDaySelect/container/dialScroll/container/numContainer/containerframe/disable/dispFrame/dispNum/dayFrame/weekDays/dayNum|r:"^(\d+)$"=r:"<cspace\=25px><pos\=57px>$1"
 
-/RootView/UI-Foreground/Main/UIStoryDaySelect/container/dialScroll/container/numContainer/containerframe/disable/dispFrame/dispNum/dayFrame/weekDays/dayNum|r:"^(\d+)$"=r:"<cspace\=25px><pos\=57px>$1"
-
-/RootView/UI3D/UIEventLeftContainer/container/Left/Event/titleTextContener/FragmentTextContener/titleText|'Chính Truyện: Chương đệm'|'<size=85%><cspace=-1px>Chính Truyện: Chương đệm'
+/RootView/UI3D/UIEventLeftContainer/container/Left/Event/titleTextContener/FragmentTextContener/titleText|'Chính truyện: Chương đệm'|'<size=85%><cspace=-1px>Chính truyện: Chương đệm'
 
 /RootView/UI-Foreground/Main/UITerminalHomeCardSelect3/tabContainer/Story/scrollView/Viewport/Content/ItemTemplate(Clone)/base/label|'Prologue\n- Mở đầu -'|'Mở đầu'
-
-/RootView/UI-Foreground/Main/UIScoreAttackResult3/CircleGrade/contener/label|'Quy tắc đặc thù'|'Grade'
 
 /RootView/UI-Foreground/FastTravel/UIFastTravel/Anchor/Mask/Container/btnMove/nomal/mainLabel|'<pos=-10px>Di chuyển'|'<voffset=-35px><cspace=-2px><space=-7px><size=90%>Đi đến</voffset>'
 
@@ -55,6 +47,6 @@
 
 /RootView/UI-Foreground/Main/UICharacterListProfile/container/viewType/voice/voiceList/Viewport/Content/template(Clone)/btnPlay/*/label|'Play'|'Phát thoại'
 
-/RootView/UI-Foreground/Main/UILotteryCard/cardMaterial/limitBreakLabel/bubble/bobusLabel|'BONUS!'|'<pos=15px><voffset=15px>BONUS!'
+/RootView/UI-Foreground/Main/UILotteryCard/cardMaterial/limitBreakLabel/bubble/bobusLabel|'BONUS!'|'<pos=13px><voffset=30px>BONUS!'
 
-/RootView/UI-Foreground/Main/UILotteryResult/container/lotteryResultContainer/lotteryResultContainerList/lotteyResultContainer(Clone)/cardContainer/btnSelect/viewType/limitBreakLabel/bubble/bobusLabel|'BONUS!'|'<pos=10px><voffset=15px>BONUS!'
+/RootView/UI-Foreground/Main/UILotteryResult/container/lotteryResultContainer/lotteryResultContainerList/lotteyResultContainer(Clone)/cardContainer/btnSelect/viewType/limitBreakLabel/bubble/bobusLabel|'BONUS!'|'<pos=13px><voffset=15px>BONUS!'

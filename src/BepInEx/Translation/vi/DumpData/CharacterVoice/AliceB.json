@@ -1,0 +1,269 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "AliceB",
+  "CharacterName": "仲村ゆり",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP_Z_037900100_AliceB",
+      "Label": "AliceB_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "あたしは戦う、あんな人生受け入れられないから！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Tôi phải chiến đấu, bởi tôi không chấp nhận một cuộc đời như thế!"
+    },
+    {
+      "Key": "VB_Z_037900038_AliceB",
+      "Label": "AliceB_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ぷっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900039_AliceB",
+      "Label": "AliceB_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まだまだよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900040_AliceB",
+      "Label": "AliceB_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なんのその",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900044_AliceB",
+      "Label": "AliceB_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "なさい！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900045_AliceB",
+      "Label": "AliceB_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900046_AliceB",
+      "Label": "AliceB_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くそっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900078_AliceB",
+      "Label": "AliceB_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ま、あたしにかかればこんなもんよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900079_AliceB",
+      "Label": "AliceB_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "死んだ世界戦線のリーダーをなめないで",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900080_AliceB",
+      "Label": "AliceB_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "手こずらせやがって",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900047_AliceB",
+      "Label": "AliceB_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ひどいリーダーね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900048_AliceB",
+      "Label": "AliceB_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "私が守らなきゃいけないのに",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900049_AliceB",
+      "Label": "AliceB_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "私は…また…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900081_AliceB",
+      "Label": "AliceB_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "次もちょちょっと片付けるわよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900082_AliceB",
+      "Label": "AliceB_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "さ、次の敵はどいつ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900083_AliceB",
+      "Label": "AliceB_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "リーダーたるもの当然よね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900084_AliceB",
+      "Label": "AliceB_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "向かうところ敵なしね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900087_AliceB",
+      "Label": "AliceB_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいじゃない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900088_AliceB",
+      "Label": "AliceB_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "積み重ねが大事ね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900089_AliceB",
+      "Label": "AliceB_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "神を倒すにふさわしい力じゃない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900085_AliceB",
+      "Label": "AliceB_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "理不尽に抗う力を！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_037900086_AliceB",
+      "Label": "AliceB_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "やったー！限界カッパよ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000251_AliceB",
+      "Label": "AliceB_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "なかなか楽しめたわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000253_AliceB",
+      "Label": "AliceB_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "最高な気分ね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000252_AliceB",
+      "Label": "AliceB_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "え？なになに？どういうこと？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_AliceB",
+      "Label": "AliceB_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ようこそ死んだ世界戦線へ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_AliceB",
+      "Label": "AliceB_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "あいだふたりぃぃぃぃぃ！！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_AliceB",
+      "Label": "AliceB_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "どんな話でも聞くわよ。ね、奏ちゃん。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_AliceB",
+      "Label": "AliceB_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ねえ、一曲聴かせてくれない？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

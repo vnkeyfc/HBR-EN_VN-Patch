@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "EAoi",
+  "CharacterName": "蒼井えりか",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_EAoi",
+      "Label": "EAoi_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "どうか安寧な記憶を",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Nguyện xin những ký ức an lành."
+    },
+    {
+      "Key": "VB0012_EAoi",
+      "Label": "EAoi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "えへっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0013_EAoi",
+      "Label": "EAoi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "負けません",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0014_EAoi",
+      "Label": "EAoi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_EAoi",
+      "Label": "EAoi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くへっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_EAoi",
+      "Label": "EAoi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "そんな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_EAoi",
+      "Label": "EAoi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "守れない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_EAoi",
+      "Label": "EAoi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "うーん、今回も無事に追われました。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_EAoi",
+      "Label": "EAoi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "うーん、もっともっと頑張らなきゃ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0050_EAoi",
+      "Label": "EAoi_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "皆さん 大丈夫でしたか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_EAoi",
+      "Label": "EAoi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "守れませんでした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_EAoi",
+      "Label": "EAoi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ごめん…なさい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_EAoi",
+      "Label": "EAoi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "葵には やっぱり",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_EAoi",
+      "Label": "EAoi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ああ、セラフもいたわってくれてる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_EAoi",
+      "Label": "EAoi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ああ大丈夫大丈夫私はどこにも行かないから",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9012_EAoi",
+      "Label": "EAoi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "あ、そんなに嬉しいの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9013_EAoi",
+      "Label": "EAoi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ああ、置いていったりしないから",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_EAoi",
+      "Label": "EAoi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よし！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_EAoi",
+      "Label": "EAoi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "もっと頑張ります",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_EAoi",
+      "Label": "EAoi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "みんなを守ってね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_EAoi",
+      "Label": "EAoi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "凄いね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_EAoi",
+      "Label": "EAoi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "やったまた強くなれる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_EAoi",
+      "Label": "EAoi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "葵はどこまで行けるのでしょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000472_EAoi",
+      "Label": "EAoi_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "お付き合いくださりありがとうございました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000474_EAoi",
+      "Label": "EAoi_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "葵はあんなにたどたどしかったのに皆さんのおかげです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000473_EAoi",
+      "Label": "EAoi_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "すみません、この結果は葵のせいです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_EAoi",
+      "Label": "EAoi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ぽかーん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_EAoi",
+      "Label": "EAoi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ち、ちわーっす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_EAoi",
+      "Label": "EAoi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "頑張ります",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_EAoi",
+      "Label": "EAoi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "どうかしましたか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

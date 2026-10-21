@@ -1,0 +1,198 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC28/AC28_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 6.5,
+      "EndSecond": 7.7,
+      "OriginalText": "I want blood!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 7.7,
+      "EndSecond": 24.6,
+      "OriginalText": "Wow Wow...",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 25.1,
+      "EndSecond": 29.3,
+      "OriginalText": "In my undying body, another sleepless day",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 29.3,
+      "EndSecond": 31.2,
+      "OriginalText": "Driven by thirst for blood",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 31.2,
+      "EndSecond": 36.3,
+      "OriginalText": "So I prowl through the night's high-rises...",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 38.4,
+      "EndSecond": 40.1,
+      "OriginalText": "Every finger fast and nimble",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 40.1,
+      "EndSecond": 44.9,
+      "OriginalText": "All your worries stolen when I'm done with you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 44.9,
+      "EndSecond": 46,
+      "OriginalText": "Show me your smile, would you?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 46,
+      "EndSecond": 51.2,
+      "OriginalText": "That's all I could ever ask to see from you",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 51.2,
+      "EndSecond": 59.7,
+      "OriginalText": "I might be stupid, but even so, my head works real well",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 59.7,
+      "EndSecond": 67.2,
+      "OriginalText": "Munching away on a nice baguette, time to head outside",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 67.4,
+      "EndSecond": 71.8,
+      "OriginalText": "Suddenly this is fun, got me feeling all worked up",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 71.8,
+      "EndSecond": 76.1,
+      "OriginalText": "Cause I bet there's some fine blood out there for me to suck",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 76.1,
+      "EndSecond": 80.4,
+      "OriginalText": "There's a drug in my brain, and it's gushing like mad",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 80.4,
+      "EndSecond": 84.4,
+      "OriginalText": "Now I'm out of control, won't someone stop me please",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 84.4,
+      "EndSecond": 88.9,
+      "OriginalText": "In my undying body, I've splashed and leapt about",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 89,
+      "EndSecond": 93.1,
+      "OriginalText": "There's been no place for me, and the world's shut me out",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 93.1,
+      "EndSecond": 97.4,
+      "OriginalText": "For as dumb as I was, I just wanna be loved",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 97.4,
+      "EndSecond": 99.1,
+      "OriginalText": "You can say 'welcome home,' at this point",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 99.1,
+      "EndSecond": 104.3,
+      "OriginalText": "I don't know what those words mean",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 104.3,
+      "EndSecond": 107.5,
+      "OriginalText": "I am a beast after all, and this is the only way I can live",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

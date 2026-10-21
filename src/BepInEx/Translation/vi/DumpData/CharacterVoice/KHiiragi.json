@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "KHiiragi",
+  "CharacterName": "柊木梢",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_KHiiragi",
+      "Label": "KHiiragi_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "眠れ、イノセントレクイエム",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Ngủ đi nào, Innocent Requiem!"
+    },
+    {
+      "Key": "VB0012_KHiiragi",
+      "Label": "KHiiragi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ううっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0013_KHiiragi",
+      "Label": "KHiiragi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0014_KHiiragi",
+      "Label": "KHiiragi_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うわぁ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_KHiiragi",
+      "Label": "KHiiragi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ううううう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_KHiiragi",
+      "Label": "KHiiragi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "アアア！！！！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_KHiiragi",
+      "Label": "KHiiragi_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ダメー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0049_KHiiragi",
+      "Label": "KHiiragi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "いい子 いい子",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_KHiiragi",
+      "Label": "KHiiragi_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "私を守ってくれているの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0050_KHiiragi",
+      "Label": "KHiiragi_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "な、なんとか勝てたー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_KHiiragi",
+      "Label": "KHiiragi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ごめんなさい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_KHiiragi",
+      "Label": "KHiiragi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ここまで見たい…です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_KHiiragi",
+      "Label": "KHiiragi_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "私も…向こう側の…世界…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_KHiiragi",
+      "Label": "KHiiragi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "皆さんのおかげです！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_KHiiragi",
+      "Label": "KHiiragi_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "共に行きましょう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_KHiiragi",
+      "Label": "KHiiragi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "あなたのおかげかもしれない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_KHiiragi",
+      "Label": "KHiiragi_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "こんな私でもできるんだ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_KHiiragi",
+      "Label": "KHiiragi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よし！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_KHiiragi",
+      "Label": "KHiiragi_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "もっと頑張ります！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_KHiiragi",
+      "Label": "KHiiragi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "いい子いい子",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_KHiiragi",
+      "Label": "KHiiragi_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "素晴らしいです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_KHiiragi",
+      "Label": "KHiiragi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "何かが見えた！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_KHiiragi",
+      "Label": "KHiiragi_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "この感覚は何？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000450_KHiiragi",
+      "Label": "KHiiragi_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "ああ、お、お疲れ様でした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000452_KHiiragi",
+      "Label": "KHiiragi_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "えへへ、上手にできちゃいました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000451_KHiiragi",
+      "Label": "KHiiragi_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "ううううう、すみませーん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_KHiiragi",
+      "Label": "KHiiragi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "はい、あたしでよければ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_KHiiragi",
+      "Label": "KHiiragi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "あれ？今何か…気のせいかな？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_KHiiragi",
+      "Label": "KHiiragi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ご迷惑でなければ手伝ってもらえませんか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_KHiiragi",
+      "Label": "KHiiragi_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "霊能力者のたしなみです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

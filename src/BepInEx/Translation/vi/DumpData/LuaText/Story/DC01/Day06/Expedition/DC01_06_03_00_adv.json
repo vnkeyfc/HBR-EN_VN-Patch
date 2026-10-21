@@ -1,0 +1,701 @@
+{
+  "Script": "Story/DC01/Day06/Expedition/DC01_06_03_00_adv",
+  "Entries": [
+    {
+      "Context": "None:None",
+      "Original": "DC01.Expedition.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00400_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have completed a drone scout of the area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00401_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm all done here too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100310_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It looks like there are quite a few Cancers gathered in this area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00402_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yes, my scouting confirms that as well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00403_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "We're gonna be up against a hub-tier, so we really should avoid fighting as much as we can.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00404_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I will plot an optimal path using the reconnaissance data collected by Cadet Izumi and me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00405_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Please do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100228_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold up. I'm seein' enemies up ahead.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100094_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's a lot of 'em... Yukkie, can we take a detour?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100311_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nope. It doesn't look like there are any other routes that'll take us there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100095_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I really wanna save our energy for the hub-tier, but I guess we aren't getting out of this one. Let's ambush them, but try to wipe them out without taking any unnecessary damage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100096_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Let's do this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100097_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "We're almost there! Get in semi-encirclement position, and stay mobile!\\nWatch out for counterattacks!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100135_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "What's going on?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100312_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ruka, this is bad!!!\\nWe need to pull out!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100023_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "GIYEEEEEEHHH!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100313_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "It's here! That's the hub-tier!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100229_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Finally showin' yer face, eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100043_Karen",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You make for a worthy target!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100098_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Karrie and I will charge the hub-tier to pin it down! Yukkie, you and Tsukassie cover Nanamin! Everyone else, keep fighting!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100099_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Nanamin, take care of the illuminator!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100177_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100100_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "We don't want to get pincered here. Let's take out the enemies around us pronto! We'll save the hub-tier for afterwards!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100230_MAikawa#2",
+      "Context": "Adv.showCutInV2:1",
+      "Original": "Teyah!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100024_TKunimi",
+      "Context": "Adv.showCutInV2:1",
+      "Original": "Take this!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100101_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Alright! There's just the hub-tier left! Nanamin, how's the illuminator coming along?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100178_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Almost there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100136_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "It got away!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100179_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I wasn't able to keep the illuminator's laser focused on the target long enough to lock on.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100137_TTojo",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Why did it run away?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100102_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yukkie, any ideas?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100314_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmm... Either it noticed the laser...or it ran away because the small fry flanking us have fallen. I can't think of any other reasons.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100180_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It did appear that the hub-tier Cancer reacted to the laser. However, we cannot say for certain whether it perceived danger at this point.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100315_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At any rate, we don't have enough information right now, so let's start over. How about I send out some drones to get a better idea of the enemy's positions and movements?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100103_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds good. Take it away, Yukkie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100140_TTojo",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Enemy sighted. It's the enemy swarm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100110_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Any sign of the hub-tier?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100324_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not that I see.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100111_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Here goes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100027_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "There it is!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100112_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Alright, Nanamin, do the thing! Cappy and Megumin, you two keep it pinned down for Nanamin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100185_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Activating illuminator.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100233_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ya got it! Let's do this, Tama!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100028_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aye aye! You shall not pass!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100113_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Karrie, let's take care of the swarm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100046_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Come on, baby, let's dance!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100047_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That ain't enough dancin'!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100186_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Continuing projection. Locking onto the target.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100114_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Looks like we need to buy some more time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100048_Karen",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That's enough dancin'\\nwith the small fry!\\nNOW IT'S YOUR TURN!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906400055_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I'm coming too!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100325_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Tch, it got away again!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100234_MAikawa",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Dagnabbit! Even though we thwarted its plan!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100187_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "That being said, you defeated two Cancer swarms. There is no doubt that we're backing the enemy into a corner.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100115_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yukkie, do another search, will you? I want to engage in as advantageous a location as possible.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100326_YIzumi",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Got it. Sending out the drones.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00409_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Everyone, halt.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00410_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hub-tier Cancer sighted at 10 o'clock on the other side of the ridge. An enemy swarm is also standing by in its vicinity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00413_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like it hasn't noticed us just yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100030_TKunimi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Makes taking the stealthy approach all worthwhile!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100117_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're really far away. Can you lock onto the target from here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100188_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just barely, but yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100031_TKunimi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "The hub-tier Cancer spotted us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100330_YIzumi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "The enemy swarm's starting to move!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100122_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanamin, status!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100189_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please hold on. There is some distance between us and the target. I am having difficulty aiming.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100123_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, guard Nanamin! Everyone else, maintain defensive positions in a semi-circle! Nanamin, you keep focusing the illuminator on the enemy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100190_NNanase",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100124_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Protect Nanamin at all costs!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100331_YIzumi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100049_Karen",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100032_TKunimi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100141_TTojo",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100236_MAikawa",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "H'all righty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100032_TKunimi#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100331_YIzumi#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100141_TTojo#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100049_Karen#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100236_MAikawa#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "H'all righty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00409_NNanase#2",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Everyone, halt.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00410_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hub-tier Cancer sighted at 10 o'clock on the other side of the ridge. An enemy swarm is also standing by in its vicinity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00413_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Looks like it hasn't noticed us just yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100030_TKunimi#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Makes taking the stealthy approach all worthwhile!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100117_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're really far away. Can you lock onto the target from here?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100188_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just barely, but yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100031_TKunimi#2",
+      "Context": "Adv.playCutIn:3",
+      "Original": "The hub-tier Cancer spotted us!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100330_YIzumi#2",
+      "Context": "Adv.playCutIn:3",
+      "Original": "The enemy swarm's starting to move!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100122_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nanamin, status!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100189_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Please hold on. There is some distance between us and the target. I am having difficulty aiming.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100123_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yukkie, guard Nanamin! Everyone else, maintain defensive positions in a semi-circle! Nanamin, you keep focusing the illuminator on the enemy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100190_NNanase#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100124_RKayamori#2",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Protect Nanamin at all costs!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100331_YIzumi#3",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100049_Karen#3",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100032_TKunimi#3",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100141_TTojo#3",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100236_MAikawa#3",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "H'all righty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100032_TKunimi#4",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100331_YIzumi#4",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100141_TTojo#4",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100049_Karen#4",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yeah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100236_MAikawa#4",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "H'all righty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00417_NNanase",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Projection complete. I have a lock on the target.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100126_RKayamori",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Nice job, Nanamin!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_DC01_v003_00422_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Let's go, girls! Don't let this chance slip away!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100142_TTojo",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100050_Karen",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Hell yeah!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100237_MAikawa",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "H'all righty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100333_YIzumi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100034_TKunimi",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100237_MAikawa#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "H'all righty!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100142_TTojo#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100333_YIzumi#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100050_Karen#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Hell yeah!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906100034_TKunimi#2",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Aye aye!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

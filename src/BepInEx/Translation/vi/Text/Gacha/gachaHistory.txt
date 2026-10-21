@@ -1,0 +1,6 @@
+利用日時(JST)=<cspace\=-5px>Ngày giờ (UTC+7)
+用途=<cspace\=-5px>Thông tin
+履歴を更新する=Làm mới lịch sử
+Successfully updated usage history=Hoàn tất cập nhật lịch sử
+クォーツ利用履歴=Lịch sử sử dụng Quartz
+※過去３か月間の利用履歴が確認できます。\n※無償分のクォーツから先に消費されます。=※Bạn có thể theo dõi lịch sử sử dụng Quartz trong suốt 3 tháng vừa qua.\n※Quartz miễn phí sẽ được ưu tiên sử dụng trước.

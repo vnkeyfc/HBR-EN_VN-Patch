@@ -1,0 +1,132 @@
+{
+  "Script": "Story/AC42/Day01/Novel/AC42_01_03_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00136_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone, I know a lot happened this morning, but please remain calm and fight together during the mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00140_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ooh, Vritika is stepping up to keep 31-X united!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00141_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Since you entrusted me with this role, I intend to see it through. Mmhm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00142_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She says \"mmhm\". She is very motivated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00137_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We'll take this mission and our coordination seriously, 'course.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00138_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmph. I will vent this anger on the Cancers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00139_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Naturally. Defeating the Cancers is our mission.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00143_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, what coordination are you thinking?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00144_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have discussed it with Yingxia last night.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00145_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X's strengths lie in the power of our individual members, but everyone moves on their own, making it difficult to coordinate attacks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00146_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As such, I have calculated the ideal time for coordination. Please move according to the order I have assigned you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00147_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is how Ruka and her squad always does...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00148_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And it is what we have been doing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00149_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But this is a much faster pace. Faster than the Cancers can respond to.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00150_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is a whole lot simpler than what I had in mind.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00151_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The very basics of coordinated strategy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00152_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But this will raise the speed of my tactics, and we will be able to adopt a combat style that leverages 31-X's base rapid-attack capabilities.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00153_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just by learning this coordination, we should shorten the time in which we eliminate a single Cancer by 63%.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00154_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So more than twice as fast? That's amazing.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00155_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I see. I will try.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00156_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's give it a shot, gals!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

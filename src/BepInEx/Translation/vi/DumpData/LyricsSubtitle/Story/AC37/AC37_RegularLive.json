@@ -1,0 +1,315 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC37/AC37_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 0.01,
+      "EndSecond": 1.9,
+      "OriginalText": "Monday morning!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 5.1,
+      "EndSecond": 10.2,
+      "OriginalText": "Jolted out of my bed this morning in a clammy sweat",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 10.3,
+      "EndSecond": 15.7,
+      "OriginalText": "Devoured my cornflakes the very next thing",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 17.5,
+      "EndSecond": 22.2,
+      "OriginalText": "My symptoms worsen each day I spend in here",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 22.3,
+      "EndSecond": 29,
+      "OriginalText": "Welcome to my mite-filled paradisus, my sweet home",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 29.1,
+      "EndSecond": 32.2,
+      "OriginalText": "Just pull yourselves together",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 32.3,
+      "EndSecond": 35,
+      "OriginalText": "And give your gushing speech",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 35.1,
+      "EndSecond": 45.5,
+      "OriginalText": "If you want a wake-up call, I'll gladly dump\nthe booze over all your heads right now",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 46.3,
+      "EndSecond": 49.3,
+      "OriginalText": "Just so you know, you're the ones who've been leaving me behind",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 49.4,
+      "EndSecond": 52.3,
+      "OriginalText": "And I've come all this way whether I like it or not",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 52.4,
+      "EndSecond": 55.7,
+      "OriginalText": "Nothing ever comes true in this whole damn world",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 55.8,
+      "EndSecond": 58.4,
+      "OriginalText": "Blisters keep on bleeding out",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 58.5,
+      "EndSecond": 58.7,
+      "OriginalText": "(Faraway)",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 58.8,
+      "EndSecond": 60.1,
+      "OriginalText": "(Faraway)\nCause at some point we slipped into Arcadia",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 60.2,
+      "EndSecond": 61.6,
+      "OriginalText": "Cause at some point we slipped into Arcadia",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 61.7,
+      "EndSecond": 63.1,
+      "OriginalText": "(Faraway)\nEven passed by the fields of Elysium on the way",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 63.2,
+      "EndSecond": 64.6,
+      "OriginalText": "Even passed by the fields of Elysium on the way",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 64.7,
+      "EndSecond": 66.1,
+      "OriginalText": "(Faraway)\nAll the roads leading out of Rome were paved in stone",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 66.2,
+      "EndSecond": 68.1,
+      "OriginalText": "All the roads leading out of Rome were paved in stone",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 68.2,
+      "EndSecond": 70.8,
+      "OriginalText": "Carpeted in fallen tears",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 70.9,
+      "EndSecond": 72.3,
+      "OriginalText": "(Faraway)\nCause my body grew up, but I'm still here inside",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 72.4,
+      "EndSecond": 74,
+      "OriginalText": "Cause my body grew up, but I'm still here inside",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 74.1,
+      "EndSecond": 75.3,
+      "OriginalText": "(Faraway)\nAnyone's a beauty from the right angle",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 75.4,
+      "EndSecond": 77,
+      "OriginalText": "Anyone's a beauty from the right angle",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 24,
+      "Enabled": true,
+      "StartSecond": 77.1,
+      "EndSecond": 78.5,
+      "OriginalText": "(Faraway)\nCan you tell me what used to bring me joy?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 25,
+      "Enabled": true,
+      "StartSecond": 78.6,
+      "EndSecond": 80.4,
+      "OriginalText": "Can you tell me what used to bring me joy?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 26,
+      "Enabled": true,
+      "StartSecond": 80.5,
+      "EndSecond": 83.1,
+      "OriginalText": "I'll forget that too in time",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 27,
+      "Enabled": true,
+      "StartSecond": 83.2,
+      "EndSecond": 84.8,
+      "OriginalText": "(Faraway)\nCause I still want to love you till the end of time",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 28,
+      "Enabled": true,
+      "StartSecond": 84.9,
+      "EndSecond": 86.2,
+      "OriginalText": "Cause I still want to love you till the end of time",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 29,
+      "Enabled": true,
+      "StartSecond": 86.3,
+      "EndSecond": 87.5,
+      "OriginalText": "(Faraway)\nWho's the me that you loved? Could you love me for that too?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 30,
+      "Enabled": true,
+      "StartSecond": 87.6,
+      "EndSecond": 89.3,
+      "OriginalText": "Who's the me that you loved? Could you love me for that too?",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 31,
+      "Enabled": true,
+      "StartSecond": 89.4,
+      "EndSecond": 90.8,
+      "OriginalText": "(Faraway)\nI was going insane this morning from the heat",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 32,
+      "Enabled": true,
+      "StartSecond": 90.9,
+      "EndSecond": 92.7,
+      "OriginalText": "I was going insane this morning from the heat",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 33,
+      "Enabled": true,
+      "StartSecond": 92.8,
+      "EndSecond": 98.8,
+      "OriginalText": "Wishing still that you were here with me",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

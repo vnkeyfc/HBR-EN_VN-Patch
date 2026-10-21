@@ -1,0 +1,108 @@
+{
+  "Script": "Story/AC42/Day03/World/AC42_03_05_02",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00993_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I am sure 31-A and 30-G would be capable of defeating this Cancer...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00994_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But if we wait for them, the farm will be ravaged even worse.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00995_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(And that is...unacceptable! This place is our...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00841_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're really smart, so you can calculate just about anything, buuut...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00842_YoOhshima",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think when things get really bad, you can let yourself act a little stupid~.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00999_VBalakrishnan",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Ah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01000_CReaper",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Vritika?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01001_VBalakrishnan",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Haaaaaaa!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800057_VBalakrishnan",
+      "Context": "Adv.showCutIn:1",
+      "Original": "AAAAAAHHH!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01002_VBalakrishnan",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Guh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01003_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika, are you all right?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01004_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "N-Not yet... I can still fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01005_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No you cannot, look at yourself! You are hurt!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01006_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "N-No... We must defend this place...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01007_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine, we get it, but we hafta distance ourselves! That's an order!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01008_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01009_IRedmayne",
+      "Context": "Adv.talkWithName:1",
+      "Original": "The outside wall there should keep us out of the enemy's sight! Let's go!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

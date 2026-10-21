@@ -1,0 +1,260 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "EmaB",
+  "CharacterName": "モナ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VB_Z_908500138_EmaB",
+      "Label": "EmaB_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "あいたっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500139_EmaB",
+      "Label": "EmaB_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ふんぎゅっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500140_EmaB",
+      "Label": "EmaB_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なんと！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500144_EmaB",
+      "Label": "EmaB_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ぬわっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500145_EmaB",
+      "Label": "EmaB_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500146_EmaB",
+      "Label": "EmaB_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くそっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500174_EmaB",
+      "Label": "EmaB_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ふふーん、鮮やかな勝利だ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500175_EmaB",
+      "Label": "EmaB_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "みんなご苦労様だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500176_EmaB",
+      "Label": "EmaB_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "にゃっ ぎりぎりだったなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500147_EmaB",
+      "Label": "EmaB_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "我が輩としたことか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500148_EmaB",
+      "Label": "EmaB_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "うううううう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500149_EmaB",
+      "Label": "EmaB_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "抜かったか…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500177_EmaB",
+      "Label": "EmaB_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "にゃっはっはー！我が輩強くなってる！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500178_EmaB",
+      "Label": "EmaB_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "やっほー！力がみなぎってくるぜ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500179_EmaB",
+      "Label": "EmaB_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "これが我輩の真の力",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500180_EmaB",
+      "Label": "EmaB_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ニャッハッハー！ 惚れるなよ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500183_EmaB",
+      "Label": "EmaB_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいかんじー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500184_EmaB",
+      "Label": "EmaB_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "新たな魅力！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500185_EmaB",
+      "Label": "EmaB_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "我輩にふさわしい力だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500181_EmaB",
+      "Label": "EmaB_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "さすが我輩だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500182_EmaB",
+      "Label": "EmaB_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "これでもっとお前らの力になれそうだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500207_EmaB",
+      "Label": "EmaB_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "この程度、怪盗団なら朝飯前だ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500209_EmaB",
+      "Label": "EmaB_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "音楽も紳士のたしなみだからな。当然だ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500208_EmaB",
+      "Label": "EmaB_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "我輩としたことが もっと精進する必要があるなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_EmaB",
+      "Label": "EmaB_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "我が輩はモナだ。よろしく頼むぜ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_EmaB",
+      "Label": "EmaB_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ふっふーん、どうやら我輩の出番のようだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_EmaB",
+      "Label": "EmaB_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "変身",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_EmaB",
+      "Label": "EmaB_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "今日はもう寝ようぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC38/AC38_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 4.5,
+      "EndSecond": 5.8,
+      "OriginalText": "C'mon!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 5.9,
+      "EndSecond": 6.9,
+      "OriginalText": "Love you, baby",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 8,
+      "EndSecond": 9.2,
+      "OriginalText": "Make it last longer",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 10.3,
+      "EndSecond": 15.8,
+      "OriginalText": "They're gonna know I gave this life my all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 22.3,
+      "EndSecond": 27,
+      "OriginalText": "Catch you again in the next life",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 27.1,
+      "EndSecond": 32.2,
+      "OriginalText": "Somewhere upon another planet",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 32.3,
+      "EndSecond": 42.6,
+      "OriginalText": "Wait there, I'll see you with flowers galore, as much as I can hold",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 44.2,
+      "EndSecond": 50.5,
+      "OriginalText": "Hey, wasn't this meant to be like a game? Cause I don't get EXP at all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 50.6,
+      "EndSecond": 53.8,
+      "OriginalText": "And I'm stuck never gaining any levels",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 53.9,
+      "EndSecond": 62,
+      "OriginalText": "Just feels like my mental health is going downhill instead",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 62.1,
+      "EndSecond": 66.6,
+      "OriginalText": "You were the best that I ever knew\nOne day you screamed that I was the worst",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 66.7,
+      "EndSecond": 71.4,
+      "OriginalText": "Somebody, anybody, just hear this pain",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 72.5,
+      "EndSecond": 73,
+      "OriginalText": "C'mon!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 73.9,
+      "EndSecond": 75,
+      "OriginalText": "Love you, baby",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 76.1,
+      "EndSecond": 77.2,
+      "OriginalText": "Don't you dare forget it!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 78.4,
+      "EndSecond": 82.2,
+      "OriginalText": "Gave my heart and soul to make it last as long as it can",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 82.3,
+      "EndSecond": 82.7,
+      "OriginalText": "C'mon!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 17,
+      "Enabled": true,
+      "StartSecond": 82.8,
+      "EndSecond": 84.1,
+      "OriginalText": "Kiss me, baby",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 18,
+      "Enabled": true,
+      "StartSecond": 85,
+      "EndSecond": 86.3,
+      "OriginalText": "Throwing things away at every single turn",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 19,
+      "Enabled": true,
+      "StartSecond": 87.2,
+      "EndSecond": 91.2,
+      "OriginalText": "I ain't got nothing at all",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 20,
+      "Enabled": true,
+      "StartSecond": 91.3,
+      "EndSecond": 91.7,
+      "OriginalText": "C'mon!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 21,
+      "Enabled": true,
+      "StartSecond": 91.8,
+      "EndSecond": 92.8,
+      "OriginalText": "Now I've got my teeth brushed",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 22,
+      "Enabled": true,
+      "StartSecond": 94,
+      "EndSecond": 95.1,
+      "OriginalText": "Loaded up my bullets",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 23,
+      "Enabled": true,
+      "StartSecond": 96.2,
+      "EndSecond": 101.2,
+      "OriginalText": "I don't even care if this is the last time I wake",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 24,
+      "Enabled": true,
+      "StartSecond": 101.3,
+      "EndSecond": 105.7,
+      "OriginalText": "You're not there yet! So fight on, mark 'em, keep pushing on!",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 25,
+      "Enabled": true,
+      "StartSecond": 106.5,
+      "EndSecond": 110.4,
+      "OriginalText": "That's what you were born to do!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

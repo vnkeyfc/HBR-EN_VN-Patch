@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MiOhshima",
+  "CharacterName": "大島三野里",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0029_MiOhshima",
+      "Label": "MiOhshima_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "はいよ、戦力お待たせ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Chiến lực của mọi người đã tới rồi đây!"
+    },
+    {
+      "Key": "VB0014_MiOhshima",
+      "Label": "MiOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "のっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MiOhshima",
+      "Label": "MiOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おお",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MiOhshima",
+      "Label": "MiOhshima_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "平気さ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MiOhshima",
+      "Label": "MiOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "キャー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MiOhshima",
+      "Label": "MiOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "痛くないぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MiOhshima",
+      "Label": "MiOhshima_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まだまだ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MiOhshima",
+      "Label": "MiOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "勝利のお届け完了",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MiOhshima",
+      "Label": "MiOhshima_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ハンコはなくてもまあいっか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MiOhshima",
+      "Label": "MiOhshima_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "ギリギリだったねー、危なかったー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MiOhshima",
+      "Label": "MiOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "姉さん…みんな…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MiOhshima",
+      "Label": "MiOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ありがとう…届けたくったな…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MiOhshima",
+      "Label": "MiOhshima_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "悲しみは…届けたくなかった…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MiOhshima",
+      "Label": "MiOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "届けられる量が増えたかもやったね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MiOhshima",
+      "Label": "MiOhshima_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "配達コースひらめいた！やったね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MiOhshima",
+      "Label": "MiOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "鍛え上げられた感じやっぱねー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MiOhshima",
+      "Label": "MiOhshima_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "こんなところまで来れるんだ！やったね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MiOhshima",
+      "Label": "MiOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "僕強くなったみたい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MiOhshima",
+      "Label": "MiOhshima_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "みんなに見てもらいたいなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MiOhshima",
+      "Label": "MiOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "武器が強くなった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MiOhshima",
+      "Label": "MiOhshima_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "おや？かっこよくなったねー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MiOhshima",
+      "Label": "MiOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "配達の道に終わりはない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MiOhshima",
+      "Label": "MiOhshima_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "壁をぶち破れば新しい道になる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000616_MiOhshima",
+      "Label": "MiOhshima_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "はい、これでおーしまいっとー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000618_MiOhshima",
+      "Label": "MiOhshima_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "全音符お届け完了",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000617_MiOhshima",
+      "Label": "MiOhshima_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "あれ？見逃しちゃった？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MiOhshima",
+      "Label": "MiOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お待たせー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MiOhshima",
+      "Label": "MiOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "うん、一緒に頑張ろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MiOhshima",
+      "Label": "MiOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "頼りにしてるよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MiOhshima",
+      "Label": "MiOhshima_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "今後も、ごひいきにー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

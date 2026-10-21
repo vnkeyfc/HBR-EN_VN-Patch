@@ -41,10 +41,6 @@
 
 /RootView/UI-Foreground/Main/UILotteryCardDetailDialog/ModalContainer/container/title|'<size=90%>Chi tiết Hồi ỨC</size>'|'Chi tiết Hồi Ức'
 
-/RootView/UI-Foreground/Main/UISecretBossDetailDialog/container/enemyDate/recommendValue/valueTitle|'L.C đề cử'|'<size=90%>Lực chiến đề cử'
-
-/RootView/UI-Foreground/Main/UIScoreAttackTop/container/rightBox/enemyData/bossDetailContainer/recommendValue/valueTitle|'L.C đề cử'|'Lực chiến đề cử'
-
 /RootView/UI-Foreground/Main/UILearnOrbSkills/container/header/subTitle|'Ngọc Kỹ'|''
 
 /RootView/UI-Foreground/Main/UISeasonScheduleDialog/container/righitContainer/pointBase/title|'Đã nhận Total'|'Tổng cộng'

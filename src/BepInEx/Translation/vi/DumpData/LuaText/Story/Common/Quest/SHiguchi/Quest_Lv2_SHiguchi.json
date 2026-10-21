@@ -1,0 +1,561 @@
+{
+  "Script": "Story/Common/Quest/SHiguchi/Quest_Lv2_SHiguchi",
+  "Entries": [
+    {
+      "Context": "LinneEvent:1",
+      "Original": "so bored, no one here today",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00024_v008_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(Oh yeah, I got that message from Higgs.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Invite Yuki Izumi!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the research center!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Invite Megumi Aikawa!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head back to the research center!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_AKanzaki_Quest_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Kinda busy now. I'll read it later.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Linne.Receive:1",
+      "Original": "come by and lemme see that sharpness of yours",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00665_v004_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(So she says, but last time was a disaster. I don't know if I have the confidence to do it again.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00666_v004_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I know! I'll bring Yukkie and we can tag-team it.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00667_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heeeya, Yukkie!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00668_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's with the cutesy voice? I can already tell this is gonna be bad news.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00669_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I need you to perform a comedy sketch with me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00670_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, I knew you were bad news... Since when are you and I a comedy duo?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00671_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "See the way you think on your feet? Ready for anything, that's just what I need right now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00672_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't drag me into more of your shenanigans.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00673_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just tag along with me, please?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00674_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh, you're not taking no for an answer. Fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00675_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh. You're not alone today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00676_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Regardless. Show it to me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00677_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dang, I sure am thirsty. Oh, hey, there just happens to be a convenience store up ahead. Lemme just, <i>zwooot</i>! Warp right in there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00678_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just so you know, warping hasn't been invented yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00679_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Could you unfry this fried chicken for me so that it comes back to life?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00680_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Time travel hasn't been invented either.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00681_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You know, what I really need is one of those asymmetrical clothes hangers.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00682_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's <i>never</i> getting invented. What the hell would you use one for, anyway?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00683_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine, can you at least point me to the HD DVD section?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00684_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nobody sells those. Blu-ray won the format war.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00685_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw, screw this, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00686_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're one to talk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00687_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What in the world was that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00688_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Our routine. Sharp, right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00689_v004_SHiguchi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "How many times must you repeat this nonsense?!\\nWhy would I find those horrific jokes funny?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00690_v004_SHiguchi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "And you! I thought you were the one decent person around here,\\nbut <i>clearly</i> I misjudged you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00691_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm not gonna sugarcoat it, this is an embarrassing thing to be misjudged over.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00692_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What a waste of time. Get out of here already, both of you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00693_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Awww.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00694_v004_YIzumi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's what I wanna say to <i>you</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00695_v004_RKayamori",
+      "Context": "Adv.kayamoriTalkMonolog:0",
+      "Original": "(I know. Megumin has a sharp tongue.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00696_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, Megumin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00697_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What'cha want?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00698_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I need that rough-and-tumble, Kansai-gal energy of yours for a comedy routine. Come with me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00699_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? Kansai-gal energy? Don'tcha mean you need my psychic skills? And where are we going?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00700_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You again? Are you finally going to show me what I want to see?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00701_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00702_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good. Show me what you've got.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00703_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dang, I sure am thirsty. Oh, hey, there just happens to be a convenience store up ahead. Lemme just, <i>zwooot</i>! Warp right in there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00704_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, how the hell'd ya do that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00705_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, the store provides a warp service.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00706_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What in tarnation's a warp service?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00707_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They had some part-timer dispatched from the Psychic Association to warp customers right to the store's cashier.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00708_v004_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "What a waste of psychic powers!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00709_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They're totally wildin'! And why're they just a part-timer? Someone with powers like that'd be an elite psychic!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00710_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Plus, how would YOU feel if ya got warped into a store ya had no intention of goin' to?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00711_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They could totally abduct people! And then people'd be scared spitless to even walk by! They'd lose customers! They're outta their dang minds!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00712_v004_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "And what the hell's a \"zwooot\"?!\\nWhat kinda psychic makes\\na noise like that?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00713_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aw, screw this, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00714_v004_MAikawa",
+      "Context": "Adv.playCutIn:3",
+      "Original": "The hell's goin' on?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00715_v004_SHiguchi",
+      "Context": "Adv.playCutIn:3",
+      "Original": "That's my line!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00716_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whoa, so we're a comedy trio now?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00718_v004_SHiguchi",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Not a chance!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00717_v004_MAikawa",
+      "Context": "Adv.showCutIn:1",
+      "Original": "Hell nah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00719_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Gosh, I put in all this effort just to get shouted at?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00720_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I can't believe 31-A has produced such good results when you're all a bunch of morons.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00721_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's <i>because</i> we've produced good results that we can goof off on our free days. Think of us like jazz musicians in the 1950s. Professionals onstage, crazy scandals offstage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00722_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're making us sound like a buncha good-for-nothin's...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00723_v004_MAikawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A'ight, I'm outta here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00724_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Enough. It's about time you showed me that Seraph of yours.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00725_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wait, what? It was my Seraph that you wanted to see all this time?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00726_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't pretend like you didn't know what I meant.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00727_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, yours really is cut from different cloth. Just looking at it gives me goosebumps.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00728_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What's so different about it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00729_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, the most obvious feature is that it splits into two. I've never seen anything like this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00730_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wonder if I could combine them and turn it into a double-edged sword of some kind?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00731_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nooo, please don't! I only just got used to dual blading, so don't make me have to learn all over again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00732_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine, I won't mess with it. For today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00660_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Maybe I should invite Higumin to join me for a soak.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:1",
+      "Original": "Invite her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:2",
+      "Original": "Invite|Maybe not",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00734_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey Higumin, wanna go for a bath?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_BathTime_World_00019_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Taking a bath, are you? So am I.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00662_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cool, let's go together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_IIshii_Quest_00076_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Nah, I'll bathe alone today.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00738_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh? You don't take off your glasses in the bath?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00739_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. So I'll never hear those humiliating words from you again.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00740_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh! They steamed up and now I can't see a thing!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00741_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here, Higumin, gimme your hand. I'll guide you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00742_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, the humiliation...",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*squish* *squish*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00743_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Huh. You've got some weirdly soft hands there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00744_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, yeah, those're my boobs.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00745_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You totally did that on purpose!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00746_v004_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yay! Level up! Higumin and Ruka's intimacy increased!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_00747_v004_SHiguchi",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It DECREASED, you dumbass!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,162 @@
+{
+  "Schema": 1,
+  "Source": "LyricsDataList",
+  "MoviePath": "Assets/Contents/Movie/Story/AC29/AC29_RegularLive.usm.bytes",
+  "Notes": "Edit Text and Style fields. Write \\n for a line break. StartSecond and EndSecond are dumped from the game for reference only; visible timing is controlled by the game.",
+  "DefaultStyle": {},
+  "Entries": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "StartSecond": 11.4,
+      "EndSecond": 16.9,
+      "OriginalText": "Getting hard to see where the ball is in the setting sun",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 1,
+      "Enabled": true,
+      "StartSecond": 17,
+      "EndSecond": 22.7,
+      "OriginalText": "Swing and a miss again, but that's alright if we can play",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 2,
+      "Enabled": true,
+      "StartSecond": 22.8,
+      "EndSecond": 28.5,
+      "OriginalText": "Since we've got assignments waiting for us back at home",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 3,
+      "Enabled": true,
+      "StartSecond": 28.6,
+      "EndSecond": 34.4,
+      "OriginalText": "And it sucks 'cause dinner's gonna be braised fish tonight",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 4,
+      "Enabled": true,
+      "StartSecond": 34.5,
+      "EndSecond": 37.2,
+      "OriginalText": "But the time flies by",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 5,
+      "Enabled": true,
+      "StartSecond": 37.3,
+      "EndSecond": 42.9,
+      "OriginalText": "Can we forever be passing our time carefree",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 6,
+      "Enabled": true,
+      "StartSecond": 43,
+      "EndSecond": 52.5,
+      "OriginalText": "The way that we are now, I'm not really sure if we'll get to",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 7,
+      "Enabled": true,
+      "StartSecond": 54,
+      "EndSecond": 59.1,
+      "OriginalText": "Lightning came splitting, down through the darkness",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 8,
+      "Enabled": true,
+      "StartSecond": 59.2,
+      "EndSecond": 65.6,
+      "OriginalText": "Spectacle beyond the glass, there as we peered through",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 9,
+      "Enabled": true,
+      "StartSecond": 65.7,
+      "EndSecond": 70.6,
+      "OriginalText": "Down a cat settled, out in the garden",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 10,
+      "Enabled": true,
+      "StartSecond": 70.7,
+      "EndSecond": 77.3,
+      "OriginalText": "Once again we fed it only to be scolded",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 11,
+      "Enabled": true,
+      "StartSecond": 77.4,
+      "EndSecond": 82.3,
+      "OriginalText": "You were the one I would've confessed to",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 12,
+      "Enabled": true,
+      "StartSecond": 82.4,
+      "EndSecond": 88.9,
+      "OriginalText": "Graduation albums with both of our photos",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 13,
+      "Enabled": true,
+      "StartSecond": 89,
+      "EndSecond": 94,
+      "OriginalText": "Even our homes were so close together",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 14,
+      "Enabled": true,
+      "StartSecond": 94.1,
+      "EndSecond": 103.4,
+      "OriginalText": "All that could've been if only we had realized then",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 15,
+      "Enabled": true,
+      "StartSecond": 103.5,
+      "EndSecond": 115.1,
+      "OriginalText": "Now this future's come to pass, ah, to pass",
+      "Text": "",
+      "Style": {}
+    },
+    {
+      "Index": 16,
+      "Enabled": true,
+      "StartSecond": 115.2,
+      "EndSecond": 121.7,
+      "OriginalText": "Let's go! The battlefield awaits us!",
+      "Text": "",
+      "Style": {}
+    }
+  ]
+}

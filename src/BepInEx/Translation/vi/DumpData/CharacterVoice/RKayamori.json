@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "RKayamori",
+  "CharacterName": "茅森月歌",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_RKayamori",
+      "Label": "RKayamori_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "あたしの伝説はこれから始まる",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Huyền thoại về tôi bắt đầu từ đây!"
+    },
+    {
+      "Key": "VB0014_RKayamori",
+      "Label": "RKayamori_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "くっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_RKayamori",
+      "Label": "RKayamori_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おっと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_RKayamori",
+      "Label": "RKayamori_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なにくそ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0017_RKayamori",
+      "Label": "RKayamori_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くぅくぅ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0018_RKayamori",
+      "Label": "RKayamori_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "きついぜ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0019_RKayamori",
+      "Label": "RKayamori_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "こんにゃろ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0051_RKayamori",
+      "Label": "RKayamori_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ま、こんな感じ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9008_RKayamori",
+      "Label": "RKayamori_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ルカちゃんウィン",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0052_RKayamori",
+      "Label": "RKayamori_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "うへー、危なかったねー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_RKayamori",
+      "Label": "RKayamori_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みんなごめん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_RKayamori",
+      "Label": "RKayamori_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "アンデー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_RKayamori",
+      "Label": "RKayamori_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "悪い。守れなかった。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB9009_RKayamori",
+      "Label": "RKayamori_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "本当に伝説始めちゃう？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_900000022_RKayamori",
+      "Label": "RKayamori_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "ルカちゃんアップ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB9010_RKayamori",
+      "Label": "RKayamori_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やりまっしたー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB9011_RKayamori",
+      "Label": "RKayamori_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ルカちゃんMAX",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_RKayamori",
+      "Label": "RKayamori_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いい予感",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_RKayamori",
+      "Label": "RKayamori_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "よっしゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_RKayamori",
+      "Label": "RKayamori_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "よーしよしよし強くなったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_RKayamori",
+      "Label": "RKayamori_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "セラフちゃんオープン",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_RKayamori",
+      "Label": "RKayamori_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "私の才能、果てしねえな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_RKayamori",
+      "Label": "RKayamori_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まあ、これぐらいは当然。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000139_RKayamori",
+      "Label": "RKayamori_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "これが私らのライブさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000141_RKayamori",
+      "Label": "RKayamori_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "まさに伝説のライブとなったな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000140_RKayamori",
+      "Label": "RKayamori_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "アチャー！ロカチャンショック！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_RKayamori",
+      "Label": "RKayamori_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ん？どうしたの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_RKayamori",
+      "Label": "RKayamori_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "じゃ、いっちょやりますか。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_RKayamori",
+      "Label": "RKayamori_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "アッカラーン！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP0018_RKayamori",
+      "Label": "RKayamori_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "デーペリンか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

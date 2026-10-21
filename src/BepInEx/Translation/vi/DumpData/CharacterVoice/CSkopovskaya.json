@@ -1,0 +1,251 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "CSkopovskaya",
+  "CharacterName": "シャルロッタスコポフスカヤ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_CSkopovskaya",
+      "Label": "CSkopovskaya_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "シャロを愛して",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Hãy yêu Charlo đi..."
+    },
+    {
+      "Key": "VB0014_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "届かないわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "頑張ってみて",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まだ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "一体…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "はっはっはっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "今日も生きてる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "シャロは死なないの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "まだ、その時ではないのですね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ああ…シャロー…これで…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "これで許される……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ザ・スヴィタニア…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "生存率がまた高まる",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "シャロに、どこへ向かえと言うの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "え、このシャロが…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_CSkopovskaya",
+      "Label": "CSkopovskaya_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "これから何をなすべきなのでしょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_CSkopovskaya",
+      "Label": "CSkopovskaya_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "シャロの力……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_CSkopovskaya",
+      "Label": "CSkopovskaya_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "生きろというのですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_CSkopovskaya",
+      "Label": "CSkopovskaya_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "あなたも…晴らすよ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_CSkopovskaya",
+      "Label": "CSkopovskaya_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "命を穿つ力……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_CSkopovskaya",
+      "Label": "CSkopovskaya_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "これは……クラスイヴァ、シャロ……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_CSkopovskaya",
+      "Label": "CSkopovskaya_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "死が遠ざかる……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_CSkopovskaya",
+      "Label": "CSkopovskaya_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "今、ときめきを感じました。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_CSkopovskaya",
+      "Label": "CSkopovskaya_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "調べなくても、シャロは聞かれたら話すのに……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_CSkopovskaya",
+      "Label": "CSkopovskaya_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "すごいです。シャロが会いたいと思った時に来てくれるなんて。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_CSkopovskaya",
+      "Label": "CSkopovskaya_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "もしよければ…その…一緒に…ロシアンティーでも…",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

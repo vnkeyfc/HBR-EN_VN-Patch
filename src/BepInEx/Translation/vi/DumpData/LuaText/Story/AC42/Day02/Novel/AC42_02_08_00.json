@@ -1,0 +1,300 @@
+{
+  "Script": "Story/AC42/Day02/Novel/AC42_02_08_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00664_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good work today. Despite the unexpected outcome, you did well to successfully evacuate the engineer team.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00665_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't have to coddle me. In the end, we let the Cancers into the experimental farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00666_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's true. Tomorrow, we intend to have you deploy to reclaim the site.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00667_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Are the Cancers still in the farm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00668_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, our drones have sighted them wandering the premises.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00669_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But why? There are no people there anymore.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00670_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They may be looking for any people in hiding...or waiting for them to return. We can come up with all the theories we want, but remember that the Kumagaya Dome is nearby. We cannot leave them there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00671_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We take full responsibility for this muckup and promise to make up for it.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00672_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We're counting on you. Also, we may have to abandon the experimental farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00673_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00674_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is it because the Cancers are ransacking the farm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00675_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The farm itself is not the issue. We can always replant the crops. The issue this time is the slime-like material you reported.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00676_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is an unprecedented trait for a Cancer, and HQ is extremely wary and uncertain of what properties this slime has.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00677_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "From what you've reported, it doesn't have any effect on the human body, but if it seeps into the soil, we have no way of knowing how it might affect the crops.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00679_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00680_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What can we do to make you reconsider abandoning the farm?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00681_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Keep it from spreading. Depending on how far the slime has spread, we may be able to replace and restore the soil.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400082_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But if its damage has spread throughout the experimental farm, at worst we'll have to abandon the farm altogether.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200159_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry... We's supposed to be a team of international elites, but we screwed up big time...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400101_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We only faltered because we were not used to coordination. Next time, I will kill the Cancer. That will fix everything.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200129_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought you had improved somewhat of late, but you keep coming back to this! This is not an opponent we can defeat with brute strength!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400102_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then what do you suggest we do? Admit that a Cancer beat us?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200130_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I did not say that, you reckless fool!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200112_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Stop it, are you really going to argue here?! This is only going to make our coordination even worse!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400103_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Tch. We would have won if we did not force ourselves to try this coordination.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200160_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What, are ya sayin' that trying to coordinate our attacks was a mistake to begin with?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400104_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No! All I am saying is that we have a fighting style that suits us better.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400038_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone... P-Please, stop...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400105_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Grr.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200161_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maria, where ya goin'?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400106_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The arena. I will kill that Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400083_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*sigh* Well, so be it. HQ will consider a countermeasure. You six use this time to cool your heads.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400039_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aah...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200162_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika, don't beat yourself up over this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400040_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200163_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We kept puttin' off our problems and tellin' ourselves we're fine as is, and now it's just time to pay the piper.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200164_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How can I call myself a superhero...no, even a leader?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200131_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika, allow me to draft our next operation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400041_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yingxia...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200132_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This was always my duty as tactician. You should not have to shoulder this burden.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200113_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm sorry... My idea ended up with the whole squad so troubled...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400042_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's not true...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200114_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X is a squad of very strong-willed women. Maybe we're just unsuited for coordination...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600001_Cskopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...is same...as before.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400043_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Charl...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907600002_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone, drifts apart...again...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400044_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Drifting...apart...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400084_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika, you should go too. Resting when necessary is part of your duties.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00683_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haan...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

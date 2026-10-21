@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "INatsume",
+  "CharacterName": "夏目祈",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_INatsume",
+      "Label": "INatsume_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "相伝の一閃、いざ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Tiến lên, ánh kiếm truyền thừa!"
+    },
+    {
+      "Key": "VB0014_INatsume",
+      "Label": "INatsume_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "届かぬ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_INatsume",
+      "Label": "INatsume_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ふっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_INatsume",
+      "Label": "INatsume_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "見切る",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_INatsume",
+      "Label": "INatsume_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "くっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_INatsume",
+      "Label": "INatsume_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "痛みなど",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_INatsume",
+      "Label": "INatsume_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_INatsume",
+      "Label": "INatsume_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "儚いものだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_INatsume",
+      "Label": "INatsume_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "斬り続ける それだけだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_INatsume",
+      "Label": "INatsume_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "刃に曇りが……未熟だな……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_INatsume",
+      "Label": "INatsume_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "是非もなし",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_INatsume",
+      "Label": "INatsume_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "敗北か……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_INatsume",
+      "Label": "INatsume_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "わざもついえるか……",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_INatsume",
+      "Label": "INatsume_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "切った数だけの豪華",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_INatsume",
+      "Label": "INatsume_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "これが強さか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_INatsume",
+      "Label": "INatsume_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ここまでとしよう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_INatsume",
+      "Label": "INatsume_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "どんな強さだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_INatsume",
+      "Label": "INatsume_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "戦いで生かすか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_INatsume",
+      "Label": "INatsume_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "良き力を得た",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_INatsume",
+      "Label": "INatsume_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "研ぎ澄まされたな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_INatsume",
+      "Label": "INatsume_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "いずれ命を刻まねば",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_INatsume",
+      "Label": "INatsume_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "貫いた",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_INatsume",
+      "Label": "INatsume_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "見えた。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000386_INatsume",
+      "Label": "INatsume_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "しまいだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000388_INatsume",
+      "Label": "INatsume_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "10戦10尾",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000387_INatsume",
+      "Label": "INatsume_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "無念",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_INatsume",
+      "Label": "INatsume_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "委細承知",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_INatsume",
+      "Label": "INatsume_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "押し通る",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_INatsume",
+      "Label": "INatsume_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "私の剣は遊びではない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_INatsume",
+      "Label": "INatsume_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "我が流派は、罪人を処刑する断罪の剣。",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

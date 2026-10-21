@@ -1,9 +1,3 @@
-[A-Style]
-r:"<size\=36>(\d+)</size>/<size\=32>(\d+)</size>"=<size\=30>$1</size><size\=24>/$2</size>
-
-[LimitBreakLv.]
-r:"<size\=24>Lv.</size><size\=40>(\d+)</size>"=<size\=24>Lv.</size><size\=32>$1</size>
-
 [LimitBreakShard]
 r:"Insufficient \((\d+)/(\d+)\)"=Không đủ ($1/$2)
 

@@ -1,0 +1,90 @@
+{
+  "Script": "Story/AC42/Day02/Novel/AC42_02_03_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00508_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00508_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00508_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Now then, we'll get to setting up the walls. Everyone, please patrol the perimeter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00509_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Roger that. Give us a call if anythin' happens.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00510_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We did not encounter any Cancers on the way here, but let us perfect our coordination today!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800035_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka approves... I am now very motivated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800036_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Time to make up for yesterday's blunder.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800037_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've got the image training down perfectly! Let's go.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00511_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone... You look incredibly motivated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800038_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Course we are! 31-X's a unit of elites gathered from all across the globe. We're not gonna let this failure stand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00513_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I considered the odds of improvement low, as the preconditions have not changed much...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00514_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(But if everyone is so motivated... Perhaps this will succeed without needing to resort to the ultimate kari.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00515_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(And we should devote ourselves to guarding the experimental farm, too.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00516_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let us be off, then. Mmhm!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,5 +1,11 @@
-sr:"^\[BEGINNER'S BOOST\] Clear Main Scenario: (.+), (.+). \((\d+)/(\d+)\)$"=[Hỗ Trợ Tân Thủ] Hoàn thành Chính Truyện: $1, $2  ($3/$4)
-sr:"^Clear Oubliette of Tears (.+).$"=Hoàn thành tầng $1 ở Mê Cung Đá Quý
-sr:"^\[ORB BOSSES\] Defeat (?:an? )?(.+).$"=[Orb Boss] Đánh bại $1
-sr:"^\[ORB BOSSES\] Defeat a (.+) and a (.+) pairing.$"=[Orb Boss] Đánh bại Sinister Nil và $2
-sr:"^\[GEM FLASHBACKS\] Defeat (?:an? )?(?:Lv\. \d+ )?(.+?)\.?$"=[Prism Battle] Đánh bại $1
+sr:"^\[BEGINNER'S BOOST\] Clear Main Scenario: (.+), (.+). \((\d+)/(\d+)\)$"=[Hỗ Trợ Tân Thủ] Hoàn thành Chính truyện: $1, $2  ($3/$4).
+sr:"^Clear Oubliette of Tears (.+).$"=Hoàn thành tầng $1 ở Mê Cung Đá Quý.
+sr:"^\[ORB BOSSES\] Defeat (?:an? )?(.+).$"=[Orb Boss] Đánh bại $1.
+sr:"^\[ORB BOSSES\] Defeat a (.+) and a (.+) pairing.$"=[Orb Boss] Đánh bại Sinister Nil và $2.
+sr:"^\[GEM FLASHBACKS\] Defeat a \[Vision\] (.+).$"=[Prism Battle] Đánh bại: [Ảo ảnh] $1.
+sr:"^\[GEM FLASHBACKS\] Defeat a Lv. 13 \[Vision\] (.+).$"=[Prism Battle] Đánh bại: [Ảo ảnh] $1 Lv.13.
+
+Complete all missions in the Suppression Mission.=Hoàn thành toàn bộ nhiệm vụ của Chế Áp Chiến.
+r:"^Clear Suppression Mission Area (\d+).$"=[Chế Áp Chiến - Khu vực $1] Hoàn thành tất cả nhiệm vụ.
+r:"^Clear 1 mission in Suppression Mission Area (\d+).$"=[Chế Áp Chiến - Khu vực $1] Hoàn thành 1 nhiệm vụ.
+r:"^Clear (\d+) missions in Suppression Mission Area (\d+).$"=[Chế Áp Chiến - Khu vực $2] Hoàn thành $1 nhiệm vụ.

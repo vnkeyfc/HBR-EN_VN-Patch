@@ -4,6 +4,8 @@
 [New]
 A powerful enemy from the event story has appeared in the Score Challenge!\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch mới xuất hiện tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Hồi Ức S trở lên\ncùng nguyên liệu Introjection!
 
+A new powerful enemy appears in the Score Challenge!\n\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch mới xuất hiện tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Hồi Ức S trở lên\ncùng nguyên liệu Introjection!
+
 [Old]
 A certain powerful enemy is back with a vengeance!\n\nClear missions and high-difficulty levels to receive\nS-or-above guaranteed recruitment tickets and introjection materials!=Cường địch cũ đã quay lại tại Score Challenge!\n\nHoàn thành độ khó cao và nhiệm vụ để nhận\nVé Gacha đảm bảo từ Hồi Ức S trở lên\ncùng nguyên liệu Introjection!
 
@@ -15,10 +17,17 @@ r:"^期間(\d+)$"=Giai đoạn $1
 <style\=RubyPrefixTag></style>\nRules updated=<style\=RubyPrefixTag></style>\nĐã cập nhật điều kiện mới
 難易度=Độ khó
 sr:"^(.+) \[(.+)\]$"=$1 [$2]
-敵ステータス=Chỉ số kẻ địch:
-難易度スコア=Điểm độ khó:
+敵ステータス=Chỉ số kẻ địch
+難易度スコア=Điểm độ khó
 特殊ルール選択=Lựa chọn điều kiện đặc biệt
 特殊ルールは1つのみ選択できます=Bạn chỉ được chọn 1 điều kiện đặc biệt.
 No Special Rule=<cspace\=-1px>Không có điều kiện đặc biệt
-r:"^Rule (.+)$"=<size\=75%>Điều kiện $1
+
+Rule A=<size\=75%>Điều kiện A
+Rule B=<size\=75%>Điều kiện B
+Rule C=<size\=75%>Điều kiện C
+Rule D=<size\=75%>Điều kiện D
+Rule E=<size\=75%>Điều kiện E
+Rule F=<size\=75%>Điều kiện F
+
 r:"^Score Multiplier ×(.+)$"=Hệ số điểm thưởng ×$1

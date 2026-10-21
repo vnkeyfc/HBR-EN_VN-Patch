@@ -1,0 +1,53 @@
+{
+  "Script": "Story/AC42/Day03/World/AC42_03_02_00",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head to the heliport!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00918_VBalakrishnan",
+      "Context": "Field.returnToWayPointWithMonolog:2",
+      "Original": "(The heliport is not that way.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00918_VBalakrishnan#2",
+      "Context": "Field.returnToWayPointWithMonolog:2",
+      "Original": "(The heliport is not that way.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00916_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Is it time for the mission... I never did find a different outcome to the simulation...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00917_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They will be taking us straight to the site of the elimination mission today. I should hurry to the heliport...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00919_IcOhshima",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "Yotsuha... Where did she go off to?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00920_KMaruyama",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I am curious...\\nBut I have my own role to play.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00921_MTenne",
+      "Context": "Field.talkByGayaBalloonJustOnce:1",
+      "Original": "I should stock up on more spices.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

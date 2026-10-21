@@ -1,0 +1,81 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_Live",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "In Gig Mode, you play a rhythm mini-game featuring the game's songs.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Start off by selecting a difficulty level.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.showFocusButton:4",
+      "Original": "Confirm",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Clearing each of these missions will reward you with stars.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can edit the squad formation you wish to perform this gig from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Your gig score will increase the higher your squad's rating is.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can view your squad's gig skills from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press down on the right stick to view your gig skills.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Characters will activate different skills during a performance depending on their role.\\nThe higher the rarity of a Memoria, the greater effect its skills will have.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the X button to return.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Press this button to begin your performance.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "Press the O button to begin your performance.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can move to GIG FEST from here.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:3",
+      "Original": "You can move to GIG FEST by pressing the △ button.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can now unlock a song's Easy to Hard difficulties\\nwithout using stars by simply clearing its associated story.\\nThe Expert difficulty is unlocked by clearing the song on Hard.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

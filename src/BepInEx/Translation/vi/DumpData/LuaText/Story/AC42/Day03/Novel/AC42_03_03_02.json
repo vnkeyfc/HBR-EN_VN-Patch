@@ -1,0 +1,54 @@
+{
+  "Script": "Story/AC42/Day03/Novel/AC42_03_03_02",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00949_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No enemies remaining in the area, it seems.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00950_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That just leaves the Cancer from yesterday, then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00951_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We retake experimental farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00952_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh, and I was just starting to warm up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00953_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, you got this, gals. Let's go!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00954_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00956_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00957_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do not mind me. Let us go...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

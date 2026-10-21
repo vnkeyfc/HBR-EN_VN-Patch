@@ -1,0 +1,96 @@
+{
+  "Script": "Story/AC42/Day03/Novel/AC42_03_06_02",
+  "Entries": [
+    {
+      "Key": "VC_AC42_01152_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haah, haah...haah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01153_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What da hell... We beat it easy peasy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01154_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is 31-X's coordination...our new power...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01155_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I never knew 31-X was capable of this...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01156_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your coordination exceeded all calculations...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01157_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(What is this feeling? This...exhilaration...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01158_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(This sense of connection. Where do I remember it from...?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01160_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Anyway, the recapture operation is a success!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01161_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Recapture... Right, are the crops intact?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800066_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika's spices...and grechka is alive, but...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800067_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We could not protect all of the crops...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800068_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we did pull the Cancer away from the farm and minimized our losses.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800069_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We did the best we could. Right?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800070_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maria...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800071_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dat's right. Now we just gotta phone it in with HQ and head back home!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

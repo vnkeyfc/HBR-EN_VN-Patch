@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "IIshii",
+  "CharacterName": "石井色葉",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_IIshii",
+      "Label": "IIshii_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "世界をあーし色に染め上げるッス",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Dùng màu của tuôi nhuộm cả thế giới!"
+    },
+    {
+      "Key": "VB0014_IIshii",
+      "Label": "IIshii_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うお！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_IIshii",
+      "Label": "IIshii_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なるほど",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_IIshii",
+      "Label": "IIshii_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "こういう色っすか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_IIshii",
+      "Label": "IIshii_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ガグッ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_IIshii",
+      "Label": "IIshii_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まずいっす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_IIshii",
+      "Label": "IIshii_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "色が乱れるっす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_IIshii",
+      "Label": "IIshii_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "なかなかいい色が見えたっす",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_IIshii",
+      "Label": "IIshii_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "この絵、みんなにも見てもらいたいっすね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_IIshii",
+      "Label": "IIshii_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "危なかったっす",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_IIshii",
+      "Label": "IIshii_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ああ…こういう色なんすね…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_IIshii",
+      "Label": "IIshii_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "アジダ家の世界を…もっと…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_IIshii",
+      "Label": "IIshii_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ええ、描けなくなっちゃったっす",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_IIshii",
+      "Label": "IIshii_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "いい色を見つけたんすよ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_IIshii",
+      "Label": "IIshii_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "新しい色っすね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_IIshii",
+      "Label": "IIshii_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "すっごい景色を描けたんす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_IIshii",
+      "Label": "IIshii_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "なんでもかけそうっす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_IIshii",
+      "Label": "IIshii_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "また景色がちょっと変わったっすね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_IIshii",
+      "Label": "IIshii_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "アーシの世界が広がったっす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_IIshii",
+      "Label": "IIshii_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "これで戦闘が楽になるっすね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_IIshii",
+      "Label": "IIshii_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "どんな色に変わったっすかね？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_IIshii",
+      "Label": "IIshii_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "もっと自由な色を見たいっす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_IIshii",
+      "Label": "IIshii_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "無限の可能性を感じるッス！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000729_IIshii",
+      "Label": "IIshii_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "どうすか？最後まで書き切ったっすよ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000731_IIshii",
+      "Label": "IIshii_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "アーシの新しいキャンバスの完成でーす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000730_IIshii",
+      "Label": "IIshii_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "やっぱり音は専門外っすよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_IIshii",
+      "Label": "IIshii_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "芸術は爆裂でーす！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_IIshii",
+      "Label": "IIshii_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "オーシスコ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_IIshii",
+      "Label": "IIshii_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "新たなケミストリーの爆誕っす！",
+      "OriginalSource": "Whisper large-v3, sửa tay",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0017_IIshii",
+      "Label": "IIshii_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "トロピって感じの色っすね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

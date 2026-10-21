@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "SKura",
+  "CharacterName": "蔵里見",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0034_SKura",
+      "Label": "SKura_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "五穀豊穣、刈り入れ時だね！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Vụ mùa bội thu, đến lúc thu hoạch rồi!"
+    },
+    {
+      "Key": "VB0014_SKura",
+      "Label": "SKura_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "くっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_SKura",
+      "Label": "SKura_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うざいね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_SKura",
+      "Label": "SKura_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ちっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_SKura",
+      "Label": "SKura_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "やるな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_SKura",
+      "Label": "SKura_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "はっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_SKura",
+      "Label": "SKura_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "きつねー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_SKura",
+      "Label": "SKura_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "お米の力はすごいね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_SKura",
+      "Label": "SKura_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "とっとと白飯にありつきたいよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_SKura",
+      "Label": "SKura_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "あたいにしちゃ、でこずったね。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_SKura",
+      "Label": "SKura_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "まだ早いよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_SKura",
+      "Label": "SKura_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ここで買え",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_SKura",
+      "Label": "SKura_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "あとは、茶飲んだよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_SKura",
+      "Label": "SKura_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "毎日モリモリ食べてるお米のおかげさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_SKura",
+      "Label": "SKura_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "こうやって犬飼って収穫さ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_SKura",
+      "Label": "SKura_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "まあ値なら当然の結果だよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_SKura",
+      "Label": "SKura_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "大盛りのご飯食ってこの値も満足だよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_SKura",
+      "Label": "SKura_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "いいねいいね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_SKura",
+      "Label": "SKura_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "そうこなくっちゃね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_SKura",
+      "Label": "SKura_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "あんたもやるね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_SKura",
+      "Label": "SKura_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "お米に代わる何かを食べてんだろうね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_SKura",
+      "Label": "SKura_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "またたくさん食べられちゃうよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_SKura",
+      "Label": "SKura_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "大盛りおかわりといくよ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000768_SKura",
+      "Label": "SKura_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "ふぅ、あとは精米と行こうかい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000770_SKura",
+      "Label": "SKura_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "おいおい最高のレシピで仕上げちまったね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000769_SKura",
+      "Label": "SKura_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "なんだ楽しかったのにダメだったのかい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0019_SKura",
+      "Label": "SKura_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お米は好きかい？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_SKura",
+      "Label": "SKura_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "そろそろお手製グルメの新作を作りたくなってね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_SKura",
+      "Label": "SKura_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "バックアップはあたいに任せな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_SKura",
+      "Label": "SKura_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "お前のリリック偽物のミミックそりゃ自業自得さ！地獄行きのリリック！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

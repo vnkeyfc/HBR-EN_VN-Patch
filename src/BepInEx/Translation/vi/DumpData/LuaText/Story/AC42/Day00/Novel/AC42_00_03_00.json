@@ -1,0 +1,47 @@
+{
+  "Script": "Story/AC42/Day00/Novel/AC42_00_03_00",
+  "Entries": [
+    {
+      "Context": "Adv.showWhiteTextInMiddle:0",
+      "Original": "The day of her arrival",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00000_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And that is all. The Seraph Squadron's Japan Branch welcomes you, Vritika Balakrishnan.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00001_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We expect much from your talents as youngest gold medalist in the International Mathematical Olympiad.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00002_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Haan. I am glad to be here.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00003_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You will now be shown to your assigned unit's, 31-X's room. You, please take her there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00004_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Officer",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00004_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Understood. Vritika, please, come this way.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

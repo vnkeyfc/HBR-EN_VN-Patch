@@ -1,0 +1,11 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_PremierMedalShop",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "You can exchange [Premium Tokens] for valuable items.\nPremium Tokens can be earned by clearing [Anachrony] battles.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

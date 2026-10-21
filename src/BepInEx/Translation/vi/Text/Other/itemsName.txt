@@ -1,4 +1,4 @@
-#Eternal Daphne =Thụy Hương Vĩnh Cửu 
+#Eternal Daphne =Thuỵ Hương Vĩnh Cửu 
 #sr:"^\[(.+)\] Shard$"=Mảnh Ghép [$1]
 #Recruitment (Duplicate Memoria Drawn)=<size\=80%>Gacha (Chiêu mộ trùng mảnh)
 #
@@ -26,5 +26,5 @@
 #Flashback Battles,\nOrb Bosses,\nGarden of Memories Shop, etc.=<size\=80%>Prism Battle\nOrb Boss\nCửa hàng Vườn Ký Ức,...
 #Flashback Battles\nOrb Bosses=<size\=80%>Prism Battle\nOrb Boss
 #
-#Exploration (Main Scenario)=<size\=80%>Thám hiểm (Chính Truyện)
-#Exploration (Main Scenario)\nToken Exchange=<size\=80%>Thám hiểm (Chính Truyện)\nCửa hàng Token
+#Exploration (Main Scenario)=<size\=80%>Thám hiểm (Chính truyện)
+#Exploration (Main Scenario)\nToken Exchange=<size\=80%>Thám hiểm (Chính truyện)\nCửa hàng Token

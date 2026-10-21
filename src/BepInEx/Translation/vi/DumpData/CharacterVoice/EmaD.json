@@ -1,0 +1,260 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "EmaD",
+  "CharacterName": "ヴァイオレット",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VB_Z_908500538_EmaD",
+      "Label": "EmaD_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "平気です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500539_EmaD",
+      "Label": "EmaD_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "余裕です",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500540_EmaD",
+      "Label": "EmaD_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "軽いですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500544_EmaD",
+      "Label": "EmaD_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ああっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500545_EmaD",
+      "Label": "EmaD_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "すな！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500546_EmaD",
+      "Label": "EmaD_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "痛っ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500574_EmaD",
+      "Label": "EmaD_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "勝負ありです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500575_EmaD",
+      "Label": "EmaD_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "いい汗かきました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500576_EmaD",
+      "Label": "EmaD_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "なんとか勝てました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500547_EmaD",
+      "Label": "EmaD_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "負けられない…のに…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500548_EmaD",
+      "Label": "EmaD_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ごめん…なさい…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500549_EmaD",
+      "Label": "EmaD_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ここまで…かも…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500577_EmaD",
+      "Label": "EmaD_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "私、成長できてます！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500578_EmaD",
+      "Label": "EmaD_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "まだまだ強くなってみせます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500579_EmaD",
+      "Label": "EmaD_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "努力の賜物です！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500580_EmaD",
+      "Label": "EmaD_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ここが私のスタート地点！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500583_EmaD",
+      "Label": "EmaD_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "これ、どうですか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500584_EmaD",
+      "Label": "EmaD_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "良さげです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500585_EmaD",
+      "Label": "EmaD_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "新技を習得しました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500581_EmaD",
+      "Label": "EmaD_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "乗り越えて強くなるです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_908500582_EmaD",
+      "Label": "EmaD_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "限界は超えるためにあります",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500607_EmaD",
+      "Label": "EmaD_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "やりました！クリアです！お疲れ様でした！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500609_EmaD",
+      "Label": "EmaD_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "華麗なるフィニッシュ！満点の出来ですね！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_908500608_EmaD",
+      "Label": "EmaD_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "ミスしちゃってすみません次こそは",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_EmaD",
+      "Label": "EmaD_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "任務もしっかり頑張らせていただきますね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_EmaD",
+      "Label": "EmaD_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "何をすればいいでしょうか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_EmaD",
+      "Label": "EmaD_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "様子が気になったので来ちゃいました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_EmaD",
+      "Label": "EmaD_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "宜しくお願いします",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "Script": "Story/AC42/Day02/World/AC42_02_08_01",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00696_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Why do things turn out this way? All this fighting...will only tear us apart...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400045_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I should go back and consult the commander. Perhaps she has some kind of solution...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400046_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(There is someone inside. The officer I passed earlier...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400184_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Officer",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400184_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Did something happen with 31-X? I saw them leaving with very grim looks on their faces.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400085_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's par for the course with them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400185_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Officer",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400185_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "31-X has caused so much trouble in the past... Maybe it's for the best if we dissolve the unit and reassign them elsewhere?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400086_STezuka",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, maybe...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400047_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(What? Dissolve? Reassign...?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400048_VBalakrishnan",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Ah?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907400049_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X is going to be dissolved... Reassigned... We are really being torn apart...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00698_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Again... It is going to happen again, just like before... My place to belong, 31-X...is going away...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00699_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00699_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Father? Are you going to work again? But you just came back...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00700_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00700_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Yes, I'm in a bit of a hurry... It'll probably be a while until I next get time off, so look after everyone at home for me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00701_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00701_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Father, please come home. We have not seen you for so long.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00702_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00702_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Everyone has the wrong idea about you, I'm sure!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00703_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00704_VBalakrishnan",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Vritika Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00704_VBalakrishnan",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Let us all enjoy kari together. If we do, I know we will...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00705_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00705_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "I'm sorry, Vritika...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00706_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Maganir Balakrishnan",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00706_VBalakrishnanFather",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "This is my responsibility, my duty... I have to see it through.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00710_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Shouldering responsibility all on your own... Drifting apart...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00711_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That is...the wrong way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00712_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "A number amounts to nothing on its own...but by adding and subtracting, it can become so much more.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00713_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One alone can achieve...zero...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00714_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So I have to manage these numbers...bind them together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00715_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will not be helpless, like I was back then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00716_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Two messages from Kanata... About the spices and the meeting place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00718_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I should go. I can put my faith in Mother's ultimate kari...",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

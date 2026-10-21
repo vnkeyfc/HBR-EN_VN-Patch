@@ -1,0 +1,522 @@
+{
+  "Script": "Story/Common/Quest/CReaper/Quest_Lv1_CReaper",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go find Karen!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Go to the arena!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00000_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Sup, Carole? You're looking ready for Halloween.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00001_CReaper",
+      "Context": "Adv.playCutIn:3",
+      "Original": "%^@#! This ain't a <i>costume</i>!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00002_RKayamori",
+      "Context": "Adv.playCutIn:3",
+      "Original": "I'm really getting the American experience here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00003_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Da name's Carole Reaper. I'm a superhero named after da scythe-wieldin' personification of Death itself!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00004_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Bet'cha never heard of such a <i>grim</i> hero before, huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I have though.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00006_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wha?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We got one in my squad. She fights with a scythe.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00008_CReaper",
+      "Context": "Adv.playCutIn:3",
+      "Original": "$#!%! She beat me to da punch!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00009_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Lemme spell it out for ya. 31-X's a special, elite foreign division, set up to answer emergency calls!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00010_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And we been shleppin' around da world, helpin' people left n' right.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No way! You really <i>are</i> a hero!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00012_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Damn straight. And me, I'm 31-X's leader, I'm a real deal <i>super</i> superhero!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00013_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So cool! That makes you a role model to superheroes everywhere!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00014_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pile on my super-unique <i>grim</i> angle with dat!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00015_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, my squad's scythe-user is pretty grim too. That part's old news.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00016_CReaper",
+      "Context": "Adv.playCutIn:3",
+      "Original": "%^@#! You gotta get her out here!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00017_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We gonna figure out which one's da <i>true</i> reaper, once n' for all!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought fights between squads wasn't allowed?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00019_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of coise. We gonna settle dis fightin' <i>together</i>.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00020_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dat means you too. So's you can judge, up close n' poisonal, which of us is da scythier gal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00021_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure. In that case, you go on ahead and wait at the arena. We'll meet you there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00022_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "There you are, Karerin.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00023_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, what can I do for you, Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00024_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Come to the arena with me. There's this scythe-user who's itching for a match.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00025_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hold on a sec. Let me check with Karrie.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00027_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She asked if it was gonna be a deathmatch.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00028_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No. We're just gonna use the simulation to check out your scythe skills.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00029_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "She doesn't seem very into it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00030_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "C'mon, girl... she's waiting for us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00031_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Really? Well, I'll try to convince Karrie then.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thanks.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00033_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here we are.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00034_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, dis is your scythe gal?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00035_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I am. Nice to meet you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00036_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What a letdown. <i>Dat’s</i> what you call \"grim\"?! She's cute as a button! Ah well, let's get dis ova with.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00037_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm Carole Reaper. 31-X's fearless leader n' superhero!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00038_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'm Karen Asakura.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00039_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And by night she's...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00040_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eee heh...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00041_Karen",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hi hyeh hyeh hyeh! Heeere's Karrie!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00042_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Whassat?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, let's rumble.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00044_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you think?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00045_CReaper",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Dat gal ain't right! She's <i>too</i> grim!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00046_CReaper",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Ain't no way I'm lettin' her\nmake off with my whole deal!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00047_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Careful, her split personality is a legit killer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00048_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "How's a gal like her s'posta be one of the good guys?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey, it's a sign of the times. The army ain't no cakewalk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00050_CReaper",
+      "Context": "Adv.playCutIn:3",
+      "Original": "%^@#! Japan's crazy!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Somebody's a potty mouth...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00052_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cultural differences! Da way I see's it, you people're a little too reserved.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00053_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "'Nuff talk though. Lay it on us. Who's worthy of the scythe?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:0",
+      "Original": "Who is worthy of the scythe?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.question:1",
+      "Original": "Carole|Karrie",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00054_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One vote for the raw power of Carole, the American Hero.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00055_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Good head on your shoulders.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00056_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I appreciate seein' another scythe-user in action. Damned good fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00057_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "One vote for Karrie's insanity.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00059_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Still... I appreciate seein' another scythe-user in action, up close n' personal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00060_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Speakin' as a scythe-user, damned good fight.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00061_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I guess we can say all's well that ends well.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00062_KAsakura",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Karrie got a kick out of it too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_CReaper_Quest_00063_CReaper",
+      "Context": "Adv.playCutIn:3",
+      "Original": "What kinda kicks is she gettin'?! Scary stuff!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_03201_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Maybe I should invite Carole to join me for a soak.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:1",
+      "Original": "Invite her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:2",
+      "Original": "Invite|Maybe not",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_03202_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey Carole, wanna go to the baths with me?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_03203_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of coise. Y'know what dey say about bein' in Rome!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Common_03204_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aren't you from America, though...?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_IIshii_Quest_00076_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Nah, I'll bathe alone today.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00000_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew, dat's nice!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(She's even wearing her mask in the bath...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00002_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I heard that in Japan, you get to know each other by bathin' in da nude.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(But putting that aside...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh my...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00006_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Somethin' 'bout how you strip it all away 'till there's nothin' left to hide, n' you can talk serious.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wonderful...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00008_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can't say we got a bath culture like dis in America. 'S a whole new world for me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00009_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Great...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00010_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Somethin' wrong?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00011_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sorry... I'm not used to bathing with white girls...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's... wonderful. Just great.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00013_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Thank you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_CReaper_Lv1_Novel_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You really do play it cool!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

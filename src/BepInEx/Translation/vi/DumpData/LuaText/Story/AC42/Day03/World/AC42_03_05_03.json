@@ -1,0 +1,708 @@
+{
+  "Script": "Story/AC42/Day03/World/AC42_03_05_03",
+  "Entries": [
+    {
+      "Key": "VC_AC42_01010_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I think the Cancer lost sight of us...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01011_CSkopovskaya",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Is moving in opposite direction...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01012_CReaper",
+      "Context": "Adv.talkNoTap:1",
+      "Original": "Phew... I think we're in da clear for now...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01013_LShanhua",
+      "Context": "Adv.playCutIn:3",
+      "Original": "Vritika! What were you thinking back there?! \\nWere you trying to get yourself killed?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01014_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Calm down, Yingxia.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01015_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you saying?! She could very well have died back there!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01016_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yingxia... We should listen to Vritika.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01017_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika is wise. She wouldn't rush into action thoughtlessly. Surely you had some kind of plan?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01018_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "There was...no plan. I only wanted to stop its attack...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01019_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What?! That's why you threw all caution to the wind?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01020_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yingxia, cool your jets.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01022_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika... Yotsuha told us about your past before we set out today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01023_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01024_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yingxia, we promised...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01025_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have no choice but to tell her. There are others who care about her as much as we do.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01026_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We were quite torn as to whether to tell you or not. She asked us to make sure you don't push yourself too hard.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01027_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Your country was in famine because of Cancer attack, and you lost mother and family because of it... Is why you want so much to protect this place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01028_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And we wanna protect it as much as you do. But if we get reckless, we gonna lose our chance to protect lots of other important stuff down the line.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01029_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Abandoning the farm would be unfortunate, but it wouldn't lead to a food shortage.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01030_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We can grow spice and grechka in other place.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01031_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So we must retreat now. We cannot lose you, Vritika.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01033_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No... That is not why...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01034_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What do you mean?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01035_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Of course...losing my mother and seeing my family fall apart hurt...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01036_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And the spices and grechka we worked so hard to raise can become meals that will bring smiles to people.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01037_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But there is something much more important than that...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01038_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is where 31-X's feelings united for the first time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01042_IRedmayne",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Ah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01040_LShanhua",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Nn?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01039_CReaper",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Huh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01041_MdAngelis",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Huh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01043_CSkopovskaya",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01044_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "At first, I was very cautious around each and everyone of you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01045_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were too reckless, too assertive, too disorganized.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01046_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You argued at the drop of a hat, and your perspectives were too scattered...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01047_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You may be strong in a fight, but you have no sense of unity...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01048_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Carole made me anxious. She acted like a superhero despite being our captain, and she kept justifying her actions with nonsense reasoning.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01049_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Nonsense?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01050_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I was scared of Maria. She kept saying things like \"kill\" and \"die.\" I did not believe she could hold a normal conversation.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01052_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yingxia only ever thought of herself, but for how hard she tries to unite the group, she sows the most discord. She is a sexual egoist.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01053_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Egoist?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01054_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I doubted all of Irene's claims to the title of master detective. She always got carried away and made blunders.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01055_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "H-Huuuh?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01056_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Charl was the most inexplicable person in the group. She kept saying ominous things, but then she started making everything about Ruka... Maria scared me, but Charl was scary in another sense.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01057_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ruka is still most important.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01058_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But you were all...nothing like what I thought!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01059_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "When you tried to save Charl, you were like a true superhero, Carole!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01060_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "No one was more enraged at the thought of leaving Charl behind than you were, Maria!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01061_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "And no one regretted or was more tormented by the choice to do so than you, Yingxia!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01062_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "You came running to help, even though you were so terribly hurt!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01063_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "And Charl, you protected us, even at the cost of your own life!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800058_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were all kinder than I knew!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01064_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We are not just a group cobbled together! We have our own special bond!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01065_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And it was this place that made me realize it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01066_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "In the past, I...I was too timid to keep the family I loved so much...to keep our bonds from falling apart!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01068_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "And 31-X was...my new bond...my new place to be!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01069_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So I cannot lose this place...the place where our bonds were forged...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01071_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maria, I want you to hit me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01072_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01073_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "F○CK!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01074_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ya didn't have to put all your strength into it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01075_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You are the one who told me to hit you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01076_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Now, hit me, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01077_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maria...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01078_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I was imposing on you, in my own way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01079_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I thought that since you accept me, I can take on anyone.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01080_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But we are getting nowhere like this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01081_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, you're right. We gotta get stronger.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01082_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So hit me. I need to settle this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01083_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright... Grit your teeth!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01084_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Guh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01085_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do you reckon we should join in on this?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01086_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No need.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01087_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Quite right. Vritika's words struck our hearts harder than any blow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01088_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes, this is where we endured great hardships together, and that pain is what united us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01089_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This place is our beginning...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01090_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You harbored such passionate feelings in your heart, Vritika... Even my detective's eye failed to notice them.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01091_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01092_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You opened our eyes, Vritika. We're beatin' dis thing. We'll do it, and protect the place where we were born!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01093_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01094_LShanhua",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "So, how do we go about beating this Cancer?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01095_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Well...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01096_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We gotta coordinate. It's the only way.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01097_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Agreed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01098_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carole... Maria...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01099_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If we coordinate, we can beat that Cancer, yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01100_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01101_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is all I need to hear. I put my faith in you, Vritika.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01102_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kinda feels like you farmed all the aura I was s'posed to get.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01103_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Maria was the biggest free spirit in the group. If she's willing to play along, we'll be fine.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01104_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmph. I will kill you later.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01105_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Didn't we JUST have a big bonding moment?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01106_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Dat's what you get for sayin' one word too many.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01107_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But...this is 31-X.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01108_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "True enough, we might all be united here, but we are still a scattered mess.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01109_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. We might not be the most united group, but dis place is proof of our bonds!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01110_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01111_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We have never managed to execute a coordination attack... Attempting one at this point would be a trial by fire. Can we do it?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01112_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're askin' us, Vritika?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01113_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Eh?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01114_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But yeah...I guess it's hard to tell what the other gals are thinkin'.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800059_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika, your speech there brought us together.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01115_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My speech...brought you together?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01125_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Heh, finally, I get to kill that Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01126_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Just don't get so carried away you forget about the coordination attack.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01127_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Strange... I am excited, somehow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01128_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is no game.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01129_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But I feel her. Somehow, I feel it in my bones, we got it this time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800060_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Carole... Everyone...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800061_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So Vritika, we're countin' on you to lead us.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800062_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. I already have our goal calculated, so I'll need everyone in 31-X to clear the path.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800063_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "31-X, let us do this together!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01133_IRedmayne",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01131_LShanhua",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Mhm!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800064_CReaper",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Okay!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01132_MdAngelis",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Yes!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_01135_CSkopovskaya",
+      "Context": "Adv.bubbleAngerAsync:1",
+      "Original": "Da.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

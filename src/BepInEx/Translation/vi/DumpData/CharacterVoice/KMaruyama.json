@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "KMaruyama",
+  "CharacterName": "丸山奏多",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_KMaruyama",
+      "Label": "KMaruyama_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "センスの違いを見せてやる",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Ta sẽ cho ngươi thấy khác biệt về cảm thụ!"
+    },
+    {
+      "Key": "VB0014_KMaruyama",
+      "Label": "KMaruyama_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ふ、ふん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_KMaruyama",
+      "Label": "KMaruyama_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ど、どうだ？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_KMaruyama",
+      "Label": "KMaruyama_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ふっふっふっふっふっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_KMaruyama",
+      "Label": "KMaruyama_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ふぅっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_KMaruyama",
+      "Label": "KMaruyama_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "うわああああああ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_KMaruyama",
+      "Label": "KMaruyama_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "痛いよー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_KMaruyama",
+      "Label": "KMaruyama_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ふん、僕のセンスをもってすれば当然だな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_KMaruyama",
+      "Label": "KMaruyama_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "柳お茶の準備を頼むぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_KMaruyama",
+      "Label": "KMaruyama_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "か、勝てたぞ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_KMaruyama",
+      "Label": "KMaruyama_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "僕のセンスをもってしても",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_KMaruyama",
+      "Label": "KMaruyama_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "お家に帰りたい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_KMaruyama",
+      "Label": "KMaruyama_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ヤナギ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_KMaruyama",
+      "Label": "KMaruyama_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "やったやったー別に嬉しいわけじゃないぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_KMaruyama",
+      "Label": "KMaruyama_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "やったやったーはっ柳に見られていない助かった",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_KMaruyama",
+      "Label": "KMaruyama_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やったやったー！あ、柳、褒めろ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_KMaruyama",
+      "Label": "KMaruyama_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "やったやったー！この程度のセンスで満足しないぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_KMaruyama",
+      "Label": "KMaruyama_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "自分のセンスが怖いね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_KMaruyama",
+      "Label": "KMaruyama_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "見てくれ、ヤナギ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_KMaruyama",
+      "Label": "KMaruyama_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "僕が持つにふさわしい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_KMaruyama",
+      "Label": "KMaruyama_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "僕のセンスで使いこなしてやるさ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_KMaruyama",
+      "Label": "KMaruyama_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "僕はまだまだ成長し続けるぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_KMaruyama",
+      "Label": "KMaruyama_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "僕のセンスに限界はない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000674_KMaruyama",
+      "Label": "KMaruyama_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "なんだ、もう終わりなのか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000676_KMaruyama",
+      "Label": "KMaruyama_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "僕にかかれば当然の結果だ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000675_KMaruyama",
+      "Label": "KMaruyama_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "いや、いやなぎぃぃぃぃぃぃぃぃぃぃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP0003_KMaruyama",
+      "Label": "KMaruyama_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ふふん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_KMaruyama",
+      "Label": "KMaruyama_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "僕はいつまでもお前に守られるだけの存在じゃないぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_KMaruyama",
+      "Label": "KMaruyama_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ぼ、僕は何もしていないぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_KMaruyama",
+      "Label": "KMaruyama_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "ああ、僕のセンスの見せ所だな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

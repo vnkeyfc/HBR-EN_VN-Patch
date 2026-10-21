@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "YShirakawa",
+  "CharacterName": "白河ユイナ",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_YShirakawa",
+      "Label": "YShirakawa_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "ノブレス・オブリージュ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Noblesse Oblige."
+    },
+    {
+      "Key": "VB0014_YShirakawa",
+      "Label": "YShirakawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ん",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_YShirakawa",
+      "Label": "YShirakawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "おっと",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_YShirakawa",
+      "Label": "YShirakawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "なんてことない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_YShirakawa",
+      "Label": "YShirakawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "えへっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_YShirakawa",
+      "Label": "YShirakawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まだ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_YShirakawa",
+      "Label": "YShirakawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "これくらい？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_YShirakawa",
+      "Label": "YShirakawa_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "人類は必ず勝利する",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_YShirakawa",
+      "Label": "YShirakawa_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "どんな困難も乗り越えてみせよう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_YShirakawa",
+      "Label": "YShirakawa_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "まだまだ、鍛錬が足らないな。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_YShirakawa",
+      "Label": "YShirakawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "すまない、みんな。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_YShirakawa",
+      "Label": "YShirakawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "ここまでか",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_YShirakawa",
+      "Label": "YShirakawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "まだ道半ばだというのに",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_YShirakawa",
+      "Label": "YShirakawa_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "人々の安寧のため、この身捧げよう。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_YShirakawa",
+      "Label": "YShirakawa_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "この剣と共に、どこまでも行こう。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_YShirakawa",
+      "Label": "YShirakawa_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "私にとっては、まだまだ通過点だ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_YShirakawa",
+      "Label": "YShirakawa_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "この身、朽ち果てるまで。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_YShirakawa",
+      "Label": "YShirakawa_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "手応えがある",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_YShirakawa",
+      "Label": "YShirakawa_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "さらなる強さを",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_YShirakawa",
+      "Label": "YShirakawa_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "頼もしい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_YShirakawa",
+      "Label": "YShirakawa_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "どんどん強くなってくれ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_YShirakawa",
+      "Label": "YShirakawa_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "これが私の力か",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_YShirakawa",
+      "Label": "YShirakawa_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "まだまだ強くなれそうだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000434_YShirakawa",
+      "Label": "YShirakawa_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "うまくいったみたいだな",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000436_YShirakawa",
+      "Label": "YShirakawa_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "お前たちはすごいな。私はついていくだけで必死だったぞ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000435_YShirakawa",
+      "Label": "YShirakawa_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "すまない、わかっている。私のせいだ。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_YShirakawa",
+      "Label": "YShirakawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "たまにはこういうのも悪くないだろう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_YShirakawa",
+      "Label": "YShirakawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "私は命じたぞ。応答は。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_YShirakawa",
+      "Label": "YShirakawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "やるなさすがだ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_YShirakawa",
+      "Label": "YShirakawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "すまない。私のわがままに付き合ってくれるか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

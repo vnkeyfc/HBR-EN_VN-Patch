@@ -19,7 +19,7 @@
       "Enabled": true,
       "StartSecond": 10,
       "EndSecond": 10.932,
-      "OriginalText": "When I was a kid                                                                                                                                (Deviation!)",
+      "OriginalText": "When I was a kid\n(Deviation!)",
       "Text": "",
       "Style": {}
     },
@@ -28,7 +28,7 @@
       "Enabled": true,
       "StartSecond": 10.9,
       "EndSecond": 12.035,
-      "OriginalText": "I got so invested in things                                                                                                                                (Deviation!)",
+      "OriginalText": "I got so invested in things\n(Deviation!)",
       "Text": "",
       "Style": {}
     },
@@ -46,7 +46,7 @@
       "Enabled": true,
       "StartSecond": 13.1,
       "EndSecond": 14.132,
-      "OriginalText": "I got so invested in things                                                                                                                                (Execution!)",
+      "OriginalText": "I got so invested in things\n(Execution!)",
       "Text": "",
       "Style": {}
     },
@@ -55,7 +55,7 @@
       "Enabled": true,
       "StartSecond": 14.1,
       "EndSecond": 15.326,
-      "OriginalText": "But now that I'm an adult                                                                                                                                (Execution!)",
+      "OriginalText": "But now that I'm an adult\n(Execution!)",
       "Text": "",
       "Style": {}
     },
@@ -73,7 +73,7 @@
       "Enabled": true,
       "StartSecond": 16.5,
       "EndSecond": 17.526,
-      "OriginalText": "But now that I'm an adult                                                                                                                                (Obstruction!)",
+      "OriginalText": "But now that I'm an adult\n(Obstruction!)",
       "Text": "",
       "Style": {}
     },
@@ -82,7 +82,7 @@
       "Enabled": true,
       "StartSecond": 17.5,
       "EndSecond": 18.829,
-      "OriginalText": "It's like my emotions died                                                                                                                                (Obstruction!)",
+      "OriginalText": "It's like my emotions died\n(Obstruction!)",
       "Text": "",
       "Style": {}
     },
@@ -100,7 +100,7 @@
       "Enabled": true,
       "StartSecond": 21.3,
       "EndSecond": 25.428,
-      "OriginalText": "It's like my emotions died                                                                                                                                (Someday people will become adults without denial!)",
+      "OriginalText": "It's like my emotions died\n(Someday people will become adults without denial!)",
       "Text": "",
       "Style": {}
     },
@@ -118,7 +118,7 @@
       "Enabled": true,
       "StartSecond": 26.5,
       "EndSecond": 33.033,
-      "OriginalText": "Give them back!                                                                                                                                (We need to regain our childhood innocence!)",
+      "OriginalText": "Give them back!\n(We need to regain our childhood innocence!)",
       "Text": "",
       "Style": {}
     },

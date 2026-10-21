@@ -1,0 +1,438 @@
+{
+  "Script": "Story/Common/Quest/YShirakawa/Quest_Lv1_YShirakawa",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Pick up 3 pieces of trash on Main Street!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Pick up 2 more pieces of trash on Main Street!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Pick up 1 more piece of trash on Main Street!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Return to Yuina!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00000_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Well, if it isn't the leader of Squad 30-G. Is something the matter?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00001_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. Something urgent must have come up, because someone left their half-eaten garbage out everywhere.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00002_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If you help me clean up, in return, I'd be happy to help with anything troubling you. What do you say?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's a deal!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00004_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's divide and conquer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00005_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You take the area by the cafeteria entrance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00006_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Understood!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00007_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'd like you to pick up the trash near the cafeteria entrance.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00008_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "(I caught...some trash!)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00009_RKayamori",
+      "Context": "Adv.kayamoriTalk:0",
+      "Original": "Better head back.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00010_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wonderful, it's looking spick-and-span. You were a big help.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00011_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "As promised, I'll help you out with something too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00012_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hmmm...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00013_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I'll solve any issue you've got. Maybe you're having trouble with your Seraph? Struggling with training?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00014_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, not really.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00015_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then, maybe some friction with the girls in your squad?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00016_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "None of that either.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00017_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What about something delicate? The kind of problem you can't talk to anyone else about.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00018_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You really signing yourself up for that?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00019_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Certainly. Tell me anything at all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00020_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What if I told you I had an...unsatisfied desire?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00021_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Urk.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00022_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Urk?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00023_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't let it get to you, Yuina Shirakawa!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00024_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's my role to hear out anyone on anything and to help those in need!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00025_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Pursuing that ideal has taught me so much in my days here, I thought, and yet...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00026_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see. Are you, by any chance, attracted to people of the same gender?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00027_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhmm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00028_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I see... Ahem. Well, that's just part of who you are. It's nothing abnormal.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00029_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Everyone has their own interests. I say you should remind yourself that you're not the only one who's different.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00030_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The love we feel for another human being transcends the opinions of others, including their approval or disapproval. We're all human, after all.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00031_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's why, no matter how peculiar you think your love may be, it's perfectly acceptable. Believe in yourself.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00032_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So, believe in myself, and tell her how I feel?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00033_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "W-Wait! Let's not be hasty. As your feelings are particularly unique, there's a possibility they may be misunderstood.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00034_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So I <i>am</i> weird. Knew it...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00035_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, that's not what I'm saying! Whoever you love, I'll support you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00036_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's why I want you to tell me. <i>Only</i> me.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00037_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Don't say things like that to me...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00038_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Unless you really want me to fall for you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00039_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "*gasp*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00040_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Can I?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00041_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "O-O-Oh goodness, she... D-Don't get flustered, Yuina Shirakawa!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00042_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Y-You may!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00043_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yay! Looking forward to our happy life together forever.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00044_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "W-We aren't dating!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00045_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Wow, kicked to the curb.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00046_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "B-But even I don't know how my feelings may change in the future!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00047_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So let's...just be friends for now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00048_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Okay, Kayamori?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00049_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You mean Ruka. Call me Ruka.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00050_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sure. Okay, Ruka?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_YShirakawa_Quest_00051_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Works for me, Yuina!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_01958_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Maybe I should invite Yuina to join me for a soak.)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:1",
+      "Original": "Invite her?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Bath.BathQuestion:2",
+      "Original": "Invite|Maybe not",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_01959_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um... Would you care to join me in the bath?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_01960_v002_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh, Ruka. Thanks for the help today. Why don't we continue our chat in the bath?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_01961_v002_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Sounds great, Yuina!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Quest_Lv1_IIshii_Quest_00076_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "(Nah, I'll bathe alone today.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00000_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I've noticed you're calling me \"Yuina.\"",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00001_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yup. That's you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00002_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Well, yes, but no one else around calls me that. We aren't in high school here, you know.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00003_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Come onnn, I wanna call you Yuina-senpaaaiii!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00004_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I-I'm not telling you to stop. I'm just observing that...no one has called me that yet.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00005_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then I can be first!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00006_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Uh, certainly. No rules against that. Call me whatever you wish.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00007_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're a bottomless well of kindness.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00008_RKayamori",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Also, when you take it off... Just wow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_YShirakawa_Lv1_Novel_00009_YShirakawa",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hey! You can't go around saying things like that!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

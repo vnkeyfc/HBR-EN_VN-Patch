@@ -1,0 +1,16 @@
+{
+  "Script": "Jamaisvu/Tutorial/Garden_Tutorial_Option",
+  "Entries": [
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "You can adjust the controls from the mePad's Options menu.",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Tutorial.setMessage:0",
+      "Original": "Try checking which keys are available for use here.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

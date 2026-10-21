@@ -1,0 +1,95 @@
+{
+  "Script": "Story/AC42/Day01/Novel/AC42_01_08_00",
+  "Entries": [
+    {
+      "Key": "VC_Z_906800021_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Average timing error for each member...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907100018_Vbalakrishnan#2",
+      "Context": "Adv.AddBackLog:1",
+      "Original": "(Carole: 2.7... Maria: 3.4... Yingxia: 1.3... Irene: 0.6... Charl: 1.1...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "Adv.talkAllInMonolog:2",
+      "Original": "(Carole: 2.7... Maria: 3.4... Yingxia: 1.3... Irene: 0.6... Charl: 1.1...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00304_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Alright, gals, you're on R&R from now. I'll go file our report with the Commander.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00305_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let us make this work tomorrow.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00306_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were kind of the one who disrupted our coordination today, though?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00307_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00308_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "L-Let's, uh, work hard tomorrow too! Frightfully sorry!!!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00309_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I wish to see Ruka... She is there.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00310_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I cannot afford to let my dignity as a tactician falter... I shall go to the arena.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00311_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(If I define everyone's hunger as <i>h</i>, and their irritation value as <i>i</i>...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800022_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(I can calculate their discomfort index, <i>u</i>, to figure out the variation in their timing error...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00312_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "My? When did we return to base? No one woke me up today.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00313_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This must be because of the day's discord... I thought to ask them for advice about how to solve this problem, but it seems that is off the table.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00314_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I shall tackle this problem over dinner.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "SSakuraba",
+  "CharacterName": "桜庭星羅",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_SSakuraba",
+      "Label": "SSakuraba_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "星の導きがあらんことを",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Hỡi các vì sao hãy dẫn lối."
+    },
+    {
+      "Key": "VB0014_SSakuraba",
+      "Label": "SSakuraba_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "えへへ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_SSakuraba",
+      "Label": "SSakuraba_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "わっ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_SSakuraba",
+      "Label": "SSakuraba_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "これで…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_SSakuraba",
+      "Label": "SSakuraba_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "にゅぅぅぅぅぅぅぅぅぅぅぅ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_SSakuraba",
+      "Label": "SSakuraba_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_SSakuraba",
+      "Label": "SSakuraba_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ダメ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_SSakuraba",
+      "Label": "SSakuraba_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "占い通りの結果でした",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_SSakuraba",
+      "Label": "SSakuraba_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "星の光はすべてを見抜くのです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_SSakuraba",
+      "Label": "SSakuraba_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "占いも時にあてにならないもの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_SSakuraba",
+      "Label": "SSakuraba_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "これか…運命…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_SSakuraba",
+      "Label": "SSakuraba_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "申し訳ございません",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_SSakuraba",
+      "Label": "SSakuraba_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "運命の改変は…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_SSakuraba",
+      "Label": "SSakuraba_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "あなたもよーく働いてくれました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_SSakuraba",
+      "Label": "SSakuraba_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "すべては星の導き通り",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_SSakuraba",
+      "Label": "SSakuraba_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "水晶の輝きがマックスに",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_SSakuraba",
+      "Label": "SSakuraba_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ここまで来れたのもあなたのおかげです。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_SSakuraba",
+      "Label": "SSakuraba_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "嬉しいものです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_SSakuraba",
+      "Label": "SSakuraba_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "ありがたくちょうだいします。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_SSakuraba",
+      "Label": "SSakuraba_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "良き者ですね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_SSakuraba",
+      "Label": "SSakuraba_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "私を助けて",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_SSakuraba",
+      "Label": "SSakuraba_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "新たな未来が見えます",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_SSakuraba",
+      "Label": "SSakuraba_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "さらに強くなれると",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000107_SSakuraba",
+      "Label": "SSakuraba_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "最後まで演奏することができました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000109_SSakuraba",
+      "Label": "SSakuraba_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "まさかの100%…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000108_SSakuraba",
+      "Label": "SSakuraba_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "当たらぬもはっけ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_SSakuraba",
+      "Label": "SSakuraba_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "1GPになります",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_SSakuraba",
+      "Label": "SSakuraba_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "おすすめは恋占いです",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_SSakuraba",
+      "Label": "SSakuraba_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "見えました",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_SSakuraba",
+      "Label": "SSakuraba_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "運命の人とめぐり逢えましたか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

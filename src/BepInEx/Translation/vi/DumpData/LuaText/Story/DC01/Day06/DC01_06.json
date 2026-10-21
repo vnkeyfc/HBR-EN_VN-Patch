@@ -1,0 +1,11 @@
+{
+  "Script": "Story/DC01/Day06/DC01_06",
+  "Entries": [
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Gameplay will resume from the last checkpoint.",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

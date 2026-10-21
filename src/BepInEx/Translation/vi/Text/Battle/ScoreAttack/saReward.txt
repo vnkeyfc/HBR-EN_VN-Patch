@@ -1,5 +1,5 @@
 スコア：=Điểm số :
-達成=<size\=80%>Đạt được
+達成=<size\=80%><cspace\=-2px>Hoàn thành
 ループ報酬=Thưởng lặp
 ハイスコア=Điểm cao nhất
 累計スコア=<size\=75%>Điểm tích luỹ

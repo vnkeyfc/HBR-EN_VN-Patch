@@ -1,0 +1,78 @@
+{
+  "Script": "Story/AC42/Day03/Novel/AC42_03_03_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00922_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "All right, gals. As you all know, we're headin' out to liberate the experimental farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00923_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Drone footage indicates that, just like yesterday, the Cancer is still fortified within the farm, with smaller Cancers patrolling the area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00924_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "When we fought it yesterday, we ended up surrounded while struggling with the main Cancer. So this time, we should focus on eliminating the smaller ones.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00925_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will handle it. Consider every last one of them killed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00926_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Also, HQ analyzed yesterday's combat and gave us a writeup on da new Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00927_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Like you saw yesterday, it's all lubed up with slime that blocks attacks. We gotta do somethin' about that.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00928_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Kinda looks like the slime regenerates on its own, but not instantly. It needs time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00929_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So on this attempt, we will employ Irene's and Charl's long-range attacks to lure it into protracted battle.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00930_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Their ranged fire will whittle down the slime and lure it out of the farm. Once it is exhausted, Carole and Maria will ambush it and finish it off!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00931_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This is an emergency, so we gonna hold off on the coordination attack thing. Gotta go with the old reliable this time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00932_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...I understand.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00939_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let's do dis, 31-X!",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

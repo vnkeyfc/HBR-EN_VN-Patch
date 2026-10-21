@@ -1,0 +1,488 @@
+{
+  "Script": "Story/AC42/Day01/Expedition/AC42_01_03_01",
+  "Entries": [
+    {
+      "Context": "SetPeriodText:0",
+      "Original": "Head for the Experimental Farm!",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Suspend the event and\\nreturn to the home screen?",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "None:None",
+      "Original": "Experimental Farm Area",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800010_IRedmayne",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Cancer spotted ahead. Four hostiles!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800011_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "A chance to test our coordination.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800012_CReaper",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Roger that! Let's do it!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00157_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Let us take the last one with a coordinated attack.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00158_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Charl shoots first, followed by Yingxia landing her attack 2.3 seconds later, Carole at 5.5 seconds, then Maria at 8.1 seconds. Try to keep to this image.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00159_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Irene, be ready to offer covering fire at any time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00160_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Confirmed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00161_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then Charl, please do the needful.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00162_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Da.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00164_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Here I go! Hah!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00166_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Followin' up!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00167_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Outta the way, Yingxia!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800013_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What are you stalling for?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00168_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You're going too fast!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00169_CReaper#2",
+      "Context": "Adv.showCutInV2:1",
+      "Original": "F○CK!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800014_MdAngelis#2",
+      "Context": "Adv.showCutInV2:1",
+      "Original": "I will kill you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00170_LShanhua",
+      "Context": "Adv.showCutInV2:1",
+      "Original": "Nuooooh!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00171_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Aaah... Carole, Yingxia, and Maria bumped into each other and are grappling on the ground...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00174_CReaper",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Oh... Please don't tug on my mask...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00175_LShanhua",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Wh-Who did that?! Who groped my thighs just now?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00176_MdAngelis",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Do not touch my chest! I will kill you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00177_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Irene, please provide covering fire.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00178_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "R-Roger!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00179_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Phew, I eliminated the Cancer.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00183_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "F○CK DIS SHIT! I got caught off guard!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00184_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, I should be saying that! Were you trying to kick me AND the Cancer?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00185_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It's cuz you took to long to pull back!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800015_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Do it properly.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00186_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You were clearly moving too quickly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00187_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...Arey. Do you think this is a game?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800016_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Or are those things dangling from your chests making it too hard to move?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00188_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "V-Vritika's actually pissed!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00189_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Her expression has not changed, but the glare in her eyes is boring into me...!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00190_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yingxia's retreat was 1.2 seconds too slow, while Carole was 2.7 seconds early and Maria was 4.1 seconds too quick to strike.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00191_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The overall deviation resulted in this outcome.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00192_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh... I can't argue with the numbers...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00193_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Next time! We will get it right next time!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00194_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Ugh. This is misery.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00197_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(In my calculations, we pull this off perfectly...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00202_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Did my calculations overlook some kind of variable?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00203_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Impossible. There is always some deviation in the timing that throws the attack off.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800017_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(At first I thought of using only the three frontliners, but Irene's covering fire is too quick and our team ends up in Charl's line of fire, which keeps her from firing...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200095_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(If the speed of a successful coordination attack is <i>s</i>, timing is <i>t</i>, our required combat capability will be <i>p</i>...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00205_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(No matter how I calculate it, given their individual combat prowess, they should be able to pull it off with ease... Is the dispute this morning the cause, then?)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00206_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(No... Surely that could not be why...)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00207_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(...But. It is plausible.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00208_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika? Are you off in the world of kari?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00209_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00210_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But Carole, Maria, Yingxia. Please make up.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00211_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Where's this comin' from?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00212_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "According to my calculations, you should be able to execute this.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00213_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "The fact it is unsuccessful indicates some other variable at play.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00215_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I suspect that variable is this morning's argument.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00216_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "They argued?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00217_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You asked about that at first, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00218_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "But how are we supposed to make up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00219_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Say you are sorry.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00223_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Is there a problem?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00224_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "No, it's just... Making up like kindergartners, at our age, it feels a bit...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00225_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Does this not mean if you cannot do it, you are lesser than kindergartners, then?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00226_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Fine! Maria, Yingxia, sorry! I admit I was bein' kinda stubborn.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00227_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "M-Mhm! True! I will admit I was being hasty, as well!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00228_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Hah... Pizza is delicious, but hamburgers and Chinese taste good, too.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00229_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "That's what you were hung up on?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00230_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will kill you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00231_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Frightfully sorry! You're right, pizza, hamburgers, and Chinese are all delicious!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00232_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...But why isn't anyone apologizing for insulting English cuisine?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00233_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Cancer, incoming.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00234_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Then let us try our level best one more time.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00235_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, let's go, gals!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00236_IRedmayne",
+      "Context": "Adv.playCutIn:3",
+      "Original": "When do I get my apology?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00237_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Enemy eliminated... No good. The numbers have not changed.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00238_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "What was that timing back there?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00239_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "F○CK!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00240_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "I will kill you!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00241_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "So! Can you apologize to me, too?!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00242_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Very strange... My calculations indicate this should have gone better...)",
+      "Vietnamese": ""
+    },
+    {
+      "Context": "UI.showMessageDialog:0",
+      "Original": "Continuing beyond this point will cause the story to progress. Proceed?",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

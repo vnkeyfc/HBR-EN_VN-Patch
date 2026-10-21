@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "AliceA",
+  "CharacterName": "立華かなで",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP_Z_038000100_AliceA",
+      "Label": "AliceA_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "ガードスキル・サモンセラフ",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Guard Skill: Triệu hồi Seraph."
+    },
+    {
+      "Key": "VB_Z_038000038_AliceA",
+      "Label": "AliceA_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "大したことない",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000039_AliceA",
+      "Label": "AliceA_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "うっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000040_AliceA",
+      "Label": "AliceA_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "まだ平気",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000044_AliceA",
+      "Label": "AliceA_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "あははは。",
+      "OriginalSource": "Whisper large-v3 (prompt)",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000045_AliceA",
+      "Label": "AliceA_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "きゃっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000046_AliceA",
+      "Label": "AliceA_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "まずい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000078_AliceA",
+      "Label": "AliceA_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ガードスキルオフ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000079_AliceA",
+      "Label": "AliceA_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "なんてかっこいいの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000080_AliceA",
+      "Label": "AliceA_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "あら、こんなに苦戦するなんて。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000047_AliceA",
+      "Label": "AliceA_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "死ぬことなんてあるの？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000048_AliceA",
+      "Label": "AliceA_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "来世で会いましょう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000049_AliceA",
+      "Label": "AliceA_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "なんじゃ、こりゃ…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000081_AliceA",
+      "Label": "AliceA_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "It's Marble",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000082_AliceA",
+      "Label": "AliceA_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "この羽、少しだけ飛べるの。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000083_AliceA",
+      "Label": "AliceA_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "エースマーボフォー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000084_AliceA",
+      "Label": "AliceA_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "ヒレフスがいいわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000087_AliceA",
+      "Label": "AliceA_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "新しい力ね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000088_AliceA",
+      "Label": "AliceA_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "どんどん強くなるわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000089_AliceA",
+      "Label": "AliceA_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "新しいスキルの名前は何にしようかしら",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000085_AliceA",
+      "Label": "AliceA_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "限界を超えるわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB_Z_038000086_AliceA",
+      "Label": "AliceA_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "鼓動が高鳴るわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000267_AliceA",
+      "Label": "AliceA_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "かっこよかったかしら",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000269_AliceA",
+      "Label": "AliceA_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "麻婆豆腐を日本に広めたのは陳建民と言われてるわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000270_AliceA",
+      "Label": "AliceA_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "麻婆豆腐を日本に広めたのは陳賢民と言われてるわシェシェ陳賢民",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000268_AliceA",
+      "Label": "AliceA_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "あら、どこか悪かった？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_AliceA",
+      "Label": "AliceA_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "なんで？甘い飲み物も飲めるのに、タピオカミルクティー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_AliceA",
+      "Label": "AliceA_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "かっこいいと言ってほしいわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_AliceA",
+      "Label": "AliceA_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "頑張り抜いたのね",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_AliceA",
+      "Label": "AliceA_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "この辛さとしびれ 素晴らしい風味だわ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    }
+  ]
+}

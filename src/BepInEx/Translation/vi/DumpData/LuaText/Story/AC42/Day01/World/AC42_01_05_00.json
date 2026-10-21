@@ -1,0 +1,324 @@
+{
+  "Script": "Story/AC42/Day01/World/AC42_01_05_00",
+  "Entries": [
+    {
+      "Key": "VC_AC42_00243_LShanhua",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Ooh, they are blooming spectacularly!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00244_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "...Ooh.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00245_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "My, my... It has become quite the farm.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00246_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00246_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00246_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "It's all thanks to you, 31-X.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00247_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "It grows well... I am relieved.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800018_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800018_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800018_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "This farmland is used primarily for cultivating vitamin-rich vegetables, and if all goes well, we should be able to provide the domes with an assortment of vegetables throughout the year.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00248_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00248_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00248_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "And there's this... We harvested it today. If you'd like to try some?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00249_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Oh... Izzat a to-mei-to... Uh, to-mah-to?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00250_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Which one is the native pronunciation?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00251_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00251_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00251_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "They're highly praised for their freshness and flavor. We have enough for each of you.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00252_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "You can tell a tomato's quality by its color. Unripe ones have discolored dots, but this is vivid red.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00253_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Much appreciated.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_907200097_VBalakrishnan",
+      "Context": "Adv.bubbleSeActNoWait:0",
+      "Original": "*chomp chomp...*",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00254_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Within its freshness, there is a balance of sweet and sour. This could be used to make a fine kari.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00255_MdAngelis",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not bad. This could be good for pasta or pizza.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00256_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, it's pretty good, but it gives me a yen for some mayo.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00257_IRedmayne",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Not that I don't relate, but let's focus on its own taste for now.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00258_CSkopovskaya",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "If only Ruka could taste this...I know she will be happy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00259_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "I have heard these vegetables are supplied to some domes on trial basis.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00260_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00260_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00260_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Yes, if we can increase our yield, HQ is considering increasing the supply to a wider area.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00261_VBalakrishnan",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "My... I am certain the dome dwellers will be pleased.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00262_CReaper",
+      "Context": "Adv.talkWithIcon:1",
+      "Original": "Yeah! Growin' food like this, with the state the world bein' what it is, really inspires hope.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00263_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00263_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00263_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Now then, we'll begin setting up the walls. Everyone, please patrol the perimeter.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00264_LShanhua",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Mhm! We appreciate the treat.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00265_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Um...",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00266_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00266_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00266_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "Yes?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00267_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "...We will do our level best to guard the place. Thank you for the feast.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00268_mob",
+      "Context": "Adv.talkAllIn:0",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00268_mob",
+      "Context": "Adv.talkAllIn:1",
+      "Original": "Engineering Squad Member",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00268_mob",
+      "Context": "Adv.talkAllIn:2",
+      "Original": "You're very welcome. We always rely on you six.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_Z_906800019_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "We will protect you, so you have nothing to fear as you work on the wall.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00269_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Vritika? What's up?",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00270_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "This place is very important.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00271_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Seeing it develop so well makes me very happy.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00272_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "For sure, food's a basic life need.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00273_VBalakrishnan",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yes. Tasty food has always enriched people's hearts.",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00274_CReaper",
+      "Context": "Adv.talkWithFacial:3",
+      "Original": "Yeah, so we gotta do everything we can to protect the people's bellies!",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00275_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(Everyone seems to have regained their smiles, to some extent.)",
+      "Vietnamese": ""
+    },
+    {
+      "Key": "VC_AC42_00276_VBalakrishnan",
+      "Context": "Adv.talkWithFacialInMonolog:3",
+      "Original": "(The power of food is truly inspiring...)",
+      "Vietnamese": ""
+    }
+  ],
+  "Inserts": []
+}

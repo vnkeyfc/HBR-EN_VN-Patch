@@ -1,0 +1,278 @@
+{
+  "Schema": 1,
+  "CharacterLabel": "MKurosawa",
+  "CharacterName": "黒沢真希",
+  "Notes": "Original: lời tiếng Nhật chép từ file voice bằng Whisper large-v3, cần người soát lại. Review=true: nên nghe lại (Whisper kém tự tin hoặc để trống). Text: bản dịch tiếng Việt hiển thị trong hộp thoại.",
+  "Entries": [
+    {
+      "Key": "VP0030_MKurosawa",
+      "Label": "MKurosawa_SeraphimCode",
+      "Title": "セラフィムコード",
+      "Original": "うちの背中についてきんさい！",
+      "OriginalSource": "MasterProfile.seraphimCode",
+      "Review": false,
+      "Text": "Theo sau lưng tui nào!"
+    },
+    {
+      "Key": "VB0014_MKurosawa",
+      "Label": "MKurosawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ふっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0015_MKurosawa",
+      "Label": "MKurosawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "ジャッジーの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0016_MKurosawa",
+      "Label": "MKurosawa_BattleDpDamage",
+      "Title": "DPダメージボイス",
+      "Original": "こんなもんか？",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0020_MKurosawa",
+      "Label": "MKurosawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "ぐっ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0021_MKurosawa",
+      "Label": "MKurosawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "上等じゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0022_MKurosawa",
+      "Label": "MKurosawa_BattleHpDamage",
+      "Title": "HPダメージボイス",
+      "Original": "キャー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VB0054_MKurosawa",
+      "Label": "MKurosawa_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ヴィーナスナイツ二代目総長は伊達じゃないけのう！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0055_MKurosawa",
+      "Label": "MKurosawa_BattleWin",
+      "Title": "勝利ボイス",
+      "Original": "ちーとはマジな喧嘩ができたかのー",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0056_MKurosawa",
+      "Label": "MKurosawa_BattleWinHard",
+      "Title": "ギリギリ勝利ボイス",
+      "Original": "なかなか骨のある奴じゃったなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0023_MKurosawa",
+      "Label": "MKurosawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "小川のところで負けとうないの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0024_MKurosawa",
+      "Label": "MKurosawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "二代目総長としての意地、晴れたんじゃろうか。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0025_MKurosawa",
+      "Label": "MKurosawa_BattleLose",
+      "Title": "敗北ボイス",
+      "Original": "みんな…ごめんね…",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0057_MKurosawa",
+      "Label": "MKurosawa_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "こんなもんじゃ 背中を追ってきんさい",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0058_MKurosawa",
+      "Label": "MKurosawa_BattleLevelUp",
+      "Title": "レベルアップボイス",
+      "Original": "勝ち星も増えとるなぁ 負け知らずじゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0059_MKurosawa",
+      "Label": "MKurosawa_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "どうじゃ？さすがじゃろ！ね、お兄ちゃん。",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0060_MKurosawa",
+      "Label": "MKurosawa_BattleLevelUpMax",
+      "Title": "レベルマックスボイス",
+      "Original": "もっと強くなるんじゃ チームのみんなのために",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0065_MKurosawa",
+      "Label": "MKurosawa_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "ええ感じになってきたの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0066_MKurosawa",
+      "Label": "MKurosawa_EnhanceAbility",
+      "Title": "アビリティ強化ボイス",
+      "Original": "力が湧いてくるようじゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0063_MKurosawa",
+      "Label": "MKurosawa_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "うちの命、お前に預けるけえのう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0064_MKurosawa",
+      "Label": "MKurosawa_ReleaseSkill",
+      "Title": "スキル解放ボイス",
+      "Original": "いよいよ手に馴染みよるのう",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0061_MKurosawa",
+      "Label": "MKurosawa_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "限界なんか知らんわー！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VB0062_MKurosawa",
+      "Label": "MKurosawa_LimitBreak",
+      "Title": "限界突破ボイス",
+      "Original": "チームもまだまだ応急していくけど",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000187_MKurosawa",
+      "Label": "MKurosawa_LiveWin",
+      "Title": "ライブ クリア時ボイス",
+      "Original": "どうじゃ走り切ったぞ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000189_MKurosawa",
+      "Label": "MKurosawa_LiveWinPerfect",
+      "Title": "ライブ フルコンボ達成時ボイス",
+      "Original": "全国制覇じゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_Z_902000188_MKurosawa",
+      "Label": "MKurosawa_LiveLose",
+      "Title": "ライブ 失敗時ボイス",
+      "Original": "気合が足りんかったかなぁ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_01_MKurosawa",
+      "Label": "MKurosawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "よろしく！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_02_MKurosawa",
+      "Label": "MKurosawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "仲間のために汚れるんならそれは勲章じゃけえの",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_03_MKurosawa",
+      "Label": "MKurosawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "うちと喧嘩したい言うとんのはどいつじゃ",
+      "OriginalSource": "Whisper large-v3",
+      "Review": false,
+      "Text": ""
+    },
+    {
+      "Key": "VP_TitleBadge_04_MKurosawa",
+      "Label": "MKurosawa_CharacterProfile",
+      "Title": "名簿・称号バッジのキャラ画面で再生する",
+      "Original": "おうか！なんであれ、白鰹くんは気分がええもんじゃ！",
+      "OriginalSource": "Whisper large-v3",
+      "Review": true,
+      "Text": ""
+    }
+  ]
+}

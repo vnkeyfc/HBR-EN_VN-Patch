@@ -1,3 +1,9 @@
+Select Synthesis Materials=<size\=80%><cspace\=-3px>Lựa chọn nguyên liệu dung hợp
+
+選択クリア=<size\=80%>Huỷ bỏ lựa chọn
+自動選択=Chọn nhanh
+<style\=RubyPrefixTag></style>\nYou do not possess the specified accessory.=<style\=RubyPrefixTag></style>\nKhông có phụ kiện tương ứng để chọn.
+
 リング=Nhẫn tay
 ピアス=Bông tai
 ブレス=Vòng tay
@@ -5,3 +11,6 @@
 ソウル=Linh thể
 自動選択設定=<size\=70%>Thiết lập chọn tự động
 装備中=<size\=70%>Đang dùng
+
+Select the accessory you wish to enhance.=Hãy chọn phụ kiện mà bạn muốn cường hoá
+Select one or more accessories you wish to use as synthesis material.=Hãy chọn một hoặc nhiều nguyên liệu để thực hiện dung hợp
