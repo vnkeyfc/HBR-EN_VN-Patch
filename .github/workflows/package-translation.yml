@@ -14,7 +14,7 @@ on:
         options: [beta, none]
         default: beta
       notes:
-        description: "Ghi chú thêm vào đầu Changelog (tuỳ chọn), mỗi ý cách nhau bằng dấu |"
+        description: "Các điểm mới của bản này, ghi vào Changelog, mỗi ý cách nhau bằng dấu | (để trống thì Changelog chỉ ghi các phần có thay đổi)"
         type: string
         default: ""
       draft:

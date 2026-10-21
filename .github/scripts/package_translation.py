@@ -21,7 +21,6 @@ from datetime import datetime, timedelta, timezone
 VIETNAM = timezone(timedelta(hours=7))  # no daylight saving time
 TRANSLATION = "BepInEx/Translation/vi/"
 MARKER = re.compile(r"<!-- package-source: (\S+)@([0-9a-f]{40}) -->")
-MAX_FILES_PER_SECTION = 50
 
 REQUIRED = [
     "winhttp.dll",
@@ -62,7 +61,8 @@ EXCLUDED = [
 # Only shipped while the shipped HBRTLFixUp.cfg turns movie overrides on.
 MOVIE_OVERRIDE = TRANSLATION + "DumpData/MovieOverride/*"
 
-# Changelog sections, by the path under Translation/vi/; anything outside the translation goes to the last one.
+# Areas of the package, by the path under Translation/vi/; anything outside the translation goes to the last one. The
+# changelog names the changed areas only when the run has no notes.
 SECTIONS = [
     ("Story", ["DumpData/LuaText/"]),
     ("UI", ["Text/", "Overrides/"]),
@@ -226,49 +226,29 @@ def changed_files(source: str, since: str) -> list[tuple[str, str, str | None]]:
     return changes
 
 
-def section_of(path: str) -> tuple[str, str]:
-    """Returns the changelog section and the path to show (under Translation/vi/ for translation files)."""
+def section_of(path: str) -> str:
+    """Returns the area of the package a file belongs to."""
     if not path.startswith(TRANSLATION):
-        return PLUGIN_SECTION, path
+        return PLUGIN_SECTION
     rest = path[len(TRANSLATION):]
     for title, prefixes in SECTIONS:
         if any(rest.startswith(prefix) for prefix in prefixes):
-            return title, rest
-    return SECTIONS[-1][0], rest
+            return title
+    return SECTIONS[-1][0]
 
 
-def changelog(changes: list[tuple[str, str, str | None]], patterns: list[str]) -> tuple[str, bool]:
-    """Returns the <details> sections of the changed files and whether any file was removed."""
-    sections: dict[str, list[str]] = {}
+def changed_areas(changes: list[tuple[str, str, str | None]], patterns: list[str]) -> tuple[list[str], bool]:
+    """Returns the areas with packed files that changed, in SECTIONS order, and whether any file was removed."""
+    areas = set()
     removed = False
-    for status, path, old in changes:
+    for status, path, _ in changes:
         if is_excluded(path, patterns):
             continue
-        title, shown = section_of(path)
-        if status == "A":
-            line = f"- Thêm `{shown}`"
-        elif status == "D":
-            line = f"- Xoá `{shown}`"
+        areas.add(section_of(path))
+        if status in "DR":
             removed = True
-        elif status == "R" and old is not None:
-            line = f"- Đổi tên `{section_of(old)[1]}` → `{shown}`"
-            removed = True
-        else:
-            line = f"- Cập nhật `{shown}`"
-        sections.setdefault(title, []).append(line)
-
     order = [title for title, _ in SECTIONS] + [PLUGIN_SECTION]
-    blocks = []
-    for title in order:
-        lines = sections.get(title)
-        if not lines:
-            continue
-        shown_lines = lines[:MAX_FILES_PER_SECTION]
-        if len(lines) > MAX_FILES_PER_SECTION:
-            shown_lines.append(f"- ... và {len(lines) - MAX_FILES_PER_SECTION} file khác")
-        blocks.append(f"<details>\n<summary>{title} ({len(lines)} file)</summary>\n\n"
-                      + "\n".join(shown_lines) + "\n</details>")
-    return "\n\n".join(blocks), removed
+    return [title for title in order if title in areas], removed
 
 
 def write_zip(src: str, files: list[str], path: str) -> None:
@@ -290,7 +270,7 @@ def main() -> int:
     parser.add_argument("--release-repo", required=True, help="owner/name of the repo the release goes to")
     parser.add_argument("--suffix", choices=["beta", "none"], default="beta",
                         help="beta for a test release (pre-release), none for a stable release")
-    parser.add_argument("--notes", default="", help="extra changelog items, separated by |")
+    parser.add_argument("--notes", default="", help="the changelog items, what is new in this release, separated by |")
     parser.add_argument("--compare-from", default="", help="source tag or commit to list the changes from")
     parser.add_argument("--existing-tags", help="file with the release repo's tags and release tags, one per line")
     parser.add_argument("--previous-release", help="JSON of the release repo's latest published release, or null")
@@ -334,18 +314,20 @@ def main() -> int:
     sha = git(source, "rev-parse", "HEAD").strip()
     since, since_tag = previous_point(source, args.source_repo, args.compare_from, previous_release)
     changes = changed_files(source, since) if since else []
-    details, removed = changelog(changes, patterns)
+    areas, removed = changed_areas(changes, patterns)
     unchanged = bool(since) and git(source, "rev-parse", since + "^{commit}").strip() == sha
     if unchanged:
         annotate("warning", f"{args.source_repo}@{sha[:12]} đã được đóng gói ở bản trước; gói này giống hệt bản đó.")
 
     notes = [f"- {item.strip()}" for item in args.notes.split("|") if item.strip()]
+    # The changelog lists what is new in the patch, from the notes; it never lists the changed files.
     body = [INSTALLER_TABLE, "", "## Changelog"]
     if notes:
-        body += notes + [""]
-    if details:
-        body += [details]
-    elif not notes:
+        body += notes
+    elif areas:
+        annotate("warning", "Chưa có ghi chú các điểm mới (notes), nên Changelog chỉ ghi các phần có thay đổi.")
+        body += ["- Cập nhật các phần: " + ", ".join(areas) + "."]
+    else:
         body += ["- Không có thay đổi nào so với bản trước." if since else "- Bản đóng gói đầu tiên."]
     body += ["", "## Lưu ý khi cập nhật",
              "- Bản cài đặt ghi đè các file config. Nếu trước đó bạn đã chỉnh config, hãy lưu lại tuỳ chỉnh "
